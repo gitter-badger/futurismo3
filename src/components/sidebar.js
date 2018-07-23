@@ -2,6 +2,29 @@ import React from 'react'
 import Link from 'gatsby-link'
 import moment from 'moment'
 
+const ListLink = props => {
+  const { to, children } = props
+  return (
+    <Link to={to} className="sidebar-nav-item">
+      {children}
+    </Link>
+  )
+}
+
+const ListLinkNoOpener = props => {
+  const { to, children } = props
+  return (
+    <a
+      href={to}
+      className="sidebar-nav-item"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      {children}
+    </a>
+  )
+}
+
 export default ({ title, description }) => (
   // TODO 丸い写真を入れる
 
@@ -15,31 +38,15 @@ export default ({ title, description }) => (
       </div>
 
       <nav className="sidebar-nav">
-        <Link className="sidebar-nav-item" to="/">
-          Home
-        </Link>
-        <Link className="sidebar-nav-item" to="/about">
-          About
-        </Link>
-        <Link className="sidebar-nav-item" to="/">
-          Bio
-        </Link>
-        <a
-          className="sidebar-nav-item"
-          href="https://twitter.com/tsu_nera_s"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <ListLink to="/">Home</ListLink>
+        <ListLink to="/about">About</ListLink>
+        <ListLink to="/">Bio</ListLink>
+        <ListLinkNoOpener to="https://twitter.com/tsu_nera_s">
           Twitter
-        </a>
-        <a
-          className="sidebar-nav-item"
-          href="https://github.com/tsu-nera"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        </ListLinkNoOpener>
+        <ListLinkNoOpener to="https://github.com/tsu-nera">
           GitHub
-        </a>
+        </ListLinkNoOpener>
       </nav>
 
       <p>&copy; {moment().format('YYYY')}. All rights reserved.</p>
