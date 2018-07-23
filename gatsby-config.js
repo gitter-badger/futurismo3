@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Default Starter',
-    desc: 'A new blog',
+    title: `Futurismo`,
+    desc: 'beating the averages',
   },
   plugins: [
     {
