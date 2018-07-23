@@ -1,6 +1,7 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 // import Img from 'gatsby-image'
+import PostListing from '../components/Posts/PostListing'
 
 import Layout from '../components/layout'
 
@@ -8,15 +9,12 @@ const IndexPage = ({ data }) => (
   <Layout>
     <h1>Hi people </h1>
     {/* <Img sizes={data.background.sizes} /> */}
-    <p>{data.site.siteMetadata.title} </p>
-    <p>{data.site.siteMetadata.desc} </p>
+    <h3>Posts</h3>
     {data.allMarkdownRemark.edges.map(({ node }) => (
-      <PostListing post={node} />
+      <PostListing key={node.id} post={node} />
     ))}
   </Layout>
 )
-
-const PostListing = () => <div>hello</div>
 
 export default IndexPage
 
@@ -36,11 +34,13 @@ export const query = graphql`
     allMarkdownRemark {
       edges {
         node {
+          id
           frontmatter {
             title
             date(formatString: "MMMM DD YYYY")
           }
           html
+          excerpt
         }
       }
     }
