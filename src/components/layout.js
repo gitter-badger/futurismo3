@@ -1,44 +1,31 @@
 import React from 'react'
-import Helmet from 'react-helmet'
-import { StaticQuery, graphql } from 'gatsby'
+import { graphql, StaticQuery } from 'gatsby'
+import Sidebar from './sidebar'
+import '../css/poole.css'
+import '../css/hyde.css'
 
-import Header from './header'
-import './layout.css'
+/* import Helmet from 'react-helmet' */
 
-const Layout = ({ children }) => (
+export default ({ children }) => (
   <StaticQuery
     query={graphql`
-      query SiteTitleQuery {
+      query SidebarQuery {
         site {
           siteMetadata {
             title
+            desc
           }
         }
       }
     `}
     render={data => (
-      <>
-        <Helmet
+      <div className="theme-base-01">
+        <Sidebar
           title={data.site.siteMetadata.title}
-          meta={[
-            { name: 'description', content: 'Sample' },
-            { name: 'keywords', content: 'sample, something' },
-          ]}
+          description={data.site.siteMetadata.desc}
         />
-        <Header siteTitle={data.site.siteMetadata.title} />
-        <div
-          style={{
-            margin: '0 auto',
-            maxWidth: 960,
-            padding: '0px 1.0875rem 1.45rem',
-            paddingTop: 0,
-          }}
-        >
-          {children}
-        </div>
-      </>
+        <div className="content container">{children}</div>
+      </div>
     )}
   />
 )
-
-export default Layout
