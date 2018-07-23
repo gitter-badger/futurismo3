@@ -3,6 +3,8 @@ import Link from 'gatsby-link'
 import moment from 'moment'
 
 export default ({ title, description }) => (
+  // TODO 丸い写真を入れる
+
   <div className="sidebar">
     <div className="container sidebar-sticky">
       <div className="sidebar-about">
@@ -16,7 +18,7 @@ export default ({ title, description }) => (
         <Link className="sidebar-nav-item" to="/">
           Home
         </Link>
-        <Link className="sidebar-nav-item" to="/">
+        <Link className="sidebar-nav-item" to="/about">
           About
         </Link>
         <Link className="sidebar-nav-item" to="/">
