@@ -1,6 +1,7 @@
+const createPaginatedPages = require('gatsby-paginate')
+const path = require('path')
 const _ = require('lodash')
 const Promise = require('bluebird')
-const path = require('path')
 const { createFilePath } = require('gatsby-source-filesystem')
 
 exports.createPages = ({ graphql, actions }) => {
@@ -14,7 +15,9 @@ exports.createPages = ({ graphql, actions }) => {
           {
             allMarkdownRemark(
               sort: { fields: [frontmatter___date], order: DESC }
-              limit: 1000
+              filter: {
+                frontmatter: { draft: { ne: true }, type: { ne: "page" } }
+              }
             ) {
               edges {
                 node {
@@ -23,7 +26,9 @@ exports.createPages = ({ graphql, actions }) => {
                   }
                   frontmatter {
                     title
+                    date(formatString: "DD MMMM, YYYY")
                   }
+                  excerpt
                 }
               }
             }
@@ -48,6 +53,20 @@ exports.createPages = ({ graphql, actions }) => {
             component: blogPost,
             context: {
               slug: post.node.fields.slug,
+              previous,
+              next,
+            },
+          })
+
+          createPaginatedPages({
+            edges: posts,
+            createPage,
+            pageTemplate: 'src/templates/index.js',
+            pageLength: 10,
+            pathPrefix: '',
+            context: {
+              group: post.node.fields.slug,
+              index,
               previous,
               next,
             },
