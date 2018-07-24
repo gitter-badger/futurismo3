@@ -8,15 +8,33 @@ exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions
 
   return new Promise((resolve, reject) => {
-    const blogPost = path.resolve('./src/templates/page.js')
     resolve(
       graphql(
         `
           {
-            allMarkdownRemark(
+            posts: allMarkdownRemark(
               sort: { fields: [frontmatter___date], order: DESC }
               filter: {
                 frontmatter: { draft: { ne: true }, type: { ne: "page" } }
+              }
+            ) {
+              edges {
+                node {
+                  fields {
+                    slug
+                  }
+                  frontmatter {
+                    title
+                    date(formatString: "DD MMMM, YYYY")
+                  }
+                  excerpt
+                  html
+                }
+              }
+            }
+            pages: allMarkdownRemark(
+              filter: {
+                frontmatter: { draft: { ne: true }, type: { eq: "page" } }
               }
             ) {
               edges {
@@ -40,20 +58,29 @@ exports.createPages = ({ graphql, actions }) => {
           reject(result.errors)
         }
 
-        // Create blog posts pages.
-        const posts = result.data.allMarkdownRemark.edges
+        const posts = result.data.posts.edges
+        const pages = result.data.pages.edges
+
+        _.each(pages, page => {
+          createPage({
+            path: page.node.fields.slug,
+            component: path.resolve('src/templates/page.js'),
+            context: {
+              slug: page.node.fields.slug,
+            },
+          })
+        })
 
         _.each(posts, (post, index) => {
-          const previous =
-            index === posts.length - 1 ? null : posts[index + 1].node
+          const prev = index === posts.length - 1 ? null : posts[index + 1].node
           const next = index === 0 ? null : posts[index - 1].node
 
           createPage({
             path: post.node.fields.slug,
-            component: blogPost,
+            component: path.resolve('src/templates/post.js'),
             context: {
-              slug: post.node.fields.slug,
-              previous,
+              post,
+              prev,
               next,
             },
           })
@@ -62,12 +89,11 @@ exports.createPages = ({ graphql, actions }) => {
             edges: posts,
             createPage,
             pageTemplate: 'src/templates/index.js',
-            pageLength: 10,
+            pageLength: 15,
             pathPrefix: '',
             context: {
-              group: post.node.fields.slug,
               index,
-              previous,
+              prev,
               next,
             },
           })

@@ -17,7 +17,7 @@ const NavLink = props => {
 
 export default ({ pageContext }) => {
   const { group, index, first, last } = pageContext
-  const previousUrl = index - 1 == 1 ? '' : (index - 1).toString()
+  const previousUrl = index - 1 === 1 ? '' : (index - 1).toString()
   const nextUrl = (index + 1).toString()
 
   return (
@@ -33,8 +33,8 @@ export default ({ pageContext }) => {
           </div>
         ))}
         <div className="pagination">
-          <NavLink test={last} url={nextUrl} text="Older" />
-          <NavLink test={first} url={previousUrl} text="Newer" />
+          <NavLink test={first} url={previousUrl} text="Prev" />
+          <NavLink test={last} url={nextUrl} text="Next" />
         </div>
       </div>
     </Layout>
