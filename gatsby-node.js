@@ -62,7 +62,12 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
   const { createNodeField } = actions
 
   if (node.internal.type === `MarkdownRemark`) {
-    const value = createFilePath({ node, getNode })
+    const year = new Date(node.frontmatter.date).getFullYear().toString()
+    let value = createFilePath({ node, getNode, basePath: year })
+    if (node.frontmatter.url) {
+      value = node.frontmatter.url
+      value = value.replace('=', '')
+    }
     createNodeField({
       name: `slug`,
       node,
