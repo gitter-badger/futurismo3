@@ -3,6 +3,7 @@ import { graphql, StaticQuery } from 'gatsby'
 import Sidebar from './sidebar'
 import '../css/poole.css'
 import '../css/hyde.css'
+import 'prismjs/themes/prism-okaidia.css'
 
 /* import Helmet from 'react-helmet' */
 
