@@ -1,4 +1,5 @@
 import React from 'react'
+import { Helmet } from 'react-helmet'
 import Link from 'gatsby-link'
 import Layout from '../components/layout'
 
@@ -17,33 +18,36 @@ export default ({ pageContext }) => {
   const { post, prev, next } = pageContext
 
   return (
-    <Layout>
-      <div>
-        <h1 className="post-title">{post.node.frontmatter.title}</h1>
-        <span className="post-date">{post.node.frontmatter.date}</span>
-        <div dangerouslySetInnerHTML={{ __html: post.node.html }} />
+    <div>
+      <Helmet title={`${post.node.frontmatter.title}`} />
+      <Layout>
+        <div>
+          <h1 className="post-title">{post.node.frontmatter.title}</h1>
+          <span className="post-date">{post.node.frontmatter.date}</span>
+          <div dangerouslySetInnerHTML={{ __html: post.node.html }} />
 
-        <div className="related">
-          <ul className="related-posts">
-            {prev ? (
-              <RelatedPost
-                type="Previous"
-                slug={prev.fields.slug}
-                title={prev.frontmatter.title}
-                date={prev.frontmatter.date}
-              />
-            ) : null}
-            {next ? (
-              <RelatedPost
-                type="Next"
-                slug={next.fields.slug}
-                title={next.frontmatter.title}
-                date={next.frontmatter.date}
-              />
-            ) : null}
-          </ul>
+          <div className="related">
+            <ul className="related-posts">
+              {prev ? (
+                <RelatedPost
+                  type="Previous"
+                  slug={prev.fields.slug}
+                  title={prev.frontmatter.title}
+                  date={prev.frontmatter.date}
+                />
+              ) : null}
+              {next ? (
+                <RelatedPost
+                  type="Next"
+                  slug={next.fields.slug}
+                  title={next.frontmatter.title}
+                  date={next.frontmatter.date}
+                />
+              ) : null}
+            </ul>
+          </div>
         </div>
-      </div>
-    </Layout>
+      </Layout>
+    </div>
   )
 }

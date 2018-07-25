@@ -1,6 +1,6 @@
 import React from 'react'
 import Link from 'gatsby-link'
-
+import { Helmet } from 'react-helmet'
 import Layout from '../components/layout'
 
 const NavLink = props => {
@@ -21,22 +21,25 @@ export default ({ pageContext }) => {
   const nextUrl = (index + 1).toString()
 
   return (
-    <Layout>
-      <div className="posts">
-        {group.map(({ node }) => (
-          <div className="post">
-            <h1 className="post-title">
-              <Link to={node.fields.slug}>{node.frontmatter.title}</Link>
-            </h1>
-            <span className="post-date">{node.frontmatter.date}</span>
-            <div dangerouslySetInnerHTML={{ __html: node.excerpt }} />
+    <div>
+      <Helmet title="Futurismo | 未来派ハッカー tsu-neraの技術ブログ" />
+      <Layout>
+        <div className="posts">
+          {group.map(({ node }) => (
+            <div className="post">
+              <h1 className="post-title">
+                <Link to={node.fields.slug}>{node.frontmatter.title}</Link>
+              </h1>
+              <span className="post-date">{node.frontmatter.date}</span>
+              <div dangerouslySetInnerHTML={{ __html: node.excerpt }} />
+            </div>
+          ))}
+          <div className="pagination">
+            <NavLink test={first} url={previousUrl} text="Prev" />
+            <NavLink test={last} url={nextUrl} text="Next" />
           </div>
-        ))}
-        <div className="pagination">
-          <NavLink test={first} url={previousUrl} text="Prev" />
-          <NavLink test={last} url={nextUrl} text="Next" />
         </div>
-      </div>
-    </Layout>
+      </Layout>
+    </div>
   )
 }

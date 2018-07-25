@@ -5,8 +5,6 @@ import '../css/poole.css'
 import '../css/hyde.css'
 import 'prismjs/themes/prism-okaidia.css'
 
-/* import Helmet from 'react-helmet' */
-
 export default ({ children }) => (
   <StaticQuery
     query={graphql`
