@@ -14,7 +14,7 @@ export default ({ children }) => (
         site {
           siteMetadata {
             title
-            desc
+            description
           }
         }
       }
@@ -23,7 +23,7 @@ export default ({ children }) => (
       <div className="theme-base-01">
         <Sidebar
           title={data.site.siteMetadata.title}
-          description={data.site.siteMetadata.desc}
+          description={data.site.siteMetadata.description}
         />
         <div className="content container">{children}</div>
       </div>

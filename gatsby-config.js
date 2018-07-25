@@ -1,7 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `Futurismo`,
-    desc: 'beating the averages',
+    description: 'beating the averages',
+    siteUrl: `https://futurismo.biz`,
   },
   plugins: [
     {
@@ -39,5 +40,15 @@ module.exports = {
     `gatsby-plugin-sharp`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-styled-components`,
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: 'UA-16438908-2',
+        // Puts tracking script in the head instead of the body
+        head: true,
+      },
+    },
+    `gatsby-plugin-feed`,
+    `gatsby-plugin-sitemap`,
   ],
 }
