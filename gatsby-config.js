@@ -64,7 +64,7 @@ module.exports = {
       options: {
         name: 'GatsbyJS',
         short_name: 'GatsbyJS',
-        start_url: '/futurismo3',
+        start_url: 'https://futurismo.biz/',
         background_color: '#f7f0eb',
         theme_color: '#a2466c',
         display: 'minimal-ui',
