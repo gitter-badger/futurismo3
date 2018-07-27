@@ -57,5 +57,20 @@ module.exports = {
     `gatsby-plugin-netlify-cache`,
     `gatsby-plugin-netlify`,
     `gatsby-plugin-netlify-cms`,
+
+    /* PWA */
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: 'GatsbyJS',
+        short_name: 'GatsbyJS',
+        start_url: '/',
+        background_color: '#f7f0eb',
+        theme_color: '#a2466c',
+        display: 'minimal-ui',
+        icon: 'src/images/favicon.png', // This path is relative to the root of the site.
+      },
+    },
+    'gatsby-plugin-offline',
   ],
 }
