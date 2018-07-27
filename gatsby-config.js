@@ -64,11 +64,11 @@ module.exports = {
       options: {
         name: 'Futurismo',
         short_name: 'Futurismo',
-        start_url: 'https://futurismo.biz/',
+        start_url: '/',
         background_color: '#f7f0eb',
         theme_color: '#a2466c',
         display: 'minimal-ui',
-        icon: 'src/images/favicon.png', // This path is relative to the root of the site.
+        icon: 'static/img/icon.png', // This path is relative to the root of the site.
       },
     },
     'gatsby-plugin-offline',

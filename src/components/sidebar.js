@@ -31,7 +31,6 @@ export default ({ title, description }) => (
   <div className="sidebar">
     <div className="container sidebar-sticky">
       <div className="sidebar-about">
-        <link rel="manifest" href="/manifest.json" />
         <h1>
           <Link to="/">{title}</Link>
         </h1>
