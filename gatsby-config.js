@@ -64,7 +64,7 @@ module.exports = {
       options: {
         name: 'Futurismo',
         short_name: 'Futurismo',
-        start_url: 'index.html',
+        start_url: '/',
         background_color: '#f7f0eb',
         theme_color: '#a2466c',
         display: 'minimal-ui',
