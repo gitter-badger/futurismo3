@@ -23,7 +23,6 @@ export default ({ pageContext }) => {
   return (
     <div>
       <Helmet title="Futurismo | 未来派ハッカー tsu-neraの技術ブログ" />
-      <link rel="manifest" href="/manifest.webmanifest" />
       <Layout>
         <div className="posts">
           {group.map(({ node }) => (
