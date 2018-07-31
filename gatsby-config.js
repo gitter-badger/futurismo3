@@ -62,6 +62,7 @@ module.exports = {
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-feed`,
     `gatsby-plugin-sitemap`,
+    `gatsby-plugin-remove-trailing-slashes`,
 
     /* Netlify */
     `gatsby-plugin-netlify-cache`,
