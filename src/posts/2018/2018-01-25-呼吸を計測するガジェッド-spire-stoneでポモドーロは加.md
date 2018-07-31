@@ -92,8 +92,8 @@ Webペースなので、場所を選ばない。LinxuでもWindowsでも動く�
 
 で、少し触ってみたのだけれども、リアルタイムにデータが取得できない。日毎？のデータが取得できるようになっている。これではやりたいことができない。今後に期待です。
 
- [1]: http://futurismo.biz/archives/6064
- [2]: http://futurismo.biz/archives/2139
- [3]: http://futurismo.biz/archives/1740
+ [1]: https://futurismo.biz/archives/6064
+ [2]: https://futurismo.biz/archives/2139
+ [3]: https://futurismo.biz/archives/1740
  [4]: http://www.tomato.es/pages/api_reference
  [5]: https://spire.io/

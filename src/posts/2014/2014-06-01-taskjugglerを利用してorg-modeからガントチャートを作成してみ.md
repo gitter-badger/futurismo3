@@ -307,4 +307,4 @@ tj3 tutorial.tjp
     </div></p>
   </div>
 
- [1]: http://futurismo.biz/wp-content/uploads/emacs_logo.jpg
+ [1]: https://futurismo.biz/wp-content/uploads/emacs_logo.jpg

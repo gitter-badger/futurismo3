@@ -120,7 +120,7 @@ iBusは評判が悪そうなので（[本の虫: iBus 1.5がクソすぎる][3])
 
 <!--:-->
 
- [1]: http://futurismo.biz/archives/548
+ [1]: https://futurismo.biz/archives/548
  [2]: http://linuxmint-jp.net/download.html
  [3]: http://cpplover.blogspot.jp/2013/10/ibus-15.html
  [4]: http://gihyo.jp/admin/serial/01/ubuntu-recipe/0297

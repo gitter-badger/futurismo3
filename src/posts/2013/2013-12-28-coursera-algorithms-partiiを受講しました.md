@@ -107,5 +107,5 @@ Algorithms PartI,IIを通して体系的なAlgorithmsやデータ構造の知識
 [//www.youtube.com/embed/SZyT9bayf8o?rel=0]<!--:-->
 
  [1]: https://class.coursera.org/algs4partII-002/class
- [2]: http://futurismo.biz/archives/1834
- [3]: http://futurismo.biz/archives/2050
+ [2]: https://futurismo.biz/archives/1834
+ [3]: https://futurismo.biz/archives/2050

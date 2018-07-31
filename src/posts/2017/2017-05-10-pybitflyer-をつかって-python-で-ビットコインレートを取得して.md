@@ -31,7 +31,7 @@ url: /archives/=6401
 万損したけどね）、 Bitcoin でシステムトレードが出来ないか調べてみた。
 
 -   [OANDA API をつかって Python で 為替レートを取得してみた |
-    Futurismo](http://futurismo.biz/archives/4266)
+    Futurismo](https://futurismo.biz/archives/4266)
 -   [tsu-nera/oanda-forex-study: My Forex Study
     Repository](https://github.com/tsu-nera/oanda-forex-study)
 

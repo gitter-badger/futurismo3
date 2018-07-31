@@ -22,7 +22,7 @@ Emacs から Eclipse を利用するためにつかうのが Eclim. 動くまで
 
 <ul class="org-ul">
   <li>
-    <a href="http://futurismo.biz/archives/2462">Eclim で Emacs と Eclipse のいいとこどり!Emacs で Java 開発環境を構築した (副題 打倒 Eclipse!) | Futurismo</a>
+    <a href="https://futurismo.biz/archives/2462">Eclim で Emacs と Eclipse のいいとこどり!Emacs で Java 開発環境を構築した (副題 打倒 Eclipse!) | Futurismo</a>
   </li>
 </ul>
 
@@ -145,4 +145,4 @@ Emacs から Eclipse を利用するためにつかうのが Eclim. 動くまで
   </div>
 </div>
 
- [1]: http://futurismo.biz/wp-content/uploads/emacs_logo.jpg
+ [1]: https://futurismo.biz/wp-content/uploads/emacs_logo.jpg

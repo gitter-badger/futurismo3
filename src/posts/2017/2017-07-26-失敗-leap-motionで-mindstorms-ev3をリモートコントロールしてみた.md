@@ -46,5 +46,5 @@ url: /archives/=6663
 
 ## Code {#code}
 
- [1]: http://futurismo.biz/archives/6661
- [2]: http://futurismo.biz/archives/6658
+ [1]: https://futurismo.biz/archives/6661
+ [2]: https://futurismo.biz/archives/6658

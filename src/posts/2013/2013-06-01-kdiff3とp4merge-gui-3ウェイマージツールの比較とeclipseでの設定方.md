@@ -159,11 +159,11 @@ Eclipseを開き、ツールバーの
   * [KDiff3導入の話 &#8211; 文殊堂][7] 
   * [Googleでも採用されているPerforce社製のマージツールPerforce Visual Merge Tool (P4Merge)を使ってみる &#8211; 大人になったら肺呼吸][8]
 
- [1]: http://futurismo.biz/archives/1374
+ [1]: https://futurismo.biz/archives/1374
  [2]: http://stackoverflow.com/questions/572237/whats-the-best-three-way-merge-tool
  [3]: http://sourceforge.jp/projects/sfnet_kdiff3/
  [4]: http://www.perforce.com/downloads/Perforce-Software-Version-Management/complete_list/Customer%20Downloads
  [5]: http://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%82%B8_(%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)#3.E3.82.A6.E3.82.A7.E3.82.A4.E3.83.9E.E3.83.BC.E3.82.B8
- [6]: http://futurismo.biz/archives/1256
+ [6]: https://futurismo.biz/archives/1256
  [7]: http://d.hatena.ne.jp/monjudoh/20090430/1241095338
  [8]: http://d.hatena.ne.jp/replication/20091221/1261351398

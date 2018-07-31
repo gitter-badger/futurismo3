@@ -36,8 +36,8 @@ url: /archives/=6580
 CartPole 問題は、今までこのブログでもなんども取り上げてきた。
 
 CartPole 問題は、今までこのブログでもなんども取り上げてきた。
-- [[http://futurismo.biz/archives/6481][OpenAI Gym の CartPole-v0 を試したメモ | Futurismo]]
-- [[http://futurismo.biz/archives/6549][CEM で CartPole-v0 を試したメモ | Futurismo]]
+- [[https://futurismo.biz/archives/6481][OpenAI Gym の CartPole-v0 を試したメモ | Futurismo]]
+- [[https://futurismo.biz/archives/6549][CEM で CartPole-v0 を試したメモ | Futurismo]]
 
 今日、ついに解けたのだ。
 

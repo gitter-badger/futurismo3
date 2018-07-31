@@ -174,19 +174,19 @@ Input: 画像のrowとcolの位置情報 / Output RGB値
 
 ### Goghを学ばせる
 
-[<img class="aligncenter size-full wp-image-6243" src="http://futurismo.biz/wp-content/uploads/gogh.png" alt="" width="560" height="431" />][4]
+[<img class="aligncenter size-full wp-image-6243" src="https://futurismo.biz/wp-content/uploads/gogh.png" alt="" width="560" height="431" />][4]
 
 これを、ニューラルネットワークで学習させると・・・・
 
-<img class="wp-image-6244 aligncenter" src="http://futurismo.biz/wp-content/uploads/single.gif" alt="" width="333" height="333" />
+<img class="wp-image-6244 aligncenter" src="https://futurismo.biz/wp-content/uploads/single.gif" alt="" width="333" height="333" />
 
 ### AV女優を学ばせる
 
 AIだって、AV女優を見れば、活性化関数が元気になるんじゃなかと思って、題材に選んだ。
 
-[<img class="aligncenter size-full wp-image-6245" src="http://futurismo.biz/wp-content/uploads/index-1.png" alt="" width="587" height="578" />][5]これを、ニューラルネットワークで学習させると・・・・
+[<img class="aligncenter size-full wp-image-6245" src="https://futurismo.biz/wp-content/uploads/index-1.png" alt="" width="587" height="578" />][5]これを、ニューラルネットワークで学習させると・・・・
 
-[<img class="aligncenter wp-image-6246" src="http://futurismo.biz/wp-content/uploads/explore.gif" alt="" width="500" height="500" />][6]
+[<img class="aligncenter wp-image-6246" src="https://futurismo.biz/wp-content/uploads/explore.gif" alt="" width="500" height="500" />][6]
 
 これが何を意味しているのか、よくわかっていなかったりする。
 
@@ -201,8 +201,8 @@ AIだって、AV女優を見れば、活性化関数が元気になるんじゃ�
  [1]: https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info
  [2]: https://github.com/pkmital/CADL/blob/master/session-2/session-2.ipynb
  [3]: http://cs.stanford.edu/people/karpathy/convnetjs/demo/image_regression.html
- [4]: http://futurismo.biz/wp-content/uploads/gogh.png
- [5]: http://futurismo.biz/wp-content/uploads/index-1.png
- [6]: http://futurismo.biz/wp-content/uploads/explore.gif
+ [4]: https://futurismo.biz/wp-content/uploads/gogh.png
+ [5]: https://futurismo.biz/wp-content/uploads/index-1.png
+ [6]: https://futurismo.biz/wp-content/uploads/explore.gif
  [7]: https://github.com/tsu-nera/CADL/tree/master/session-2
  

@@ -102,7 +102,7 @@ EmacsからPlantUMLをつかう方法を調べた。
     <div class="outline-text-3" id="text-2-2">
       <div class="figure">
         <p>
-          <img src="http://futurismo.biz/wp-content/uploads/wpid-sample2.png" alt="sample.png" />
+          <img src="https://futurismo.biz/wp-content/uploads/wpid-sample2.png" alt="sample.png" />
         </p></p>
       </div></p>
     </div></p>

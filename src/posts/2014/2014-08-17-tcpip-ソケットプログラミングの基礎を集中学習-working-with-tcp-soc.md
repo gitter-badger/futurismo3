@@ -53,7 +53,7 @@ Ruby をつかって, ソケットプログラミングの内容が解説され�
 文がでてきて, ほーら Ruby だとこんなに簡単にかけるんだよーといわれる.
 
 -   [IPv6 ネットワークプログラミングを読んだ感想 |
-    Futurismo](http://futurismo.biz/archives/1206)
+    Futurismo](https://futurismo.biz/archives/1206)
 
 中盤は, Non-Blocking I/O やマルチソケットプログラミングなど, やや専門
 的なな内容を扱っている. 自分の仕事では利用するところとしないところ我
@@ -65,7 +65,7 @@ Ruby をつかって, ソケットプログラミングの内容が解説され�
 
 -   [オブジェクト指向設計と並列プログラミングを Andoird で学
     ぶ!Pattern-Oriented Software Architectures を受けた |
-    Futurismo](http://futurismo.biz/archives/2527)
+    Futurismo](https://futurismo.biz/archives/2527)
 
 ソケットプログラミングの基礎メモ
 ================================

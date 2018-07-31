@@ -16,7 +16,7 @@ type: post
 url: /archives/=2482
 ---
 
-<img alt="" src="http://futurismo.biz/wp-content/uploads/archlinux-logo-dark.png" width="500" />
+<img alt="" src="https://futurismo.biz/wp-content/uploads/archlinux-logo-dark.png" width="500" />
 
 <div id="outline-container-sec-1" class="outline-2">
   <h2 id="sec-1">
@@ -863,7 +863,7 @@ grub-probe --target=hints_string /boot/efi/EFI/Microsoft/Boot/bootmgfw.efi
           <a href="http://qiita.com/xorphitus/items/3711895eb5d9f946c782">Arch Linux快適デスクトップ環境の構築 &#8211; Qiita</a>
         </li>
         <li>
-          <a href="http://futurismo.biz/archives/2064">Windowsと Mint Linuxのデュアルブート環境をVAIOに構築した手順メモ | Futurismo</a>
+          <a href="https://futurismo.biz/archives/2064">Windowsと Mint Linuxのデュアルブート環境をVAIOに構築した手順メモ | Futurismo</a>
         </li>
       </ul>
     </div></p>

@@ -149,7 +149,7 @@ rootのパスワード、言語設定と、インストール方法を選択。�
 
   * [VMware Playerを使ってCentOS6.2(minimal)をインストールする｜ヘビィ・ＳＭＤ！][5]
 
- [1]: http://futurismo.biz/archives/777
+ [1]: https://futurismo.biz/archives/777
  [2]: http://haggy0108.net/blog2/2009/02/64_bit_os_vmwareos.html
  [3]: https://my.vmware.com/jp/web/vmware/details/processor_check_5_5_dt/dCpiQGhkYndkdA==
  [4]: http://ftp.iij.ad.jp/pub/linux/centos/6.4/isos/i386/

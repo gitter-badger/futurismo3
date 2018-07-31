@@ -116,7 +116,7 @@ NHKニュースの英語版、NHK World Englishも 同じアプリで楽しめ�
 </div>
 
  [1]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/IMG_1825.png
- [2]: http://futurismo.biz/archives/452 "クラウド速聴！フリーソフト『Lilith』でNHKニュースを3倍速で聴いてみる。"
+ [2]: https://futurismo.biz/archives/452 "クラウド速聴！フリーソフト『Lilith』でNHKニュースを3倍速で聴いてみる。"
  [3]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/IMG_1823.png
  [4]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/IMG_1822.png
  [5]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/IMG_1824.png

@@ -492,7 +492,7 @@ url: /archives/=2700
                               
                               <ul class="org-ul">
                                 <li>
-                                  <a href="http://futurismo.biz/archives/1788">Kinect で指揮者になる! 世界の KinectHacker たち | Futurismo</a>
+                                  <a href="https://futurismo.biz/archives/1788">Kinect で指揮者になる! 世界の KinectHacker たち | Futurismo</a>
                                 </li>
                               </ul>
                             </div>
@@ -575,7 +575,7 @@ url: /archives/=2700
                                                 
                                                 <ul class="org-ul">
                                                   <li>
-                                                    <a href="http://futurismo.biz/archives/2692">プログラミングでイケイケミュージックライブ?! Live Coding について調べたまとめ | Futurismo</a>
+                                                    <a href="https://futurismo.biz/archives/2692">プログラミングでイケイケミュージックライブ?! Live Coding について調べたまとめ | Futurismo</a>
                                                   </li>
                                                 </ul>
                                               </div>

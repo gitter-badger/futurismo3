@@ -146,7 +146,7 @@ iptables: ファイアウォールルールを適用中:                  [  OK 
 
  [1]: https://wiki.jenkins-ci.org/display/JENKINS/Installing+Jenkins+on+RedHat+distributions
  [2]: http://program.g.hatena.ne.jp/e_p_i/?word=*%5B%E3%83%84%E3%83%BC%E3%83%AB%5D
- [3]: http://futurismo.biz/archives/751
+ [3]: https://futurismo.biz/archives/751
  [4]: http://mawatari.jp/archives/install-jenkins-to-centos6-2
  [5]: http://192.168.118.130:8080/
  [6]: http://kazuph.hateblo.jp/entry/2012/09/23/151623

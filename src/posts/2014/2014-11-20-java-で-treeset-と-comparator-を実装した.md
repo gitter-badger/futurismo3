@@ -22,7 +22,7 @@ Java で, 順序づけをした集合をイテレーティブに処理したい.
 ちなみに, PriorityQueue では, 実現できなかった...
 
 -   [Java での優先順位付きキューの使い方まとめ (PriorityQueue) |
-    Futurismo](http://futurismo.biz/archives/2723)
+    Futurismo](https://futurismo.biz/archives/2723)
 
 TreeSet
 =======

@@ -249,6 +249,6 @@ PowerMock, メソッド内で生成されるインスタンスをモックに置
   * [https://github.com/tsu-nera/java\_spock\_playground][4]
 
  [1]: https://github.com/powermock/powermock
- [2]: http://futurismo.biz/archives/6783
- [3]: http://futurismo.biz/archives/6786
+ [2]: https://futurismo.biz/archives/6783
+ [3]: https://futurismo.biz/archives/6786
  [4]: https://github.com/tsu-nera/java_spock_playground

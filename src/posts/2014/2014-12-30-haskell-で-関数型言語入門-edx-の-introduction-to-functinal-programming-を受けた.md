@@ -97,11 +97,11 @@ C や Java と Haskell の比較がかかれているところがよい.
 以下のような記事を書いている.
 
 -   [数学での関数とプログラミングでの関数 |
-    Futurismo](http://futurismo.biz/archives/2664)
+    Futurismo](https://futurismo.biz/archives/2664)
 -   [データ抽象と抽象データ型 (ADT) について調べたまとめ (Java) |
-    Futurismo](http://futurismo.biz/archives/2730)
+    Futurismo](https://futurismo.biz/archives/2730)
 -   [Haskell で Hello World! しようとしたらモナドでドナドナした |
-    Futurismo](http://futurismo.biz/archives/2765)
+    Futurismo](https://futurismo.biz/archives/2765)
 
 数学との関係性.
 
@@ -142,7 +142,7 @@ atcoder と, codeforces が Haskell に対応しているようだ.
 -   <http://atcoder.jp/>
 -   <http://codeforces.com/>
 -   [Codeforces に初参戦しました! 参加方法と感想について |
-    Futurismo](http://futurismo.biz/archives/1685)
+    Futurismo](https://futurismo.biz/archives/1685)
 
 Codeforces は, 海外なので深夜に開催されるが, Atcoder
 は日本時間に合わせて開催されているので, AtCoder をやろうと思う.AtCoder

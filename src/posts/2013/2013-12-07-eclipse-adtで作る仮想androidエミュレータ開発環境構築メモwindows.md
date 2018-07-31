@@ -164,11 +164,11 @@ Intel CPUを利用しているならば、エミュレータを高速化でき�
  [2]: https://developer.android.com/sdk/index.html
  [3]: http://mergedoc.sourceforge.jp/
  [4]: http://qiita.com/hidekuro/items/6a252c82132ed5d279a4
- [5]: http://futurismo.biz/archives/751
+ [5]: https://futurismo.biz/archives/751
  [6]: https://picasaweb.google.com/lh/photo/DEMlwi2rgRacUtsESESOzTyD6hjDXGH6XyE6iLrzolo?feat=embedwebsite
  [7]: https://picasaweb.google.com/lh/photo/FhPmhzohzGI0lpOcI_W5LzyD6hjDXGH6XyE6iLrzolo?feat=embedwebsite
  [8]: https://picasaweb.google.com/lh/photo/n62Cawek6FBRq2Rxhj8mSjyD6hjDXGH6XyE6iLrzolo?feat=embedwebsite
  [9]: https://picasaweb.google.com/lh/photo/PPEKUxG0QMGpLGRGp6TcNTyD6hjDXGH6XyE6iLrzolo?feat=embedwebsite
  [10]: https://picasaweb.google.com/lh/photo/6ERXtsIBZLWR5JYDC_XMBDyD6hjDXGH6XyE6iLrzolo?feat=embedwebsite
  [11]: https://picasaweb.google.com/lh/photo/gvLJWCQkdaZM78e2cbhJrjyD6hjDXGH6XyE6iLrzolo?feat=embedwebsite
- [12]: http://futurismo.biz/archives/1647
+ [12]: https://futurismo.biz/archives/1647

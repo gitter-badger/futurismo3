@@ -177,7 +177,7 @@ on_frameに以下を追加。
 
 とりあえず、今日はここまで。
 
- [1]: http://futurismo.biz/archives/6655
+ [1]: https://futurismo.biz/archives/6655
  [2]: https://developer.leapmotion.com/documentation/v2/python/devguide/Leap_Hand.html
  [3]: https://di4564baj7skl.cloudfront.net/documentation/v2/images/Leap_Axes.png
  [4]: https://developer.leapmotion.com/documentation/v2/python/devguide/Leap_Gestures.html#id13

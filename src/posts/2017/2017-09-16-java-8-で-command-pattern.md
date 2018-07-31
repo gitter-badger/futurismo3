@@ -51,4 +51,4 @@ Java8で追加されたラムダ式でコマンドパターンを書き換えて
 
 <script src="https://gist.github.com/tsu-nera/58d0365cedd0f55d3fe5df3159d6729b.js"></script>
 
- [1]: http://futurismo.biz/archives/2703
+ [1]: https://futurismo.biz/archives/2703

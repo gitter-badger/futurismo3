@@ -147,4 +147,4 @@ Eclipseだと、もともと入っているJUnitとJMockでのものが競合す
   
 そんなときは、以下の解決方法を参照。
 
-<a style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; letter-spacing: normal; font: 14px/21px メイリオ, meiryo, arial, helvetica; white-space: normal; orphans: 2; color: rgb(102,102,102); word-spacing: 0px; text-decoration: underline; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px" title="EclipseにJMockを入れてSecurityExceptionが発生。" href="http://futurismo.biz/archives/939">EclipseにJMockを入れてSecurityExceptionが発生。</a>
+<a style="widows: 2; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; letter-spacing: normal; font: 14px/21px メイリオ, meiryo, arial, helvetica; white-space: normal; orphans: 2; color: rgb(102,102,102); word-spacing: 0px; text-decoration: underline; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px" title="EclipseにJMockを入れてSecurityExceptionが発生。" href="https://futurismo.biz/archives/939">EclipseにJMockを入れてSecurityExceptionが発生。</a>

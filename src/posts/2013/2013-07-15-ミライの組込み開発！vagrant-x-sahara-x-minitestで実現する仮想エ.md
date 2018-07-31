@@ -30,7 +30,7 @@ photo credit: [Ѕolo][2] via [photopin][3] [cc][4]
 
 以前、組込み開発での機能テスト自動化について考察しました。
 
-  * <a href="http://futurismo.biz/archives/1289" target="_blank">組込み開発のシステムテスト・機能テストを自動化できるか?Rubyのminitestで非同期テストを実施する方法を本気出して考えてみた | Futurismo</a>
+  * <a href="https://futurismo.biz/archives/1289" target="_blank">組込み開発のシステムテスト・機能テストを自動化できるか?Rubyのminitestで非同期テストを実施する方法を本気出して考えてみた | Futurismo</a>
 
 組込み開発でのエンドツーエンドの課題は、テストが失敗したところから正常な状態まで復旧させることでした。
 
@@ -38,7 +38,7 @@ photo credit: [Ѕolo][2] via [photopin][3] [cc][4]
 
 この課題を、仮想環境のスナップショットがコマンドラインから操作できるvagrantとsaharaを利用して解決してみようと思います。
 
-  * <a href="http://futurismo.biz/archives/1660" target="_blank">仮想環境を破壊しまくっても大丈夫だ、問題ない。vagrantプラグイン『sahara』 | Futurismo</a>
+  * <a href="https://futurismo.biz/archives/1660" target="_blank">仮想環境を破壊しまくっても大丈夫だ、問題ない。vagrantプラグイン『sahara』 | Futurismo</a>
 
 ### 3ヶ月前のリベンジ
 

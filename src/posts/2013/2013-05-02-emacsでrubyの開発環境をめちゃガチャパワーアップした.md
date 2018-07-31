@@ -292,7 +292,7 @@ SmaprtCompleを入れることで、Emacs編集中に&#8221;C+c, C+c&#8221;でRu
 
 <!--:-->
 
- [1]: http://futurismo.biz/archives/2213 "EmacsでRubyの開発環境をさらにめちゃガチャパワーアップしたまとめ"
+ [1]: https://futurismo.biz/archives/2213 "EmacsでRubyの開発環境をさらにめちゃガチャパワーアップしたまとめ"
  [2]: http://www.emacswiki.org/cgi-bin/wiki/ruby-block.el
  [3]: http://d.hatena.ne.jp/keyword/rcodetools
  [4]: http://ka-zoo.net/2013/03/smartcompile-emacs%E3%81%8B%E3%82%89ruby%E3%82%92%E7%9B%B4%E6%8E%A5%E5%AE%9F%E8%A1%8C/

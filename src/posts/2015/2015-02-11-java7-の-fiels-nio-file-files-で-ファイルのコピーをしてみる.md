@@ -14,7 +14,7 @@ type: post
 url: /archives/=2976
 ---
 
-<a href="http://futurismo.biz/wp-content/uploads/java.png"><img alt="" src="http://futurismo.biz/wp-content/uploads/java.png" width="256" height="256" /></a>
+<a href="https://futurismo.biz/wp-content/uploads/java.png"><img alt="" src="https://futurismo.biz/wp-content/uploads/java.png" width="256" height="256" /></a>
 
 はじめに
 ========
@@ -191,5 +191,5 @@ public class FilesSample {
 ======
 
 -   [Java で windows のコマンドを実行してフォルダコピー |
-    Futurismo](http://futurismo.biz/archives/2978)
+    Futurismo](https://futurismo.biz/archives/2978)
 

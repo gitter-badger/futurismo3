@@ -125,7 +125,7 @@ init.elに以下を追加
 
  [1]: https://picasaweb.google.com/lh/photo/seC0YXllQNELube4DAknHzyD6hjDXGH6XyE6iLrzolo?feat=embedwebsite
  [2]: https://github.com/Guake/guake/pull/141
- [3]: http://futurismo.biz/archives/2072
+ [3]: https://futurismo.biz/archives/2072
  [4]: https://github.com/erikw/tmux-powerline
  [5]: http://lh3.ggpht.com/-1yzuh3J8jxw/UtNoBcQq_CI/AAAAAAAAA9w/XN8LhMSkC9U/tmux-powerline_01.png
  [6]: http://lh6.ggpht.com/-tjt2_ywGdAs/UtNoFVV1aVI/AAAAAAAAA94/J9FaiC0JASo/tmux-powerline_02.png

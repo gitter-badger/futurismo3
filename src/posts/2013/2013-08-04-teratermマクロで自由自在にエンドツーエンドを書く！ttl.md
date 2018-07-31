@@ -45,8 +45,8 @@ TTLUnit
 
 これは、以下の記事のリベンジ、というか続編です。
 
-  * <a href="http://futurismo.biz/archives/1289" target="_blank">組込み開発のシステムテスト・機能テストを自動化できるか?Rubyのminitestで非同期テストを実施する方法を本気出して考えてみた | Futurismo</a>
-  * <a href="http://futurismo.biz/archives/1667" target="_blank">ミライの組込み開発！vagrant × sahara × minitestで実現する仮想エンドツーエンドテスト | Futurismo</a>
+  * <a href="https://futurismo.biz/archives/1289" target="_blank">組込み開発のシステムテスト・機能テストを自動化できるか?Rubyのminitestで非同期テストを実施する方法を本気出して考えてみた | Futurismo</a>
+  * <a href="https://futurismo.biz/archives/1667" target="_blank">ミライの組込み開発！vagrant × sahara × minitestで実現する仮想エンドツーエンドテスト | Futurismo</a>
 
 [toc]
 

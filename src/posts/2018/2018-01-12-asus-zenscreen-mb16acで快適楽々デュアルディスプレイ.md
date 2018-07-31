@@ -91,7 +91,7 @@ xrandrでモニタ名を調べる。
     xrandr --output DVI-I-1-1 --off
 
  [1]: https://lh3.googleusercontent.com/Oek38j_1BaO1dzViCrq5cau505pZWGGoC_kZp_8zl3CpwirgPOK8e5_5OhKjPWJXjKgZqX2Jep1gPkOm79YqDuc18SayyU9rVv83G2YSoCN97msi4mmuoQXZEs_stbWLfivVqkrJcgrOyC14_nigYdouwvxxkolY0w_zUtxi0FIniI74zHliqYENyiSLFSScLmU7uDUGkHF-f5bHnPJ2knPeKwtJu_S30pJhczkoy9ngBPWuNSOsRPtk5wAHjzQP7QFN9tXrHw3EQGu9-wzzd5zjo2zOCIFmRM1-CHqiSCcThvNfBPXmsCfE51ipVZgJYFpQi_Va2AwDh9ibbKTBZqF9kvwY95ijjXPiwuVwMjfYDNBbPsSOv6EtlYOu7oeBKDZu7nq2kUJ52bocnAj2Cp4jIsAfUT3a4VCXpswWzbNJ9G08gFwHYA4LO5UcASkh4LP9f9IAaLAk_vbk69nH94Xf9JiWXuhgLJY12cJAVVRGeREx7cqEYJlmR3BLgvkVnlEuoaHvlS9NCyXFAwC-tZNgGNCRa9GGUEaE_-FNFmzBf-XTjSyueb5Mf6dDyNyOlkEyItezBieeGNuhKqs1b0kW_BgzbLJYt52NT3E=w1222-h916-no
- [2]: http://futurismo.biz/archives/6850
+ [2]: https://futurismo.biz/archives/6850
  [3]: https://www.asus.com/jp/Monitors/MB16AC/
  [4]: http://support.displaylink.com/knowledgebase/articles/641668-known-issues-with-displaylink-ubuntu-support
  [5]: http://www.displaylink.com/downloads/ubuntu

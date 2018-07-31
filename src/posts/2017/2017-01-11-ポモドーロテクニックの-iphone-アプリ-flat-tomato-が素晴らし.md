@@ -36,7 +36,7 @@ SoftSkills
 を読んでから、ポモドーロテクニックを意図的に自分の作業に取り入れている。
 
 -   [SoftSkills を読んで思うこと |
-    Futurismo](http://futurismo.biz/archives/5842)
+    Futurismo](https://futurismo.biz/archives/5842)
 
 ポモドーロテクニックを用いることで、
 
@@ -95,11 +95,11 @@ todoist というタスク管理サービスと連携できる。
 todoist
 に登録してあるタスクからポモドーロを使って作業したいタスクを選ぶことが可能。
 
- <a href="http://futurismo.biz/wp-content/uploads/IMG_1268.png"><img class="alignleft size-large wp-image-6067" src="http://futurismo.biz/wp-content/uploads/IMG_1268-576x1024.png" alt="" width="576" height="1024" /></a>
+ <a href="https://futurismo.biz/wp-content/uploads/IMG_1268.png"><img class="alignleft size-large wp-image-6067" src="https://futurismo.biz/wp-content/uploads/IMG_1268-576x1024.png" alt="" width="576" height="1024" /></a>
 
 </br>
 
- <a href="http://futurismo.biz/wp-content/uploads/IMG_1267.png"><img class="alignleft size-large wp-image-6066" src="http://futurismo.biz/wp-content/uploads/IMG_1267-576x1024.png" alt="" width="576" height="1024" /></a>
+ <a href="https://futurismo.biz/wp-content/uploads/IMG_1267.png"><img class="alignleft size-large wp-image-6066" src="https://futurismo.biz/wp-content/uploads/IMG_1267-576x1024.png" alt="" width="576" height="1024" /></a>
 </br>
 
 iPhone Calender と連携できる
@@ -108,7 +108,7 @@ iPhone Calender と連携できる
 iPhone カレンダーと連携できる。
 このことによって、カレンダー上にライフログを残すことができるのだ。
 
- <a href="http://futurismo.biz/wp-content/uploads/IMG_1266.png"><img class="alignleft size-large wp-image-6065" src="http://futurismo.biz/wp-content/uploads/IMG_1266-576x1024.png" alt="" width="576" height="1024" /></a>
+ <a href="https://futurismo.biz/wp-content/uploads/IMG_1266.png"><img class="alignleft size-large wp-image-6065" src="https://futurismo.biz/wp-content/uploads/IMG_1266-576x1024.png" alt="" width="576" height="1024" /></a>
 </br>
 
 以上、駆け足になってしまったけれども、素晴らしい Flat Tomato

@@ -30,7 +30,7 @@ Windows のデスクトップ環境をタイル型 WM bug.n の紹介.
 
 -   [タイル型ウィンドウマネージャという新たな世界観に衝撃を受けた!Xmonad
     をつかってワクワク CUI 生活 |
-    Futurismo](http://futurismo.biz/archives/2165)
+    Futurismo](https://futurismo.biz/archives/2165)
 
 タイル型 Window Manager の一番良い所は,
 マウスを利用しなくてもアプリの移動や管理かできるというところだろう.

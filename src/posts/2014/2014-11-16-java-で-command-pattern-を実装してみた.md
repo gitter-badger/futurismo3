@@ -22,7 +22,7 @@ url: /archives/=2703
 前回の続き.
 
 -   [Java で Visitor Pattern を実装してみた |
-    Futurismo](http://futurismo.biz/archives/2689)
+    Futurismo](https://futurismo.biz/archives/2689)
 
 コマンドパターン (Command Pattern) と Visitor Pattern で
 なにが違うのかよくわからなかったので, 比較しつつ, Command Pattern

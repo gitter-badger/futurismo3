@@ -18,7 +18,7 @@ type: post
 url: /archives/=2987
 ---
 
-<img alt="" src="http://futurismo.biz/wp-content/uploads/emacs_logo.jpg"/>
+<img alt="" src="https://futurismo.biz/wp-content/uploads/emacs_logo.jpg"/>
 
 はじめに
 ========
@@ -61,7 +61,7 @@ Emacs で R Markdown を作成して, 投稿することができる.
 以下の記事を参考にして Rmd を html に変換して, コードを評価する.
 
 -   [Emacs で knitr と R markdown を使う方法 (Rmd) |
-    Futurismo](http://futurismo.biz/archives/2982)
+    Futurismo](https://futurismo.biz/archives/2982)
 
 ```` {.text}
 # Upload Test

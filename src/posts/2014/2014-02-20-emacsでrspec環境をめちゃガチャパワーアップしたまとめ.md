@@ -45,7 +45,7 @@ tags:
     
     <ul class="org-ul">
       <li>
-        <a href="http://futurismo.biz/en/archives/2213">EmacsでRubyの開発環境をさらにめちゃガチャパワーアップしたまとめ | Futurismo</a>
+        <a href="https://futurismo.biz/en/archives/2213">EmacsでRubyの開発環境をさらにめちゃガチャパワーアップしたまとめ | Futurismo</a>
       </li>
     </ul>
   </div>
@@ -220,7 +220,7 @@ end
       
       <ul class="org-ul">
         <li>
-          <a href="http://futurismo.biz/archives/2160">GTDの規律に従い生産性Up!!3分後にデスクトップ通知と音を鳴らすワンラインスクリプト(Linux) | Futurismo</a>
+          <a href="https://futurismo.biz/archives/2160">GTDの規律に従い生産性Up!!3分後にデスクトップ通知と音を鳴らすワンラインスクリプト(Linux) | Futurismo</a>
         </li>
       </ul>
       
@@ -299,7 +299,7 @@ end
     
     <ul class="org-ul">
       <li>
-        <a href="http://futurismo.biz/en/archives/2253">Rubyのテストコード自動生成!レガシーコードをrspec-kickstarterで切り崩す | Futurismo</a>
+        <a href="https://futurismo.biz/en/archives/2253">Rubyのテストコード自動生成!レガシーコードをrspec-kickstarterで切り崩す | Futurismo</a>
       </li>
     </ul>
   </div>
@@ -378,7 +378,7 @@ end
     
     <ul class="org-ul">
       <li>
-        <a href="http://futurismo.biz/en/archives/2213">EmacsでRubyの開発環境をさらにめちゃガチャパワーアップしたまとめ | Futurismo</a>
+        <a href="https://futurismo.biz/en/archives/2213">EmacsでRubyの開発環境をさらにめちゃガチャパワーアップしたまとめ | Futurismo</a>
       </li>
     </ul>
   </div>
@@ -553,7 +553,7 @@ end
       
       <ul class="org-ul">
         <li>
-          <a href="http://futurismo.biz/archives/2160">GTDの規律に従い生産性Up!!3分後にデスクトップ通知と音を鳴らすワンラインスクリプト(Linux) | Futurismo</a>
+          <a href="https://futurismo.biz/archives/2160">GTDの規律に従い生産性Up!!3分後にデスクトップ通知と音を鳴らすワンラインスクリプト(Linux) | Futurismo</a>
         </li>
       </ul>
       
@@ -632,7 +632,7 @@ end
     
     <ul class="org-ul">
       <li>
-        <a href="http://futurismo.biz/en/archives/2253">Rubyのテストコード自動生成!レガシーコードをrspec-kickstarterで切り崩す | Futurismo</a>
+        <a href="https://futurismo.biz/en/archives/2253">Rubyのテストコード自動生成!レガシーコードをrspec-kickstarterで切り崩す | Futurismo</a>
       </li>
     </ul>
   </div></p>

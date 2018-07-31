@@ -253,7 +253,7 @@ Andrew Trask
 バックプロパゲーションとか頑張ったのはなんだったんだよ！と思うほど、驚く。
 
 -   [TFLearn で手書き文字認識(MNIST)を試してみた |
-    Futurismo](http://futurismo.biz/archives/6222)
+    Futurismo](https://futurismo.biz/archives/6222)
 
 -   <https://www.youtube.com/watch?v=si8zZHkufRY>
 
@@ -360,7 +360,7 @@ text8 という英語のテキストデータを学習する。
 この Word2Vec を利用して、自分の Twitter アカウントを分析してみた。
 
 -   [Word2Vec(skip-gram)で自分の twitter アカウントのツィート分析した |
-    Futurismo](http://futurismo.biz/archives/6427)
+    Futurismo](https://futurismo.biz/archives/6427)
 
 Siraj さんのビデオは Style Transfer について。
 
@@ -386,7 +386,7 @@ TensorBoard は精度や Loss を可視化するのに便利だと思ってい�
 Keras でも TensorBoard は使えるみたい。
 
 -   [ハイパーパラメータは可視化して決めよう！Keras で TensorBorad を使う
-    | Futurismo](http://futurismo.biz/archives/6445)
+    | Futurismo](https://futurismo.biz/archives/6445)
 
 Siraj さんの動画は、Music
 Generation(音楽生成)。とても興味があるトピック。待ってました\^-\^
@@ -401,7 +401,7 @@ LSTM で音楽を学習させてみようということなのだけれども、
 で音楽生成をしている事例がたくさん見つかった。なので、私もやってみた！
 
 -   [ディープラーニング(char-rnn)でバッハの音楽を生成してみた |
-    Futurismo](http://futurismo.biz/archives/6454)
+    Futurismo](https://futurismo.biz/archives/6454)
 
 week10: Text Generation
 -----------------------
@@ -465,7 +465,7 @@ week13: Reinforcement Learning
 で再実装を実施してみたのだが、思うように結果が出なかった。
 
 -   [CartPole 問題に DQN(numpy only)で挑戦したけど解けなかった |
-    Futurismo](http://futurismo.biz/archives/6612)
+    Futurismo](https://futurismo.biz/archives/6612)
 
 Project4 Translate a Language
 -----------------------------
@@ -558,7 +558,7 @@ Project は Lecture の Jupyter Notebook のコピペでクリアできたり、
 普通に CNN をバリバリ実装して kaggle にチャレンジとかできている。
 
 -   [TensorFlow で学ぶディープラーニング入門を読んだ。Kaggle
-    で実践してみた。 | Futurismo](http://futurismo.biz/archives/6274)
+    で実践してみた。 | Futurismo](https://futurismo.biz/archives/6274)
 
 fast.ai の理念
 --------------

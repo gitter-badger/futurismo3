@@ -193,6 +193,6 @@ class MockSampleSpec extends Specification {
 
 今日はここまで！
 
- [1]: http://futurismo.biz/archives/6783
+ [1]: https://futurismo.biz/archives/6783
  [2]: https://github.com/tsu-nera/java_spock_playground
  [3]: http://spock-framework-reference-documentation-ja.readthedocs.io/ja/latest/interaction_based_testing.html

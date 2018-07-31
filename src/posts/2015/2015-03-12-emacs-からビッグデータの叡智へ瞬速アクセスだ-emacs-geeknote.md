@@ -16,7 +16,7 @@ type: post
 url: /archives/=3038
 ---
 
-<img alt="" src="http://futurismo.biz/wp-content/uploads/emacs_logo.jpg"/>
+<img alt="" src="https://futurismo.biz/wp-content/uploads/emacs_logo.jpg"/>
 
 はじめに
 ========
@@ -32,7 +32,7 @@ Emacs の Evernote を 2 つ紹介します.
 数年前に Evernote を Emacs でつかう記事をかいた.
 
 -   [Evernote で Emacs を使う (emacs-evernote-mode) |
-    Futurismo](http://futurismo.biz/archives/717)
+    Futurismo](https://futurismo.biz/archives/717)
 
 記事をかいてしばらくして, Evernote API
 の仕様変更で一時期使えなくなってしまった.(アクセス token)

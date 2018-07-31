@@ -212,7 +212,7 @@ coursera で受けている, POSA の講義で出てきた Reactor Pattern に�
         
         <ul class="org-ul">
           <li>
-            <a href="http://futurismo.biz/archives/2572">TCP/IP ソケットプログラミングの基礎を集中学習! Working with TCP sockets を読んでる | Futurismo</a>
+            <a href="https://futurismo.biz/archives/2572">TCP/IP ソケットプログラミングの基礎を集中学習! Working with TCP sockets を読んでる | Futurismo</a>
           </li>
           <li>
             gist: <a href="https://gist.github.com/tsu-nera/0a0930175a3f23641848">https://gist.github.com/tsu-nera/0a0930175a3f23641848</a>

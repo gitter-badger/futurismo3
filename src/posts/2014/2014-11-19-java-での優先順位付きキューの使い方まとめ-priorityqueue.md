@@ -29,12 +29,12 @@ url: /archives/=2723
 思いかえせば一年前, C++ で PriorityQueue の記事を書いた.
 
 -   [C++ での優先順位付きキューの使い方まとめ (PriorityQueue) |
-    Futurismo](http://futurismo.biz/archives/1981)
+    Futurismo](https://futurismo.biz/archives/1981)
 
 また, 1 年前の coursera の講義で, 自前で PriorityQueue の実装をした.
 
 -   [Coursera Algorithms Part Ⅰを受講しました |
-    Futurismo](http://futurismo.biz/archives/1834)
+    Futurismo](https://futurismo.biz/archives/1834)
 
 参考にした java コード:
 

@@ -90,5 +90,5 @@ STDOUT.flushを実行すると、バッファにたまっている出力が吐�
 
   * <a href="https://www.ruby-forum.com/topic/208856" target="_blank">Use of STDOUT.flush after puts &#8211; Ruby Forum</a>
 
- [1]: http://futurismo.biz/archives/1286
- [2]: http://futurismo.biz/archives/1295
+ [1]: https://futurismo.biz/archives/1286
+ [2]: https://futurismo.biz/archives/1295

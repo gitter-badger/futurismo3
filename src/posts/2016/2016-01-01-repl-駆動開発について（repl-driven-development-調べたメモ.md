@@ -152,7 +152,7 @@ RDD は TDD と比較されることが多い. TDD
 TDD は費用対効果を考えてやらなければならないというのが今の持論.
 
 -   [CleanCode はよいわけではない、場合によっては悪いこと |
-    Futurismo](http://futurismo.biz/archives/2412)
+    Futurismo](https://futurismo.biz/archives/2412)
 -   [TDD is Dead!! Long living testing!! 014-04-24 -
     やっとむでぽん](http://d.hatena.ne.jp/yach/20140424)
 
@@ -161,7 +161,7 @@ TDD は費用対効果を考えてやらなければならないというのが�
 先日ハッカーと画家を読んだが、そこでも速くアイデアを形にすることがハッカー気質だと学んだ.
 
 -   [あなたはハッカーですか？ハッカーと画家から学ぶハッカー気質について。
-    | Futurismo](http://futurismo.biz/archives/5692)
+    | Futurismo](https://futurismo.biz/archives/5692)
 
 より素早くフィードバッグを回してガンガンつくることに相性が良い.
 

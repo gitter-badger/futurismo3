@@ -8,8 +8,8 @@ fast.ai ジェレミーハワード氏の実践機械学習講座。
 
 2017年に全世界で話題を呼んだ、Practical Deep Learning for CodersのMachine Learning版だ。
 
-- http://futurismo.biz/archives/6440/
-- http://futurismo.biz/2018/05/fastai_p1_2018/
+- https://futurismo.biz/archives/6440/
+- https://futurismo.biz/2018/05/fastai_p1_2018/
 
 ## 今回も kaggle はフル活用
 fast.aiは課題の題材にkaggle のコンペを利用するところが面白い。

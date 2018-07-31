@@ -20,9 +20,9 @@ org-agendaに twitterのつぶやきを表示してみました.
 これらの関連記事のまとめになります.
 
 -   [その場の感情を ライフログ!! org-journal でひとりツイッターする |
-    Futurismo](http://futurismo.biz/archives/3655)
+    Futurismo](https://futurismo.biz/archives/3655)
 -   [Emacsのミニバッファから twitterにメッセージを投稿する小技 |
-    Futurismo](http://futurismo.biz/archives/4341)
+    Futurismo](https://futurismo.biz/archives/4341)
 
 方法
 ====
@@ -114,7 +114,7 @@ twitterのコメントが時間つきで表示されているのだ.
 以前, org-journalに書き溜めたコメントを org-agendaでみるハックを書いた.
 
 -   [その場の感情を ライフログ!! org-journal でひとりツイッターする |
-    Futurismo](http://futurismo.biz/archives/3655)
+    Futurismo](https://futurismo.biz/archives/3655)
 
 今回、twitterのつぶやきが org-agendaで見られるようになった.
 このことによって、
@@ -128,7 +128,7 @@ twitterのコメントが時間つきで表示されているのだ.
 twitterをミニバッファ経由での書き込みにするには、以下の記事を.
 
 -   [Emacsのミニバッファから twitterにメッセージを投稿する小技 |
-    Futurismo](http://futurismo.biz/archives/4341)
+    Futurismo](https://futurismo.biz/archives/4341)
 
 org-journalへミニバッファからコメントを書くには、
 以下の関数を呼べばいい.

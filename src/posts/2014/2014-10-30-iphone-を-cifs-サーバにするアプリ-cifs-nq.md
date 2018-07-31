@@ -26,7 +26,7 @@ VirtualBox に CentOS を入れて, その上に Samba サービスを立ち上�
 
 <ul class="org-ul">
   <li>
-    <a href="http://futurismo.biz/archives/1390">CentOS 上で SAMBA サーバを立ちあげて Windows からアクセスするためのメモ | Futurismo</a>
+    <a href="https://futurismo.biz/archives/1390">CentOS 上で SAMBA サーバを立ちあげて Windows からアクセスするためのメモ | Futurismo</a>
   </li>
 </ul>
 

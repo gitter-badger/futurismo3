@@ -25,7 +25,7 @@ url: /archives/=3019
 以前, org-mode と R を組み合わせたらとても気持ちがよかった.
 
 -   [org-babel と R の組み合わせがとても心地よい件 |
-    Futurismo](http://futurismo.biz/archives/2907)
+    Futurismo](https://futurismo.biz/archives/2907)
 
 そこで, もうすこし R と org-mode の可能性を知りたくて, Coursera で
 Reproducible Research をうけた.
@@ -76,9 +76,9 @@ Emacs org-mode で Reproducible Research をしたかったので, RStudio
 を頑なに拒否して, Emacs をつかった.
 
 -   [Emacs で knitr と R markdown を使う方法 (Rmd) |
-    Futurismo](http://futurismo.biz/archives/2982)
+    Futurismo](https://futurismo.biz/archives/2982)
 -   [RPubs に Emacs から投稿してみた (R Markdown, org-mode) |
-    Futurismo](http://futurismo.biz/archives/2987)
+    Futurismo](https://futurismo.biz/archives/2987)
 
 文芸的プログラミングと R はとても相性がいい
 -------------------------------------------
@@ -86,7 +86,7 @@ Emacs org-mode で Reproducible Research をしたかったので, RStudio
 文芸的プログラミングと R はとても相性がいい. この件について再認識した.
 
 -   [org-babel と R の組み合わせがとても心地よい件 |
-    Futurismo](http://futurismo.biz/archives/2907)
+    Futurismo](https://futurismo.biz/archives/2907)
 
 そしてなにより, 生成されるドキュメントがとてもかっこいいところが
 一番気に入った. こういう感動を忘れずにいたい.

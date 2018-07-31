@@ -14,7 +14,7 @@ url: /archives/=1876
 
 TDDの型を身につけるための方法論『Code Kata』について調べてみたことをまとめます。
 
-[<img title="medium_7380838634" style="border-top: 0px; border-right: 0px; background-image: none; border-bottom: 0px; padding-top: 0px; padding-left: 0px; border-left: 0px; display: inline; padding-right: 0px" border="0" alt="medium_7380838634" src="http://futurismo.biz/wp-content/uploads/medium_7380838634_thumb.jpg" width="410" height="512" />][1]
+[<img title="medium_7380838634" style="border-top: 0px; border-right: 0px; background-image: none; border-bottom: 0px; padding-top: 0px; padding-left: 0px; border-left: 0px; display: inline; padding-right: 0px" border="0" alt="medium_7380838634" src="https://futurismo.biz/wp-content/uploads/medium_7380838634_thumb.jpg" width="410" height="512" />][1]
 
 photo credit: [1936matt][2] via [photopin][3] [cc][4]
 
@@ -146,12 +146,12 @@ TDDやリファクタリングの技術は小さなTipsや心構えの積み重�
   * [craftsmanship.sv.cmu.edu/categories/test-driven-development][12] 
   * [TDD の素振りをしよう &#8211; haru01のめも][13]
 
- [1]: http://futurismo.biz/wp-content/uploads/medium_7380838634.jpg
+ [1]: https://futurismo.biz/wp-content/uploads/medium_7380838634.jpg
  [2]: http://www.flickr.com/photos/39matt/7380838634/
  [3]: http://photopin.com
  [4]: http://creativecommons.org/licenses/by-nc-nd/2.0/
  [5]: http://pragprog.com/book/ebdojo/the-coding-dojo-handbook
- [6]: http://futurismo.biz/archives/1179
+ [6]: https://futurismo.biz/archives/1179
  [7]: http://en.wikipedia.org/wiki/Kata_%28programming%29
  [8]: http://www.codekata.com/
  [9]: http://codingdojo.org/cgi-bin/wiki.pl?KataCatalogue

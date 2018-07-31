@@ -47,7 +47,7 @@ url: /archives/=2498
         <li>
           cron書式で設定Ok <ul class="org-ul">
             <li>
-              <a href="http://futurismo.biz/archives/1490">cronとwatchrを使ってJenkinsからオレオレリポジトリ監視してみる | Futurismo</a>
+              <a href="https://futurismo.biz/archives/1490">cronとwatchrを使ってJenkinsからオレオレリポジトリ監視してみる | Futurismo</a>
             </li>
           </ul>
         </li>
@@ -87,7 +87,7 @@ url: /archives/=2498
       
       <ul class="org-ul">
         <li>
-          <a href="http://futurismo.biz/archives/292">Selenium RCで自分のPCからテストケースを実行する | Futurismo</a>
+          <a href="https://futurismo.biz/archives/292">Selenium RCで自分のPCからテストケースを実行する | Futurismo</a>
         </li>
       </ul>
     </div></p>
@@ -178,7 +178,7 @@ url: /archives/=2498
       
       <ul class="org-ul">
         <li>
-          <a href="http://futurismo.biz/archives/299">JenkinsをWindowsPCにインストールする | Futurismo</a>
+          <a href="https://futurismo.biz/archives/299">JenkinsをWindowsPCにインストールする | Futurismo</a>
         </li>
       </ul>
       
@@ -188,7 +188,7 @@ url: /archives/=2498
       
       <ul class="org-ul">
         <li>
-          <a href="http://futurismo.biz/archives/331">WindowsバッチファイルをJenkinsで起動したらネットにアクセスできない | Futurismo</a>
+          <a href="https://futurismo.biz/archives/331">WindowsバッチファイルをJenkinsで起動したらネットにアクセスできない | Futurismo</a>
         </li>
       </ul>
     </div></p>
@@ -331,4 +331,4 @@ Finished: SUCCESS
   </div></p>
 </div>
 
- [1]: http://futurismo.biz/wp-content/uploads/Windows_7_Vertical_Logo_Web.jpg
+ [1]: https://futurismo.biz/wp-content/uploads/Windows_7_Vertical_Logo_Web.jpg

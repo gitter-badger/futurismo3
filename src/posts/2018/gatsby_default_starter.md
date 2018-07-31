@@ -4,7 +4,7 @@ date: 2018-07-01T15:41:57+09:00
 ---
 
 ## はじめに: Gatsby 導入する理由
-このブログは、Hugoで運営している。(http://futurismo.biz/2018/04/wordpress-2-hugo/)
+このブログは、Hugoで運営している。(https://futurismo.biz/2018/04/wordpress-2-hugo/)
 
 React 製のサイトジェネレーターである、 **Gatsby** へ移行しようと決意した。
 

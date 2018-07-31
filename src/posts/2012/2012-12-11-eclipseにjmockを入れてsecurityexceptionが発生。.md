@@ -63,5 +63,5 @@ EclipseをダウンロードしてきたときのデフォルトJUnitにJMockを
 </div>
 
  [1]: http://stackoverflow.com/questions/4755442/jmock-dependency-issue "http://stackoverflow.com/questions/4755442/jmock-dependency-issue"
- [2]: http://futurismo.biz/archives/844 "JUnitのインストールとEclipseでの使い方まとめ"
+ [2]: https://futurismo.biz/archives/844 "JUnitのインストールとEclipseでの使い方まとめ"
  [3]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image86.png

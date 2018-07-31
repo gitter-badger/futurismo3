@@ -112,7 +112,7 @@ ex.) sphinx-build -b docx . _build/docx
 [<img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="image" border="0" alt="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb77.png" width="411" height="394" />][5]
 
  [1]: http://in.shappi.org/article/279085914.html
- [2]: http://futurismo.biz/archives/805
+ [2]: https://futurismo.biz/archives/805
  [3]: http://www.pythonware.com/products/pil/
  [4]: http://www.lfd.uci.edu/~gohlke/pythonlibs/ "http://www.lfd.uci.edu/~gohlke/pythonlibs/"
  [5]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image77.png

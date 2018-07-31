@@ -34,7 +34,7 @@ FitNesseをC/C++で利用するためのslimフレームワークではcslimが�
 
 前回の続きです。
 
-  * <a href="http://futurismo.biz/archives/1752" target="_blank">受け入れテスト用フレームワーク「Fitnesse」導入手順のまとめ | Futurismo</a>
+  * <a href="https://futurismo.biz/archives/1752" target="_blank">受け入れテスト用フレームワーク「Fitnesse」導入手順のまとめ | Futurismo</a>
 
 ![][1]
 

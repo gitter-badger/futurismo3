@@ -87,4 +87,4 @@ G[oogleMockをC言語で使う方法をハックしてみた][3]
 
  [1]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image6.png
  [2]: http://opencv.jp/googletestdocs/
- [3]: http://futurismo.biz/archives/306 "GoogleMockをC言語で使う方法をハックしてみた"
+ [3]: https://futurismo.biz/archives/306 "GoogleMockをC言語で使う方法をハックしてみた"

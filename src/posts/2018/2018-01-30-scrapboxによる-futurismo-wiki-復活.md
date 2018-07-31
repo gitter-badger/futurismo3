@@ -91,4 +91,4 @@ scrapboxは、キーワードをタグ化することで、驚くほど簡単に
 work用と、きまべんプロジェクトでは作業ログを、Futurismo Wikiは技術情報の集約を、そしてprivateはまずは日記から。便利さを感じるには、まずは日記からはじめてみてはどうでしょうか？
 
  [1]: https://gyazo.com/79d7eb8d1532bbf9cf317bdfb486018a
- [2]: http://futurismo.biz/archives/2500
+ [2]: https://futurismo.biz/archives/2500

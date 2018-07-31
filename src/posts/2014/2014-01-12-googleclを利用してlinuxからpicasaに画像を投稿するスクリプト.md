@@ -59,4 +59,4 @@ picasa postコマンドで実行します。
     img = "<img src=\"" + url.chop + "\">"
     puts img
 
- [1]: http://futurismo.biz/archives/1559
+ [1]: https://futurismo.biz/archives/1559

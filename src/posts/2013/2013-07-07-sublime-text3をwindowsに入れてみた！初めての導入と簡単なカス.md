@@ -106,7 +106,7 @@ Rictyが最近のお気に入りなので、変更します。 Preferences -> Se
 
 とりあえず、AuthHotkeyで代用。
 
-  * <a href="http://futurismo.biz/archives/1135" target="_blank" rel="noopener">WindowsでEmacsキーバインドをするためのメモ AutoHotkey_Lを利用 | Futurismo</a>
+  * <a href="https://futurismo.biz/archives/1135" target="_blank" rel="noopener">WindowsでEmacsキーバインドをするためのメモ AutoHotkey_Lを利用 | Futurismo</a>
 
 ### 日本語対応
 

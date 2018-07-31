@@ -336,5 +336,5 @@ MMDAgentの.fstでの定義はこんな感じにしてる。
 
  [1]: https://docs.google.com/viewer?url=http://glamo.co.jp/wp-content/uploads/2012/09/GLPR_2012091101.pdf
  [2]: http://glamo.co.jp/
- [3]: http://futurismo.biz/archives/154 "iRemoconでミクミクにしてやんよ。"
+ [3]: https://futurismo.biz/archives/154 "iRemoconでミクミクにしてやんよ。"
  [4]: http://homebrew.jp/showarchives/age=1262

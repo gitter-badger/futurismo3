@@ -24,7 +24,7 @@ url: /archives/=2449
   
   <div class="outline-text-2" id="text-unnumbered-1">
     <p>
-      edX で受けた <a href="http://futurismo.biz/archives/2427">プログラミングパラダイム</a> の講義のなかで,
+      edX で受けた <a href="https://futurismo.biz/archives/2427">プログラミングパラダイム</a> の講義のなかで,
     </p>
     
     <p>
@@ -383,4 +383,4 @@ url: /archives/=2449
   </div>
 </div>
 
- [1]: http://futurismo.biz/wp-content/uploads/emacs_logo.jpg
+ [1]: https://futurismo.biz/wp-content/uploads/emacs_logo.jpg

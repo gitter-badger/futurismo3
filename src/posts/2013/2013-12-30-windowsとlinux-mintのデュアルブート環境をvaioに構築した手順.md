@@ -203,14 +203,14 @@ BootRepairが完了したら、再起動。これでWindowsとMintのデュア�
 
  [1]: https://picasaweb.google.com/lh/photo/6W0SkYpGlM4aBJtD4aJSYTyD6hjDXGH6XyE6iLrzolo?feat=embedwebsite
  [2]: http://linuxmint-jp.net/
- [3]: http://futurismo.biz/archives/777
- [4]: http://futurismo.biz/archives/1643
+ [3]: https://futurismo.biz/archives/777
+ [4]: https://futurismo.biz/archives/1643
  [5]: http://distrowatch.com/
  [6]: https://picasaweb.google.com/lh/photo/7FClRCjkv3nxyEUXfGVx9zyD6hjDXGH6XyE6iLrzolo?feat=embedwebsite
  [7]: http://wiki.linuxmint-jp.net/index.php/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%BA%E3%82%AC%E3%82%A4%E3%83%89#Linux_Mint.E5.85.A5.E9.96.80
  [8]: http://itsfoss.com/guide-install-linux-mint-16-dual-boot-windows/
  [9]: http://ww24.jp/linux/windows7%E3%81%A8ubuntu10-04-1-lts%E3%81%AE%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%96%E3%83%BC%E3%83%88
- [10]: http://futurismo.biz/archives/1801
+ [10]: https://futurismo.biz/archives/1801
  [11]: https://picasaweb.google.com/lh/photo/na7haXaEQtQ7aEG5peG-2DyD6hjDXGH6XyE6iLrzolo?feat=embedwebsite
  [12]: http://www.forest.impress.co.jp/library/software/partwizhome/
  [13]: https://picasaweb.google.com/lh/photo/fnTWh6qrghLZttb3WbpC6jyD6hjDXGH6XyE6iLrzolo?feat=embedwebsite

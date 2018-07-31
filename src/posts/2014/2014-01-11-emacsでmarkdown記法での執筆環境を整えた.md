@@ -96,5 +96,5 @@ command not found: markdownと出る場合は、Markdown.plがうまく動いて
  [2]: http://qiita.com/umeneri/items/8824907d50e3108481b3
  [3]: http://moonstruckdrops.github.io/blog/2013/03/24/markdown-mode/
  [4]: http://blog.s-amemiya.com/development/emacs%E3%81%AEmarkdown-mode%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%8B/
- [5]: http://futurismo.biz/archives/1322
+ [5]: https://futurismo.biz/archives/1322
  [6]: http://daringfireball.net/projects/markdown/

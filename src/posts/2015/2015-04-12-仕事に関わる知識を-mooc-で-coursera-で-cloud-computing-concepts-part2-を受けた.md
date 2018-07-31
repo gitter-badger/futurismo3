@@ -32,7 +32,7 @@ Part1 の感想は以下です.
 
 -   [システム制御は奥が深い! 井戸の中の蛙な自分.coursera で Cloud
     Computing Cocepts をうけた |
-    Futurismo](http://futurismo.biz/archives/3032)
+    Futurismo](https://futurismo.biz/archives/3032)
 
 内容
 ====
@@ -82,7 +82,7 @@ Leader Election
 は感銘を受けた. 以下, 記事にした.
 
 -   [分散システムの専任アルゴリズム (Election Algorithms) の学習メモ |
-    Futurismo](http://futurismo.biz/archives/3056)
+    Futurismo](https://futurismo.biz/archives/3056)
 
 Replication Control
 -------------------

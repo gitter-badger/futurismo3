@@ -93,4 +93,4 @@ twitterでつぶやくには、updateを使う。他にも豊富すぎる機能�
 
  [1]: http://route477.net/w/?RubyTwitterJa
  [2]: http://qiita.com/items/1b61e1fe4841f81baaf9
- [3]: http://futurismo.biz/archives/1150
+ [3]: https://futurismo.biz/archives/1150

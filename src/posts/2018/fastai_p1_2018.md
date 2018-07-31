@@ -10,7 +10,7 @@ date: 2018-05-03T20:53:43+09:00
 
 去年の記事はこちら。
 
-- [fast\.ai の Practical Deep Learning for Coders, Part1 を受けた · Futurismo](http://futurismo.biz/archives/6440/)
+- [fast\.ai の Practical Deep Learning for Coders, Part1 を受けた · Futurismo](https://futurismo.biz/archives/6440/)
 
 ## 講座の特徴
 主に、2017との比較から
@@ -36,7 +36,7 @@ fast.aiといえば、Kaggleコンペの実践的な攻略が魅力。
 ### Lesson2
 別記事にまとめました。
 
-- [fast\.ai part1 lesson2 画像分類コンペでのゴールデンルール · Futurismo](http://futurismo.biz/2018/05/fastai_lesson2/)
+- [fast\.ai part1 lesson2 画像分類コンペでのゴールデンルール · Futurismo](https://futurismo.biz/2018/05/fastai_lesson2/)
 
 ### Lesson3
 CNNの仕組み、ConvolutionのExcelによる解説。このあたりは、去年と同じなので飛ばしました。
@@ -50,7 +50,7 @@ Structured Deep Learnng.
 
 1時間弱、みっちり語られる。Kaggle の Rossmmanコンペがみっちり紹介される。
 
-- [fast\.ai par1 lesson4 Tabularデータの攻略方法メモ · Futurismo](http://futurismo.biz/2018/05/fastai_p1_lesson3/)
+- [fast\.ai par1 lesson4 Tabularデータの攻略方法メモ · Futurismo](https://futurismo.biz/2018/05/fastai_p1_lesson3/)
 
 残りの時間でRNNのイントロと、強調フィルタリンクイントロ。
 

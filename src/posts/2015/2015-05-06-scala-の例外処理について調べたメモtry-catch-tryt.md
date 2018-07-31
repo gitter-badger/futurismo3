@@ -27,7 +27,7 @@ try-catch
 try-catch で例外を処理する方法. これは、Java における例外処理と同じ.
 
 -   [Java の例外処理について徹底的に調べてみた |
-    Futurismo](http://futurismo.biz/archives/2935)
+    Futurismo](https://futurismo.biz/archives/2935)
 
 以下のようなコードを書いた. これを、もう一つの Try\[T\] で書き換える.
 

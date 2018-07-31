@@ -268,7 +268,7 @@ Run Book Autmationというキーワードについてまとめてみました�
       
       <ul class="org-ul">
         <li>
-          <a href="http://futurismo.biz/archives/2330">RubyからExcelを操作する方法について | Futurismo</a>
+          <a href="https://futurismo.biz/archives/2330">RubyからExcelを操作する方法について | Futurismo</a>
         </li>
       </ul>
     </div></p>

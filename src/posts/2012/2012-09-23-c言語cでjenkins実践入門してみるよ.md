@@ -41,19 +41,19 @@ C言語/C++でしようとするとどうすればいいのかを調べてみた
 
 <ul class="checklist">
   <li>
-    第4章 本番を想定して開発環境を準備する。(Ant, Maven)<br /> make を利用する。<br /> <a title="git commitをフックしてJenkins でビルドを起動" href="http://futurismo.biz/archives/826">git commitをフックしてJenkins でビルドを起動</a>
+    第4章 本番を想定して開発環境を準備する。(Ant, Maven)<br /> make を利用する。<br /> <a title="git commitをフックしてJenkins でビルドを起動" href="https://futurismo.biz/archives/826">git commitをフックしてJenkins でビルドを起動</a>
   </li>
   <li>
-    第５章 JUnitでテストする(JUnit)<br /> GoogleTest/GoogleMockを利用する。<br /> <a title="Permanent Link to JenkinsでGoogleTestのテスト結果を表示する方法を調べてみた。" href="http://futurismo.biz/archives/475" rel="bookmark">JenkinsでGoogleTestのテスト結果を表示する方法を調べてみた。<br /> </a>
+    第５章 JUnitでテストする(JUnit)<br /> GoogleTest/GoogleMockを利用する。<br /> <a title="Permanent Link to JenkinsでGoogleTestのテスト結果を表示する方法を調べてみた。" href="https://futurismo.biz/archives/475" rel="bookmark">JenkinsでGoogleTestのテスト結果を表示する方法を調べてみた。<br /> </a>
   </li>
   <li>
-    第6章 カバレッジを取得する(Cobertura)<br /> gcovを利用する。<br /> <a title="C言語でのgcovカバレッジ計測結果をJenkinsで表示させる" href="http://futurismo.biz/archives/485">C言語でのgcovカバレッジ計測結果をJenkinsで表示させる<br /> </a>
+    第6章 カバレッジを取得する(Cobertura)<br /> gcovを利用する。<br /> <a title="C言語でのgcovカバレッジ計測結果をJenkinsで表示させる" href="https://futurismo.biz/archives/485">C言語でのgcovカバレッジ計測結果をJenkinsで表示させる<br /> </a>
   </li>
   <li>
-    第7章インスペクションを実施する(FindBugs, CheckStyle)<br /> Cppcheckを利用する。DRY Pluginを利用する。<br /> <a title="Cppcheckで静的解析して、Jenkinsで表示してみる。" href="http://futurismo.biz/archives/497">Cppcheckで静的解析して、Jenkinsで表示してみる。</a><br /> <a title="重複コードを撃退！DRY原則をC言語で実践するためのCPDを調べた。" href="http://futurismo.biz/archives/516">重複コードを撃退！DRY原則をC言語で実践するためのCPDを調べた。<br /> </a><a title="JenkinsにWarning Plugin/Task Scanner Pluginを入れる" href="http://futurismo.biz/archives/559">JenkinsにWarning Plugin/Task Scanner Pluginを入れる<br /> </a><a title="DoxygenとJenkinsを連携させてみた。" href="http://futurismo.biz/archives/661">DoxygenとJenkinsを連携させてみた。</a><a title="重複コードを撃退！DRY原則をC言語で実践するためのCPDを調べた。" href="http://futurismo.biz/archives/516"><br /> </a>
+    第7章インスペクションを実施する(FindBugs, CheckStyle)<br /> Cppcheckを利用する。DRY Pluginを利用する。<br /> <a title="Cppcheckで静的解析して、Jenkinsで表示してみる。" href="https://futurismo.biz/archives/497">Cppcheckで静的解析して、Jenkinsで表示してみる。</a><br /> <a title="重複コードを撃退！DRY原則をC言語で実践するためのCPDを調べた。" href="https://futurismo.biz/archives/516">重複コードを撃退！DRY原則をC言語で実践するためのCPDを調べた。<br /> </a><a title="JenkinsにWarning Plugin/Task Scanner Pluginを入れる" href="https://futurismo.biz/archives/559">JenkinsにWarning Plugin/Task Scanner Pluginを入れる<br /> </a><a title="DoxygenとJenkinsを連携させてみた。" href="https://futurismo.biz/archives/661">DoxygenとJenkinsを連携させてみた。</a><a title="重複コードを撃退！DRY原則をC言語で実践するためのCPDを調べた。" href="https://futurismo.biz/archives/516"><br /> </a>
   </li>
   <li>
-    第8章コードステップ数をカウントする(JavaNCSS/Soner)<br /> CCCCを利用する。<br /> <a title="CCCCを利用してC言語のステップ数をJenkinsで表示する" href="http://futurismo.biz/archives/507">CCCCを利用してC言語のステップ数をJenkinsで表示する<br /> </a><a title="StepCounterでJenkinsからステップ数をカウントしてみる" href="http://futurismo.biz/archives/629">StepCounterでJenkinsからステップ数をカウントしてみる</a><a title="CCCCを利用してC言語のステップ数をJenkinsで表示する" href="http://futurismo.biz/archives/507">ﾂꀀ</a>
+    第8章コードステップ数をカウントする(JavaNCSS/Soner)<br /> CCCCを利用する。<br /> <a title="CCCCを利用してC言語のステップ数をJenkinsで表示する" href="https://futurismo.biz/archives/507">CCCCを利用してC言語のステップ数をJenkinsで表示する<br /> </a><a title="StepCounterでJenkinsからステップ数をカウントしてみる" href="https://futurismo.biz/archives/629">StepCounterでJenkinsからステップ数をカウントしてみる</a><a title="CCCCを利用してC言語のステップ数をJenkinsで表示する" href="https://futurismo.biz/archives/507">ﾂꀀ</a>
   </li>
 </ul>
 

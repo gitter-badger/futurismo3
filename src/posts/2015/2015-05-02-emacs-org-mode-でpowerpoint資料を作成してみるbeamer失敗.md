@@ -33,7 +33,7 @@ url: /archives/=3605
 前回の続きです.
 
 -   [Emacs org-mode でPowerPoint資料を作成してみる(ODT経由)(失敗) |
-    Futurismo](http://futurismo.biz/archives/3601)
+    Futurismo](https://futurismo.biz/archives/3601)
 
 前回は、ODT経由でPowerPoint資料をつくろうとして、失敗しました.
 今回は、Beamer(Latex)経由で作成してみます.

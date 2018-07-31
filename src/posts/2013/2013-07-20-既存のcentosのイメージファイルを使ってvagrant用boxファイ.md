@@ -217,6 +217,6 @@ package.boxが作成される。（けっこう時間かかる）
   * <a href="http://briceno.mx/2012/10/easy-guide-to-create-a-vagrant-box-from-virtualbox/" target="_blank">Easy and simple guide to create your own Vagrant box (Ubuntu-12.02-64 server bridged) from VirtualBox « Basilio Briceño</a>
   * <a href="http://blog.vandenbrand.org/2012/02/21/creating-a-centos-6-2-base-box-for-vagrant/" target="_blank">Creating a CentOS 6.2 base box for Vagrant | Ricbra&#8217;s Blog</a>
 
- [1]: http://futurismo.biz/archives/1330
- [2]: http://futurismo.biz/archives/1643
+ [1]: https://futurismo.biz/archives/1330
+ [2]: https://futurismo.biz/archives/1643
  [3]: http://docs-v1.vagrantup.com/v1/docs/base_boxes.html

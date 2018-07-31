@@ -35,7 +35,7 @@ url: /archives/=2195
 
 <ul class="org-ul">
   <li>
-    <a href="http://futurismo.biz/archives/2181">プログラミングできなくてもAndroidアプリができる！Courseraの「Creative, Serious and Playful Science of Android Apps」を受けた</a>
+    <a href="https://futurismo.biz/archives/2181">プログラミングできなくてもAndroidアプリができる！Courseraの「Creative, Serious and Playful Science of Android Apps」を受けた</a>
   </li>
 </ul>
 

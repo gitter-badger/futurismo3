@@ -288,6 +288,6 @@ C言語からC++での関数が使えるように、C++のコードではextern 
 <div id="fastlookup_top" style="display: none;">
 </div>
 
- [1]: http://futurismo.biz/archives/316 "GoogleTestをC言語で使う方法をハックしてみた"
- [2]: http://futurismo.biz/archives/306 "“GoogleMockをC言語で使う方法をハックしてみた” を編集する"
- [3]: http://futurismo.biz/archives/358 "GoogleMockのモックメゾッドに構造体ポインタを渡してみた"
+ [1]: https://futurismo.biz/archives/316 "GoogleTestをC言語で使う方法をハックしてみた"
+ [2]: https://futurismo.biz/archives/306 "“GoogleMockをC言語で使う方法をハックしてみた” を編集する"
+ [3]: https://futurismo.biz/archives/358 "GoogleMockのモックメゾッドに構造体ポインタを渡してみた"

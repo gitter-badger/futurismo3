@@ -238,4 +238,4 @@ EXPECT\_EQ(30, get\_ret() );
   
 [/C]
 
- [1]: http://futurismo.biz/archives/306 "GoogleMockをC言語で使う方法をハックしてみた"
+ [1]: https://futurismo.biz/archives/306 "GoogleMockをC言語で使う方法をハックしてみた"

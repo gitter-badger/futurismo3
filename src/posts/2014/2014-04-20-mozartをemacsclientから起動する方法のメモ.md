@@ -21,7 +21,7 @@ url: /archives/=2399
 
 <ul class="org-ul">
   <li>
-    <a href="http://futurismo.biz/archives/2271">マルチパラダイム言語Ozの開発環境MozartをインストールしてHelloWorldするまで | Futurismo</a>
+    <a href="https://futurismo.biz/archives/2271">マルチパラダイム言語Ozの開発環境MozartをインストールしてHelloWorldするまで | Futurismo</a>
   </li>
 </ul>
 
@@ -142,4 +142,4 @@ export PATH=/opt/mozart/bin:$PATH
   </div></p>
 </div>
 
- [1]: http://futurismo.biz/wp-content/uploads/emacs_logo.jpg
+ [1]: https://futurismo.biz/wp-content/uploads/emacs_logo.jpg

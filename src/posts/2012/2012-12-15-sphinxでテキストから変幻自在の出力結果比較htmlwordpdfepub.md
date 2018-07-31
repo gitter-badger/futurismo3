@@ -73,10 +73,10 @@ Sphinx-docxbuilderを利用して、Word出力しました。
   <a href="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/IMG_0014.png"><img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="IMG_0014" alt="IMG_0014" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/IMG_0014_thumb.png" width="287" height="381" border="0" /></a>
 </div>
 
- [1]: http://futurismo.biz/archives/805
+ [1]: https://futurismo.biz/archives/805
  [2]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image88.png
- [3]: http://futurismo.biz/archives/946
+ [3]: https://futurismo.biz/archives/946
  [4]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image87.png
- [5]: http://futurismo.biz/archives/811
+ [5]: https://futurismo.biz/archives/811
  [6]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image77.png
- [7]: http://futurismo.biz/archives/925
+ [7]: https://futurismo.biz/archives/925

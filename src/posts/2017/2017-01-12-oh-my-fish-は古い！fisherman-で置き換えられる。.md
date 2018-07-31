@@ -29,7 +29,7 @@ url: /archives/=6079
 今まで、oh-my-fish を fish のパッケージ管理として利用してました。
 
 -   [デフォルト設定で強力に便利！zsh から fish に乗り換えたまとめ |
-    Futurismo](http://futurismo.biz/archives/6016)
+    Futurismo](https://futurismo.biz/archives/6016)
 
 しかし、fisherman を利用すれば、oh-my-fish
 で利用してきた機能を置き換えることができることを知りました。

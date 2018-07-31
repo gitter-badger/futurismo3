@@ -19,7 +19,7 @@ CentOSに rbenv 経路で Ruby 2.0.0-p195を入れようとしたら、エラー
 
 導入した手順は過去記事参照。
 
-<a href="http://futurismo.biz/archives/1383" target="_blank">Cygwin上のRuby1.9をrbenvで最新版Ruby2.0にバージョンアップしたの巻 | Futurismo</a>
+<a href="https://futurismo.biz/archives/1383" target="_blank">Cygwin上のRuby1.9をrbenvで最新版Ruby2.0にバージョンアップしたの巻 | Futurismo</a>
 
 > installing default gems:&#160;&#160;&#160;&#160;&#160; /home/tsu-nera/.rbenv/versions/2.0.0-p195/lib/ruby/gems/2.0.0 (build_info, cache, doc, gems, specifications)   
 > &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; bigdecimal 1.2.0   

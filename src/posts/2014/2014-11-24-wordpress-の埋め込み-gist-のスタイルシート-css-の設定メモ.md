@@ -24,7 +24,7 @@ url: /archives/=2739
 以下の過去記事も参照.
 
 -   [賢威 6 で gist が表示できないときの解決方法 |
-    Futurismo](http://futurismo.biz/archives/1633)
+    Futurismo](https://futurismo.biz/archives/1633)
 
 CSS の調べ方
 ============

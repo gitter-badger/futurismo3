@@ -25,7 +25,7 @@ url: /archives/=1651
 
 前回、VirtualBoxの導入をしました。
 
-  * <a href="http://futurismo.biz/archives/1643" target="_blank">Windows上のCentOSをVmwarePlayerからVirtualBoxへ移行した手順 | Futurismo</a>
+  * <a href="https://futurismo.biz/archives/1643" target="_blank">Windows上のCentOSをVmwarePlayerからVirtualBoxへ移行した手順 | Futurismo</a>
 
 今回は、VirtualBoxをコマンドラインから操作することができるVagrantを使ってみようと思います。
 
@@ -188,7 +188,7 @@ Vagrantfileが作成されます。
 
 ここで起動が止まってしまった。。。いろいろと苦労してBIOSのvt-d設定を有効化したら、起動できた！
 
-  * <a href="http://futurismo.biz/archives/1647" target="_blank">仮想化支援機構(VT-x/AMD-V)を有効化できません | Futurismo</a>
+  * <a href="https://futurismo.biz/archives/1647" target="_blank">仮想化支援機構(VT-x/AMD-V)を有効化できません | Futurismo</a>
 
 VirtualBoxを見ると、起動中となっていることがわかります。ホントにコマンドラインから起動できた！！
   

@@ -29,7 +29,7 @@ url: /archives/=2829
     
     <ul class="org-ul">
       <li>
-        <a href="http://futurismo.biz/archives/2656">Java で Producer-Consumer Pattern を実装してみた | Futurismo</a>
+        <a href="https://futurismo.biz/archives/2656">Java で Producer-Consumer Pattern を実装してみた | Futurismo</a>
       </li>
     </ul>
     

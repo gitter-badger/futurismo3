@@ -212,7 +212,7 @@ url: /archives/=2439
       
       <div class="figure">
         <p>
-          <img src="http://futurismo.biz/wp-content/uploads/wpid-sample5.png" alt="sample.png" />
+          <img src="https://futurismo.biz/wp-content/uploads/wpid-sample5.png" alt="sample.png" />
         </p></p>
       </div>
       
@@ -954,7 +954,7 @@ void FlashSOS(void){
       
       <ul class="org-ul">
         <li>
-          <a href="http://futurismo.biz/archives/2245">スレッドとタスクの違いについてしらべてみた(C++/Linux) | Futurismo</a>
+          <a href="https://futurismo.biz/archives/2245">スレッドとタスクの違いについてしらべてみた(C++/Linux) | Futurismo</a>
         </li>
       </ul>
     </div></p>

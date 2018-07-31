@@ -24,7 +24,7 @@ Amazon Web Service (AWS) をずっと試してみたかったので,
 以前, OpenStack を動かしてみた.今回はライバルを試す.
 
 -   [OpenStack をとりあえず動かしてみたい! vagrant で OpenStack
-    を初体験したメモ | Futurismo](http://futurismo.biz/archives/2604)
+    を初体験したメモ | Futurismo](https://futurismo.biz/archives/2604)
 
 環境
 ----

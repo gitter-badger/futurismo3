@@ -40,7 +40,7 @@ Machine Learning for Trading の講義を聞いて、 以下の 2 つが紹介�
 
 <ul class="org-ul">
   <li>
-    <a href="http://futurismo.biz/archives/5636">Udacity で Machine Learning for Trading の講義をきいた | Futurismo</a> <ul class="org-ul">
+    <a href="https://futurismo.biz/archives/5636">Udacity で Machine Learning for Trading の講義をきいた | Futurismo</a> <ul class="org-ul">
       <li>
         線形回帰
       </li>

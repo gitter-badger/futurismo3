@@ -15,7 +15,7 @@ type: post
 url: /archives/=2662
 ---
 
-<img alt="" src="http://futurismo.biz/wp-content/uploads/emacs_logo.jpg"/>
+<img alt="" src="https://futurismo.biz/wp-content/uploads/emacs_logo.jpg"/>
 
 edX で Haskell の講座をとり始めました.
 

@@ -62,7 +62,7 @@ url: /archives/=2742
     
     <ul class="org-ul">
       <li>
-        <a href="http://futurismo.biz/archives/2330">Ruby から Excel を操作する方法について | Futurismo</a>
+        <a href="https://futurismo.biz/archives/2330">Ruby から Excel を操作する方法について | Futurismo</a>
       </li>
     </ul>
     

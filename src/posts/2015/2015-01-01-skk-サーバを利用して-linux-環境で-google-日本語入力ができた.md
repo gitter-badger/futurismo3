@@ -37,7 +37,7 @@ Linux 環境での IME は, ibus-anthy を利用していた.
 
 -   [Fcitx-anthy を使って Linux Mint
     で親指シフト日本語入力環境を構築するまでの手順 |
-    Futurismo](http://futurismo.biz/archives/2067)
+    Futurismo](https://futurismo.biz/archives/2067)
 
 しかし, 今日でそれもおわりだ! Linux 環境でも Google
 日本語入力をする方法を偶然にも発見してしまった.
@@ -55,7 +55,7 @@ SKK は, IME の一種.
 導入手順は過去記事を参照. 親指シフトにも対応している.
 
 -   [Emacs DDSKK で NICOLA 親指シフト入力をする |
-    Futurismo](http://futurismo.biz/archives/2881)
+    Futurismo](https://futurismo.biz/archives/2881)
 
 SKK Server で Google 日本語入力サーバにアクセスする
 ===================================================

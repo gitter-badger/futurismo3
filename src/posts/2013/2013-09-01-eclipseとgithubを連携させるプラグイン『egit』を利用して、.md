@@ -117,5 +117,5 @@ URIの欄に、HTTPSのURLを選択
 
 <!--:-->
 
- [1]: http://futurismo.biz/archives/1280
+ [1]: https://futurismo.biz/archives/1280
  [2]: http://www.eclipse.org/egit/download/

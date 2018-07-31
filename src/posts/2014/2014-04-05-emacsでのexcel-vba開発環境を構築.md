@@ -125,7 +125,7 @@ Excel VBAなどの開発環境は、たいていVisual Basic Editorです。
       
       <ul class="org-ul">
         <li>
-          <a href="http://futurismo.biz/archives/1331">Cygwinにnkfをインストールして文字化け攻略する！ | Futurismo</a>
+          <a href="https://futurismo.biz/archives/1331">Cygwinにnkfをインストールして文字化け攻略する！ | Futurismo</a>
         </li>
       </ul>
       
@@ -197,10 +197,10 @@ End Sub
     
     <ul class="org-ul">
       <li>
-        <a href="http://futurismo.biz/archives/43">VBA で TDDできるか調べてみた | Futurismo</a>
+        <a href="https://futurismo.biz/archives/43">VBA で TDDできるか調べてみた | Futurismo</a>
       </li>
       <li>
-        <a href="http://futurismo.biz/archives/59">VB Lite Unitでの記法まとめ | Futurismo</a>
+        <a href="https://futurismo.biz/archives/59">VB Lite Unitでの記法まとめ | Futurismo</a>
       </li>
     </ul>
   </div></p>
@@ -282,4 +282,4 @@ End Sub
   </div></p>
 </div>
 
- [1]: http://futurismo.biz/wp-content/uploads/emacs_logo.jpg
+ [1]: https://futurismo.biz/wp-content/uploads/emacs_logo.jpg

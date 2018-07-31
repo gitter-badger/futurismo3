@@ -67,7 +67,7 @@ rubikitch さんが以下のような記事を年末に書きました。
 4.  org-mode の折りたたみ機能によって、階層的に設定を管理できる。
 5.  設定ファイルがブログ記事になる ... こんな感じです。[Emacs
     プログラミング言語開発環境 |
-    Futurismo](http://futurismo.biz/emacs_programming_environment)
+    Futurismo](https://futurismo.biz/emacs_programming_environment)
 6.  読みやすい。他人に見せやすい。... とくに github
     にあげるといい感じにシンタックスハイライトしてくれる。
 7.  書いていて楽しい！！

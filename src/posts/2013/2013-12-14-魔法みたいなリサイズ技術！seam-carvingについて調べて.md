@@ -41,36 +41,36 @@ iPhoneやAndroidアプリでこういう変換アプリがあればよさそう�
 
 #### 変換前
 
-[<img title="beaf_512_384" style="border-top: 0px; border-right: 0px; background-image: none; border-bottom: 0px; padding-top: 0px; padding-left: 0px; border-left: 0px; display: inline; padding-right: 0px" border="0" alt="beaf_512_384" src="http://futurismo.biz/wp-content/uploads/beaf_512_384_thumb.jpg" width="415" height="312" />][4]
+[<img title="beaf_512_384" style="border-top: 0px; border-right: 0px; background-image: none; border-bottom: 0px; padding-top: 0px; padding-left: 0px; border-left: 0px; display: inline; padding-right: 0px" border="0" alt="beaf_512_384" src="https://futurismo.biz/wp-content/uploads/beaf_512_384_thumb.jpg" width="415" height="312" />][4]
 
 #### 変換後
 
-[<img title="beaf_384_384" style="border-top: 0px; border-right: 0px; background-image: none; border-bottom: 0px; padding-top: 0px; padding-left: 0px; border-left: 0px; display: inline; padding-right: 0px" border="0" alt="beaf_384_384" src="http://futurismo.biz/wp-content/uploads/beaf_384_384_thumb.jpg" width="361" height="361" />][5]
+[<img title="beaf_384_384" style="border-top: 0px; border-right: 0px; background-image: none; border-bottom: 0px; padding-top: 0px; padding-left: 0px; border-left: 0px; display: inline; padding-right: 0px" border="0" alt="beaf_384_384" src="https://futurismo.biz/wp-content/uploads/beaf_384_384_thumb.jpg" width="361" height="361" />][5]
 
 #### 変換前
 
-[<img title="cafe_512_384" style="border-top: 0px; border-right: 0px; background-image: none; border-bottom: 0px; padding-top: 0px; padding-left: 0px; border-left: 0px; display: inline; padding-right: 0px" border="0" alt="cafe_512_384" src="http://futurismo.biz/wp-content/uploads/cafe_512_384_thumb.jpg" width="438" height="330" />][6]
+[<img title="cafe_512_384" style="border-top: 0px; border-right: 0px; background-image: none; border-bottom: 0px; padding-top: 0px; padding-left: 0px; border-left: 0px; display: inline; padding-right: 0px" border="0" alt="cafe_512_384" src="https://futurismo.biz/wp-content/uploads/cafe_512_384_thumb.jpg" width="438" height="330" />][6]
 
 #### 変換後
 
-[<img title="cafe_384_384" style="border-top: 0px; border-right: 0px; background-image: none; border-bottom: 0px; padding-top: 0px; padding-left: 0px; border-left: 0px; display: inline; padding-right: 0px" border="0" alt="cafe_384_384" src="http://futurismo.biz/wp-content/uploads/cafe_384_384_thumb.jpg" width="338" height="338" />][7]
+[<img title="cafe_384_384" style="border-top: 0px; border-right: 0px; background-image: none; border-bottom: 0px; padding-top: 0px; padding-left: 0px; border-left: 0px; display: inline; padding-right: 0px" border="0" alt="cafe_384_384" src="https://futurismo.biz/wp-content/uploads/cafe_384_384_thumb.jpg" width="338" height="338" />][7]
 
 #### 変換前
 
-[<img title="sushi_512_384" style="border-top: 0px; border-right: 0px; background-image: none; border-bottom: 0px; padding-top: 0px; padding-left: 0px; border-left: 0px; display: inline; padding-right: 0px" border="0" alt="sushi_512_384" src="http://futurismo.biz/wp-content/uploads/sushi_512_384_thumb.jpg" width="447" height="337" />][8]
+[<img title="sushi_512_384" style="border-top: 0px; border-right: 0px; background-image: none; border-bottom: 0px; padding-top: 0px; padding-left: 0px; border-left: 0px; display: inline; padding-right: 0px" border="0" alt="sushi_512_384" src="https://futurismo.biz/wp-content/uploads/sushi_512_384_thumb.jpg" width="447" height="337" />][8]
 
 #### 変換後
 
-[<img title="sushi_384_383" style="border-top: 0px; border-right: 0px; background-image: none; border-bottom: 0px; padding-top: 0px; padding-left: 0px; border-left: 0px; display: inline; padding-right: 0px" border="0" alt="sushi_384_383" src="http://futurismo.biz/wp-content/uploads/sushi_384_383_thumb.jpg" width="349" height="349" />][9]
+[<img title="sushi_384_383" style="border-top: 0px; border-right: 0px; background-image: none; border-bottom: 0px; padding-top: 0px; padding-left: 0px; border-left: 0px; display: inline; padding-right: 0px" border="0" alt="sushi_384_383" src="https://futurismo.biz/wp-content/uploads/sushi_384_383_thumb.jpg" width="349" height="349" />][9]
 
 魔法みたいで面白い！
 
  [1]: http://en.wikipedia.org/wiki/Seam_carving
  [2]: https://play.google.com/store/apps/details?id=it.fpiantoni.seamcarving&hl=ja
  [3]: http://www.forest.impress.co.jp/article/2008/10/29/seamcarvinggui.html
- [4]: http://futurismo.biz/wp-content/uploads/beaf_512_384.jpg
- [5]: http://futurismo.biz/wp-content/uploads/beaf_384_384.jpg
- [6]: http://futurismo.biz/wp-content/uploads/cafe_512_384.jpg
- [7]: http://futurismo.biz/wp-content/uploads/cafe_384_384.jpg
- [8]: http://futurismo.biz/wp-content/uploads/sushi_512_384.jpg
- [9]: http://futurismo.biz/wp-content/uploads/sushi_384_383.jpg
+ [4]: https://futurismo.biz/wp-content/uploads/beaf_512_384.jpg
+ [5]: https://futurismo.biz/wp-content/uploads/beaf_384_384.jpg
+ [6]: https://futurismo.biz/wp-content/uploads/cafe_512_384.jpg
+ [7]: https://futurismo.biz/wp-content/uploads/cafe_384_384.jpg
+ [8]: https://futurismo.biz/wp-content/uploads/sushi_512_384.jpg
+ [9]: https://futurismo.biz/wp-content/uploads/sushi_384_383.jpg

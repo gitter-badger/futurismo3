@@ -131,4 +131,4 @@ public: int getMinimum( int nextCost, int prevCost, string start, string goal) {
 </pre>
 </div>
 
- [1]: http://futurismo.biz/archives/1236
+ [1]: https://futurismo.biz/archives/1236

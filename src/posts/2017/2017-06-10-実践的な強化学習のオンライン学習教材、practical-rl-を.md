@@ -60,7 +60,7 @@ HSE と Yandex SDA
 また、"実践" とつくだけに、各週の課題が Jupyter Notebook
 で与えられ、OpenAI Gym を活用する。
 
-[fast.ai の講座](http://futurismo.biz/archives/6440)
+[fast.ai の講座](https://futurismo.biz/archives/6440)
 が予想以上によかったので、実践的とかかれると期待してしまう。
 
 強化学習のコースなのだが、最近の動向に合わせ Deep Learning(DQN)

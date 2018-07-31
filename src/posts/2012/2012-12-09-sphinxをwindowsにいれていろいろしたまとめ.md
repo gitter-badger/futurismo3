@@ -36,20 +36,20 @@ Sphinx(スフィンクス)とは、文章を書くためのツール（フレー
 
 <ul class="checklist">
   <li>
-    さまざまな形式で出力できる。(HTML,ePub,PDF,Word…)<br /> <a href="http://futurismo.biz/archives/811">Sphinx-docxbuilderでWordドキュメントをテキストから生成(Windows)<br /> </a><a href="http://futurismo.biz/archives/925">Sphinxからepub形式で出力して、Dropbox経由でiPadから読んでみる<br /> </a><a title="SphinxのPDF出力をrst2pdfで試す@Windows64bit" href="http://futurismo.biz/archives/946">SphinxのPDF出力をrst2pdfで試す@Windows64bit<br /> <a title="Sphinxでテキストから変幻自在の出力結果比較(HTML,Word,PDF,ePub)" href="http://futurismo.biz/archives/949">Sphinxでテキストから変幻自在の出力結果比較(HTML,Word,PDF,ePub)</a></a>
+    さまざまな形式で出力できる。(HTML,ePub,PDF,Word…)<br /> <a href="https://futurismo.biz/archives/811">Sphinx-docxbuilderでWordドキュメントをテキストから生成(Windows)<br /> </a><a href="https://futurismo.biz/archives/925">Sphinxからepub形式で出力して、Dropbox経由でiPadから読んでみる<br /> </a><a title="SphinxのPDF出力をrst2pdfで試す@Windows64bit" href="https://futurismo.biz/archives/946">SphinxのPDF出力をrst2pdfで試す@Windows64bit<br /> <a title="Sphinxでテキストから変幻自在の出力結果比較(HTML,Word,PDF,ePub)" href="https://futurismo.biz/archives/949">Sphinxでテキストから変幻自在の出力結果比較(HTML,Word,PDF,ePub)</a></a>
   </li>
   <li>
-    好きなエディタ(Emacs,Vim,Vi)をつかってテキストでかける。<br /> <a href="http://futurismo.biz/archives/908">EmacsでSphinxのrstファイルを編集するときの気に食わない白色をなんとかしたメモ<br /> </a><a href="http://futurismo.biz/archives/910">SphinxのRSTファイル編集のためにrst.elをemacsに入れる<br /> </a>
+    好きなエディタ(Emacs,Vim,Vi)をつかってテキストでかける。<br /> <a href="https://futurismo.biz/archives/908">EmacsでSphinxのrstファイルを編集するときの気に食わない白色をなんとかしたメモ<br /> </a><a href="https://futurismo.biz/archives/910">SphinxのRSTファイル編集のためにrst.elをemacsに入れる<br /> </a>
   </li>
   <li>
-    gitやsvnなどで版数管理できる。<br /> <a href="http://futurismo.biz/archives/813">gitでSphinxのドキュメントを版数管理。commitでビルドさせた。<br /> </a>
+    gitやsvnなどで版数管理できる。<br /> <a href="https://futurismo.biz/archives/813">gitでSphinxのドキュメントを版数管理。commitでビルドさせた。<br /> </a>
   </li>
   <li>
-    プラクイン豊富！各種自動化が可能！<br /> <a href="http://futurismo.biz/archives/831">git commitからJenkinsでSphinxドキュメントをビルド＋α<br /> </a><a href="http://futurismo.biz/archives/901"><span style="color: #0066cc;">watchdog(watchmedo)でrst定期監視してsphinxビルド。</span></a>
+    プラクイン豊富！各種自動化が可能！<br /> <a href="https://futurismo.biz/archives/831">git commitからJenkinsでSphinxドキュメントをビルド＋α<br /> </a><a href="https://futurismo.biz/archives/901"><span style="color: #0066cc;">watchdog(watchmedo)でrst定期監視してsphinxビルド。</span></a>
   </li>
 </ul>
 
 <div id="fastlookup_top" style="display: none;">
 </div>
 
- [1]: http://futurismo.biz/archives/805
+ [1]: https://futurismo.biz/archives/805

@@ -56,7 +56,7 @@ futurismo.fmをはじめたきっかけ、１月２月で散財したガジェ�
       <a href="https://spire.io/">Spire &#8211; Live Better</a>
     </li>
     <li>
-      <a href="http://futurismo.biz/archives/6892">LectroFanのホワイトノイズが不快だった話 | Futurismo</a>
+      <a href="https://futurismo.biz/archives/6892">LectroFanのホワイトノイズが不快だった話 | Futurismo</a>
     </li>
     <li>
       <a href="https://www.fitbit.com/jp/ionic">Fitbit Ionic&#x2122; ウォッチ</a>
@@ -68,7 +68,7 @@ futurismo.fmをはじめたきっかけ、１月２月で散財したガジェ�
       <a href="https://nature.global/">Nature</a>
     </li>
     <li>
-      <a href="http://futurismo.biz/archives/154">iRemoconでミクミクにしてやんよ。 | Futurismo</a>
+      <a href="https://futurismo.biz/archives/154">iRemoconでミクミクにしてやんよ。 | Futurismo</a>
     </li>
     <li>
       <a href="http://illumy.jp/">illumy Sleep and Wake Mask | The Smart Sleep Mask</a>

@@ -137,6 +137,6 @@ QuizもAssignmentも終わらなかった。
 
 この講座の内容をよくよく復習し、今後もKaggleに取り組んでいこう。[Kaggle用のマシン][3]も購入したことだし、まずはそれでグリッドサーチやアンサンブルを試してスコアを上げる。
 
- [1]: http://futurismo.biz/archives/6744
+ [1]: https://futurismo.biz/archives/6744
  [2]: https://www.kaggle.com/wiki/WinningModelDocumentationTemplate
- [3]: http://futurismo.biz/archives/6850
+ [3]: https://futurismo.biz/archives/6850

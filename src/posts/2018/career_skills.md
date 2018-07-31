@@ -81,4 +81,4 @@ date: 2018-06-23T22:37:58+09:00
 
 私のSoftSkillsの書評のリンクも張っておきます。
 
-- [SoftSkills を読んで思うこと · Futurismo](http://futurismo.biz/archives/5842/)
+- [SoftSkills を読んで思うこと · Futurismo](https://futurismo.biz/archives/5842/)

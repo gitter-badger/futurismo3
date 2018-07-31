@@ -52,4 +52,4 @@ url: /archives/=6599
 
 ### Q学習 {#q-}
 
- [1]: http://futurismo.biz/archives/6505
+ [1]: https://futurismo.biz/archives/6505

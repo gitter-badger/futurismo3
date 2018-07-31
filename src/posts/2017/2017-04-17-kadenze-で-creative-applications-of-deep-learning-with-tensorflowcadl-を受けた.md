@@ -84,7 +84,7 @@ Deep Learning とはなにかからはじまり、画像データの処理方法
 不気味な画像が生成された。
 
 -   [kadenze: CADL Session 1 畳み込み |
-    Futurismo](http://futurismo.biz/archives/6231)
+    Futurismo](https://futurismo.biz/archives/6231)
 
 session2: Training A Network W/ TensorFlow
 ------------------------------------------
@@ -104,7 +104,7 @@ lecture では、tensorflow
 つの画像を ニューラルネットワークに描かせることをした。
 
 -   [Kadenze: CADL Session2 Image Painting |
-    Futurismo](http://futurismo.biz/archives/6240)
+    Futurismo](https://futurismo.biz/archives/6240)
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">kadenze CADL session2 explore.gif <a href="https://twitter.com/hashtag/CADL?src=hash">#CADL</a><br>これをどう解釈すればいいのかいまいち分かってない。 <a href="https://t.co/NgzpdTmHyB">pic.twitter.com/NgzpdTmHyB</a></p>&mdash; tsu-nera@勉強垢 (@tsu_nera_s) <a href="https://twitter.com/tsu_nera_s/status/852088350093783040">2017 年 4 月 12 日</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -24,7 +24,7 @@ url: /archives/=1643
 
 以前、一生懸命頑張ってVmwarePlayerをインストールしましたが、Vargrantを使ってみたくてVartualBoxに移行することに決めました。今回も、フルパワーで頑張りました。
 
-<a href="http://futurismo.biz/archives/777" target="_blank">WindowsでVMware Player上のUbuntuを動かしてみたメモ | Futurismo</a>
+<a href="https://futurismo.biz/archives/777" target="_blank">WindowsでVMware Player上のUbuntuを動かしてみたメモ | Futurismo</a>
 
 </br>
 

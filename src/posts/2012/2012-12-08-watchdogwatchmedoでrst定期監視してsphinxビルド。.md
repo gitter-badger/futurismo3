@@ -187,4 +187,4 @@ watchmedo shell-command --patterns="*.rst" --recursive --wait --command="make ht
                 </li>
               </ul>
 
- [1]: http://futurismo.biz/archives/805
+ [1]: https://futurismo.biz/archives/805

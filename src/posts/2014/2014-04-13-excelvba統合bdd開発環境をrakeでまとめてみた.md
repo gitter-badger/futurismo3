@@ -28,16 +28,16 @@ ExcelVBAで統合BDD開発環境を構築したメモです。
 
 <ul class="org-ul">
   <li>
-    <a href="http://futurismo.biz/archives/2379">EmacsでのExcel VBA開発環境を構築 | Futurismo</a>
+    <a href="https://futurismo.biz/archives/2379">EmacsでのExcel VBA開発環境を構築 | Futurismo</a>
   </li>
   <li>
-    <a href="http://futurismo.biz/archives/2382">Excel VBAで テスト駆動開発してみる | Futurismo</a>
+    <a href="https://futurismo.biz/archives/2382">Excel VBAで テスト駆動開発してみる | Futurismo</a>
   </li>
   <li>
-    <a href="http://futurismo.biz/archives/2386">ExcelVBAのコードをimport/exportする | Futurismo</a>
+    <a href="https://futurismo.biz/archives/2386">ExcelVBAのコードをimport/exportする | Futurismo</a>
   </li>
   <li>
-    <a href="http://futurismo.biz/archives/2388">ExcelVBAのステップ数をカウントする | Futurismo</a>
+    <a href="https://futurismo.biz/archives/2388">ExcelVBAのステップ数をカウントする | Futurismo</a>
   </li>
 </ul>
 
@@ -204,4 +204,4 @@ rake vbe      # Open Visual Basic Editor for Application
   </div></p>
 </div>
 
- [1]: http://futurismo.biz/wp-content/uploads/Windows_7_Vertical_Logo_Web.jpg
+ [1]: https://futurismo.biz/wp-content/uploads/Windows_7_Vertical_Logo_Web.jpg

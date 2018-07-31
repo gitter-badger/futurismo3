@@ -17,7 +17,7 @@ type: post
 url: /archives/=2907
 ---
 
-<img alt="" src="http://futurismo.biz/wp-content/uploads/emacs_logo.jpg"/>
+<img alt="" src="https://futurismo.biz/wp-content/uploads/emacs_logo.jpg"/>
 
 はじめに
 ========
@@ -137,7 +137,7 @@ R 言語のようにグラフをともなうものにこそ,
 Reproducible Research というバズワードも最近になって話題になった.
 
 -   [Web 操作手順書を自動生成!Emacs org-babel で実現する Run Book
-    Automation (RBA) | Futurismo](http://futurismo.biz/archives/2451)
+    Automation (RBA) | Futurismo](https://futurismo.biz/archives/2451)
 
 これを機会に,もってみんな Emacs と org-mode をつかうべし.
 

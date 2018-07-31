@@ -38,15 +38,15 @@ FitnesseとRubySlimを使ってでエンドツーエンドを書いてみまし�
 
 この記事は、以下の記事の延長になります。
 
-  * <a href="http://futurismo.biz/archives/1289" target="_blank">組込み開発のシステムテスト・機能テストを自動化できるか?Rubyのminitestで非同期テストを実施する方法を本気出して考えてみた | Futurismo</a>
-  * <a href="http://futurismo.biz/archives/1667" target="_blank">ミライの組込み開発！vagrant × sahara × minitestで実現する仮想エンドツーエンドテスト | Futurismo</a>
-  * <a href="http://futurismo.biz/archives/1748" target="_blank">teratermマクロで自由自在にエンドツーエンドを書く！TTLのためのxUnitフレームワーク「TTLUnit」 | Futurismo</a>
+  * <a href="https://futurismo.biz/archives/1289" target="_blank">組込み開発のシステムテスト・機能テストを自動化できるか?Rubyのminitestで非同期テストを実施する方法を本気出して考えてみた | Futurismo</a>
+  * <a href="https://futurismo.biz/archives/1667" target="_blank">ミライの組込み開発！vagrant × sahara × minitestで実現する仮想エンドツーエンドテスト | Futurismo</a>
+  * <a href="https://futurismo.biz/archives/1748" target="_blank">teratermマクロで自由自在にエンドツーエンドを書く！TTLのためのxUnitフレームワーク「TTLUnit」 | Futurismo</a>
 
 ### FitNesse テストケースの用意
 
 まずは、テストケースのページの作成です。
 
-  * <a href="http://futurismo.biz/archives/1769" target="_blank">RubyのAPIレベルのテストを直叩きできるFitNesse用フレームワーク ‘RubySlim’ | Futurismo</a>
+  * <a href="https://futurismo.biz/archives/1769" target="_blank">RubyのAPIレベルのテストを直叩きできるFitNesse用フレームワーク ‘RubySlim’ | Futurismo</a>
 
 これは、前回の記事のまんま。
 

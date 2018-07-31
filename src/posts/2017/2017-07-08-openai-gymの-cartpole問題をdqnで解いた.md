@@ -90,8 +90,8 @@ Fixed Target Q-Networkをいまいち理解していないので、正式なDQN�
   
 <https://gym.openai.com/evaluations/eval_DYySvAnSxuP3oHjZchxaQ>
 
- [1]: http://futurismo.biz/archives/6481
- [2]: http://futurismo.biz/archives/6549
- [3]: http://futurismo.biz/archives/6580
- [4]: http://futurismo.biz/archives/6604
+ [1]: https://futurismo.biz/archives/6481
+ [2]: https://futurismo.biz/archives/6549
+ [3]: https://futurismo.biz/archives/6580
+ [4]: https://futurismo.biz/archives/6604
  [5]: http://www.iclr.cc/lib/exe/fetch.php?media=iclr2015:silver-iclr2015.pdf

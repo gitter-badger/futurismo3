@@ -43,9 +43,9 @@ ebookはここから購入できる。
 
 各ツールの説明は、書籍の第1章に載っています。自分のPCはWindowsなのですが、Virtual Box 上に CentOSをインストールしてそこに開発環境を構築し、、Sambaを経由してWindows上のEclipse上から写経をしようと考えています。なので、ベースは CentOS。そのへんの導入方法は過去記事を参照のこと。
 
-  * <a href="http://futurismo.biz/archives/1390" target="_blank" rel="noopener noreferrer">CentOS上でSAMBAサーバを立ちあげてWindowsからアクセスするためのメモ | Futurismo</a>
-  * <a href="http://futurismo.biz/archives/1330" target="_blank" rel="noopener noreferrer">CentOSを最小構成(minimal)でVMware Playerにインストールした | Futurismo</a>
-  * <a href="http://futurismo.biz/archives/1643" target="_blank" rel="noopener noreferrer">Windows上のCentOSをVmwarePlayerからVirtualBoxへ移行した手順 | Futurismo</a>
+  * <a href="https://futurismo.biz/archives/1390" target="_blank" rel="noopener noreferrer">CentOS上でSAMBAサーバを立ちあげてWindowsからアクセスするためのメモ | Futurismo</a>
+  * <a href="https://futurismo.biz/archives/1330" target="_blank" rel="noopener noreferrer">CentOSを最小構成(minimal)でVMware Playerにインストールした | Futurismo</a>
+  * <a href="https://futurismo.biz/archives/1643" target="_blank" rel="noopener noreferrer">Windows上のCentOSをVmwarePlayerからVirtualBoxへ移行した手順 | Futurismo</a>
 
 Windows環境だと、CygwinのgccやVisualStudioを利用するてもあるけれども、コンパイル時間が遅いので今回はやめた。
 
@@ -270,9 +270,9 @@ Chapter8でrlogが使われます。
 
 <!--:-->
 
- [1]: http://futurismo.biz/archives/1841
+ [1]: https://futurismo.biz/archives/1841
  [2]: https://code.google.com/p/googlemock/downloads/list
- [3]: http://futurismo.biz/archives/1302
+ [3]: https://futurismo.biz/archives/1302
  [4]: http://sourceforge.net/projects/scons/files/scons-local/
  [5]: http://sourceforge.net/projects/boost/files/boost/1.54.0/
  [6]: http://cpputest.github.io/index.html

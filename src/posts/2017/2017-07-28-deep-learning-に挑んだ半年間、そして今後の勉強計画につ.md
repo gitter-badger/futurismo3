@@ -233,13 +233,13 @@ url: /archives/=6682
   * Udacity Robotics Nanodegree
   * fast.ai Cutting Edge Deep Learning for Coders
 
- [1]: http://futurismo.biz/archives/6106
- [2]: http://futurismo.biz/archives/6285
- [3]: http://futurismo.biz/archives/6440
- [4]: http://futurismo.biz/archives/6469
- [5]: http://futurismo.biz/archives/6490
- [6]: http://futurismo.biz/archives/6564
- [7]: http://futurismo.biz/archives/6667
+ [1]: https://futurismo.biz/archives/6106
+ [2]: https://futurismo.biz/archives/6285
+ [3]: https://futurismo.biz/archives/6440
+ [4]: https://futurismo.biz/archives/6469
+ [5]: https://futurismo.biz/archives/6490
+ [6]: https://futurismo.biz/archives/6564
+ [7]: https://futurismo.biz/archives/6667
  [8]: http://course.fast.ai/part2.html
  [9]: http://www.deeplearningbook.org/
  [10]: https://www.udacity.com/robotics

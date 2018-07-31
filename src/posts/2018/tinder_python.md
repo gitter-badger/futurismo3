@@ -112,7 +112,7 @@ SCUT-FBP のデータセットを利用して、美人判定モデルを作成�
 
 - データセットの 女性だけを利用。2250枚。そのうちの1/5をvalidationとして利用。
 - fastai(PyTorch)ライブラリを利用。ResNet32をファインチューニング。
-- チューニング方法は[過去記事](http://futurismo.biz/2018/05/fastai_lesson2/)参照。85%の精度。
+- チューニング方法は[過去記事](https://futurismo.biz/2018/05/fastai_lesson2/)参照。85%の精度。
 - targetラベルは、ratingを利用。3.0以下をnope, 3.0以上をlikeと分類するようにする。
 
 

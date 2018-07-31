@@ -39,7 +39,7 @@ url: /archives/=2680
     </p>
     
     <p>
-      <img alt="" src="http://futurismo.biz/wp-content/uploads/emacs_logo.jpg" /> </div> </div> 
+      <img alt="" src="https://futurismo.biz/wp-content/uploads/emacs_logo.jpg" /> </div> </div> 
       
       <div id="outline-container-unnumbered-2" class="outline-2">
         <h2 id="unnumbered-2">

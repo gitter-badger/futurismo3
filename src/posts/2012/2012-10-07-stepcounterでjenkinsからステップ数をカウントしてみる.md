@@ -17,7 +17,7 @@ url: /archives/=629
 
 Jenkinsをつかったステップ数表示について、以前CCCCを紹介した。
   
-<a title="CCCCを利用してC言語のステップ数をJenkinsで表示する" href="http://futurismo.biz/archives/507" rel="bookmark">CCCCを利用してC言語のステップ数をJenkinsで表示するﾂꀀ</a>
+<a title="CCCCを利用してC言語のステップ数をJenkinsで表示する" href="https://futurismo.biz/archives/507" rel="bookmark">CCCCを利用してC言語のステップ数をJenkinsで表示するﾂꀀ</a>
   
 ネットで調べてみると、他にもステップ数を数える方法があったのでメモする。
 

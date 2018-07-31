@@ -275,7 +275,7 @@ Emacs を起動して、C-x C-f を押してから以下を入力
 Windows での方法は、今回は未検証だけど、以下でいけるはず。
 
 -   [Windows 環境の Emacs から Linux マシンに tramp で乗り込む方法メモ |
-    Futurismo](http://futurismo.biz/archives/3412)
+    Futurismo](https://futurismo.biz/archives/3412)
 
 これで、ローカルで編集するのと同じ操作でリモートのファイルいじることができる。
 
@@ -374,4 +374,4 @@ Visual Studio Code
 するものがある。これは便利。
 
 -   [ev3dev-lang-python 開発環境(Visual Studio Code) |
-    Futurismo](http://futurismo.biz/archives/6569)
+    Futurismo](https://futurismo.biz/archives/6569)

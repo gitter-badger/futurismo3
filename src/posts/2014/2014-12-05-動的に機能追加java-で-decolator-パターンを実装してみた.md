@@ -14,7 +14,7 @@ type: post
 url: /archives/=2780
 ---
 
-<a href="http://futurismo.biz/wp-content/uploads/java.png"><img alt="" src="http://futurismo.biz/wp-content/uploads/java.png" width="256" height="256" /></a>
+<a href="https://futurismo.biz/wp-content/uploads/java.png"><img alt="" src="https://futurismo.biz/wp-content/uploads/java.png" width="256" height="256" /></a>
 
 はじめに
 ========
@@ -255,7 +255,7 @@ Enum Strategy Pattern と組み合わせ
 前回学んだ, Enum Strategy Pattern と組み合わせる.
 
 -   [Effective Java にのっている エレガントな Enum の使い方メモ |
-    Futurismo](http://futurismo.biz/archives/2768)
+    Futurismo](https://futurismo.biz/archives/2768)
 
 ``` {.java}
 public class DecolatorWithFunctional {

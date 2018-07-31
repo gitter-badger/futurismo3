@@ -39,7 +39,7 @@ url: /archives/=2451
     
     <ul class="org-ul">
       <li>
-        <a href="http://futurismo.biz/en/archives/2431">Selenium BuilderでRubyコードを自動生成して実行する | Futurismo</a>
+        <a href="https://futurismo.biz/en/archives/2431">Selenium BuilderでRubyコードを自動生成して実行する | Futurismo</a>
       </li>
     </ul>
     
@@ -49,10 +49,10 @@ url: /archives/=2451
     
     <ul class="org-ul">
       <li>
-        <a href="http://futurismo.biz/archives/2349">Run Book Autmationとはなにかについて調べてみた | Futurismo</a>
+        <a href="https://futurismo.biz/archives/2349">Run Book Autmationとはなにかについて調べてみた | Futurismo</a>
       </li>
       <li>
-        <a href="http://futurismo.biz/archives/2403">org-modeで書いたテキストをPandocでRestructured Textに変換する | Futurismo</a>
+        <a href="https://futurismo.biz/archives/2403">org-modeで書いたテキストをPandocでRestructured Textに変換する | Futurismo</a>
       </li>
     </ul>
     
@@ -347,4 +347,4 @@ wd.quit
   </div></p>
 </div>
 
- [1]: http://futurismo.biz/wp-content/uploads/emacs_logo.jpg
+ [1]: https://futurismo.biz/wp-content/uploads/emacs_logo.jpg

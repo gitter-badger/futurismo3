@@ -50,5 +50,5 @@ url: /archives/=6612
 
 ## コード
 
- [1]: http://futurismo.biz/archives/6610
+ [1]: https://futurismo.biz/archives/6610
  [2]: https://www.oreilly.co.jp/books/9784873117584/

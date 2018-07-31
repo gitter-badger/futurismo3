@@ -17,7 +17,7 @@ url: /archives/=1390
 
 前回、VMware上のCentOSからCygwinのディレクトリをマウントすることを記事にしました。
 
-<a href="http://futurismo.biz/archives/1388" target="_blank">Cygwin(Windows)をCentOSからmountする方法 | Futurismo</a>
+<a href="https://futurismo.biz/archives/1388" target="_blank">Cygwin(Windows)をCentOSからmountする方法 | Futurismo</a>
 
 今回は、その逆。CentOSのディレクトリをWindowsにマウントします。CentOSにSambaを導入することで、実現しようと思います。
 

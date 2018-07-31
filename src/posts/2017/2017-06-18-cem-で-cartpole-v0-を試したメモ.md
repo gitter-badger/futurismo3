@@ -37,7 +37,7 @@ url: /archives/=6549
 前回の続き。前回はなんの戦略もなく、ただ試した。
 
 -   [OpenAI Gym の CartPole-v0 を試したメモ |
-    Futurismo](http://futurismo.biz/archives/6481)
+    Futurismo](https://futurismo.biz/archives/6481)
 
 今回は、CrossEntropy Method(CEM)をつかって、OpenAI gym の CartPole-v0
 を試した。

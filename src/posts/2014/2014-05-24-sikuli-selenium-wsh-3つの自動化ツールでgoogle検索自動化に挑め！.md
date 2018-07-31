@@ -32,7 +32,7 @@ url: /archives/=2470
     
     <ul class="org-ul">
       <li>
-        <a href="http://futurismo.biz/archives/2467">画像認識でアプリケーション操作の自動化を実現！Sikuliがあまりに革命的で興奮した | Futurismo</a>
+        <a href="https://futurismo.biz/archives/2467">画像認識でアプリケーション操作の自動化を実現！Sikuliがあまりに革命的で興奮した | Futurismo</a>
       </li>
     </ul>
     
@@ -42,7 +42,7 @@ url: /archives/=2470
     
     <ul class="org-ul">
       <li>
-        <a href="http://futurismo.biz/en/archives/2431">Selenium BuilderでRubyコードを自動生成して実行する | Futurismo</a>
+        <a href="https://futurismo.biz/en/archives/2431">Selenium BuilderでRubyコードを自動生成して実行する | Futurismo</a>
       </li>
     </ul>
   </div></p>

@@ -64,7 +64,7 @@ Task Scan
 <div id="fastlookup_top">
 </div>
 
- [1]: http://futurismo.biz/archives/826
- [2]: http://futurismo.biz/archives/559
- [3]: http://futurismo.biz/archives/629
+ [1]: https://futurismo.biz/archives/826
+ [2]: https://futurismo.biz/archives/559
+ [3]: https://futurismo.biz/archives/629
  [4]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image79.png

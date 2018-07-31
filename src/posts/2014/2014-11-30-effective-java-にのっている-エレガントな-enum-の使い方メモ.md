@@ -32,7 +32,7 @@ type: post
 url: /archives/=2768
 ---
 
-[<img alt="" src="http://futurismo.biz/wp-content/uploads/java.png" width="256" height="256" />][1]
+[<img alt="" src="https://futurismo.biz/wp-content/uploads/java.png" width="256" height="256" />][1]
 
 <div id="outline-container-unnumbered-1" class="outline-2">
   <h2 id="unnumbered-1">
@@ -330,4 +330,4 @@ url: /archives/=2768
   </div>
 </div>
 
- [1]: http://futurismo.biz/wp-content/uploads/java.png
+ [1]: https://futurismo.biz/wp-content/uploads/java.png

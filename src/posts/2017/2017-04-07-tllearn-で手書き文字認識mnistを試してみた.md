@@ -29,7 +29,7 @@ url: /archives/=6222
 先日、ゼロから作る DeepLearning を読んだ。
 
 -   [ゼロから作る Deep Learning を読んだ |
-    Futurismo](http://futurismo.biz/archives/6219)
+    Futurismo](https://futurismo.biz/archives/6219)
 
 Udacity Deep Learning Nanodegree で TFLearn が紹介されていたのだが、
 MNIST

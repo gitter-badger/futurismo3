@@ -170,7 +170,7 @@ Part B
     が、指定されているのだが、Emacs でやりたいので、 Emacs
     で環境構築をすることにした。
     -   [Emacs で Racket 開発環境を構築 |
-        Futurismo](http://futurismo.biz/archives/6009)
+        Futurismo](https://futurismo.biz/archives/6009)
 
 Lisp 系の言語はいろいろ経験がある（Common Lisp ,Scheme, Emacs
 Lisp,Clojure)

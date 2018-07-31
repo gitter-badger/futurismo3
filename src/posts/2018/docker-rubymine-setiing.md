@@ -8,7 +8,7 @@ Dockerで立ち上げた、Railsサーバ、MySQLサーバに RubyMineから接�
 
 Dockerを利用して、Rails環境をたちあげる手順は、前回の記事を参考にしてください。
 
-- [Ruby on Rail \+ MySQL 開発環境を Dockerで構築 · Futurismo](http://futurismo.biz/2018/06/docker-rails/)
+- [Ruby on Rail \+ MySQL 開発環境を Dockerで構築 · Futurismo](https://futurismo.biz/2018/06/docker-rails/)
 
 ## RailsサーバにRubyMineで接続
 これで実現できることは、ローカルPCに RubyやRailをインストールしてなくても、

@@ -111,4 +111,4 @@ if __name__ == '__main__':
 
 ```
 
- [1]: http://futurismo.biz/archives/6915
+ [1]: https://futurismo.biz/archives/6915

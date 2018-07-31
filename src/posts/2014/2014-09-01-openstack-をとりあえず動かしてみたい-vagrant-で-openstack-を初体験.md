@@ -272,7 +272,7 @@ url: /archives/=2604
     
     <ul class="org-ul">
       <li>
-        <a href="http://futurismo.biz/archives/1651">vagrant がスゲエ! コマンドラインから VirtualBox を自由自在に操る方法 | Futurismo</a>
+        <a href="https://futurismo.biz/archives/1651">vagrant がスゲエ! コマンドラインから VirtualBox を自由自在に操る方法 | Futurismo</a>
       </li>
     </ul>
   </div>
@@ -330,7 +330,7 @@ url: /archives/=2604
       
       <div class="figure">
         <p>
-          <img src="http://futurismo.biz/wp-content/uploads/wpid-2014-09-01-003629_632x482_scrot.png" alt="2014-09-01-003629_632x482_scrot.png" />
+          <img src="https://futurismo.biz/wp-content/uploads/wpid-2014-09-01-003629_632x482_scrot.png" alt="2014-09-01-003629_632x482_scrot.png" />
         </p></p>
       </div>
     </div>

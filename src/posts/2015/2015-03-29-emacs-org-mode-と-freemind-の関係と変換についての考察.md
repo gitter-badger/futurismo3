@@ -17,7 +17,7 @@ type: post
 url: /archives/=3082
 ---
 
-<img alt="" src="http://futurismo.biz/wp-content/uploads/emacs_logo.jpg"/>
+<img alt="" src="https://futurismo.biz/wp-content/uploads/emacs_logo.jpg"/>
 
 概要
 ====
@@ -37,7 +37,7 @@ Emacs の org-mode と freemind の連携について書きます.
 Emacs を 利用しはじめてから, または, 以下を読んでから.
 
 -   [プレインテキストへの決意 `for progmatic programmer` |
-    Futurismo](http://futurismo.biz/archives/2209)
+    Futurismo](https://futurismo.biz/archives/2209)
 
 .... やっぱプレーンテキストだよな!!
 

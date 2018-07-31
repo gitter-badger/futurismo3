@@ -16,7 +16,7 @@ type: post
 url: /archives/=2978
 ---
 
-<a href="http://futurismo.biz/wp-content/uploads/java.png"><img alt="" src="http://futurismo.biz/wp-content/uploads/java.png" width="256" height="256" /></a>
+<a href="https://futurismo.biz/wp-content/uploads/java.png"><img alt="" src="https://futurismo.biz/wp-content/uploads/java.png" width="256" height="256" /></a>
 
 はじめに
 ========
@@ -24,7 +24,7 @@ url: /archives/=2978
 前回の続き.
 
 -   [Java7 の Fiels.nio.file.Files で ファイルのコピーをしてみる |
-    Futurismo](http://futurismo.biz/archives/2976)
+    Futurismo](https://futurismo.biz/archives/2976)
 
 Java を利用した copy だと, フォルダをコピーすると, 中身をコピーしない.
 
@@ -35,7 +35,7 @@ xcopy を利用.
 を利用することにする.
 
 -   [Windows での コマンドラインからコピーするコマンドまとめ (xcopy,
-    robocopy, copy) | Futurismo](http://futurismo.biz/archives/2735)
+    robocopy, copy) | Futurismo](https://futurismo.biz/archives/2735)
 -   [コマンドプロンプト xcopy -
     ファイルをディレクトリ構造ごとコピーする](http://www.k-tanaka.net/cmd/xcopy.php)
 

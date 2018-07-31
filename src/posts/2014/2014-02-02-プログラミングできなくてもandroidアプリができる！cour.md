@@ -96,7 +96,7 @@ Androidのアプリを作りたいので、Courseraでイリノイ大学のAndro
     </p>
     
     <p>
-      <a href="http://futurismo.biz/archives/2025">Eclipse ADTでつくるAndroidエミュレータ開発環境構築メモ(Windows) | Futurismo</a>
+      <a href="https://futurismo.biz/archives/2025">Eclipse ADTでつくるAndroidエミュレータ開発環境構築メモ(Windows) | Futurismo</a>
     </p>
     
     <p>

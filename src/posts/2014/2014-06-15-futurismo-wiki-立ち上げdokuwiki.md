@@ -31,7 +31,7 @@ url: /archives/=2500
 以前, 高らかに Futurismo Wiki の立ち上げを宣言しました.
 
 -   [Futurismo Wiki 立ち上げ (Dokuwiki) |
-    Futurismo](http://futurismo.biz/archives/2500)
+    Futurismo](https://futurismo.biz/archives/2500)
 
 宣言しただけで, ちっともカスタマイズしていなかったので, カスタマイズ
 してみました.本記事は, その作業メモ.

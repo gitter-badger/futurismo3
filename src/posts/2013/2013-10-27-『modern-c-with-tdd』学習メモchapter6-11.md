@@ -90,11 +90,11 @@ Chapter10では、実際に簡単な数値実験が行われる。inlineメソ�
 
 [&#8220;Uncle Bob&#8221; Martin &#8211; The Transformation Priority Premise][7] from [8th Light][8] on [Vimeo][9].
 
- [1]: http://futurismo.biz/archives/1847
+ [1]: https://futurismo.biz/archives/1847
  [2]: http://www.infoq.com/jp/articles/RefactoringMyths
- [3]: http://futurismo.biz/archives/1939
- [4]: http://futurismo.biz/archives/1936
- [5]: http://futurismo.biz/archives/1876
+ [3]: https://futurismo.biz/archives/1939
+ [4]: https://futurismo.biz/archives/1936
+ [5]: https://futurismo.biz/archives/1876
  [6]: http://en.wikipedia.org/wiki/Transformation_Priority_Premise
  [7]: http://vimeo.com/60561303
  [8]: http://vimeo.com/eighthlight

@@ -161,4 +161,4 @@ jedi は Emacsの補完ツール , auto-completeを使っているので、そ�
  [1]: https://qiita.com/ytoda129/items/58078d8c7e74d9144014
  [2]: https://tarao.hatenablog.com/entry/20150221/1424518030#tips-isolated-setup
  [3]: https://ymotongpoo.hatenablog.com/entry/2017/11/07/000921
- [4]: http://futurismo.biz/archives/2680
+ [4]: https://futurismo.biz/archives/2680

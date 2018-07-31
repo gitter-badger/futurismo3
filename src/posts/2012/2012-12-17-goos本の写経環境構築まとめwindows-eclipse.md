@@ -52,7 +52,7 @@ Java用Mockオブジェクト生成のためのフレームワーク。
   
 このGoos本は、Mockオブジェクトを使ったTDDをまとめたもの。
 
-  * <a style="widows: 2; text-transform: none; background-color: #ffffff; text-indent: 0px; letter-spacing: normal; font: 14px/21px メイリオ, meiryo, arial, helvetica; white-space: normal; orphans: 2; color: #cc6600; word-spacing: 0px; text-decoration: underline; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;" title="JMockのインストールとEclipseでの使い方まとめ" href="http://futurismo.biz/archives/961">JMockのインストールとEclipseでの使い方まとめ</a>
+  * <a style="widows: 2; text-transform: none; background-color: #ffffff; text-indent: 0px; letter-spacing: normal; font: 14px/21px メイリオ, meiryo, arial, helvetica; white-space: normal; orphans: 2; color: #cc6600; word-spacing: 0px; text-decoration: underline; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;" title="JMockのインストールとEclipseでの使い方まとめ" href="https://futurismo.biz/archives/961">JMockのインストールとEclipseでの使い方まとめ</a>
 
 ### Smack
 
@@ -181,7 +181,7 @@ build/jarsにjarファイルが作成されるので、それをEclipseの外部
 <div id="fastlookup_top" style="display: none;">
 </div>
 
- [1]: http://futurismo.biz/archives/844
+ [1]: https://futurismo.biz/archives/844
  [2]: http://www.igniterealtime.org/downloads/index.jsp
  [3]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/skitch11.png
  [4]: https://groups.google.com/forum/?fromgroups=#!topic/growing-object-oriented-software/d5sdcR5wTkw "https://groups.google.com/forum/?fromgroups=#!topic/growing-object-oriented-software/d5sdcR5wTkw"

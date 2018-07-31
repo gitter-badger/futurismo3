@@ -32,7 +32,7 @@ url: /archives/=3056
 異常検出についての古典的なアルゴリズムを記事にした.
 
 -   [分散システムにおける異常検出とスゲぇ HeartBeat についてのまとめ |
-    Futurismo](http://futurismo.biz/archives/3007)
+    Futurismo](https://futurismo.biz/archives/3007)
 
 今回は, 異常を検出したあとの動作についてメモ. coursera で Election
 Algorithms を学習した.

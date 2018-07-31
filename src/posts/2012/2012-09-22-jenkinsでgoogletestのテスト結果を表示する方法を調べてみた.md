@@ -87,7 +87,7 @@ WindowsサービスでJenkinsを立ち上げるのをやめるとよい。
 
 [GoogleTest &#8211; 上級ガイド &#8211; XMLレポート][4]
 
- [1]: http://futurismo.biz/archives/331 "WindowsバッチファイルをJenkinsで起動したらネットにアクセスできない"
+ [1]: https://futurismo.biz/archives/331 "WindowsバッチファイルをJenkinsで起動したらネットにアクセスできない"
  [2]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image15.png
  [3]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image16.png
  [4]: http://opencv.jp/googletestdocs/advancedguide.html

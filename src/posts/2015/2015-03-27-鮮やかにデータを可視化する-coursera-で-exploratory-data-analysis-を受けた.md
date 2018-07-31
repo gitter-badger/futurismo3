@@ -82,7 +82,7 @@ Exploratory Data Analysis:
 取り組んだ. こういう, 目的があるときは知識の吸収がはかどる ( \^ω\^ )
 
 -   [リッカート法によるアンケートの相関分析を R でする方法のメモ |
-    Futurismo](http://futurismo.biz/archives/3048)
+    Futurismo](https://futurismo.biz/archives/3048)
 
 今まで, R に標準搭載されていた base package で グラフの描写を
 していたのだが, ggplot2 の qplot をつかうことで良さげなグラフがかける

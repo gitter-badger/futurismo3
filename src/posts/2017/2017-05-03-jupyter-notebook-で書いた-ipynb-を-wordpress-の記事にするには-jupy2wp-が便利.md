@@ -162,7 +162,7 @@ Jupyter Notebook で実行した結果や、matplotlib や seaborn で生成し�
     </p>
     
     <p>
-      [sourcecode language=&#8221;bash&#8221; title=&#8221;&#8221; ]<br /> python -m jupy2wp.jupy2wp &#8211;xmlrpc-url http://futurismo.biz/xmlrpc.php &#8211;user username &#8211;password hogehoge &#8211;nb titanic-cnn.ipynb &#8211;title &#8220;Kaggle: Titanic 問題データ分析&#8221; &#8211;categories [Python, 統計] &#8211;tags keras<br /> [/sourcecode]
+      [sourcecode language=&#8221;bash&#8221; title=&#8221;&#8221; ]<br /> python -m jupy2wp.jupy2wp &#8211;xmlrpc-url https://futurismo.biz/xmlrpc.php &#8211;user username &#8211;password hogehoge &#8211;nb titanic-cnn.ipynb &#8211;title &#8220;Kaggle: Titanic 問題データ分析&#8221; &#8211;categories [Python, 統計] &#8211;tags keras<br /> [/sourcecode]
     </p>
     
     <p>

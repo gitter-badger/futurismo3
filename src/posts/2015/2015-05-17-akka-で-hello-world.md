@@ -14,7 +14,7 @@ type: post
 url: /archives/=3842
 ---
 
-<img alt="Scala" src="http://futurismo.biz/wp-content/uploads/wpid-scala.gif"/>
+<img alt="Scala" src="https://futurismo.biz/wp-content/uploads/wpid-scala.gif"/>
 
 Scala の Akka で Hello World をしてみました.
 

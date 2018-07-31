@@ -196,15 +196,15 @@ Wineを利用して、Evernote for windowsをインストール！Winowsのホ�
 &#8230;
 
  [1]: https://picasaweb.google.com/lh/photo/6W0SkYpGlM4aBJtD4aJSYTyD6hjDXGH6XyE6iLrzolo?feat=embedwebsite
- [2]: http://futurismo.biz/archives/2064
- [3]: http://futurismo.biz/archives/2067
- [4]: http://futurismo.biz/archives/2072
- [5]: http://futurismo.biz/archives/2077
- [6]: http://futurismo.biz/archives/1280
- [7]: http://futurismo.biz/archives/1325
- [8]: http://futurismo.biz/archives/1383
+ [2]: https://futurismo.biz/archives/2064
+ [3]: https://futurismo.biz/archives/2067
+ [4]: https://futurismo.biz/archives/2072
+ [5]: https://futurismo.biz/archives/2077
+ [6]: https://futurismo.biz/archives/1280
+ [7]: https://futurismo.biz/archives/1325
+ [8]: https://futurismo.biz/archives/1383
  [9]: https://github.com/sstephenson/ruby-build/wiki
  [10]: http://www.kkaneko.com/rinkou/javaintro/linux_eclipse.html
  [11]: http://www.eclipse.org/
  [12]: http://mergedoc.sourceforge.jp/
- [13]: http://futurismo.biz/archives/1527
+ [13]: https://futurismo.biz/archives/1527

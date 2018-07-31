@@ -71,7 +71,7 @@ Courseraを利用して、Scalaの勉強をしました。
     
     <ul class="org-ul">
       <li>
-        <a href="http://futurismo.biz/archives/2427">プログラミングの世界観を変える衝撃！Paradigms of Computer Programmingで震えるほどの知的感動を体験した | Futurismo</a>
+        <a href="https://futurismo.biz/archives/2427">プログラミングの世界観を変える衝撃！Paradigms of Computer Programmingで震えるほどの知的感動を体験した | Futurismo</a>
       </li>
     </ul>
     
@@ -156,7 +156,7 @@ Courseraを利用して、Scalaの勉強をしました。
     
     <ul class="org-ul">
       <li>
-        <a href="http://futurismo.biz/archives/2472">Rubyの無名関数についての整理メモ | Futurismo</a>
+        <a href="https://futurismo.biz/archives/2472">Rubyの無名関数についての整理メモ | Futurismo</a>
       </li>
     </ul>
     

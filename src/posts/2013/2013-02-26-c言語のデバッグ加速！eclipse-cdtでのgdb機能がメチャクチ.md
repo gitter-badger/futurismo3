@@ -194,6 +194,6 @@ gdbの恩恵は、変数や構造体の中身を見て、さらに値を書き�
 <div id="fastlookup_top" style="display: none;">
 </div>
 
- [1]: http://futurismo.biz/archives/1178
- [2]: http://futurismo.biz/archives/1176
+ [1]: https://futurismo.biz/archives/1178
+ [2]: https://futurismo.biz/archives/1176
  [3]: http://www.eclipse.org/forums/index.php/m/991796/

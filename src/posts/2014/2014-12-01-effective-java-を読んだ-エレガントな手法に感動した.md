@@ -32,17 +32,17 @@ Java に関する記事だ.
 
 -   [Java のユーティリティクラスはシングルトンパターン/
     フライウェイトパターンで実装する |
-    Futurismo](http://futurismo.biz/archives/2709)
+    Futurismo](https://futurismo.biz/archives/2709)
 -   [Java のリフレクションでインスタンスやメソッドを動的生成する |
-    Futurismo](http://futurismo.biz/archives/2715)
+    Futurismo](https://futurismo.biz/archives/2715)
 -   [委譲のまとめと Strategy パターンの実装 (Java) |
-    Futurismo](http://futurismo.biz/archives/2748)
+    Futurismo](https://futurismo.biz/archives/2748)
 -   [エレガントな Effective Java の Builder Pattern を実装してみた |
-    Futurismo](http://futurismo.biz/archives/2706)
+    Futurismo](https://futurismo.biz/archives/2706)
 -   [Java でのジェネリックスの使い方まとめ |
-    Futurismo](http://futurismo.biz/archives/2750)
+    Futurismo](https://futurismo.biz/archives/2750)
 -   [Effective Java にのっている エレガントな Enum の使い方メモ |
-    Futurismo](http://futurismo.biz/archives/2768)
+    Futurismo](https://futurismo.biz/archives/2768)
 
 それは, 元ネタはほとんど Effective Java だったりする.
 
@@ -93,9 +93,9 @@ Elegant java
 どんな風に感動したかは, 過去記事に譲る.
 
 -   [エレガントな Effective Java の Builder Pattern を実装してみた |
-    Futurismo](http://futurismo.biz/archives/2706)
+    Futurismo](https://futurismo.biz/archives/2706)
 -   [Effective Java にのっている エレガントな Enum の使い方メモ |
-    Futurismo](http://futurismo.biz/archives/2768)
+    Futurismo](https://futurismo.biz/archives/2768)
 
 Elegant Java というタイトルでも十分通用する.
 

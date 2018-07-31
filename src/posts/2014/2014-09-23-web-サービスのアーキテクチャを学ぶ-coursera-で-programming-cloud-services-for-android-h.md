@@ -46,10 +46,10 @@ url: /archives/=2623
     
     <ul class="org-ul">
       <li>
-        <a href="http://futurismo.biz/archives/2344">Programming Mobile Applications for Android Handheld Systems で Andoroid アーキテクチャの基礎を体系的に学んだ | Futurismo</a>
+        <a href="https://futurismo.biz/archives/2344">Programming Mobile Applications for Android Handheld Systems で Andoroid アーキテクチャの基礎を体系的に学んだ | Futurismo</a>
       </li>
       <li>
-        <a href="http://futurismo.biz/archives/2527">オブジェクト指向設計と並列プログラミングを Andoird で学ぶ!Pattern-Oriented Software Architectures を受けた | Futurismo</a>
+        <a href="https://futurismo.biz/archives/2527">オブジェクト指向設計と並列プログラミングを Andoird で学ぶ!Pattern-Oriented Software Architectures を受けた | Futurismo</a>
       </li>
     </ul>
   </div>
@@ -161,7 +161,7 @@ url: /archives/=2623
         
         <ul class="org-ul">
           <li>
-            <a href="http://futurismo.biz/archives/2575">HTTP も知らないのぉ~? にカチンときたら読むべき! プロになるための Web 技術入門を読んだ. | Futurismo</a>
+            <a href="https://futurismo.biz/archives/2575">HTTP も知らないのぉ~? にカチンときたら読むべき! プロになるための Web 技術入門を読んだ. | Futurismo</a>
           </li>
         </ul>
         
@@ -288,7 +288,7 @@ url: /archives/=2623
       <ul class="org-ul">
         <li>
           <p>
-            <a href="http://futurismo.biz/archives/2572">TCP/IP ソケットプログラミングの基礎を集中学習! Working with TCP sockets を読んでる | Futurismo</a>
+            <a href="https://futurismo.biz/archives/2572">TCP/IP ソケットプログラミングの基礎を集中学習! Working with TCP sockets を読んでる | Futurismo</a>
           </p>
           
           <div class='amazlink-box' style='text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;'>
@@ -443,7 +443,7 @@ url: /archives/=2623
     <div class="outline-text-3" id="text-4-1">
       <ul class="org-ul">
         <li>
-          <a href="http://futurismo.biz/archives/2613">Wrapper Facade Pattern について調べてみたまとめ | Futurismo</a>
+          <a href="https://futurismo.biz/archives/2613">Wrapper Facade Pattern について調べてみたまとめ | Futurismo</a>
         </li>
       </ul>
     </div>
@@ -535,7 +535,7 @@ url: /archives/=2623
     <div class="outline-text-3" id="text-4-3">
       <ul class="org-ul">
         <li>
-          <a href="http://futurismo.biz/archives/2616">Reactor Pattern について調べてみたまとめ | Futurismo</a>
+          <a href="https://futurismo.biz/archives/2616">Reactor Pattern について調べてみたまとめ | Futurismo</a>
         </li>
       </ul>
     </div>

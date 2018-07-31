@@ -97,7 +97,7 @@ Select file to restore:と表示されるので、データベースにチェッ
 
 なんと、backwpup\_db\_restore.php がなくなっていた。以下のエントリをもとにsqlのリストアをしてください。
 
-<a href="http://futurismo.biz/archives/1417" target="_blank">BackWPupのbackwpup_db_restore.phpが消えた！それでもリストアする場合の方法メモ | Futurismo</a>
+<a href="https://futurismo.biz/archives/1417" target="_blank">BackWPupのbackwpup_db_restore.phpが消えた！それでもリストアする場合の方法メモ | Futurismo</a>
 
 ### wp-config.phpを編集する
 
@@ -122,7 +122,7 @@ Select file to restore:と表示されるので、データベースにチェッ
 <div id="fastlookup_top">
 </div>
 
- [1]: http://futurismo.biz/archives/1129
+ [1]: https://futurismo.biz/archives/1129
  [2]: https://picasaweb.google.com/lh/photo/_sL6rJWGHHgsC3xGArgeajyD6hjDXGH6XyE6iLrzolo?feat=embedwebsite
  [3]: https://picasaweb.google.com/lh/photo/RZqBeQ1WNcFzkmIqp6BnfDyD6hjDXGH6XyE6iLrzolo?feat=embedwebsite
  [4]: https://picasaweb.google.com/lh/photo/8oP0bKGF5xsM9Tb7SVLj8zyD6hjDXGH6XyE6iLrzolo?feat=embedwebsite

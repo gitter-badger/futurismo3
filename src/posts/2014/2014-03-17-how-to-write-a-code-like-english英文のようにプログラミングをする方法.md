@@ -25,7 +25,7 @@ url: /archives/=2326
     <a href="http://www.find-job.net/startup/english-for-engineers-naming-conventions">正しいコーディングが身につくエンジニア英語の手引き 〜文法とクラス／メソッド、命名規則〜 | Find Job ! Startup</a>
   </li>
   <li>
-    <a href="http://futurismo.biz/archives/2200">散文的ブログラミングの哲学につら抜かれたCleanCodeでカルチャーショック体験 | Futurismo</a>
+    <a href="https://futurismo.biz/archives/2200">散文的ブログラミングの哲学につら抜かれたCleanCodeでカルチャーショック体験 | Futurismo</a>
   </li>
 </ul>
 
@@ -460,7 +460,7 @@ url: /archives/=2326
     
     <ul class="org-ul">
       <li>
-        <a href="http://futurismo.biz/archives/1946">『Modern C++ with TDD』学習メモ(Chapter6-11) | Futurismo</a>
+        <a href="https://futurismo.biz/archives/1946">『Modern C++ with TDD』学習メモ(Chapter6-11) | Futurismo</a>
       </li>
     </ul>
     

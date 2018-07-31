@@ -39,7 +39,7 @@ xmonad を導入してみた。
 
 -   [タイル型ウィンドウマネージャという新たな世界観に衝撃を受けた！Xmonad
     をつかってワクワク CUI 生活 |
-    Futurismo](http://futurismo.biz/archives/2165)
+    Futurismo](https://futurismo.biz/archives/2165)
 
 設定ファイルは以前 ArchLinux で利用していたものがそのまま使えた。
 
@@ -70,7 +70,7 @@ xmonad.hs の設定
 .xmonad/xmonad.hs を作成。ターミナルは urxvt を利用。
 
 -   [省エネ時代の軽快ターミナル！rxvt-unicode(urxvt)でサクサクターミナル生活
-    | Futurismo](http://futurismo.biz/archives/2163)
+    | Futurismo](https://futurismo.biz/archives/2163)
 
 現在の設定は以下。
 
@@ -151,7 +151,7 @@ sudo apt-get install xmobar
 
 -   <https://raw.githubusercontent.com/tsu-nera/dotfiles/master/.xmobarrc>
 -   [xmobar に org-clock の状態と時刻を表示する超コネタ |
-    Futurismo](http://futurismo.biz/archives/4543)
+    Futurismo](https://futurismo.biz/archives/4543)
 
 ``` {.text}
 Config { font = "-misc-fixed-*-*-*-*-10-*-*-*-*-*-*-*"

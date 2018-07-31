@@ -142,7 +142,7 @@ Wikipedia から, 以下のような格言を引用.
 futurismo. そうだ, オレは未来派ハッカーになることが志だった. オレの志は,
 Futurismo だった.
 
--   [ハッカ-未来派宣言 | Futurismo](http://futurismo.biz/sample-page)
+-   [ハッカ-未来派宣言 | Futurismo](https://futurismo.biz/sample-page)
 
 ハッカー未来派宣言という, 酔った勢いでかいたような目標だけれども,
 この掲げた志に向かって, 進み続けてきたし, これからも進みつづける.

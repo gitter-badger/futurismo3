@@ -101,7 +101,7 @@ wgetでURLを指定すると、Jenkinsのジョブを実行することができ
 
 以下の過去記事も参照。
 
-  * <a href="http://futurismo.biz/archives/826" target="_blank">git commitをフックしてJenkins でビルドを起動 | Futurismo</a>
+  * <a href="https://futurismo.biz/archives/826" target="_blank">git commitをフックしてJenkins でビルドを起動 | Futurismo</a>
 
 今回はコレ。
 

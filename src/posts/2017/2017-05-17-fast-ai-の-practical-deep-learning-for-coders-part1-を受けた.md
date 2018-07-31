@@ -255,7 +255,7 @@ Recognizer](https://www.kaggle.com/c/digit-recognizer)
 で好成績を出すことが出来た。
 
 -   [3 つの戦略で Overfitting を撃退！Tensorflow v1.1 を使って CNN で
-    MNIST に挑んだ | Futurismo](http://futurismo.biz/archives/6290)
+    MNIST に挑んだ | Futurismo](https://futurismo.biz/archives/6290)
 
 課題は、今までの復習(CNN はここまで)を各自でやるようにとのこと。
 それから、[State
@@ -312,7 +312,7 @@ lesson5: NLP
 まずは、Vgg16 に BatchNormalization を適用したモデルの紹介。
 
 -   [Vgg16 モデルに Batch Normalization を組み込む技 |
-    Futurismo](http://futurismo.biz/archives/6399)
+    Futurismo](https://futurismo.biz/archives/6399)
 
 次に、協調フィルタリングについて先週のノートを元に復習したあと
 今回のテーマである NLP に。
@@ -393,10 +393,10 @@ Jupyter Notebook を何度も読んで、Kaggle で遊んでねとのこと。
 Titanic や Digit Recognizer にも挑んだりした。
 
 -   [TensorFlow で学ぶディープラーニング入門を読んだ。Kaggle
-    で実践してみた。 | Futurismo](http://futurismo.biz/archives/6274)
+    で実践してみた。 | Futurismo](https://futurismo.biz/archives/6274)
 -   [Kaggle のタイタニック問題に Keras
     で挑戦した。前処理が課題だと分かった。 |
-    Futurismo](http://futurismo.biz/archives/6296)
+    Futurismo](https://futurismo.biz/archives/6296)
 
 [DeepAnalytics](https://deepanalytics.jp/)
 という日本のデータ解析のコンテストサイト(Kaggle の日本版)を知った。
@@ -418,7 +418,7 @@ Machine Learning よりも時代は Deep Learning だ。 DeepAnalytics
 この MOOC
 は実践的でかつわかりやすいところが素晴らしい。もっと知られるべきだ。
 [Udacity で Deep Learning Nanodegree Foundation
-を受講してる](http://futurismo.biz/archives/6285)が、この MOOC
+を受講してる](https://futurismo.biz/archives/6285)が、この MOOC
 ほうがいい。
 
 この MOOC は Part2 もある。Part2 はもうすぐ公開予定。楽しみ！

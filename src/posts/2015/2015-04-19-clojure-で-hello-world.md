@@ -51,7 +51,7 @@ Clojure は JVM 上で動く Lisp 系モダン関数型言語.
 事前に, JDK6 以上 をインストールしておくこと.
 
 -   [Java JDK インストール方法まとめ (Windows) |
-    Futurismo](http://futurismo.biz/archives/751)
+    Futurismo](https://futurismo.biz/archives/751)
 
 ダウンロード
 ------------

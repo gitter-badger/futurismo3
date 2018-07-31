@@ -44,7 +44,7 @@ Udacity で Machine Learning for Trading のビデオを見てみた.
 -   <https://www.coursera.org/learn/computational-investing>
 -   [システムトレードで億万長者になるぞ! coursera で Computational
     Investing Part I を受けた |
-    Futurismo](http://futurismo.biz/archives/2678)
+    Futurismo](https://futurismo.biz/archives/2678)
 
 講義内容
 ========
@@ -87,7 +87,7 @@ Board とかもないので、自力で解くのは断念して、課題はや�
 のだが、理解できていないので改良できない..
 
 -   [夏休みの自由研究 は OANDA API を利用して FX システムトレード |
-    Futurismo](http://futurismo.biz/archives/4392)
+    Futurismo](https://futurismo.biz/archives/4392)
 
 今後について
 ============

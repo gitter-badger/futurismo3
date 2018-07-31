@@ -39,13 +39,13 @@ url: /archives/=2492
     
     <ul class="org-ul">
       <li>
-        <a href="http://futurismo.biz/archives/2403">org-modeで書いたテキストをPandocでRestructured Textに変換する | Futurismo</a>
+        <a href="https://futurismo.biz/archives/2403">org-modeで書いたテキストをPandocでRestructured Textに変換する | Futurismo</a>
       </li>
       <li>
-        <a href="http://futurismo.biz/archives/2451">Web操作手順書を自動生成！Emacs org-babelで実現するRun Book Automation(RBA) | Futurismo</a>
+        <a href="https://futurismo.biz/archives/2451">Web操作手順書を自動生成！Emacs org-babelで実現するRun Book Automation(RBA) | Futurismo</a>
       </li>
       <li>
-        <a href="http://futurismo.biz/archives/2490">自分のデスクトップ環境の歴史を記録する！ansibleで設定ファイルをクラウド管理する方法 | Futurismo</a>
+        <a href="https://futurismo.biz/archives/2490">自分のデスクトップ環境の歴史を記録する！ansibleで設定ファイルをクラウド管理する方法 | Futurismo</a>
       </li>
     </ul>
   </div>
@@ -227,4 +227,4 @@ localhost                  : <span style="color: #fd971f;">ok</span>=3    <span 
         </div>
       </div>
 
- [1]: http://futurismo.biz/wp-content/uploads/emacs_logo.jpg
+ [1]: https://futurismo.biz/wp-content/uploads/emacs_logo.jpg

@@ -70,4 +70,4 @@ EclipseのGDB機能はスゴく高性能で、
 チャンチャン( ﾟ∀ﾟ )
 
  [1]: https://picasaweb.google.com/lh/photo/JAeS33JjNY5jyGUVT363pDyD6hjDXGH6XyE6iLrzolo?feat=embedwebsite
- [2]: http://futurismo.biz/archives/1176
+ [2]: https://futurismo.biz/archives/1176

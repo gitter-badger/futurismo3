@@ -88,7 +88,7 @@ Build step 'Publish Doxygen' changed build result to FAILURE</pre>
 
 <pre></pre>
 
- [1]: http://futurismo.biz/archives/587 "Doxygenの使い方（セットアップ編）の備忘録"
- [2]: http://futurismo.biz/archives/655 "Doxygen C言語のコメント備忘録"
+ [1]: https://futurismo.biz/archives/587 "Doxygenの使い方（セットアップ編）の備忘録"
+ [2]: https://futurismo.biz/archives/655 "Doxygen C言語のコメント備忘録"
  [3]: https://wiki.jenkins-ci.org/display/JENKINS/Doxygen+Plugin
  [4]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image43.png

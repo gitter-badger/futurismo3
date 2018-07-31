@@ -48,7 +48,7 @@ url: /archives/=2412
       
       <ul class="org-ul">
         <li>
-          <a href="http://futurismo.biz/archives/1998">エンジニアとプログラマの違いについて定義してみた | Futurismo</a>
+          <a href="https://futurismo.biz/archives/1998">エンジニアとプログラマの違いについて定義してみた | Futurismo</a>
         </li>
       </ul>
       
@@ -58,7 +58,7 @@ url: /archives/=2412
       
       <ul class="org-ul">
         <li>
-          <a href="http://futurismo.biz/archives/2146">Beautiful Colorful Terminal – Emacsターミナル環境をカラフルに彩る | Futurismo</a>
+          <a href="https://futurismo.biz/archives/2146">Beautiful Colorful Terminal – Emacsターミナル環境をカラフルに彩る | Futurismo</a>
         </li>
       </ul>
       
@@ -93,7 +93,7 @@ url: /archives/=2412
       
       <ul class="org-ul">
         <li>
-          <a href="http://futurismo.biz/archives/2189">Rubyistになった日 | Futurismo</a>
+          <a href="https://futurismo.biz/archives/2189">Rubyistになった日 | Futurismo</a>
         </li>
       </ul>
       
@@ -153,7 +153,7 @@ url: /archives/=2412
       
       <ul class="org-ul">
         <li>
-          <a href="http://futurismo.biz/archives/2395">ExcelVBA統合BDD開発環境をrakeでまとめてみた | Futurismo</a>
+          <a href="https://futurismo.biz/archives/2395">ExcelVBA統合BDD開発環境をrakeでまとめてみた | Futurismo</a>
         </li>
       </ul>
       
@@ -163,7 +163,7 @@ url: /archives/=2412
       
       <ul class="org-ul">
         <li>
-          <a href="http://futurismo.biz/archives/1498">Rubyで書かれた統合C言語TDD開発環境 「Ceedling」 がけっこう便利そうな件 | Futurismo</a>
+          <a href="https://futurismo.biz/archives/1498">Rubyで書かれた統合C言語TDD開発環境 「Ceedling」 がけっこう便利そうな件 | Futurismo</a>
         </li>
       </ul>
     </div></p>
@@ -230,7 +230,7 @@ url: /archives/=2412
       
       <ul class="org-ul">
         <li>
-          <a href="http://futurismo.biz/archives/2200">散文的ブログラミングの哲学につら抜かれたCleanCodeでカルチャーショック体験 | Futurismo</a>
+          <a href="https://futurismo.biz/archives/2200">散文的ブログラミングの哲学につら抜かれたCleanCodeでカルチャーショック体験 | Futurismo</a>
         </li>
       </ul>
       

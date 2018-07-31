@@ -28,7 +28,7 @@ type: post
 url: /archives/=2427
 ---
 
-<img alt="" src="http://futurismo.biz/wp-content/uploads/CPMCP.jpg" width="560"/>  </p>
+<img alt="" src="https://futurismo.biz/wp-content/uploads/CPMCP.jpg" width="560"/>  </p>
 <div id="outline-container-sec-1" class="outline-2">
 <h2 id="sec-1">はじめに</h2>
 <div class="outline-text-2" id="text-1">
@@ -78,11 +78,11 @@ url: /archives/=2427
 <div class="outline-text-3" id="text-2-3">
 <p> Ozというマルチパラダイム言語を利用する。 </p>
 <ul class="org-ul">
-<li><a href="http://futurismo.biz/archives/2271">マルチパラダイム言語Ozの開発環境MozartをインストールしてHelloWorldするまで | Futurismo</a> </li>
+<li><a href="https://futurismo.biz/archives/2271">マルチパラダイム言語Ozの開発環境MozartをインストールしてHelloWorldするまで | Futurismo</a> </li>
 </ul>
 <p> 個人的には、MozartがEmacsをベースにしているところがとてもよかった。Emacs最高！ </p>
 <ul class="org-ul">
-<li><a href="http://futurismo.biz/archives/2399">Mozartをemacsclientから起動する方法のメモ | Futurismo</a> </li>
+<li><a href="https://futurismo.biz/archives/2399">Mozartをemacsclientから起動する方法のメモ | Futurismo</a> </li>
 </ul>
 <p> しかし、Ozの文法がわからない・・。 </p>
 <p> 情報元やサンプルコードが少なくて、文法を調べるのに苦労した。 概念的にわかっていてもその実装するための文法がわからず時間かかったり。 loopを書くのに2時間つかったり。参考書とforumでサンプルコード漁りまくった。 </p>

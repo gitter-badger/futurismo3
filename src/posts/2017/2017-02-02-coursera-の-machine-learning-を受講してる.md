@@ -166,7 +166,7 @@ coursera の Machine Learning
 大学の数学を忘れてしまったので、やり直したい。やり直しプランは以下に書いた。
 
 -   [結局、機械学習に必要な数学ってなに？ |
-    Futurismo](http://futurismo.biz/archives/6106)
+    Futurismo](https://futurismo.biz/archives/6106)
 
 他の MOOC を受講する
 --------------------

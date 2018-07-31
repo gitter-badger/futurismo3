@@ -17,7 +17,7 @@ type: post
 url: /archives/=3085
 ---
 
-<img alt="" src="http://futurismo.biz/wp-content/uploads/emacs_logo.jpg"/>
+<img alt="" src="https://futurismo.biz/wp-content/uploads/emacs_logo.jpg"/>
 
 はじめに
 ========
@@ -183,7 +183,7 @@ balance コマンドが発行される. :cmdline というオプションにい�
 
 -   [org-table の表で記録した睡眠時間を R
     で折れ線グラフにして表示する方法 |
-    Futurismo](http://futurismo.biz/archives/3023)
+    Futurismo](https://futurismo.biz/archives/3023)
 
 まとめ
 ======

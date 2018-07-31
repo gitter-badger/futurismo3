@@ -290,7 +290,7 @@ ctags/ripper-tags
 記事を独立させました.
 
 -   [Emacs の Ruby 環境でタグを自動生成してタグジャンプ！ |
-    Futurismo](http://futurismo.biz/archives/2262)
+    Futurismo](https://futurismo.biz/archives/2262)
 
 試してないけれども、GNU GLOBAL でもタグジャンプができるみたい。
 
@@ -534,7 +534,7 @@ rubydb
 のソースに梱包されている.
 
 -   [Emacs で rubydb を利用してステップ実行する |
-    Futurismo](http://futurismo.biz/archives/2358)
+    Futurismo](https://futurismo.biz/archives/2358)
 
 inf-ruby
 --------
@@ -579,7 +579,7 @@ RSpec
 記事を独立させました。
 
 -   [Emacs で RSpec 環境をめちゃガチャパワーアップしたまとめ |
-    Futurismo](http://futurismo.biz/archives/2266)
+    Futurismo](https://futurismo.biz/archives/2266)
 
 プロジェクト管理
 ================

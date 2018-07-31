@@ -30,7 +30,7 @@ type: post
 url: /archives/=2881
 ---
 
-<img alt="" src="http://futurismo.biz/wp-content/uploads/emacs_logo.jpg"/>
+<img alt="" src="https://futurismo.biz/wp-content/uploads/emacs_logo.jpg"/>
 
 はじめに
 ========
@@ -39,7 +39,7 @@ url: /archives/=2881
 
 -   [親指シフトで PC
     入力効率を爆速化!\~ようやく効果を感じ始めた私の体験談\~ |
-    Futurismo](http://futurismo.biz/archives/548)
+    Futurismo](https://futurismo.biz/archives/548)
 
 Emacs の入力システムで SKK というものがある.
 

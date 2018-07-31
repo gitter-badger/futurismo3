@@ -66,4 +66,4 @@ url: /archives/=5508
     <p>
       if a == b:<br /> return &#8220;EQUAL&#8221;<br /> elif a < b: return "LESS" elif a > b:<br /> return &#8220;GREATER&#8221;<br /> else:<br /> return &#8220;INCOMPARABLE&#8221;<br /> [/sourcecode] </div> </div>
 
- [1]: http://futurismo.biz/wp-content/uploads/topcoder.png
+ [1]: https://futurismo.biz/wp-content/uploads/topcoder.png

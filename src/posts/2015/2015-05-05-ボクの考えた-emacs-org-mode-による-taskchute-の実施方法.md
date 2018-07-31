@@ -208,4 +208,4 @@ org-mode では、priority の機能によって実現することにした.
 なんだか、同じところをグルグル回っている気がするよ.
 
 -   [Outlook でタスクシュ−ト |
-    Futurismo](http://futurismo.biz/archives/70)
+    Futurismo](https://futurismo.biz/archives/70)

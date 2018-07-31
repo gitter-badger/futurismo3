@@ -99,7 +99,7 @@ Loss Networkは、VGG-16を用いる(全結合層をとったもの)。Content L
   </p>
 </blockquote>
 
- [1]: http://futurismo.biz/archives/6694
+ [1]: https://futurismo.biz/archives/6694
  [2]: https://arxiv.org/abs/1603.08155
  [3]: https://lh3.googleusercontent.com/Cj6TU6NfHyqhv1GD5mNgMInhlOsbwhou2kVU7TZ9AXK_zqpOPrEzWGgsPA1TN_p7gGaLRPk8ulx82DMvq125B9NoyRNmPvDAdRM5fzUsXivkO-34lR8SFoO-1G5S1cm4uIFQbq3L_sFENVYRWCXIDblsMmyAnQaFVGYyoDYBoiEFVuV-i0B6ALl5khbN9ZKhJsoVZfPgJlcu3kMXfJ8DibL4Z8x0WtfHWDGxS7apZzxbdxfyojvh9paqaA-urbw2Sqb-fQ1TCU_SOoF1sU581HQS2QA82nNzSHg3QTnwy0IvSrgCCAUdAG29SaoNFDi1SYSJCXfwYT03MTnHX-l1e_RWjDlkj3z8p29DlatOABEw_kca3w7xAwTU4mpW2p46jFzRmAwppk_Sd-jGjzHp6A-vbvFjH1kjYVAZitDco0nre6Xsl5_63N7XlAvJQDnIbbM_4gizOANKRoDCvcrCbyThCjt3MI_N9O2eMEY2tdXqu1M-qX6m65ULyzDgPJhOm2moQeXPhi_htQrJpjD5e4ckuI7djzIqpyONacnpaWnb_gYxrbnN8wcqCfzQ51cAmxqTPzzLYEDGbFgPy6j6BzkQAnqDRyAhdQOUDWxWtXEOQvyE89LVj05m=w682-h234-no
  [4]: http://cs.stanford.edu/people/jcjohns/papers/eccv16/JohnsonECCV16Supplementary.pdf

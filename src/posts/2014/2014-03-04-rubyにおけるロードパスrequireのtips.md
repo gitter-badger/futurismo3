@@ -34,7 +34,7 @@ url: /archives/=2293
     
     <ul class="org-ul">
       <li>
-        <a href="http://futurismo.biz/en/archives/2250">Rubyでのloadとrequireの違いをしらべたメモ | Futurismo</a>
+        <a href="https://futurismo.biz/en/archives/2250">Rubyでのloadとrequireの違いをしらべたメモ | Futurismo</a>
       </li>
     </ul>
   </div>

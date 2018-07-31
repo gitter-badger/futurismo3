@@ -138,4 +138,4 @@ ifconfigを叩いて、MAC アドレスを調べておく。
 
  [1]: https://www.amazon.co.jp/gp/product/B004NSVS60/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1
  [2]: https://lh3.googleusercontent.com/uHK4iDN26CPnilKnAWaKWfQcv7unXL7VydRkn7w6XSkP25ca-XlTxWSaCuObEDz87LJgFotrwCnf7d5H4D47QND5jkRM7YhYINZEa0laLdj-PKCY_xO_EqrdQpoRnHZvH0ypVLSuBZfaIBQzbDqekLNNhF_FBLZbI0bFyTZV6CFYCjn-rois8e6MZnvyL95cX64m0sfb-i8FVqbLf80b4ivKCLdaWv2l5aXMyVC7eysUp6_8aHleFcT8Igk_usbj3rfnRbeS3QWnhiAjdu22AVJuhXdUQH1TsA6Sd5iMfNf-7_AnVad59goXQJQEpVcSK9nnije5sh5IlL5IA24FtSPTWbPtCBaCy_s3GRMERq-cnLz2ocUpASzxE-p3xStBtjgbjvx2Ulw8Bd6SeuQpp2v6LBhasa0udZb1gf0axwd-vM9lFpO24x5ESkwWcLxIFppWo9YgM6OoWhdMQzxQA9mUbyfEZkcBuSCS15mFmwR8bVTMpwvVEW60GUouGPh62l05KJCOR0guZVhelfElWCHI982m-2W8EDemH8AKLEO7US9DPvIxbVFnGufGaEbDtks5iLkrsp9yvLYSFHGzgpa0EwSWvyXL5qWy84o=w480-h640-no
- [3]: http://futurismo.biz/archives/6862
+ [3]: https://futurismo.biz/archives/6862

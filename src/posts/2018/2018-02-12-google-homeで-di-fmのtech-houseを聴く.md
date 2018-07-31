@@ -93,4 +93,4 @@ play_mp4("http://pub2.diforfree.org:8000/di_techhouse_hi")
  [1]: https://ausdroid.net/2016/01/02/digitally-imported-radio-supports-chromecast-and-somehow-i-didnt-know/
  [2]: https://www.androidpolice.com/2015/11/10/digitally-imported-radio-di-fm-gets-google-cast-support-in-latest-update/
  [3]: http://pub1.diforfree.org:8000/di_techhouse_hi
- [4]: http://futurismo.biz/archives/6921
+ [4]: https://futurismo.biz/archives/6921

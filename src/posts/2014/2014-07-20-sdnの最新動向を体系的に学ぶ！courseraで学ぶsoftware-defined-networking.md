@@ -33,7 +33,7 @@ Software-Definedとはなにかを知るために
 5月頃に Software-Definedという言葉を知り、調べてみた。
 
 -   [Software Defined Infrastructureに関するブックマーク |
-    Futurismo](http://futurismo.biz/archives/2435)
+    Futurismo](https://futurismo.biz/archives/2435)
 
 そんなおりに、courseraでSDNに関する講座が開かれるということで、
 好奇心が盛り上がっている今には最適なタイミングだと思い、受けてみた。
