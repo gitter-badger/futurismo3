@@ -78,8 +78,11 @@ exports.createPages = ({ graphql, actions }) => {
         }
 
         _.each(allowedPosts, (post, index) => {
-          const prev = index === posts.length - 1 ? null : posts[index + 1].node
-          const next = index === 0 ? null : posts[index - 1].node
+          const prev =
+            index === allowedPosts.length - 1
+              ? null
+              : allowedPosts[index + 1].node
+          const next = index === 0 ? null : allowedPosts[index - 1].node
 
           createPage({
             path: post.node.fields.slug,
