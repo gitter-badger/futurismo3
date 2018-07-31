@@ -35,7 +35,7 @@ Read-Eval-Print-Loop の略. 読んで、評価して、表示するを繰り返
     Wiki](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96%E3%82%B7%E3%82%A7%E3%83%AB)
 -   [programming languages - Difference between a REPL and interactive
     shell -
-    Pro...](http://programmers.stackexchange.com/questions/168285/difference-between-a-repl-and-interactive-shell)
+    Pro...](https://programmers.stackexchange.com/questions/168285/difference-between-a-repl-and-interactive-shell)
 
 各言語のサポート状況
 --------------------
@@ -68,7 +68,7 @@ Repl によって開発を駆動する方法. 以下 RDD. 具体的には、 エ
 2.  実装を 即座に Repl に読み込ませて評価
 3.  結果を確認しその実装が正しいことを確認する
 
-[この](http://blog.jayfields.com/2014/01/repl-driven-development.html)
+[この](https://blog.jayfields.com/2014/01/repl-driven-development.html)
 記事によると、以下の 3 点から開放されることで、
 開発に集中することができるとのこと.
 
@@ -104,7 +104,7 @@ RDD 解説したスライド.
 > さらに修正して、使ってみて、ということができる、ということです。
 
 -   [REPL Driven Programming - tyano's Tech
-    Log](http://tyano.shelfinc.com/post/48110396231/repl-driven-programming)
+    Log](https://tyano.shelfinc.com/post/48110396231/repl-driven-programming)
 
 REPL 駆動開発を体験することができる.
 
@@ -114,15 +114,15 @@ REPL 駆動開発を体験することができる.
 
 -   [Column: REPL 駆動開発を取り入れて Ring でもう少し遊んでみる —
     Clojure
-    の日本語ガイド](http://ayato-p.github.io/clojure-beginner/intro_web_development/column_rdd_and_more_ring.html)
+    の日本語ガイド](https://ayato-p.github.io/clojure-beginner/intro_web_development/column_rdd_and_more_ring.html)
 
 英語
 ----
 
 -   [Jay Fields' Thoughts: REPL Driven
-    Development](http://blog.jayfields.com/2014/01/repl-driven-development.html)
+    Development](https://blog.jayfields.com/2014/01/repl-driven-development.html)
 -   [A Workflow: TDD, RDD and
-    DDD](http://eigenhombre.com/clojure/2014/07/20/a-worfklow-tdd-rdd-and-ddd/)
+    DDD](https://eigenhombre.com/clojure/2014/07/20/a-worfklow-tdd-rdd-and-ddd/)
 -   [REPL-driven development is wonderful. I&\#x27;m not a Clojure user
     (yet), but ...](https://news.ycombinator.com/item?id=8074646)
 
@@ -131,7 +131,7 @@ REPL で評価した結果をコピペで TDD の期待値としてつかえば�
 の結果からテストが自動できればいいねという話.
 
 -   [REPL Driven Development and Testing in Clojure |
-    davidtanzer.net](http://davidtanzer.net/rdd_and_tests)
+    davidtanzer.net](https://davidtanzer.net/rdd_and_tests)
 
 <blockquote class="twitter-tweet" lang="ja"><p lang="en" dir="ltr">with current technology, REPL-driven development is significantly faster than test-driven development <a href="https://twitter.com/hashtag/clojure?src=hash">#clojure</a></p>&mdash; stuarthalloway (@stuarthalloway) <a href="https://twitter.com/stuarthalloway/status/604307306818363392">2015, 5 月 29</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 所感
@@ -154,7 +154,7 @@ TDD は費用対効果を考えてやらなければならないというのが�
 -   [CleanCode はよいわけではない、場合によっては悪いこと |
     Futurismo](https://futurismo.biz/archives/2412)
 -   [TDD is Dead!! Long living testing!! 014-04-24 -
-    やっとむでぽん](http://d.hatena.ne.jp/yach/20140424)
+    やっとむでぽん](https://d.hatena.ne.jp/yach/20140424)
 
 とくにプロトタイプなどは品質よりは速く成果をあげることが大事.そこで、RDD
 である.

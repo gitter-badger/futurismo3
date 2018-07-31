@@ -19,16 +19,16 @@ url: /archives/=1129
 ---
 
 このブログのレンタルサーバはロリポップを利用し、WordPressで運営しています。   
-     <a href="http://px.a8.net/svt/ejp?a8mat=25GJVT+GBMX62+348+63WO1" target="_blank"><br /><img border="0" alt="" src="http://www26.a8.net/svt/bgt?aid=130102697987&wid=004&eno=01&mid=s00000000404001026000&mc=1" width="468" height="60" /></a>
+     <a href="https://px.a8.net/svt/ejp?a8mat=25GJVT+GBMX62+348+63WO1" target="_blank"><br /><img border="0" alt="" src="https://www26.a8.net/svt/bgt?aid=130102697987&wid=004&eno=01&mid=s00000000404001026000&mc=1" width="468" height="60" /></a>
 
-     <img border="0" alt="" src="http://www16.a8.net/0.gif?a8mat=25GJVT+GBMX62+348+63WO1" width="1" height="1" />  
+     <img border="0" alt="" src="https://www16.a8.net/0.gif?a8mat=25GJVT+GBMX62+348+63WO1" width="1" height="1" />  
 お正月ということで、万が一のデータロストやサーバダウンに備えたバックアップ方法を調べてみました。題して、
 
 <span style="color: #0000ff; font-size: large">WordPress完全バックアップマニュアル</span>
 
 なんだか、完全自殺マニュアルっぽくて、胡散臭さがいい感じです。
 
-[http://www.youtube.com/embed/7BDxGeTnMxY]
+[https://www.youtube.com/embed/7BDxGeTnMxY]
 
 &#160;
 
@@ -47,7 +47,7 @@ WordPressの方はサーバにFTPしてデータを持ってきて、データ�
 
 できる便利なプラグインないかなーと探したところ、ありました。それが、
 
-<span style="font-size: large"><a href="http://wordpress.org/extend/plugins/backwpup/">BackWPup</a></span>
+<span style="font-size: large"><a href="https://wordpress.org/extend/plugins/backwpup/">BackWPup</a></span>
 
 です。では、順に見て行きたいと思います。
 

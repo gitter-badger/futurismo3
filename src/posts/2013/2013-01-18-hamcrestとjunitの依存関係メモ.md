@@ -60,5 +60,5 @@ hamcreat を1.1から1.3にしたら解決。
 
   * [NoClassDefFoundError: org/hamcrest/MatcherAssert &#8211; Google グループ][2]
 
- [1]: http://stackoverflow.com/questions/7869711/getting-nosuchmethoderror-org-hamcrest-matcher-describemismatch-when-running
+ [1]: https://stackoverflow.com/questions/7869711/getting-nosuchmethoderror-org-hamcrest-matcher-describemismatch-when-running
  [2]: https://groups.google.com/forum/#!topic/narrative-users/nFo00rC-J_g

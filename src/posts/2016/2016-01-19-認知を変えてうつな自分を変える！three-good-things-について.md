@@ -72,7 +72,7 @@ Three Good Things とは、一言でいうと、
     
     <ul class="org-ul">
       <li>
-        <a href="http://president.jp/articles/-/5031">PRESIDENT Online &#8211; プレジデント</a>
+        <a href="https://president.jp/articles/-/5031">PRESIDENT Online &#8211; プレジデント</a>
       </li>
     </ul>
   </div>

@@ -112,7 +112,7 @@ How to Train a GANというNIPS2016での発表があって、ここにGANの改
 
 単純なGANだと、あまり成果がでないことはわかっているので、実験は早めに切り上げて次のステップ DCGANに進むことにする。
 
- [1]: http://course.fast.ai/lessons/lesson10.html
+ [1]: https://course.fast.ai/lessons/lesson10.html
  [2]: https://arxiv.org/abs/1406.2661
  [3]: https://github.com/fastai/courses/blob/master/deeplearning2/pytorch-tut.ipynb
  [4]: https://github.com/pytorch/examples/tree/master/dcgan

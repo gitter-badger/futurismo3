@@ -44,7 +44,7 @@ url: /archives/=2742
     
     <ul class="org-ul">
       <li>
-        <a href="http://docs.ruby-lang.org/ja/1.9.3/class/WIN32OLE.html">class WIN32OLE</a>
+        <a href="https://docs.ruby-lang.org/ja/1.9.3/class/WIN32OLE.html">class WIN32OLE</a>
       </li>
     </ul>
     
@@ -164,7 +164,7 @@ url: /archives/=2742
       
       <ul class="org-ul">
         <li>
-          <a href="http://msdn.microsoft.com/en-us/library/8c6yea83.aspx">SendKeys Method</a>
+          <a href="https://msdn.microsoft.com/en-us/library/8c6yea83.aspx">SendKeys Method</a>
         </li>
       </ul>
     </div>
@@ -268,10 +268,10 @@ url: /archives/=2742
   <div class="outline-text-2" id="text-unnumbered-11">
     <ul class="org-ul">
       <li>
-        <a href="http://www.tech-notes.dyndns.org/win32ole/wsh_shell.html">Ruby から WSHShell オブジェクトを使う</a>
+        <a href="https://www.tech-notes.dyndns.org/win32ole/wsh_shell.html">Ruby から WSHShell オブジェクトを使う</a>
       </li>
       <li>
-        <a href="http://rubyonwindows.blogspot.jp/2007/05/automating-applications-with-ruby.html">Ruby on Windows: Automating Applications with Ruby & The Windows Script Host</a>
+        <a href="https://rubyonwindows.blogspot.jp/2007/05/automating-applications-with-ruby.html">Ruby on Windows: Automating Applications with Ruby & The Windows Script Host</a>
       </li>
     </ul>
   </div>

@@ -22,7 +22,7 @@ url: /archives/=1391
 
 <!--:ja-->最近はようやくUnityやCMockの使い方が分かってきた感じだ。今日は、Eclipseでの便利な設定を試してみた。元ネタ、本家公式サイトからの抜粋。
 
-  * <a style="color: #0070c5;" href="http://throwtheswitch.squarespace.com/white-papers/using-eclipse-ide.html" target="_blank">Throw The Switch! &#8211; White Papers &#8211; Using Eclipse IDE</a> <img alt="" src="http://b.hatena.ne.jp/entry/image/http://throwtheswitch.squarespace.com/white-papers/using-eclipse-ide.html" border="0" />
+  * <a style="color: #0070c5;" href="https://throwtheswitch.squarespace.com/white-papers/using-eclipse-ide.html" target="_blank">Throw The Switch! &#8211; White Papers &#8211; Using Eclipse IDE</a> <img alt="" src="https://b.hatena.ne.jp/entry/image/https://throwtheswitch.squarespace.com/white-papers/using-eclipse-ide.html" border="0" />
 
 ### TEST_IGNOREタグの設定
 
@@ -42,9 +42,9 @@ TEST_IGNOREを追加する。その後、プロジェクトを右クリックし
 
 SunShade プラグインを入れると、テストコードとソースコード間をいったりきたりできる。通常は、2画面で並べて作業しているので、出番は少なめかもしれない。
 
-<a href="http://sunshade.sourceforge.net/" target="_blank">The Sunshade suite of eclipse plugins</a>
+<a href="https://sunshade.sourceforge.net/" target="_blank">The Sunshade suite of eclipse plugins</a>
 
-ツールバー -> ヘルプ -> 新規ソフトウェアのインストール -> 追加 で[<span style="color: #0066cc;">http://sunshade.sourceforge.net/update</span>][1]を追加してインストールする。
+ツールバー -> ヘルプ -> 新規ソフトウェアのインストール -> 追加 で[<span style="color: #0066cc;">https://sunshade.sourceforge.net/update</span>][1]を追加してインストールする。
 
 起動するとエラーした(´･ω･｀)SWTエラーが発生しましただと。
 
@@ -110,7 +110,7 @@ RUN_TEST_CASE(${test_group_name}, ${test_case_name});</pre>
 
 最近はようやくUnityやCMockの使い方が分かってきた感じだ。今日は、Eclipseでの便利な設定を試してみた。元ネタ、本家公式サイトからの抜粋。
 
-<a href="http://throwtheswitch.squarespace.com/white-papers/using-eclipse-ide.html" target="_blank"><img class="alignleft" border="0" alt="" align="left" src="http://capture.heartrails.com/150x130/shadow?http://throwtheswitch.squarespace.com/white-papers/using-eclipse-ide.html" width="150" height="130" /></a> <a style="color: #0070c5" href="http://throwtheswitch.squarespace.com/white-papers/using-eclipse-ide.html" target="_blank">Throw The Switch! &#8211; White Papers &#8211; Using Eclipse IDE</a>    <img border="0" alt="" src="http://b.hatena.ne.jp/entry/image/http://throwtheswitch.squarespace.com/white-papers/using-eclipse-ide.html" />
+<a href="https://throwtheswitch.squarespace.com/white-papers/using-eclipse-ide.html" target="_blank"><img class="alignleft" border="0" alt="" align="left" src="https://capture.heartrails.com/150x130/shadow?https://throwtheswitch.squarespace.com/white-papers/using-eclipse-ide.html" width="150" height="130" /></a> <a style="color: #0070c5" href="https://throwtheswitch.squarespace.com/white-papers/using-eclipse-ide.html" target="_blank">Throw The Switch! &#8211; White Papers &#8211; Using Eclipse IDE</a>    <img border="0" alt="" src="https://b.hatena.ne.jp/entry/image/https://throwtheswitch.squarespace.com/white-papers/using-eclipse-ide.html" />
 
 ### TEST_IGNOREタグの設定
 
@@ -130,9 +130,9 @@ TEST_IGNOREを追加する。その後、プロジェクトを右クリックし
 
 SunShade プラグインを入れると、テストコードとソースコード間をいったりきたりできる。通常は、2画面で並べて作業しているので、出番は少なめかもしれない。
 
-<a href="http://sunshade.sourceforge.net/" target="_blank">The Sunshade suite of eclipse plugins</a>
+<a href="https://sunshade.sourceforge.net/" target="_blank">The Sunshade suite of eclipse plugins</a>
 
-ツールバー -> ヘルプ -> 新規ソフトウェアのインストール -> 追加 で[<font color="#0066cc">http://sunshade.sourceforge.net/update</font>][1]を追加してインストールする。
+ツールバー -> ヘルプ -> 新規ソフトウェアのインストール -> 追加 で[<font color="#0066cc">https://sunshade.sourceforge.net/update</font>][1]を追加してインストールする。
 
 起動するとエラーした(´･ω･｀)SWTエラーが発生しましただと。
 
@@ -192,4 +192,4 @@ RUN_TEST_CASE(${test_group_name}, ${test_case_name});
 
 <!--:-->
 
- [1]: http://sunshade.sourceforge.net/update
+ [1]: https://sunshade.sourceforge.net/update

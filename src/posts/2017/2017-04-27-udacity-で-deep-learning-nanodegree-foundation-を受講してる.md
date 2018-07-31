@@ -319,7 +319,7 @@ Recurrent Neural Network の説明。
 参考リンクを示されてここ読んでおいてね、ということだった。
 
 -   [Understanding LSTM Networks -- colah's
-    blog](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+    blog](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
 実践的な演習として、アンナ・カレーニナの小説を元に、文章を生成するものが
 与えられる。TensorFlow を使って、LSTM を実装するのだが、
@@ -344,12 +344,12 @@ Word Embeddings がテーマということで、Skip-gram モデルの word2vec
 論文やブログのリンクがはられて、読んでおいてねとのこと。外部リンクを読むことが前提みたい。
 
 -   [Word2Vec Tutorial - The Skip-Gram Model · Chris
-    McCormick](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
+    McCormick](https://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
 
 この日本語記事がイラスト付きでとてもわかりやすかった。大感謝！！
 
 -   [絵で理解する Word2vec の仕組み -
-    Qiita](http://qiita.com/Hironsan/items/11b388575a058dc8a46a)
+    Qiita](https://qiita.com/Hironsan/items/11b388575a058dc8a46a)
 
 text8 という英語のテキストデータを学習する。
 ニューラルネットの仕組みは簡単だったが、前処理が難しくて理解度がうすい。
@@ -447,7 +447,7 @@ week12: Transfer Learning
 逆に言えば、fast.ai の lesson1 をみることをつよくオススメしたい。lesson1
 には日本語字幕もある!
 
--   <http://course.fast.ai/lessons/lesson1.html>
+-   <https://course.fast.ai/lessons/lesson1.html>
 
 week13: Reinforcement Learning
 ------------------------------
@@ -568,7 +568,7 @@ Learning for Coders というものを受けているのだけれども、 こ�
 の理念が素晴らしいので引用したい。
 
 -   [Lesson 1 Notes - Deep Learning Course
-    Wiki](http://wiki.fast.ai/index.php/Lesson_1_Notes)
+    Wiki](https://wiki.fast.ai/index.php/Lesson_1_Notes)
 
 > The purpose of this course is to make deep learning accessible to
 > those individuals who may or may not possess a strong background in

@@ -20,7 +20,7 @@ url: /archives/=2774
 
 仕事で Java をつかうようになった.
 
-<blockquote class="twitter-tweet" lang="ja"><p>来週から悪名だかき Javaer になる. <a href="http://t.co/pfdExrE3nG">pic.twitter.com/pfdExrE3nG</a></p>&mdash; きつね (@tsu_nera) <a href="https://twitter.com/tsu_nera/status/533456855264006144">2014, 11 月 15</a></blockquote>
+<blockquote class="twitter-tweet" lang="ja"><p>来週から悪名だかき Javaer になる. <a href="https://t.co/pfdExrE3nG">pic.twitter.com/pfdExrE3nG</a></p>&mdash; きつね (@tsu_nera) <a href="https://twitter.com/tsu_nera/status/533456855264006144">2014, 11 月 15</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 といっても, まだ 8 時間くらいしかプログラミングしてないんだけど・・・.
@@ -46,7 +46,7 @@ Java に関する記事だ.
 
 それは, 元ネタはほとんど Effective Java だったりする.
 
-<div class='amazlink-box' style='text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;'><div class='amazlink-list' style='clear: both;'><div class='amazlink-image' style='float:left;margin:0px 12px 1px 0px;'><a href='http://www.amazon.co.jp/EFFECTIVE-JAVA-%E7%AC%AC2%E7%89%88-Java-Series/dp/4621066056%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4621066056' target='_blank' rel='nofollow'><img src='http://ecx.images-amazon.com/images/I/51lEBnUjJqL._SL160_.jpg' style='border: none;' /></a></div><div class='amazlink-info' style='height:160; margin-bottom: 10px'><div class='amazlink-name' style='margin-bottom:10px;line-height:120%'><a href='http://www.amazon.co.jp/EFFECTIVE-JAVA-%E7%AC%AC2%E7%89%88-Java-Series/dp/4621066056%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4621066056' rel='nofollow' target='_blank'>EFFECTIVE JAVA 第 2 版 (The Java Series)</a></div><div class='amazlink-powered' style='font-size:80%;margin-top:5px;line-height:120%'>posted with <a href='http://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 14.12.01</div><div class='amazlink-detail'>Joshua Bloch<br /></div><div class='amazlink-sub-info' style='float: left;'><div class='amazlink-link' style='margin-top: 5px'><img src='http://amazlink.fuyu.gs/icon_amazon.png' width='18'><a href='http://www.amazon.co.jp/EFFECTIVE-JAVA-%E7%AC%AC2%E7%89%88-Java-Series/dp/4621066056%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4621066056' rel='nofollow' target='_blank'>Amazon</a> <img src='http://amazlink.fuyu.gs/icon_rakuten.gif' width='18'><a href='http://hb.afl.rakuten.co.jp/hgc/g00q0724.n763w947.g00q0724.n763x2b4/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F12699391%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frms%2Fmsv%2FItem%3Fn%3D12699391%26surl%3Dbook' rel='nofollow' target='_blank'>楽天</a></div></div></div></div></div>
+<div class='amazlink-box' style='text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;'><div class='amazlink-list' style='clear: both;'><div class='amazlink-image' style='float:left;margin:0px 12px 1px 0px;'><a href='https://www.amazon.co.jp/EFFECTIVE-JAVA-%E7%AC%AC2%E7%89%88-Java-Series/dp/4621066056%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4621066056' target='_blank' rel='nofollow'><img src='https://ecx.images-amazon.com/images/I/51lEBnUjJqL._SL160_.jpg' style='border: none;' /></a></div><div class='amazlink-info' style='height:160; margin-bottom: 10px'><div class='amazlink-name' style='margin-bottom:10px;line-height:120%'><a href='https://www.amazon.co.jp/EFFECTIVE-JAVA-%E7%AC%AC2%E7%89%88-Java-Series/dp/4621066056%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4621066056' rel='nofollow' target='_blank'>EFFECTIVE JAVA 第 2 版 (The Java Series)</a></div><div class='amazlink-powered' style='font-size:80%;margin-top:5px;line-height:120%'>posted with <a href='https://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 14.12.01</div><div class='amazlink-detail'>Joshua Bloch<br /></div><div class='amazlink-sub-info' style='float: left;'><div class='amazlink-link' style='margin-top: 5px'><img src='https://amazlink.fuyu.gs/icon_amazon.png' width='18'><a href='https://www.amazon.co.jp/EFFECTIVE-JAVA-%E7%AC%AC2%E7%89%88-Java-Series/dp/4621066056%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4621066056' rel='nofollow' target='_blank'>Amazon</a> <img src='https://amazlink.fuyu.gs/icon_rakuten.gif' width='18'><a href='https://hb.afl.rakuten.co.jp/hgc/g00q0724.n763w947.g00q0724.n763x2b4/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F12699391%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frms%2Fmsv%2FItem%3Fn%3D12699391%26surl%3Dbook' rel='nofollow' target='_blank'>楽天</a></div></div></div></div></div>
 
 2 週間ちかくかかったけれども, ようやく読みきったので感想を書く.
 
@@ -166,12 +166,12 @@ BookMarks
 =========
 
 -   [『 Effective Java 第 2
-    版』正誤表](http://www001.upp.so-net.ne.jp/yshibata/myhomepage/errata/ej2eerrata.html)
+    版』正誤表](https://www001.upp.so-net.ne.jp/yshibata/myhomepage/errata/ej2eerrata.html)
 -   Effective Java のソース:
     [marhan/effective-java-examples](https://github.com/marhan/effective-java-examples)
 -   [Effective Java のまとめのまとめ -
-    Qiita](http://qiita.com/disc99/items/ccdcbe797b077dd0c54d)
+    Qiita](https://qiita.com/disc99/items/ccdcbe797b077dd0c54d)
 -   [『 Effective Java 第 2 版』の電子版 (PDF) が発売になりました:柴田
     芳樹 (Yoshiki Shibata):So-net
-    ブログ](http://yshibata.blog.so-net.ne.jp/2014-10-04)
+    ブログ](https://yshibata.blog.so-net.ne.jp/2014-10-04)
 

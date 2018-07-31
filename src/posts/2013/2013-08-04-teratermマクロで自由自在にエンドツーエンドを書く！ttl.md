@@ -181,5 +181,5 @@ example/RunTestSuite.batをご覧されたし。ttpmacro.exeとテストフォ�
 
 [//www.youtube.com/embed/h6iN5MiI3FI?list=UUT1w_8QIwJc5Ia67MjOWN1A]
 
- [1]: http://ttssh2.sourceforge.jp/manual/ja/macro/command/index.html
- [2]: http://lh3.ggpht.com/-y5ss0lsm8Rg/Uf5TloyW3XI/AAAAAAAAAv8/FPnGWd-rzZ0/SnapCrab_%25255BTest%252520Summary%25255D_2013-8-4_22-13-35_No-00.jpg
+ [1]: https://ttssh2.sourceforge.jp/manual/ja/macro/command/index.html
+ [2]: https://lh3.ggpht.com/-y5ss0lsm8Rg/Uf5TloyW3XI/AAAAAAAAAv8/FPnGWd-rzZ0/SnapCrab_%25255BTest%252520Summary%25255D_2013-8-4_22-13-35_No-00.jpg

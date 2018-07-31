@@ -31,16 +31,16 @@ Run Book Autmationというキーワードについてまとめてみました�
     <div class='amazlink-box' style='text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;'>
       <div class='amazlink-list' style='clear: both;'>
         <div class='amazlink-image' style='float:left;margin:0px 12px 1px 0px;'>
-          <a href='http://www.amazon.co.jp/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E7%AE%A1%E7%90%86%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AERun-Book-Automation%E5%AE%9F%E8%B7%B5%E3%82%AC%E3%82%A4%E3%83%89-%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E6%A7%8B%E7%AF%89-%E7%AE%A1%E7%90%86%E8%87%AA%E5%8B%95%E5%8C%96%E5%85%A5%E9%96%80/dp/4798129631%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4798129631' target='_blank' rel='nofollow'><img src='http://ecx.images-amazon.com/images/I/51BXN%2BBkEpL._SL160_.jpg' style='border: none;' /></a>
+          <a href='https://www.amazon.co.jp/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E7%AE%A1%E7%90%86%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AERun-Book-Automation%E5%AE%9F%E8%B7%B5%E3%82%AC%E3%82%A4%E3%83%89-%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E6%A7%8B%E7%AF%89-%E7%AE%A1%E7%90%86%E8%87%AA%E5%8B%95%E5%8C%96%E5%85%A5%E9%96%80/dp/4798129631%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4798129631' target='_blank' rel='nofollow'><img src='https://ecx.images-amazon.com/images/I/51BXN%2BBkEpL._SL160_.jpg' style='border: none;' /></a>
         </div>
         
         <div class='amazlink-info' style='height:160; margin-bottom: 10px'>
           <div class='amazlink-name' style='margin-bottom:10px;line-height:120%'>
-            <a href='http://www.amazon.co.jp/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E7%AE%A1%E7%90%86%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AERun-Book-Automation%E5%AE%9F%E8%B7%B5%E3%82%AC%E3%82%A4%E3%83%89-%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E6%A7%8B%E7%AF%89-%E7%AE%A1%E7%90%86%E8%87%AA%E5%8B%95%E5%8C%96%E5%85%A5%E9%96%80/dp/4798129631%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4798129631' rel='nofollow' target='_blank'>インフラ管理者のためのRun Book Automation実践ガイド オープンソースを使ったシステム構築/管理自動化入門</a>
+            <a href='https://www.amazon.co.jp/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E7%AE%A1%E7%90%86%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AERun-Book-Automation%E5%AE%9F%E8%B7%B5%E3%82%AC%E3%82%A4%E3%83%89-%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E6%A7%8B%E7%AF%89-%E7%AE%A1%E7%90%86%E8%87%AA%E5%8B%95%E5%8C%96%E5%85%A5%E9%96%80/dp/4798129631%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4798129631' rel='nofollow' target='_blank'>インフラ管理者のためのRun Book Automation実践ガイド オープンソースを使ったシステム構築/管理自動化入門</a>
           </div>
           
           <div class='amazlink-powered' style='font-size:80%;margin-top:5px;line-height:120%'>
-            posted with <a href='http://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 14.03.26
+            posted with <a href='https://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 14.03.26
           </div>
           
           <div class='amazlink-detail'>
@@ -49,7 +49,7 @@ Run Book Autmationというキーワードについてまとめてみました�
           
           <div class='amazlink-sub-info' style='float: left;'>
             <div class='amazlink-link' style='margin-top: 5px'>
-              <img src='http://amazlink.fuyu.gs/icon_amazon.png' width='18' /><a href='http://www.amazon.co.jp/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E7%AE%A1%E7%90%86%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AERun-Book-Automation%E5%AE%9F%E8%B7%B5%E3%82%AC%E3%82%A4%E3%83%89-%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E6%A7%8B%E7%AF%89-%E7%AE%A1%E7%90%86%E8%87%AA%E5%8B%95%E5%8C%96%E5%85%A5%E9%96%80/dp/4798129631%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4798129631' rel='nofollow' target='_blank'>Amazon</a>
+              <img src='https://amazlink.fuyu.gs/icon_amazon.png' width='18' /><a href='https://www.amazon.co.jp/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E7%AE%A1%E7%90%86%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AERun-Book-Automation%E5%AE%9F%E8%B7%B5%E3%82%AC%E3%82%A4%E3%83%89-%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E6%A7%8B%E7%AF%89-%E7%AE%A1%E7%90%86%E8%87%AA%E5%8B%95%E5%8C%96%E5%85%A5%E9%96%80/dp/4798129631%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4798129631' rel='nofollow' target='_blank'>Amazon</a>
             </div>
           </div>
         </div>
@@ -118,7 +118,7 @@ Run Book Autmationというキーワードについてまとめてみました�
       
       <ul class="org-ul">
         <li>
-          <a href="http://en.wikipedia.org/wiki/Runbook">Runbook &#8211; Wikipedia, the free encyclopedia</a>
+          <a href="https://en.wikipedia.org/wiki/Runbook">Runbook &#8211; Wikipedia, the free encyclopedia</a>
         </li>
       </ul>
       
@@ -130,7 +130,7 @@ Run Book Autmationというキーワードについてまとめてみました�
       
       <ul class="org-ul">
         <li>
-          <a href="http://news.mynavi.jp/column/hyper-vcloud/002/">運用の効率化を考えていたらプライベートクラウドになった! (2) 注目を浴びるRunbook &#8211; 自動化のカギを握るテクノロジーと仮想化のツツキ方 | マイナビニュース</a>
+          <a href="https://news.mynavi.jp/column/hyper-vcloud/002/">運用の効率化を考えていたらプライベートクラウドになった! (2) 注目を浴びるRunbook &#8211; 自動化のカギを握るテクノロジーと仮想化のツツキ方 | マイナビニュース</a>
         </li>
       </ul>
       
@@ -146,7 +146,7 @@ Run Book Autmationというキーワードについてまとめてみました�
       
       <ul class="org-ul">
         <li>
-          <a href="http://it.impressbm.co.jp/e/2011/01/24/3281">IT運用管理プロセスを自動化し、ビジネス変化の速さに備えるRBA | IT Leaders</a>
+          <a href="https://it.impressbm.co.jp/e/2011/01/24/3281">IT運用管理プロセスを自動化し、ビジネス変化の速さに備えるRBA | IT Leaders</a>
         </li>
       </ul>
       
@@ -158,7 +158,7 @@ Run Book Autmationというキーワードについてまとめてみました�
       
       <ul class="org-ul">
         <li>
-          <a href="http://itpro.nikkeibp.co.jp/article/Active/20111107/372843/">ITオペレーション（運用）の自動化（1）&#x2014;クラウド運用は自動化が大前提に &#8211; ガートナー直伝！IT導入ワン&#x2026;：ITpro Active</a>
+          <a href="https://itpro.nikkeibp.co.jp/article/Active/20111107/372843/">ITオペレーション（運用）の自動化（1）&#x2014;クラウド運用は自動化が大前提に &#8211; ガートナー直伝！IT導入ワン&#x2026;：ITpro Active</a>
         </li>
       </ul>
       
@@ -174,7 +174,7 @@ Run Book Autmationというキーワードについてまとめてみました�
       
       <ul class="org-ul">
         <li>
-          <a href="http://www.itmedia.co.jp/im/articles/1009/15/news118.html">特集：仮想化構築・運用のポイントを探る（5）：“自動化”は仮想化運用管理の救世主 (1/2) &#8211; ITmedia エンタープライズ</a>
+          <a href="https://www.itmedia.co.jp/im/articles/1009/15/news118.html">特集：仮想化構築・運用のポイントを探る（5）：“自動化”は仮想化運用管理の救世主 (1/2) &#8211; ITmedia エンタープライズ</a>
         </li>
       </ul>
     </div></p>
@@ -210,16 +210,16 @@ Run Book Autmationというキーワードについてまとめてみました�
     <div class='amazlink-box' style='text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;'>
       <div class='amazlink-list' style='clear: both;'>
         <div class='amazlink-image' style='float:left;margin:0px 12px 1px 0px;'>
-          <a href='http://www.amazon.co.jp/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E7%AE%A1%E7%90%86%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AERun-Book-Automation%E5%AE%9F%E8%B7%B5%E3%82%AC%E3%82%A4%E3%83%89-%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E6%A7%8B%E7%AF%89-%E7%AE%A1%E7%90%86%E8%87%AA%E5%8B%95%E5%8C%96%E5%85%A5%E9%96%80/dp/4798129631%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4798129631' target='_blank' rel='nofollow'><img src='http://ecx.images-amazon.com/images/I/51BXN%2BBkEpL._SL160_.jpg' style='border: none;' /></a>
+          <a href='https://www.amazon.co.jp/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E7%AE%A1%E7%90%86%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AERun-Book-Automation%E5%AE%9F%E8%B7%B5%E3%82%AC%E3%82%A4%E3%83%89-%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E6%A7%8B%E7%AF%89-%E7%AE%A1%E7%90%86%E8%87%AA%E5%8B%95%E5%8C%96%E5%85%A5%E9%96%80/dp/4798129631%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4798129631' target='_blank' rel='nofollow'><img src='https://ecx.images-amazon.com/images/I/51BXN%2BBkEpL._SL160_.jpg' style='border: none;' /></a>
         </div>
         
         <div class='amazlink-info' style='height:160; margin-bottom: 10px'>
           <div class='amazlink-name' style='margin-bottom:10px;line-height:120%'>
-            <a href='http://www.amazon.co.jp/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E7%AE%A1%E7%90%86%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AERun-Book-Automation%E5%AE%9F%E8%B7%B5%E3%82%AC%E3%82%A4%E3%83%89-%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E6%A7%8B%E7%AF%89-%E7%AE%A1%E7%90%86%E8%87%AA%E5%8B%95%E5%8C%96%E5%85%A5%E9%96%80/dp/4798129631%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4798129631' rel='nofollow' target='_blank'>インフラ管理者のためのRun Book Automation実践ガイド オープンソースを使ったシステム構築/管理自動化入門</a>
+            <a href='https://www.amazon.co.jp/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E7%AE%A1%E7%90%86%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AERun-Book-Automation%E5%AE%9F%E8%B7%B5%E3%82%AC%E3%82%A4%E3%83%89-%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E6%A7%8B%E7%AF%89-%E7%AE%A1%E7%90%86%E8%87%AA%E5%8B%95%E5%8C%96%E5%85%A5%E9%96%80/dp/4798129631%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4798129631' rel='nofollow' target='_blank'>インフラ管理者のためのRun Book Automation実践ガイド オープンソースを使ったシステム構築/管理自動化入門</a>
           </div>
           
           <div class='amazlink-powered' style='font-size:80%;margin-top:5px;line-height:120%'>
-            posted with <a href='http://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 14.03.26
+            posted with <a href='https://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 14.03.26
           </div>
           
           <div class='amazlink-detail'>
@@ -228,7 +228,7 @@ Run Book Autmationというキーワードについてまとめてみました�
           
           <div class='amazlink-sub-info' style='float: left;'>
             <div class='amazlink-link' style='margin-top: 5px'>
-              <img src='http://amazlink.fuyu.gs/icon_amazon.png' width='18' /><a href='http://www.amazon.co.jp/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E7%AE%A1%E7%90%86%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AERun-Book-Automation%E5%AE%9F%E8%B7%B5%E3%82%AC%E3%82%A4%E3%83%89-%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E6%A7%8B%E7%AF%89-%E7%AE%A1%E7%90%86%E8%87%AA%E5%8B%95%E5%8C%96%E5%85%A5%E9%96%80/dp/4798129631%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4798129631' rel='nofollow' target='_blank'>Amazon</a>
+              <img src='https://amazlink.fuyu.gs/icon_amazon.png' width='18' /><a href='https://www.amazon.co.jp/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E7%AE%A1%E7%90%86%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AERun-Book-Automation%E5%AE%9F%E8%B7%B5%E3%82%AC%E3%82%A4%E3%83%89-%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E6%A7%8B%E7%AF%89-%E7%AE%A1%E7%90%86%E8%87%AA%E5%8B%95%E5%8C%96%E5%85%A5%E9%96%80/dp/4798129631%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4798129631' rel='nofollow' target='_blank'>Amazon</a>
             </div>
           </div>
         </div>

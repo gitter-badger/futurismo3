@@ -145,9 +145,9 @@ Bookmarks
 =========
 
 -   [R Source Code Blocks in Org
-    Mode](http://orgmode.org/worg/org-contrib/babel/languages/ob-doc-R.html)
+    Mode](https://orgmode.org/worg/org-contrib/babel/languages/ob-doc-R.html)
 -   [Emacs 上のマルチな実行環境, Org-babel -
-    sheephead](http://sheephead.homelinux.org/2010/05/25/1868/)
+    sheephead](https://sheephead.homelinux.org/2010/05/25/1868/)
 -   <https://github.com/erikriverson/org-mode-R-tutorial/blob/master/org-mode-R-tutorial.org>
 
 R 言語と org-mode で Reproducible Research を.

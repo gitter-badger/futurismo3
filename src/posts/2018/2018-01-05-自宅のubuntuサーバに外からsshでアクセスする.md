@@ -174,7 +174,7 @@ ssh は port 22 なのだけれども、これを変更する。ハッカーに�
 
 自分の家のルータの設定を変更して、上で設定した10022番ポートがホストに回してくれるよう設定する。
 
-  * <http://172.16.255.254/> に接続、user/userでログイン
+  * <https://172.16.255.254/> に接続、user/userでログイン
   * 詳細設定を開く -> ポート転送
   * 有効/無効 -> 有効
   * プロトコル -> tcp
@@ -216,4 +216,4 @@ ssh は port 22 なのだけれども、これを変更する。ハッカーに�
  [2]: https://jyn.jp/ubuntu-localip-static/
  [3]: https://lh3.googleusercontent.com/VxUs8mK9tRym-RIjtWsdDFEMNIMf7Et8iERFbdvZMMeSt1-8JVCEQBMjEKAJZpO8hFnG8-kyLJ_g05GqlMTxldPxnGZppLUT2n6VbKg5UDNazWgTXjRZEF8U1gPaOg4DaYnemyFFQel5GNHyasY0tfbZiX9kniuTCBbDIUO05xQ0CBQt8WP95ZA_JP8koQ0xZ02RWmd3oXYEcu0qg8-DMBFUeyWLuvTTFtKf-HEXqHV0aOJPgmR0jaDm0WSMswDQp5bp3q6vUjK_U4dxQJnZVp_S_o3EMvvBF9dwvodCZFcUVDTlrTrbK6ldzpTQEVBzfYggoPIkv7sxpPZbKG_MVDDDchW85TjyLofH2TMJ36q6yUI768jqh4RVrqW9bvzkk-D5EB_Li58mvziBVz7vXPZAvjIqQ9CD2v7-_MVBp5-PbcfsvyybxhKcXlS7-mzWH-L4ga0dNOw4dxMr-gis64AlljpaANNoavhARaIJUbjuJko_FZbEOrwl_Vd4UFl6oMuhoAo84ixoVUykN0HgVGLcaq7dbjWcziod80TQlbrDn6_fO3vl7WSKMu_fuCkr3EAspOC1XgmZEUcNRrNIVkSqIz1gj19ma4Bv7fY=w515-h482-no
  [4]: https://www.cman.jp/network/support/go_access.cgi
- [5]: http://bygzam.seesaa.net/article/117880246.html
+ [5]: https://bygzam.seesaa.net/article/117880246.html

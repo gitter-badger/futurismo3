@@ -70,5 +70,5 @@ Touchpadという名前がついているものが該当。ここでは、SynPS/
   * [Linux Mint Forums • View topic &#8211; Disabled Touchpad D630 Dell &#8211; Mint 15(xinput solution)][1]
   * [SynapticsTouchpad &#8211; Community Ubuntu Documentation][2]
 
- [1]: http://forums.linuxmint.com/viewtopic.php?f=49&t=141577
+ [1]: https://forums.linuxmint.com/viewtopic.php?f=49&t=141577
  [2]: https://help.ubuntu.com/community/SynapticsTouchpad

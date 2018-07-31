@@ -32,7 +32,7 @@ Coursera でとっている Cloud Computing Concepts で Gossip-Style HeartBeat
 以前は, ストレージ の 異常検出機能を作っていた.
 
 -   [ストレージ FUJITSU Storage ETERNUS DX8000 S2 series
-    ](http://storage-system.fujitsu.com/jp/products/diskarray/dx-enterprise/)
+    ](https://storage-system.fujitsu.com/jp/products/diskarray/dx-enterprise/)
 
 信頼性を確保するために, 部品は冗長化されている. 最大で, 8
 ノードの部品が互いを監視しあうような構成.
@@ -59,18 +59,18 @@ subsystem that is responsible for detection of node failures or crashes
 in a distributed system.
 
 -   [Failure detector - Wikipedia, the free
-    encyclopedia](http://en.wikipedia.org/wiki/Failure_detector)
+    encyclopedia](https://en.wikipedia.org/wiki/Failure_detector)
 
 以下の論文で提出された概念.
 
 -   [Unreliable failure detectors for reliable distributed
-    systems](http://dl.acm.org/citation.cfm?coll=GUIDE&dl=GUIDE&id=226647)
+    systems](https://dl.acm.org/citation.cfm?coll=GUIDE&dl=GUIDE&id=226647)
 -   [Chandra – Toueg consensus algorithm - Wikipedia, the free
-    encyclopedia](http://en.wikipedia.org/wiki/Chandra%E2%80%93Toueg_consensus_algorithm)
+    encyclopedia](https://en.wikipedia.org/wiki/Chandra%E2%80%93Toueg_consensus_algorithm)
 
 Failure Detector の解説を噛み砕いて書いてある.
 
--   [FailureDetectors](http://www.cs.yale.edu/homes/aspnes/pinewiki/FailureDetectors.html)
+-   [FailureDetectors](https://www.cs.yale.edu/homes/aspnes/pinewiki/FailureDetectors.html)
 
 Failure Detector の異常検出方法
 -------------------------------
@@ -116,7 +116,7 @@ HeartBeating
 正常に稼動していることを外部に知らせるために送る信号.
 
 -   [ハートビートとは 【 heartbeat 】 - 意味/ 解説/ 説明/ 定義 : IT
-    用語辞典](http://e-words.jp/w/E3838FE383BCE38388E38393E383BCE38388.html)
+    用語辞典](https://e-words.jp/w/E3838FE383BCE38388E38393E383BCE38388.html)
 
 Keep-Alive ともいう.
 
@@ -168,7 +168,7 @@ Gossip はうわさのこと.
 ウワサや伝染病が広まるように, 情報が伝達していく.
 
 -   [Gossip protocol - Wikipedia, the free
-    encyclopedia](http://en.wikipedia.org/wiki/Gossip_protocol)
+    encyclopedia](https://en.wikipedia.org/wiki/Gossip_protocol)
 
 Amazon EC2/S3 で利用されている.
 
@@ -223,22 +223,22 @@ Fault-tolerant Patterns の分野は Pattern
 
 Fault-tolerant で利用される概念がコンパクトにまとまっている.
 
--   <http://www.slideshare.net/ufried/no-crash-allowed-fault-tolerance-patterns>
+-   <https://www.slideshare.net/ufried/no-crash-allowed-fault-tolerance-patterns>
 
 Fault-tolerant のパターン. POSA と同じ出版社.
 
 -   [Amazon.co.jp: Patterns for Fault Tolerant Software (Wiley Software
     Patterns Series) 電子書籍: Robert Hanmer: Kindle
-    ストア](http://www.amazon.co.jp/Patterns-Fault-Tolerant-Software-Series-ebook/dp/B00DXK33SK)
+    ストア](https://www.amazon.co.jp/Patterns-Fault-Tolerant-Software-Series-ebook/dp/B00DXK33SK)
 
 上の本の書評
 
 -   [Patterns for Fault Tolerant Systems -
-    copton](http://blogs.ethz.ch/copton/2009/06/26/patterns-for-fault-tolerant-systems/)
+    copton](https://blogs.ethz.ch/copton/2009/06/26/patterns-for-fault-tolerant-systems/)
 
 Pattern についてまとまった PDF.
 
--   <http://www.dcl.hpi.uni-potsdam.de/teaching/depend13/07_ftpatterns.pdf>
+-   <https://www.dcl.hpi.uni-potsdam.de/teaching/depend13/07_ftpatterns.pdf>
 
 おわりに
 ========
@@ -265,7 +265,7 @@ Pattern についてまとまった PDF.
 
 分散シテステムの鉄板本にいろいろなアイデアが載っている.
 
-<div class='amazlink-box' style='text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;'><div class='amazlink-list' style='clear: both;'><div class='amazlink-image' style='float:left;margin:0px 12px 1px 0px;'><a href='http://www.amazon.co.jp/%E5%88%86%E6%95%A3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0-%E7%AC%AC%E4%BA%8C%E7%89%88-%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%BBS%E3%83%BB%E3%82%BF%E3%83%8D%E3%83%B3%E3%83%90%E3%82%A6%E3%83%A0/dp/4894714981%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4894714981' target='_blank' rel='nofollow'><img src='http://ecx.images-amazon.com/images/I/51zOfqbGCyL._SL160_.jpg' style='border: none;' /></a></div><div class='amazlink-info' style='height:160; margin-bottom: 10px'><div class='amazlink-name' style='margin-bottom:10px;line-height:120%'><a href='http://www.amazon.co.jp/%E5%88%86%E6%95%A3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0-%E7%AC%AC%E4%BA%8C%E7%89%88-%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%BBS%E3%83%BB%E3%82%BF%E3%83%8D%E3%83%B3%E3%83%90%E3%82%A6%E3%83%A0/dp/4894714981%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4894714981' rel='nofollow' target='_blank'>分散システム  第二版</a></div><div class='amazlink-powered' style='font-size:80%;margin-top:5px;line-height:120%'>posted with <a href='http://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 15.02.23</div><div class='amazlink-detail'>アンドリュー・ S ・タネンバウム<br /></div><div class='amazlink-sub-info' style='float: left;'><div class='amazlink-link' style='margin-top: 5px'><img src='http://amazlink.fuyu.gs/icon_amazon.png' width='18'><a href='http://www.amazon.co.jp/%E5%88%86%E6%95%A3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0-%E7%AC%AC%E4%BA%8C%E7%89%88-%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%BBS%E3%83%BB%E3%82%BF%E3%83%8D%E3%83%B3%E3%83%90%E3%82%A6%E3%83%A0/dp/4894714981%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4894714981' rel='nofollow' target='_blank'>Amazon</a> <img src='http://amazlink.fuyu.gs/icon_rakuten.gif' width='18'><a href='http://hb.afl.rakuten.co.jp/hgc/g00q0724.n763w947.g00q0724.n763x2b4/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F5961785%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frms%2Fmsv%2FItem%3Fn%3D5961785%26surl%3Dbook' rel='nofollow' target='_blank'>楽天</a></div></div></div></div></div>
+<div class='amazlink-box' style='text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;'><div class='amazlink-list' style='clear: both;'><div class='amazlink-image' style='float:left;margin:0px 12px 1px 0px;'><a href='https://www.amazon.co.jp/%E5%88%86%E6%95%A3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0-%E7%AC%AC%E4%BA%8C%E7%89%88-%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%BBS%E3%83%BB%E3%82%BF%E3%83%8D%E3%83%B3%E3%83%90%E3%82%A6%E3%83%A0/dp/4894714981%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4894714981' target='_blank' rel='nofollow'><img src='https://ecx.images-amazon.com/images/I/51zOfqbGCyL._SL160_.jpg' style='border: none;' /></a></div><div class='amazlink-info' style='height:160; margin-bottom: 10px'><div class='amazlink-name' style='margin-bottom:10px;line-height:120%'><a href='https://www.amazon.co.jp/%E5%88%86%E6%95%A3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0-%E7%AC%AC%E4%BA%8C%E7%89%88-%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%BBS%E3%83%BB%E3%82%BF%E3%83%8D%E3%83%B3%E3%83%90%E3%82%A6%E3%83%A0/dp/4894714981%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4894714981' rel='nofollow' target='_blank'>分散システム  第二版</a></div><div class='amazlink-powered' style='font-size:80%;margin-top:5px;line-height:120%'>posted with <a href='https://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 15.02.23</div><div class='amazlink-detail'>アンドリュー・ S ・タネンバウム<br /></div><div class='amazlink-sub-info' style='float: left;'><div class='amazlink-link' style='margin-top: 5px'><img src='https://amazlink.fuyu.gs/icon_amazon.png' width='18'><a href='https://www.amazon.co.jp/%E5%88%86%E6%95%A3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0-%E7%AC%AC%E4%BA%8C%E7%89%88-%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%BBS%E3%83%BB%E3%82%BF%E3%83%8D%E3%83%B3%E3%83%90%E3%82%A6%E3%83%A0/dp/4894714981%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4894714981' rel='nofollow' target='_blank'>Amazon</a> <img src='https://amazlink.fuyu.gs/icon_rakuten.gif' width='18'><a href='https://hb.afl.rakuten.co.jp/hgc/g00q0724.n763w947.g00q0724.n763x2b4/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F5961785%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frms%2Fmsv%2FItem%3Fn%3D5961785%26surl%3Dbook' rel='nofollow' target='_blank'>楽天</a></div></div></div></div></div>
 
 それらを知らずに自分でアイデアをひねり出すことは,遠回りのような気がした.
 また, そういうアイデアがすでにたくさんあることにも驚きだった.

@@ -44,7 +44,7 @@ MathJax とは、javascript でかかれた 数式を表示するためのライ
 Latex なみの数式表現が扱えるようになる。
 
 -   <https://www.mathjax.org/>
--   <http://docs.mathjax.org/en/latest/mathjax.html>
+-   <https://docs.mathjax.org/en/latest/mathjax.html>
 -   [MathJax - Wikipedia](https://ja.wikipedia.org/wiki/MathJax)
 
 すべてのブラウザで動作し、表示するクライアント側での設定はいらない。
@@ -83,7 +83,7 @@ Default の設定だと参照する MathJax の version
 が古いらしく、以下の設定で最新が使える。
 
 -   [Yet Another Org-Mode
-    Configuration](http://www.i3s.unice.fr/~malapert/org/tips/emacs_orgmode.html)
+    Configuration](https://www.i3s.unice.fr/~malapert/org/tips/emacs_orgmode.html)
 
 ``` {.commonlisp .rundoc-block rundoc-language="emacs-lisp" rundoc-tangle="yes"}
 (setf org-html-mathjax-options
@@ -124,8 +124,8 @@ $$f(a)= \frac{1}{2\pi i}\oint_{\Gamma} \frac{f(z)}{z-a}dz$$
 あとは、Latex 記法を覚えるだけだ。（これが一番大変）
 
 -   [Mathematics in a Blog Post |
-    Irreal](http://irreal.org/blog/?p=3018) ... org2blog についての解説
--   [Easy Copy MathJax](http://easy-copy-mathjax.xxxx7.com/) ...
+    Irreal](https://irreal.org/blog/?p=3018) ... org2blog についての解説
+-   [Easy Copy MathJax](https://easy-copy-mathjax.xxxx7.com/) ...
     記法が列挙されている。
--   [MathJax の使い方](http://genkuroki.web.fc2.com/#preview) ...
+-   [MathJax の使い方](https://genkuroki.web.fc2.com/#preview) ...
     MathJax の詳しい解説。

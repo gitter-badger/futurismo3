@@ -28,17 +28,17 @@ url: /archives/=701
 
 ### 味噌豆 on MMD
 
-[http://www.youtube.com/embed/eb3YkpOUrNQ]
+[https://www.youtube.com/embed/eb3YkpOUrNQ]
 
 演じてみたのは、古典落語の小噺『味噌豆』。
 
 出囃子は志ん生師匠の一丁入りを拝借しています。
   
-(<http://www.youtube.com/watch?v=RK0UUX-K31s>)
+(<https://www.youtube.com/watch?v=RK0UUX-K31s>)
   
-ステージは、MMD演芸場(<http://www.nicovideo.jp/watch/sm12172730)>
+ステージは、MMD演芸場(<https://www.nicovideo.jp/watch/sm12172730)>
   
-モデルは、双音レンジ(<http://mmd.dip.jp/files/320)>
+モデルは、双音レンジ(<https://mmd.dip.jp/files/320)>
   
 を利用させていただきました。
 

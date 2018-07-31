@@ -240,6 +240,6 @@ url: /archives/=6682
  [5]: https://futurismo.biz/archives/6490
  [6]: https://futurismo.biz/archives/6564
  [7]: https://futurismo.biz/archives/6667
- [8]: http://course.fast.ai/part2.html
- [9]: http://www.deeplearningbook.org/
+ [8]: https://course.fast.ai/part2.html
+ [9]: https://www.deeplearningbook.org/
  [10]: https://www.udacity.com/robotics

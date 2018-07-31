@@ -65,7 +65,7 @@ Input Methodは ibusだけではない。fcitxがある！というわけで、i
 
 参考にしたリンク
 
-  * <http://note.kurodigi.com/centos7-fcitx/>
+  * <https://note.kurodigi.com/centos7-fcitx/>
   * [https://github.com/SaburoJiro/MyTips/blob/97afea3df48bf192ed11f2d279bec95af68f6398/01\_CentOS/02\_CentOS7\_Install\_fcitx.mkd][2]
 
 ### fcitxをインストール {#fcitx-}

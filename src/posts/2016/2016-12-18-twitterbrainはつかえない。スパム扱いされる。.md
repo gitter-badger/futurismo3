@@ -48,7 +48,7 @@ TwitterBrain(ツイッターブレイン)は使えない。
 
 > Hello,
 > 
-> You tried to update a case that has been closed. Please submit a new case at http://support.twitter.com/forms. You can also visit our help center at http://support.twitter.com for self-help solutions to common problems.
+> You tried to update a case that has been closed. Please submit a new case at https://support.twitter.com/forms. You can also visit our help center at https://support.twitter.com for self-help solutions to common problems.
 
 困り果てた。現状のTwitterBrain では、Twitter のスパム判定アルゴリズムで、アカウントがスパムと判定されるようだ。
 

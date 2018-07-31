@@ -46,7 +46,7 @@ ex.) doxygen doxygen.conf
   
 doxygenの設定ファイルを指定する。
   
-[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb43.png" alt="image" width="378" height="112" border="0" />][4]
+[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb43.png" alt="image" width="378" height="112" border="0" />][4]
 
 ビルドを実行して、Doxygenファイルを生成してみる。
   
@@ -60,7 +60,7 @@ DoxyGen HTMLというメニューが現れて、リンク先からDoxygenを閲�
 
 <pre>Publishing Doxygen HTML results.
 FATAL: error
-<a href="http://stacktrace.jenkins-ci.org/search?query=java.io.FileNotFoundException">java.io.FileNotFoundException</a>: C:\Users\TSUNEMICHI\Dropbox\src\mock_study\html (アクセスが拒否されました。)
+<a href="https://stacktrace.jenkins-ci.org/search?query=java.io.FileNotFoundException">java.io.FileNotFoundException</a>: C:\Users\TSUNEMICHI\Dropbox\src\mock_study\html (アクセスが拒否されました。)
 	at java.io.FileInputStream.open(Native Method)
 	at java.io.FileInputStream.&lt;init&gt;(Unknown Source)
 	at hudson.plugins.doxygen.DoxygenDirectoryParser.loadDoxyFile(DoxygenDirectoryParser.java:208)
@@ -91,4 +91,4 @@ Build step 'Publish Doxygen' changed build result to FAILURE</pre>
  [1]: https://futurismo.biz/archives/587 "Doxygenの使い方（セットアップ編）の備忘録"
  [2]: https://futurismo.biz/archives/655 "Doxygen C言語のコメント備忘録"
  [3]: https://wiki.jenkins-ci.org/display/JENKINS/Doxygen+Plugin
- [4]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image43.png
+ [4]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image43.png

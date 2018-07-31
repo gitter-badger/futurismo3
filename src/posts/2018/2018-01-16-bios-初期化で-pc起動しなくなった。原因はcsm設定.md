@@ -68,4 +68,4 @@ CSMとは Compatibility Supported Module の略です。つまり、レガシー
 
 とはいえ、無事に復旧することができました。めでたしめでたし。
 
- [1]: http://jisaku-pc.net/hddnavi/uefi_bios_01.html
+ [1]: https://jisaku-pc.net/hddnavi/uefi_bios_01.html

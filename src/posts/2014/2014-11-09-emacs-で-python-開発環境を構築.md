@@ -82,7 +82,7 @@ url: /archives/=2680
                 <a href="https://launchpad.net/python-mode/">python-mode.el in Launchpad</a>
               </li>
               <li>
-                <a href="http://tnt.math.se.tmu.ac.jp/~tetsushi/nzmath/emacs-python-mode.html">Guide &#8211; Software &#8211; Emacs &#8211; python-mode</a>
+                <a href="https://tnt.math.se.tmu.ac.jp/~tetsushi/nzmath/emacs-python-mode.html">Guide &#8211; Software &#8211; Emacs &#8211; python-mode</a>
               </li>
             </ul>
             
@@ -92,7 +92,7 @@ url: /archives/=2680
             
             <ul class="org-ul">
               <li>
-                <a href="http://ikautimituaki.hatenablog.com/entry/20111120/1321806070">python-mode の便利なショートカットまとめ &#8211; まったりいんふぉまてぃくすめもらんだむ</a>
+                <a href="https://ikautimituaki.hatenablog.com/entry/20111120/1321806070">python-mode の便利なショートカットまとめ &#8211; まったりいんふぉまてぃくすめもらんだむ</a>
               </li>
             </ul>
           </div>
@@ -165,7 +165,7 @@ url: /archives/=2680
             
             <ul class="org-ul">
               <li>
-                <a href="http://fukuyama.co/emacs-swoop">Emacs バッファ内高速ナビゲーション Swoop.el を作りました. &#8211; Web 学び</a>
+                <a href="https://fukuyama.co/emacs-swoop">Emacs バッファ内高速ナビゲーション Swoop.el を作りました. &#8211; Web 学び</a>
               </li>
             </ul>
             
@@ -195,7 +195,7 @@ url: /archives/=2680
             
             <ul class="org-ul">
               <li>
-                <a href="http://qiita.com/lambdasakura@github/items/ceb9bc6fb008c959ec4b">Emacs の Python 開発環境構築メモ &#8211; Qiita</a>
+                <a href="https://qiita.com/lambdasakura@github/items/ceb9bc6fb008c959ec4b">Emacs の Python 開発環境構築メモ &#8211; Qiita</a>
               </li>
             </ul>
             
@@ -222,7 +222,7 @@ url: /archives/=2680
           
           <ul class="org-ul">
             <li>
-              <a href="http://stackoverflow.com/questions/28796/what-refactoring-tools-do-you-use-for-python">What refactoring tools do you use for Python? &#8211; Stack Overflow</a>
+              <a href="https://stackoverflow.com/questions/28796/what-refactoring-tools-do-you-use-for-python">What refactoring tools do you use for Python? &#8211; Stack Overflow</a>
             </li>
           </ul>
         </div>
@@ -257,7 +257,7 @@ url: /archives/=2680
             
             <ul class="org-ul">
               <li>
-                <a href="http://www.emacswiki.org/emacs/Iedit">EmacsWiki: Iedit</a>
+                <a href="https://www.emacswiki.org/emacs/Iedit">EmacsWiki: Iedit</a>
               </li>
             </ul>
           </div>
@@ -275,7 +275,7 @@ url: /archives/=2680
             
             <ul class="org-ul">
               <li>
-                <a href="http://rope.sourceforge.net/ropemacs.html">ropemacs, rope in emacs</a>
+                <a href="https://rope.sourceforge.net/ropemacs.html">ropemacs, rope in emacs</a>
               </li>
             </ul>
           </div>
@@ -302,7 +302,7 @@ url: /archives/=2680
             
             <ul class="org-ul">
               <li>
-                <a href="http://qiita.com/yuu116atlab/items/2a62cb880ac863dcc8ef">emacs-jedi の install &#8211; Qiita</a>
+                <a href="https://qiita.com/yuu116atlab/items/2a62cb880ac863dcc8ef">emacs-jedi の install &#8211; Qiita</a>
               </li>
             </ul>
           </div>
@@ -379,7 +379,7 @@ url: /archives/=2680
             
             <ul class="org-ul">
               <li>
-                <a href="http://www.emacswiki.org/PythonProgrammingInEmacs">EmacsWiki: Python Programming In Emacs</a>
+                <a href="https://www.emacswiki.org/PythonProgrammingInEmacs">EmacsWiki: Python Programming In Emacs</a>
               </li>
             </ul>
             
@@ -423,25 +423,25 @@ url: /archives/=2680
           <div class="outline-text-3" id="text-unnumbered-22">
             <ul class="org-ul">
               <li>
-                <a href="http://www.emacswiki.org/PythonProgrammingInEmacs">EmacsWiki: Python Programming In Emacs</a>
+                <a href="https://www.emacswiki.org/PythonProgrammingInEmacs">EmacsWiki: Python Programming In Emacs</a>
               </li>
               <li>
-                <a href="http://www.jesshamrick.com/2012/09/18/emacs-as-a-python-ide/">Emacs as a Python IDE &#8211; Jessica Hamrick</a>
+                <a href="https://www.jesshamrick.com/2012/09/18/emacs-as-a-python-ide/">Emacs as a Python IDE &#8211; Jessica Hamrick</a>
               </li>
               <li>
-                <a href="http://pedrokroger.net/configuring-emacs-python-ide/">Configuring Emacs as a Python IDE &#8211; Pedro Kroger</a>
+                <a href="https://pedrokroger.net/configuring-emacs-python-ide/">Configuring Emacs as a Python IDE &#8211; Pedro Kroger</a>
               </li>
               <li>
-                <a href="http://uchikoshi22.hatenadiary.jp/entry/20110925/1316936253">Emacs を Python 用 IDE としてセットアップ &#8211; uchikoshi22&#8217;s blog</a>
+                <a href="https://uchikoshi22.hatenadiary.jp/entry/20110925/1316936253">Emacs を Python 用 IDE としてセットアップ &#8211; uchikoshi22&#8217;s blog</a>
               </li>
               <li>
-                <a href="http://d.hatena.ne.jp/cou929_la/20110525/1306321857">emacs の python 開発環境を整える &#8211; フリーフォーム フリークアウト</a>
+                <a href="https://d.hatena.ne.jp/cou929_la/20110525/1306321857">emacs の python 開発環境を整える &#8211; フリーフォーム フリークアウト</a>
               </li>
               <li>
-                <a href="http://blog.kzfmix.com/entry/1334218401">Emacs の Python 開発環境を整えた</a>
+                <a href="https://blog.kzfmix.com/entry/1334218401">Emacs の Python 開発環境を整えた</a>
               </li>
               <li>
-                <a href="http://lambdalisue.hatenablog.com/entry/2013/06/23/071344">Vim を最強の Python 開発環境にする 2 &#8211; Λ Lisue&#8217;s blog</a>
+                <a href="https://lambdalisue.hatenablog.com/entry/2013/06/23/071344">Vim を最強の Python 開発環境にする 2 &#8211; Λ Lisue&#8217;s blog</a>
               </li>
               <li>
                 <a href="https://github.com/gabrielelanaro/emacs-for-python">gabrielelanaro/emacs-for-python</a>

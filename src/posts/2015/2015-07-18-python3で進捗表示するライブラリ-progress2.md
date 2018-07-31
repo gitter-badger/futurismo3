@@ -25,7 +25,7 @@ progressbarというライブラリができそうなのだが、python3では�
     <a href="https://github.com/WoLpH/python-progressbar">https://github.com/WoLpH/python-progressbar</a>
   </li>
   <li>
-    <a href="http://pythonhosted.org/progressbar2/">http://pythonhosted.org/progressbar2/</a>
+    <a href="https://pythonhosted.org/progressbar2/">https://pythonhosted.org/progressbar2/</a>
   </li>
 </ul>
 
@@ -57,7 +57,7 @@ progressbarというライブラリができそうなのだが、python3では�
     
     <ul class="org-ul">
       <li>
-        <a href="http://pythonhosted.org/progressbar2/examples.html">http://pythonhosted.org/progressbar2/examples.html</a>
+        <a href="https://pythonhosted.org/progressbar2/examples.html">https://pythonhosted.org/progressbar2/examples.html</a>
       </li>
     </ul>
   </div>

@@ -91,9 +91,9 @@ url: /archives/=2427
 <h4 id="sec-2-3-1">Oz勉強リンク</h4>
 <div class="outline-text-4" id="text-2-3-1">
 <ul class="org-ul">
-<li><a href="http://e-p-i.github.io/tutorial_of_oz/index.html">Tutorial of Oz</a> </li>
-<li><a href="http://dream.inf.ed.ac.uk/computing/installed/mozart/doc/opi/index.html">The Oz Programming Interface</a> </li>
-<li><a href="http://www.eecs.ucf.edu/~leavens/ComS541Fall06/running_oz.shtml#">Running Oz</a> </li>
+<li><a href="https://e-p-i.github.io/tutorial_of_oz/index.html">Tutorial of Oz</a> </li>
+<li><a href="https://dream.inf.ed.ac.uk/computing/installed/mozart/doc/opi/index.html">The Oz Programming Interface</a> </li>
+<li><a href="https://www.eecs.ucf.edu/~leavens/ComS541Fall06/running_oz.shtml#">Running Oz</a> </li>
 </ul></div>
 </p></div>
 <div id="outline-container-sec-2-3-2" class="outline-4">
@@ -101,13 +101,13 @@ url: /archives/=2427
 <div class="outline-text-4" id="text-2-3-2">
 <div class='amazlink-box' style='text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;'>
 <div class='amazlink-list' style='clear: both;'>
-<div class='amazlink-image' style='float:left;margin:0px 12px 1px 0px;'><a href='http://www.amazon.co.jp/%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%AE%E6%A6%82%E5%BF%B5%E3%83%BB%E6%8A%80%E6%B3%95%E3%83%BB%E3%83%A2%E3%83%87%E3%83%AB-Architect-Archive%E3%82%AF%E3%83%A9%E3%82%B7%E3%83%83%E3%82%AF%E3%83%A2%E3%83%80%E3%83%B3%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B06-Architects%E2%80%99Archive-CLASSIC/dp/4798113468%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4798113468' target='_blank' rel='nofollow'><img src='http://ecx.images-amazon.com/images/I/51iXhiKTamL._SL160_.jpg' style='border: none;' /></a></div>
+<div class='amazlink-image' style='float:left;margin:0px 12px 1px 0px;'><a href='https://www.amazon.co.jp/%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%AE%E6%A6%82%E5%BF%B5%E3%83%BB%E6%8A%80%E6%B3%95%E3%83%BB%E3%83%A2%E3%83%87%E3%83%AB-Architect-Archive%E3%82%AF%E3%83%A9%E3%82%B7%E3%83%83%E3%82%AF%E3%83%A2%E3%83%80%E3%83%B3%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B06-Architects%E2%80%99Archive-CLASSIC/dp/4798113468%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4798113468' target='_blank' rel='nofollow'><img src='https://ecx.images-amazon.com/images/I/51iXhiKTamL._SL160_.jpg' style='border: none;' /></a></div>
 <div class='amazlink-info' style='height:160; margin-bottom: 10px'>
-<div class='amazlink-name' style='margin-bottom:10px;line-height:120%'><a href='http://www.amazon.co.jp/%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%AE%E6%A6%82%E5%BF%B5%E3%83%BB%E6%8A%80%E6%B3%95%E3%83%BB%E3%83%A2%E3%83%87%E3%83%AB-Architect-Archive%E3%82%AF%E3%83%A9%E3%82%B7%E3%83%83%E3%82%AF%E3%83%A2%E3%83%80%E3%83%B3%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B06-Architects%E2%80%99Archive-CLASSIC/dp/4798113468%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4798113468' rel='nofollow' target='_blank'>コンピュータプログラミングの概念・技法・モデル(IT Architect' Archiveクラシックモダン・コンピューティング6) (IT Architects’Archive CLASSIC MODER)</a></div>
-<div class='amazlink-powered' style='font-size:80%;margin-top:5px;line-height:120%'>posted with <a href='http://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 14.05.07</div>
+<div class='amazlink-name' style='margin-bottom:10px;line-height:120%'><a href='https://www.amazon.co.jp/%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%AE%E6%A6%82%E5%BF%B5%E3%83%BB%E6%8A%80%E6%B3%95%E3%83%BB%E3%83%A2%E3%83%87%E3%83%AB-Architect-Archive%E3%82%AF%E3%83%A9%E3%82%B7%E3%83%83%E3%82%AF%E3%83%A2%E3%83%80%E3%83%B3%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B06-Architects%E2%80%99Archive-CLASSIC/dp/4798113468%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4798113468' rel='nofollow' target='_blank'>コンピュータプログラミングの概念・技法・モデル(IT Architect' Archiveクラシックモダン・コンピューティング6) (IT Architects’Archive CLASSIC MODER)</a></div>
+<div class='amazlink-powered' style='font-size:80%;margin-top:5px;line-height:120%'>posted with <a href='https://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 14.05.07</div>
 <div class='amazlink-detail'>セイフ・ハリディ</div>
 <div class='amazlink-sub-info' style='float: left;'>
-<div class='amazlink-link' style='margin-top: 5px'><img src='http://amazlink.fuyu.gs/icon_amazon.png' width='18'><a href='http://www.amazon.co.jp/%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%AE%E6%A6%82%E5%BF%B5%E3%83%BB%E6%8A%80%E6%B3%95%E3%83%BB%E3%83%A2%E3%83%87%E3%83%AB-Architect-Archive%E3%82%AF%E3%83%A9%E3%82%B7%E3%83%83%E3%82%AF%E3%83%A2%E3%83%80%E3%83%B3%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B06-Architects%E2%80%99Archive-CLASSIC/dp/4798113468%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4798113468' rel='nofollow' target='_blank'>Amazon</a> <img src='http://amazlink.fuyu.gs/icon_rakuten.gif' width='18'><a href='http://hb.afl.rakuten.co.jp/hgc/g00q0724.n763w947.g00q0724.n763x2b4/archives/c=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F5079035%2F&#038;m=http%3A%2F%2Fm.rakuten.co.jp%2Frms%2Fmsv%2FItem%3Fn%3D5079035%26surl%3Dbook' rel='nofollow' target='_blank'>楽天</a></div>
+<div class='amazlink-link' style='margin-top: 5px'><img src='https://amazlink.fuyu.gs/icon_amazon.png' width='18'><a href='https://www.amazon.co.jp/%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%AE%E6%A6%82%E5%BF%B5%E3%83%BB%E6%8A%80%E6%B3%95%E3%83%BB%E3%83%A2%E3%83%87%E3%83%AB-Architect-Archive%E3%82%AF%E3%83%A9%E3%82%B7%E3%83%83%E3%82%AF%E3%83%A2%E3%83%80%E3%83%B3%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B06-Architects%E2%80%99Archive-CLASSIC/dp/4798113468%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4798113468' rel='nofollow' target='_blank'>Amazon</a> <img src='https://amazlink.fuyu.gs/icon_rakuten.gif' width='18'><a href='https://hb.afl.rakuten.co.jp/hgc/g00q0724.n763w947.g00q0724.n763x2b4/archives/c=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F5079035%2F&#038;m=http%3A%2F%2Fm.rakuten.co.jp%2Frms%2Fmsv%2FItem%3Fn%3D5079035%26surl%3Dbook' rel='nofollow' target='_blank'>楽天</a></div>
 </div>
 </div>
 </div>
@@ -115,7 +115,7 @@ url: /archives/=2427
 <p> 分厚くて重い。。900ページある。しかし、これがないと辛い。実はEnglishが一番難しい言語。 </p>
 <p> 通称、CTM本、CTMCP本、ガウディ本というらしい。 </p>
 <ul class="org-ul">
-<li><a href="http://www.info.ucl.ac.be/~pvr/book.html">Concepts, Techniques, and Models of Computer Programming</a> </li>
+<li><a href="https://www.info.ucl.ac.be/~pvr/book.html">Concepts, Techniques, and Models of Computer Programming</a> </li>
 </ul></div>
 </p></div>
 </p></div>
@@ -139,13 +139,13 @@ url: /archives/=2427
 <p> また高校生のころにこんな本を読んで、とても感激を受けた。 </p>
 <div class='amazlink-box' style='text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;'>
 <div class='amazlink-list' style='clear: both;'>
-<div class='amazlink-image' style='float:left;margin:0px 12px 1px 0px;'><a href='http://www.amazon.co.jp/%E5%B0%8F%E8%AB%96%E6%96%87%E3%82%92%E5%AD%A6%E3%81%B6%E2%80%95%E7%9F%A5%E3%81%AE%E6%A7%8B%E7%AF%89%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB-%E9%95%B7%E5%B0%BE-%E9%81%94%E4%B9%9F/dp/463407110X%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D463407110X' target='_blank' rel='nofollow'><img src='http://ecx.images-amazon.com/images/I/41RWWEBXB7L._SL160_.jpg' style='border: none;' /></a></div>
+<div class='amazlink-image' style='float:left;margin:0px 12px 1px 0px;'><a href='https://www.amazon.co.jp/%E5%B0%8F%E8%AB%96%E6%96%87%E3%82%92%E5%AD%A6%E3%81%B6%E2%80%95%E7%9F%A5%E3%81%AE%E6%A7%8B%E7%AF%89%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB-%E9%95%B7%E5%B0%BE-%E9%81%94%E4%B9%9F/dp/463407110X%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D463407110X' target='_blank' rel='nofollow'><img src='https://ecx.images-amazon.com/images/I/41RWWEBXB7L._SL160_.jpg' style='border: none;' /></a></div>
 <div class='amazlink-info' style='height:160; margin-bottom: 10px'>
-<div class='amazlink-name' style='margin-bottom:10px;line-height:120%'><a href='http://www.amazon.co.jp/%E5%B0%8F%E8%AB%96%E6%96%87%E3%82%92%E5%AD%A6%E3%81%B6%E2%80%95%E7%9F%A5%E3%81%AE%E6%A7%8B%E7%AF%89%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB-%E9%95%B7%E5%B0%BE-%E9%81%94%E4%B9%9F/dp/463407110X%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D463407110X' rel='nofollow' target='_blank'>小論文を学ぶ―知の構築のために</a></div>
-<div class='amazlink-powered' style='font-size:80%;margin-top:5px;line-height:120%'>posted with <a href='http://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 14.05.07</div>
+<div class='amazlink-name' style='margin-bottom:10px;line-height:120%'><a href='https://www.amazon.co.jp/%E5%B0%8F%E8%AB%96%E6%96%87%E3%82%92%E5%AD%A6%E3%81%B6%E2%80%95%E7%9F%A5%E3%81%AE%E6%A7%8B%E7%AF%89%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB-%E9%95%B7%E5%B0%BE-%E9%81%94%E4%B9%9F/dp/463407110X%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D463407110X' rel='nofollow' target='_blank'>小論文を学ぶ―知の構築のために</a></div>
+<div class='amazlink-powered' style='font-size:80%;margin-top:5px;line-height:120%'>posted with <a href='https://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 14.05.07</div>
 <div class='amazlink-detail'>長尾 達也</div>
 <div class='amazlink-sub-info' style='float: left;'>
-<div class='amazlink-link' style='margin-top: 5px'><img src='http://amazlink.fuyu.gs/icon_amazon.png' width='18'><a href='http://www.amazon.co.jp/%E5%B0%8F%E8%AB%96%E6%96%87%E3%82%92%E5%AD%A6%E3%81%B6%E2%80%95%E7%9F%A5%E3%81%AE%E6%A7%8B%E7%AF%89%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB-%E9%95%B7%E5%B0%BE-%E9%81%94%E4%B9%9F/dp/463407110X%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D463407110X' rel='nofollow' target='_blank'>Amazon</a> <img src='http://amazlink.fuyu.gs/icon_rakuten.gif' width='18'><a href='http://hb.afl.rakuten.co.jp/hgc/g00q0724.n763w947.g00q0724.n763x2b4/archives/c=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F1365994%2F&#038;m=http%3A%2F%2Fm.rakuten.co.jp%2Frms%2Fmsv%2FItem%3Fn%3D1365994%26surl%3Dbook' rel='nofollow' target='_blank'>楽天</a></div>
+<div class='amazlink-link' style='margin-top: 5px'><img src='https://amazlink.fuyu.gs/icon_amazon.png' width='18'><a href='https://www.amazon.co.jp/%E5%B0%8F%E8%AB%96%E6%96%87%E3%82%92%E5%AD%A6%E3%81%B6%E2%80%95%E7%9F%A5%E3%81%AE%E6%A7%8B%E7%AF%89%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB-%E9%95%B7%E5%B0%BE-%E9%81%94%E4%B9%9F/dp/463407110X%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D463407110X' rel='nofollow' target='_blank'>Amazon</a> <img src='https://amazlink.fuyu.gs/icon_rakuten.gif' width='18'><a href='https://hb.afl.rakuten.co.jp/hgc/g00q0724.n763w947.g00q0724.n763x2b4/archives/c=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F1365994%2F&#038;m=http%3A%2F%2Fm.rakuten.co.jp%2Frms%2Fmsv%2FItem%3Fn%3D1365994%26surl%3Dbook' rel='nofollow' target='_blank'>楽天</a></div>
 </div>
 </div>
 </div>
@@ -165,7 +165,7 @@ url: /archives/=2427
 <h3 id="sec-3-3">プログラミング言語の分類学</h3>
 <div class="outline-text-3" id="text-3-3">
 <p> プログラミングパラダイムを分類したポスターが以下のサイトからダウンロードできる。 </p>
-<p> <a href="http://www.info.ucl.ac.be/~pvr/paradigms.html">- Classification of the principal programming paradigms</a> </p>
+<p> <a href="https://www.info.ucl.ac.be/~pvr/paradigms.html">- Classification of the principal programming paradigms</a> </p>
 <p> 今まで3つのパラダイムしかしらなかった。 </p>
 <ul class="org-ul">
 <li>Declarative Programming(宣言的プログラミング) </li>
@@ -193,7 +193,7 @@ url: /archives/=2427
 <p> プログラミングパラダイムとは、プログラミングの分類方法、スコープ、見方。 </p>
 <p> なにかを定義しているようでなにもいっていない・・・詳しくはwikipedia参照。 </p>
 <ul class="org-ul">
-<li><a href="http://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%91%E3%83%A9%E3%83%80%E3%82%A4%E3%83%A0">プログラミングパラダイム - Wikipedia</a> </li>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%91%E3%83%A9%E3%83%80%E3%82%A4%E3%83%A0">プログラミングパラダイム - Wikipedia</a> </li>
 </ul></div>
 </p></div>
 <div id="outline-container-sec-6" class="outline-2">
@@ -235,7 +235,7 @@ url: /archives/=2427
 <p> 宣言型プログラミング。 </p>
 <p> 第1の意味は、 処理方法ではなく対象の性質などを宣言することでプログラミングするパラダイム。 第2の意味は、 純粋関数型プログラミング、論理プログラミング、制約プログラミングの総称。 </p>
 <ul class="org-ul">
-<li><a href="http://ja.wikipedia.org/wiki/%E5%AE%A3%E8%A8%80%E5%9E%8B%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0">宣言型プログラミング - Wikipedia</a> </li>
+<li><a href="https://ja.wikipedia.org/wiki/%E5%AE%A3%E8%A8%80%E5%9E%8B%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0">宣言型プログラミング - Wikipedia</a> </li>
 <li>Imperative Programingの対になる概念。 "Function without State" </li>
 <li>Imperative vs Declaretive is also Stateful vs Stateless </li>
 </ul>
@@ -287,7 +287,7 @@ url: /archives/=2427
 <div class="outline-text-4" id="text-8-3-3">
 <p> 不変式プログラミング。再帰的に呼ばれる度に、数学的に真になる式。 </p>
 <ul class="org-ul">
-<li><a href="http://ja.wikipedia.org/wiki/%E4%B8%8D%E5%A4%89%E6%9D%A1%E4%BB%B6">不変条件 - Wikipedia</a> </li>
+<li><a href="https://ja.wikipedia.org/wiki/%E4%B8%8D%E5%A4%89%E6%9D%A1%E4%BB%B6">不変条件 - Wikipedia</a> </li>
 </ul></div>
 </p></div>
 </p></div>
@@ -297,7 +297,7 @@ url: /archives/=2427
 <div class="outline-text-2" id="text-9">
 <p> 命令型プログラミング。 計算をプログラム状態を変化させる文の列で記述するパラダイム。 </p>
 <ul class="org-ul">
-<li><a href="http://ja.wikipedia.org/wiki/%E5%91%BD%E4%BB%A4%E5%9E%8B%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0">命令型プログラミング - Wikipedia</a> </li>
+<li><a href="https://ja.wikipedia.org/wiki/%E5%91%BD%E4%BB%A4%E5%9E%8B%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0">命令型プログラミング - Wikipedia</a> </li>
 </ul>
 <p> Imperative Programmingとは、Function paradigmにCellの概念を加えたもの。 </p>
 <ul class="org-ul">
@@ -359,15 +359,15 @@ url: /archives/=2427
 <div class="outline-text-2" id="text-10">
 <p> 構造化プログラミング。 </p>
 <p> 構造化プログラミングではプログラミング言語が持つステートメントを 直接使ってプログラムを記述するのではなく、 それらを抽象化したステートメントを持つ仮想機械を想定し、 その仮想機械上でプログラムを記述する。 普通、抽象化は1段階ではなく階層的である。 各階層での実装の詳細は他の階層と隔離されており、 実装の変更の影響はその階層内のみに留まる(Abstract data structures)。 各階層はアプリケーションに近い抽象的な方から土台に向かって順序付けられている。 pこの順序は各階層を設計した時間的な順番とは必ずしも一致しない(Concluding remarks) </p>
-<p> <a href="http://ja.wikipedia.org/wiki/%E6%A7%8B%E9%80%A0%E5%8C%96%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0">- 構造化プログラミング - Wikipedia</a> </p>
+<p> <a href="https://ja.wikipedia.org/wiki/%E6%A7%8B%E9%80%A0%E5%8C%96%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0">- 構造化プログラミング - Wikipedia</a> </p>
 <p> 標準的な制御構造のみを使い、 プログラム全体を段階的に細かな単位に分割して処理を記述していく手法。 </p>
 <ul class="org-ul">
-<li><a href="http://e-words.jp/w/E6A78BE980A0E58C96E38397E383ADE382B0E383A9E3839FE383B3E382B0.html">構造化プログラミングとは 【 structured programming 】 ： IT用語辞典</a> </li>
+<li><a href="https://e-words.jp/w/E6A78BE980A0E58C96E38397E383ADE382B0E383A9E3839FE383B3E382B0.html">構造化プログラミングとは 【 structured programming 】 ： IT用語辞典</a> </li>
 </ul>
 <p> 「制御の流れ」を構造化しただけであり、 「データ構造」には何の制限や規則も設けていない。 </p>
 <p> 「芸術品」から脱却して「工業製品」へ遷移すること、 あるいは、「処理性能重視」から「保守性重視」へ向かったもの。 別の見方をすれば、処理効率を犠牲にして、作りやすさや理解容易性を求めたもの。 </p>
 <ul class="org-ul">
-<li><a href="http://monoist.atmarkit.co.jp/mn/articles/1009/17/news118.html">構造化プログラミングからオブジェクト指向への進化 - MONOist（モノイスト）</a> </li>
+<li><a href="https://monoist.atmarkit.co.jp/mn/articles/1009/17/news118.html">構造化プログラミングからオブジェクト指向への進化 - MONOist（モノイスト）</a> </li>
 </ul></div>
 <div id="outline-container-sec-10-1" class="outline-3">
 <h3 id="sec-10-1">三つの構造化文</h3>
@@ -385,7 +385,7 @@ url: /archives/=2427
 <li>分岐 </li>
 </ul>
 <p> ある条件が成立するなら処理Aを、そうでなければ処理Bを行なう。 </p>
-<p> <a href="http://ja.wikipedia.org/wiki/%E6%A7%8B%E9%80%A0%E5%8C%96%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0">- 構造化プログラミング - Wikipedia</a> </p>
+<p> <a href="https://ja.wikipedia.org/wiki/%E6%A7%8B%E9%80%A0%E5%8C%96%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0">- 構造化プログラミング - Wikipedia</a> </p>
 </p></div>
 </p></div>
 </p></div>
@@ -394,7 +394,7 @@ url: /archives/=2427
 <div class="outline-text-2" id="text-11">
 <p> オブジェクト指向型プログラミング。 </p>
 <ul class="org-ul">
-<li><a href="http://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0">オブジェクト指向プログラミング - Wikipedia</a> </li>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0">オブジェクト指向プログラミング - Wikipedia</a> </li>
 </ul>
 <p> CTMCP, Chapter 6,7 </p>
 </p></div>
@@ -443,7 +443,7 @@ url: /archives/=2427
 <p> 抽象データ型。ADTと略されることも。 </p>
 <p> 構造化プログラミングは仮想機械モデルに基づく段階的詳細化法（stepwise refinement）をもたらしたが、 データ構造の変更を行うと変更部分がソースコード中に散在してしまうという弱点があった。 データ抽象の概念はその欠点を補完するものであった </p>
 <ul class="org-ul">
-<li><a href="http://ja.wikipedia.org/wiki/%E6%8A%BD%E8%B1%A1%E3%83%87%E3%83%BC%E3%82%BF%E5%9E%8B">抽象データ型 - Wikipedia</a> </li>
+<li><a href="https://ja.wikipedia.org/wiki/%E6%8A%BD%E8%B1%A1%E3%83%87%E3%83%BC%E3%82%BF%E5%9E%8B">抽象データ型 - Wikipedia</a> </li>
 </ul>
 <p> An ADT consists of a set of values and  a set of operations. </p>
 <ul class="org-ul">
@@ -548,7 +548,7 @@ url: /archives/=2427
 <div id="outline-container-sec-11-3" class="outline-3">
 <h3 id="sec-11-3">Polymorphism</h3>
 <div class="outline-text-3" id="text-11-3">
-<p> <a href="http://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%95%E3%82%A3%E3%82%BA%E3%83%A0">- ポリモーフィズム - Wikipedia</a> </p>
+<p> <a href="https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%95%E3%82%A3%E3%82%BA%E3%83%A0">- ポリモーフィズム - Wikipedia</a> </p>
 </p></div>
 </p></div>
 <div id="outline-container-sec-11-4" class="outline-3">
@@ -556,7 +556,7 @@ url: /archives/=2427
 <div class="outline-text-3" id="text-11-4">
 <p> 継承。あるオブジェクトが他のオブジェクトの特性を引き継ぐこと。 </p>
 <ul class="org-ul">
-<li><a href="http://ja.wikipedia.org/wiki/%E7%B6%99%E6%89%BF_(%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0)">継承 (プログラミング) - Wikipedia</a> </li>
+<li><a href="https://ja.wikipedia.org/wiki/%E7%B6%99%E6%89%BF_(%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0)">継承 (プログラミング) - Wikipedia</a> </li>
 </ul></div>
 </p></div>
 <div id="outline-container-sec-11-5" class="outline-3">
@@ -564,7 +564,7 @@ url: /archives/=2427
 <div class="outline-text-3" id="text-11-5">
 <p> 例外。プログラムがある処理を実行している途中で、 なんらかの異常が発生した場合に、 現在の処理を中断（中止）して、別の処理を行うこと。 その際に発生した異常のことを例外と呼ぶ </p>
 <ul class="org-ul">
-<li><a href="http://ja.wikipedia.org/wiki/%E4%BE%8B%E5%A4%96%E5%87%A6%E7%90%86">例外処理 - Wikipedia</a> </li>
+<li><a href="https://ja.wikipedia.org/wiki/%E4%BE%8B%E5%A4%96%E5%87%A6%E7%90%86">例外処理 - Wikipedia</a> </li>
 </ul>
 <p> よくある2つの概念。 </p>
 <ul class="org-ul">
@@ -583,8 +583,8 @@ url: /archives/=2427
 <p> 複数の相互作用を及ぼす計算タスクの（同時）並行的実行をおこなうパラダイム。 </p>
 <p> 平行プログラミング。(並列プログラミングではない)。 </p>
 <ul class="org-ul">
-<li><a href="http://ja.wikipedia.org/wiki/%E4%B8%A6%E8%A1%8C%E8%A8%88%E7%AE%97">並行計算 - Wikipedia</a> </li>
-<li><a href="http://ja.wikipedia.org/wiki/%E4%B8%A6%E5%88%97%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0">並列計算 - Wikipedia</a> </li>
+<li><a href="https://ja.wikipedia.org/wiki/%E4%B8%A6%E8%A1%8C%E8%A8%88%E7%AE%97">並行計算 - Wikipedia</a> </li>
+<li><a href="https://ja.wikipedia.org/wiki/%E4%B8%A6%E5%88%97%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0">並列計算 - Wikipedia</a> </li>
 </ul>
 <p> Multiple progressing activities that exist at the same time Activities that can communicate and synchronize </p>
 <ul class="org-ul">
@@ -609,7 +609,7 @@ url: /archives/=2427
 <p> 決定性データフロープログラミング。 </p>
 <p> 関数型パラダイムをべースにしている。 </p>
 <ul class="org-ul">
-<li><a href="http://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%95%E3%83%AD%E3%83%BC%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0">データフロープログラミング - Wikipedia</a> </li>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%95%E3%83%AD%E3%83%BC%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0">データフロープログラミング - Wikipedia</a> </li>
 </ul>
 <p> スレッド処理、時間経過をともなうのにも関わらず、実行結果はつねに一定！ これが、Deterministicと名づけられた所以。 </p>
 <p> Deerministic is not Obsarbable. </p>
@@ -644,7 +644,7 @@ url: /archives/=2427
 <p> Bindされたときの実行を Dataflow Executionという。 </p>
 <p> このデータフロー変数によって、No Race Conditions(非強豪状態)を実現する！ (これがもっともこのパラダイムで大事) </p>
 <ul class="org-ul">
-<li><a href="http://ja.wikipedia.org/wiki/%E7%AB%B6%E5%90%88%E7%8A%B6%E6%85%8B">競合状態 - Wikipedia</a> </li>
+<li><a href="https://ja.wikipedia.org/wiki/%E7%AB%B6%E5%90%88%E7%8A%B6%E6%85%8B">競合状態 - Wikipedia</a> </li>
 </ul></div>
 </p></div>
 </p></div>
@@ -658,7 +658,7 @@ url: /archives/=2427
 <li>Two threads can communicate if they share a variable </li>
 </ul>
 <p> WikipediaではCPUのひとつの処理単位と定義されている。 </p>
-<p> <a href="http://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AC%E3%83%83%E3%83%89_(%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF)">- スレッド (コンピュータ) - Wikipedia</a> </p>
+<p> <a href="https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AC%E3%83%83%E3%83%89_(%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF)">- スレッド (コンピュータ) - Wikipedia</a> </p>
 </p></div>
 </p></div>
 <div id="outline-container-sec-13-3" class="outline-3">
@@ -700,7 +700,7 @@ url: /archives/=2427
 <p> 平行透過性。 </p>
 <p> 複数のユーザーが1つのリソースを共有して使用するとき、 それらユーザーに競合状態を気づかせてはならない。 </p>
 <ul class="org-ul">
-<li><a href="http://ja.wikipedia.org/wiki/%E9%80%8F%E9%81%8E%E6%80%A7_(%E6%83%85%E5%A0%B1%E5%B7%A5%E5%AD%A6)">透過性 (情報工学) - Wikipedia</a> </li>
+<li><a href="https://ja.wikipedia.org/wiki/%E9%80%8F%E9%81%8E%E6%80%A7_(%E6%83%85%E5%A0%B1%E5%B7%A5%E5%AD%A6)">透過性 (情報工学) - Wikipedia</a> </li>
 </ul></div>
 <div id="outline-container-sec-13-5-1" class="outline-4">
 <h4 id="sec-13-5-1">concurrency for dummies</h4>
@@ -720,7 +720,7 @@ url: /archives/=2427
 <p> なぜなら、Deterministic Dataflow Programmingをベースに、 NonDeterminismの制御を機能追加したから。 </p>
 <p> (Deterministic Dataflow Programmingに、Portという明示的状態をくわえた) </p>
 <ul class="org-ul">
-<li><a href="http://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AB%E3%83%81%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0">マルチエージェントシステム - Wikipedia</a> </li>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AB%E3%83%81%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0">マルチエージェントシステム - Wikipedia</a> </li>
 </ul>
 <p> Distributed Systemともいう。 </p>
 <p> CTMCP, Chapter 5 </p>
@@ -750,7 +750,7 @@ url: /archives/=2427
 </ul>
 <p> Client,Server,PearをAgentという。 </p>
 <ul class="org-ul">
-<li><a href="http://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88">ソフトウェアエージェント - Wikipedia</a> </li>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88">ソフトウェアエージェント - Wikipedia</a> </li>
 </ul>
 <p> 以下の構成要素をもつ。 </p>
 <ul class="org-ul">
@@ -778,7 +778,7 @@ url: /archives/=2427
 </ul>
 <p> Master(Coordinator)-Slave Archtecture. </p>
 <ul class="org-ul">
-<li><a href="http://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%AC%E3%83%BC%E3%83%96">マスタースレーブ - Wikipedia</a> </li>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%AC%E3%83%BC%E3%83%96">マスタースレーブ - Wikipedia</a> </li>
 </ul></div>
 </p></div>
 <div id="outline-container-sec-14-2-2" class="outline-4">
@@ -801,7 +801,7 @@ url: /archives/=2427
 <h3 id="sec-14-3">Protocol</h3>
 <div class="outline-text-3" id="text-14-3">
 <p> Messageの送信と受信のルール。 </p>
-<p> <a href="http://ja.wikipedia.org/wiki/%E9%80%9A%E4%BF%A1%E3%83%97%E3%83%AD%E3%83%88%E3%82%B3%E3%83%AB">- 通信プロトコル - Wikipedia</a> </p>
+<p> <a href="https://ja.wikipedia.org/wiki/%E9%80%9A%E4%BF%A1%E3%83%97%E3%83%AD%E3%83%88%E3%82%B3%E3%83%AB">- 通信プロトコル - Wikipedia</a> </p>
 <p> プロトコルにしたがうことで、デッドロックを防ぐ。 </p>
 </p></div>
 <div id="outline-container-sec-14-3-1" class="outline-4">
@@ -813,7 +813,7 @@ url: /archives/=2427
 <div id="outline-container-sec-14-3-2" class="outline-4">
 <h4 id="sec-14-3-2">Contract Net</h4>
 <div class="outline-text-4" id="text-14-3-2">
-<p> 契約ネットプロトコル。 <a href="http://en.wikipedia.org/wiki/Contract_Net_Protocol">Contract Net Protocol - Wikipedia, the free encyclopedia</a> </p>
+<p> 契約ネットプロトコル。 <a href="https://en.wikipedia.org/wiki/Contract_Net_Protocol">Contract Net Protocol - Wikipedia, the free encyclopedia</a> </p>
 </p></div>
 </p></div>
 </p></div>
@@ -823,7 +823,7 @@ url: /archives/=2427
 <p> Multi-agent dataflow programmmingを実現するための言語。ScalaとOzを合体させた。 </p>
 <p> ピーターバンロイさん直々の説明動画は以下で見れる。 </p>
 <ul class="org-ul">
-<li><a href="http://www.infoq.com/presentations/Ozma-Extending-Scala-with-Oz-Concurrency">Ozma: Extending Scala with Oz Concurrency</a> </li>
+<li><a href="https://www.infoq.com/presentations/Ozma-Extending-Scala-with-Oz-Concurrency">Ozma: Extending Scala with Oz Concurrency</a> </li>
 </ul>
 <p> github repository. </p>
 <ul class="org-ul">
@@ -838,11 +838,11 @@ url: /archives/=2427
 <p> Object-Oriented Programming とMulti-Agent Programmingの2つのパラダイムを 合体させてできたパラダイム。 </p>
 <p> オブジェクトの属性ではなくて振る舞いが重要視される。 </p>
 <ul class="org-ul">
-<li><a href="http://itpro.nikkeibp.co.jp/word/page/10024992/">「エージェント指向」とは：ITpro</a> </li>
-<li><a href="http://www.ogis-ri.co.jp/otc/hiroba/technical/agent/article/index.html">エージェント指向が目指すもの -INDEX-</a> </li>
+<li><a href="https://itpro.nikkeibp.co.jp/word/page/10024992/">「エージェント指向」とは：ITpro</a> </li>
+<li><a href="https://www.ogis-ri.co.jp/otc/hiroba/technical/agent/article/index.html">エージェント指向が目指すもの -INDEX-</a> </li>
 </ul>
 <p> EnglishのWikipediaに OOPとAOPの対応比較表がある。 </p>
 <ul class="org-ul">
-<li><a href="http://en.wikipedia.org/wiki/Agent-oriented_programming">http://en.wikipedia.org/wiki/Agent-oriented_programming</a> </li>
+<li><a href="https://en.wikipedia.org/wiki/Agent-oriented_programming">https://en.wikipedia.org/wiki/Agent-oriented_programming</a> </li>
 </ul></div>
 </p></div>

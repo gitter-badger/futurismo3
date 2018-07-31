@@ -48,7 +48,7 @@ Emacsで Markdown記述環境を整えたので、その作業メモです。Ema
 
 以下から emacs-markdown.elを入手して、ロードパスの通ったところへ配置。
 
-     wget http://jblevins.org/projects/markdown-mode/markdown-mode.el
+     wget https://jblevins.org/projects/markdown-mode/markdown-mode.el
     
 
 init.elに以下を記述
@@ -92,9 +92,9 @@ command not found: markdownと出る場合は、Markdown.plがうまく動いて
 
 その他コマンドは、[公式サイトのUsage][1]を参照。
 
- [1]: http://jblevins.org/projects/markdown-mode/
- [2]: http://qiita.com/umeneri/items/8824907d50e3108481b3
- [3]: http://moonstruckdrops.github.io/blog/2013/03/24/markdown-mode/
- [4]: http://blog.s-amemiya.com/development/emacs%E3%81%AEmarkdown-mode%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%8B/
+ [1]: https://jblevins.org/projects/markdown-mode/
+ [2]: https://qiita.com/umeneri/items/8824907d50e3108481b3
+ [3]: https://moonstruckdrops.github.io/blog/2013/03/24/markdown-mode/
+ [4]: https://blog.s-amemiya.com/development/emacs%E3%81%AEmarkdown-mode%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%8B/
  [5]: https://futurismo.biz/archives/1322
- [6]: http://daringfireball.net/projects/markdown/
+ [6]: https://daringfireball.net/projects/markdown/

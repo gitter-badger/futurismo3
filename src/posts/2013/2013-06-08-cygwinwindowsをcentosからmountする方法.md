@@ -54,7 +54,7 @@ C:\cygwin\home\(ユーザ)
 
 次に追加したユーザにフルコントロール権限を与える。これで読み書きできる。
 
-[<img title="skitch" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="skitch" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/skitch_thumb.png" width="388" height="380" />][1]
+[<img title="skitch" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="skitch" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/skitch_thumb.png" width="388" height="380" />][1]
 
 ### CentOSからmountコマンドを実行する
 
@@ -89,6 +89,6 @@ Jenkinsからビルドサーバにビルドを依頼しようとおもった時�
 
 #### 参考
 
-  * <a href="http://webware.blog.fc2.com/blog-category-12.html" target="_blank">どシロウトのWEBめも samba</a>
+  * <a href="https://webware.blog.fc2.com/blog-category-12.html" target="_blank">どシロウトのWEBめも samba</a>
 
- [1]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/skitch.png
+ [1]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/skitch.png

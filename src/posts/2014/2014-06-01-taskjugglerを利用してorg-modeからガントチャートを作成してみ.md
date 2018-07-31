@@ -35,7 +35,7 @@ url: /archives/=2485
     
     <ul class="org-ul">
       <li>
-        <a href="http://www.taskjuggler.org/">TaskJuggler &#8211; A Free and Open Source Project Management Software &#8211; About TaskJuggler</a>
+        <a href="https://www.taskjuggler.org/">TaskJuggler &#8211; A Free and Open Source Project Management Software &#8211; About TaskJuggler</a>
       </li>
     </ul>
   </div></p>
@@ -53,7 +53,7 @@ url: /archives/=2485
     
     <ul class="org-ul">
       <li>
-        <a href="http://ja.wikipedia.org/wiki/TaskJuggler">TaskJuggler &#8211; Wikipedia</a>
+        <a href="https://ja.wikipedia.org/wiki/TaskJuggler">TaskJuggler &#8211; Wikipedia</a>
       </li>
     </ul>
     
@@ -83,7 +83,7 @@ url: /archives/=2485
     
     <ul class="org-ul">
       <li>
-        <a href="http://www.taskjuggler.org/tj3/manual/toc.html">Index</a>
+        <a href="https://www.taskjuggler.org/tj3/manual/toc.html">Index</a>
       </li>
     </ul>
   </div>
@@ -108,7 +108,7 @@ TaskJuggler v3.5.0 - A Project Management Software
       
       <ul class="org-ul">
         <li>
-          <a href="http://www.taskjuggler.org/tj3/manual/Installation.html#Installation">Installation</a>
+          <a href="https://www.taskjuggler.org/tj3/manual/Installation.html#Installation">Installation</a>
         </li>
       </ul>
       
@@ -117,7 +117,7 @@ TaskJuggler v3.5.0 - A Project Management Software
       </p>
       
       <div class="org-src-container">
-        <pre class="src src-language">wget http://taskjuggler.org/tj3/examples/Tutorial/tutorial.tjp
+        <pre class="src src-language">wget https://taskjuggler.org/tj3/examples/Tutorial/tutorial.tjp
 tj3 tutorial.tjp
 </pre></p>
       </div>
@@ -194,7 +194,7 @@ tj3 tutorial.tjp
     </div>
     
     <p>
-      <img src="http://lh4.ggpht.com/-PRa1tPiOxow/U4rhSe3INKI/AAAAAAAABEo/9u73Ez3Pp1s/2014-06-01-171555_796x882_scrot.png" /> </div>
+      <img src="https://lh4.ggpht.com/-PRa1tPiOxow/U4rhSe3INKI/AAAAAAAABEo/9u73Ez3Pp1s/2014-06-01-171555_796x882_scrot.png" /> </div>
     </p>
   </div>
   
@@ -230,7 +230,7 @@ tj3 tutorial.tjp
         
         <ul class="org-ul">
           <li>
-            <a href="http://www.taskjuggler.org/tj3/manual/toc.html">Index</a>
+            <a href="https://www.taskjuggler.org/tj3/manual/toc.html">Index</a>
           </li>
         </ul>
         
@@ -240,7 +240,7 @@ tj3 tutorial.tjp
         
         <ul class="org-ul">
           <li>
-            <a href="http://www.gnu.org/software/emacs/manual/html_node/org/TaskJuggler-export.html">TaskJuggler export &#8211; The Org Manual</a>
+            <a href="https://www.gnu.org/software/emacs/manual/html_node/org/TaskJuggler-export.html">TaskJuggler export &#8211; The Org Manual</a>
           </li>
         </ul>
         
@@ -260,7 +260,7 @@ tj3 tutorial.tjp
         
         <ul class="org-ul">
           <li>
-            <a href="http://orgmode.org/worg/org-tutorials/org-taskjuggler.html">Creating Gantt charts by Exporting to TaskJuggler</a>
+            <a href="https://orgmode.org/worg/org-tutorials/org-taskjuggler.html">Creating Gantt charts by Exporting to TaskJuggler</a>
           </li>
         </ul>
         
@@ -270,7 +270,7 @@ tj3 tutorial.tjp
         
         <ul class="org-ul">
           <li>
-            <a href="http://orgmode.org/worg/exporters/taskjuggler/ox-taskjuggler.html">Exporting Gantt charts with Taskjuggler v3 (tj3)</a>
+            <a href="https://orgmode.org/worg/exporters/taskjuggler/ox-taskjuggler.html">Exporting Gantt charts with Taskjuggler v3 (tj3)</a>
           </li>
         </ul>
         
@@ -280,7 +280,7 @@ tj3 tutorial.tjp
         
         <ul class="org-ul">
           <li>
-            <a href="http://ichiroc.hatenablog.com/entry/2010/05/16/000500#">org-mode で管理しているプロジェクトをガントチャートにする &#8211; ichiroc subset</a>
+            <a href="https://ichiroc.hatenablog.com/entry/2010/05/16/000500#">org-mode で管理しているプロジェクトをガントチャートにする &#8211; ichiroc subset</a>
           </li>
         </ul>
       </div></p>

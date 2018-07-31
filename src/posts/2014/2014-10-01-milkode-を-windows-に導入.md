@@ -15,7 +15,7 @@ url: /archives/=2637
 
 <ul class="org-ul">
   <li>
-    <a href="http://milkode.ongaeshi.me/">Milkode &#8211; 行指向のソースコード検索エンジン</a>
+    <a href="https://milkode.ongaeshi.me/">Milkode &#8211; 行指向のソースコード検索エンジン</a>
   </li>
 </ul>
 
@@ -31,7 +31,7 @@ url: /archives/=2637
     
     <ul class="org-ul">
       <li>
-        <a href="http://rubyinstaller.org/downloads/">http://rubyinstaller.org/downloads/</a>
+        <a href="https://rubyinstaller.org/downloads/">https://rubyinstaller.org/downloads/</a>
       </li>
       <li>
         <a href="https://github.com/oneclick/rubyinstaller/wiki/Development-Kit">https://github.com/oneclick/rubyinstaller/wiki/Development-Kit</a>
@@ -52,7 +52,7 @@ url: /archives/=2637
     
     <ul class="org-ul">
       <li>
-        <a href="http://uisteven.blog.fc2.com/blog-entry-49.html">Windows 7 に Ruby 2.0 x64 を その 5 ~EventMachine の問題と対策~|Ruby と iPhone と UI と</a>
+        <a href="https://uisteven.blog.fc2.com/blog-entry-49.html">Windows 7 に Ruby 2.0 x64 を その 5 ~EventMachine の問題と対策~|Ruby と iPhone と UI と</a>
       </li>
     </ul>
     
@@ -127,7 +127,7 @@ url: /archives/=2637
     <div class="outline-text-3" id="text-2-2">
       <ul class="org-ul">
         <li>
-          <a href="http://tori932.dip.jp/Program/%E6%9C%80%E6%96%B0%E3%81%AEMilkode(1.8.0)%E3%82%92Windows%E3%81%A7%E8%A9%A6%E3%81%99">最新の Milkode (1.8.0) を Windows で試す | tori&#8217;s home</a>
+          <a href="https://tori932.dip.jp/Program/%E6%9C%80%E6%96%B0%E3%81%AEMilkode(1.8.0)%E3%82%92Windows%E3%81%A7%E8%A9%A6%E3%81%99">最新の Milkode (1.8.0) を Windows で試す | tori&#8217;s home</a>
         </li>
       </ul>
     </div>

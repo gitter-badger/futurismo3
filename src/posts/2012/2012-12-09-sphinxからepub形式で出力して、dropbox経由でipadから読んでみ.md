@@ -21,13 +21,13 @@ Sphinxは、htmlやPDF以外にも、epub形式への変換をサポートして
   
 今日は、epub形式でSphinxドキュメントをビルドして、iPadで電子書籍を読むところまでを試してみた。
 
-[<img class="alignnone size-medium wp-image-928" title="Evolution of Readers" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/evolution_of_readers-300x199.jpg" alt="" width="300" height="199" />][1]
+[<img class="alignnone size-medium wp-image-928" title="Evolution of Readers" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/evolution_of_readers-300x199.jpg" alt="" width="300" height="199" />][1]
 
 ### ePubとは
 
 ePub形式とは、電子書籍で広く採用されている拡張子の規格。
   
-<http://ja.wikipedia.org/wiki/EPUB>
+<https://ja.wikipedia.org/wiki/EPUB>
 
 Sphinxを利用すると、テキストからepub形式のファイルが一瞬で作成できてしまう！
 
@@ -128,18 +128,18 @@ sphinxのルートディレクトリで以下のコマンドを叩けばよい�
 epubファイルをDropboxの任意の場所に置いて、iPhone/iPadのDropboxアプリで見てみる。
 
 <div class="sticky-itslink">
-  <a href="http://click.linksynergy.com/fs-bin/stat?id=SU3d78d7YDQ&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fdropbox%252Fid327630330%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30" rel="nofollow" target="_blank"><img style="margin: 5px; float: left; border-style: none;" title="Dropbox" src="http://a1659.phobos.apple.com/us/r1000/117/Purple/v4/54/21/57/542157a5-1488-4efb-1e4c-6aeac3e685cd/Icon.png" alt="Dropbox" /></a>
+  <a href="https://click.linksynergy.com/fs-bin/stat?id=SU3d78d7YDQ&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fdropbox%252Fid327630330%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30" rel="nofollow" target="_blank"><img style="margin: 5px; float: left; border-style: none;" title="Dropbox" src="https://a1659.phobos.apple.com/us/r1000/117/Purple/v4/54/21/57/542157a5-1488-4efb-1e4c-6aeac3e685cd/Icon.png" alt="Dropbox" /></a>
 </div>
 
 <div class="sticky-itslinktext">
-  <a href="http://click.linksynergy.com/fs-bin/stat?id=SU3d78d7YDQ&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fdropbox%252Fid327630330%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30" rel="nofollow" target="_blank">Dropbox</a>Dropbox</p> 
+  <a href="https://click.linksynergy.com/fs-bin/stat?id=SU3d78d7YDQ&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fdropbox%252Fid327630330%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30" rel="nofollow" target="_blank">Dropbox</a>Dropbox</p> 
   
   <p>
-    価格： 0円 <a href="http://click.linksynergy.com/fs-bin/stat?id=SU3d78d7YDQ&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fdropbox%252Fid327630330%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30" rel="nofollow" target="_blank"><img style="border-style: none;" src="http://ax.phobos.apple.com.edgesuite.net/ja_jp/images/web/linkmaker/badge_appstore-sm.gif" alt="iTunesで見る" /></a>
+    価格： 0円 <a href="https://click.linksynergy.com/fs-bin/stat?id=SU3d78d7YDQ&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fdropbox%252Fid327630330%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30" rel="nofollow" target="_blank"><img style="border-style: none;" src="https://ax.phobos.apple.com.edgesuite.net/ja_jp/images/web/linkmaker/badge_appstore-sm.gif" alt="iTunesで見る" /></a>
   </p>
   
   <p>
-    <span style="font-size: xx-small;">posted with <a href="http://sticky.linclip.com/linkmaker/" target="_blank">sticky</a> on 2012.12.9</span>
+    <span style="font-size: xx-small;">posted with <a href="https://sticky.linclip.com/linkmaker/" target="_blank">sticky</a> on 2012.12.9</span>
   </p>
 </div>
 
@@ -156,7 +156,7 @@ epubファイルをDropboxの任意の場所に置いて、iPhone/iPadのDropbox
 <div class="sticky-itslinktext">
 </div>
 
-[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="skitch" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/skitch_thumb.jpg" alt="skitch" width="283" height="375" border="0" />][3]
+[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="skitch" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/skitch_thumb.jpg" alt="skitch" width="283" height="375" border="0" />][3]
 
 <div class="sticky-itslinktext">
   すると、iBookが起動して、電子書籍のように閲覧することができる。
@@ -166,7 +166,7 @@ epubファイルをDropboxの任意の場所に置いて、iPhone/iPadのDropbox
 </div>
 
 <div class="sticky-itslinktext">
-  <a href="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/IMG_0014.png"><img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="IMG_0014" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/IMG_0014_thumb.png" alt="IMG_0014" width="287" height="381" border="0" /></a>&nbsp;</p>
+  <a href="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/IMG_0014.png"><img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="IMG_0014" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/IMG_0014_thumb.png" alt="IMG_0014" width="287" height="381" border="0" /></a>&nbsp;</p>
 </div>
 
 #### 参考になったサイト
@@ -178,7 +178,7 @@ epubファイルをDropboxの任意の場所に置いて、iPhone/iPadのDropbox
 <div id="fastlookup_top" style="display: none;">
 </div>
 
- [1]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/evolution_of_readers.jpg
- [2]: http://sphinx-users.jp/cookbook/epub/index.html
- [3]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/skitch.jpg
- [4]: http://blog.goo.ne.jp/fkeebie3/e/e8f14edafb9b99e093c43b02ac176abd
+ [1]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/evolution_of_readers.jpg
+ [2]: https://sphinx-users.jp/cookbook/epub/index.html
+ [3]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/skitch.jpg
+ [4]: https://blog.goo.ne.jp/fkeebie3/e/e8f14edafb9b99e093c43b02ac176abd

@@ -65,9 +65,9 @@ iPhoneやAndroidアプリでこういう変換アプリがあればよさそう�
 
 魔法みたいで面白い！
 
- [1]: http://en.wikipedia.org/wiki/Seam_carving
+ [1]: https://en.wikipedia.org/wiki/Seam_carving
  [2]: https://play.google.com/store/apps/details?id=it.fpiantoni.seamcarving&hl=ja
- [3]: http://www.forest.impress.co.jp/article/2008/10/29/seamcarvinggui.html
+ [3]: https://www.forest.impress.co.jp/article/2008/10/29/seamcarvinggui.html
  [4]: https://futurismo.biz/wp-content/uploads/beaf_512_384.jpg
  [5]: https://futurismo.biz/wp-content/uploads/beaf_384_384.jpg
  [6]: https://futurismo.biz/wp-content/uploads/cafe_512_384.jpg

@@ -46,7 +46,7 @@ url: /archives/=2795
     
     <ul class="org-ul">
       <li>
-        <a href="http://ja.wikipedia.org/wiki/Chain_of_Responsibility_%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3">Chain of Responsibility パターン &#8211; Wikipedia</a>
+        <a href="https://ja.wikipedia.org/wiki/Chain_of_Responsibility_%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3">Chain of Responsibility パターン &#8211; Wikipedia</a>
       </li>
     </ul>
     
@@ -315,7 +315,7 @@ url: /archives/=2795
       
       <ul class="org-ul">
         <li>
-          <a href="http://sujitpal.blogspot.jp/2013/06/functional-chain-of-responsibility.html">Salmon Run: Functional Chain of Responsibility implementation in Scala</a>
+          <a href="https://sujitpal.blogspot.jp/2013/06/functional-chain-of-responsibility.html">Salmon Run: Functional Chain of Responsibility implementation in Scala</a>
         </li>
       </ul>
       

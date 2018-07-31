@@ -21,7 +21,7 @@ url: /archives/=636
 
 #### Twitter
 
-[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="twitter-bird-white-on-blue" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/twitter-bird-white-on-blue.png" alt="twitter-bird-white-on-blue" width="76" height="76" border="0" />][1]
+[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="twitter-bird-white-on-blue" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/twitter-bird-white-on-blue.png" alt="twitter-bird-white-on-blue" width="76" height="76" border="0" />][1]
 
 <https://twitter.com/logo>
 
@@ -29,9 +29,9 @@ url: /archives/=636
 
 #### Facebook
 
-[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="f_logo" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/f_logo.png" alt="f_logo" width="67" height="67" border="0" />][2]
+[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="f_logo" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/f_logo.png" alt="f_logo" width="67" height="67" border="0" />][2]
 
-[<span style="color: #0066cc;">http://www.facebook.com/brandpermissions/logos.php</span>][3]
+[<span style="color: #0066cc;">https://www.facebook.com/brandpermissions/logos.php</span>][3]
 
 『f』のロゴは認められているけれども、『facebook』のロゴは認められていないらしい。
 
@@ -61,7 +61,7 @@ Google+の場合は、Google Badgeというサービスで、Web上でリンク�
 </div>
 
  [1]: https://twitter.com/tsu_nera
- [2]: http://www.facebook.com/tsunemichi.harada
- [3]: http://www.facebook.com/brandpermissions/logos.php
+ [2]: https://www.facebook.com/tsunemichi.harada
+ [3]: https://www.facebook.com/brandpermissions/logos.php
  [4]: https://ja.foursquare.com/tsu_nera
  [5]: https://ja.foursquare.com/about/logos "https://ja.foursquare.com/about/logos"

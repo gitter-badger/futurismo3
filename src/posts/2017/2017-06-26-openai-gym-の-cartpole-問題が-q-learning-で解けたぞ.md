@@ -119,7 +119,7 @@ pole_velocity_bins = np.linspace(-3.5, 3.5, 20)
 
   以下を参考にした。
   - Berkeley's CS188 pacman project code
-    http://ai.berkeley.edu/
+    https://ai.berkeley.edu/
   - Victor Mayoral Vilches's RL tutorial 
     https://github.com/vmayoral/basic_reinforcement_learning
   - gdb openAI

@@ -77,7 +77,7 @@ url: /archives/=2451
     </p>
     
     <p>
-      <a href="http://orgmode.org/worg/org-contrib/babel/">Babel: active code in Org-mode</a>
+      <a href="https://orgmode.org/worg/org-contrib/babel/">Babel: active code in Org-mode</a>
     </p></p>
   </div></p>
 </div>
@@ -151,7 +151,7 @@ url: /archives/=2451
       
       <ul class="org-ul">
         <li>
-          <a href="http://shuzo-kino.hateblo.jp/entry/2014/02/16/220708">Pandocでドキュメント変換で楽する &#8211; Bye Bye Moore</a>
+          <a href="https://shuzo-kino.hateblo.jp/entry/2014/02/16/220708">Pandocでドキュメント変換で楽する &#8211; Bye Bye Moore</a>
         </li>
       </ul>
       
@@ -180,10 +180,10 @@ pandoc hello_rba.md -c github.css -s -o hello_rba.html
     
     <ul class="org-ul">
       <li>
-        <a href="http://qiita.com/sky_y/items/80bcd0f353ef5b8980ee#">HTML &#8211; 多様なフォーマットに対応！ドキュメント変換ツールPandocを知ろう &#8211; Qiita</a>
+        <a href="https://qiita.com/sky_y/items/80bcd0f353ef5b8980ee#">HTML &#8211; 多様なフォーマットに対応！ドキュメント変換ツールPandocを知ろう &#8211; Qiita</a>
       </li>
       <li>
-        <a href="http://oku.edu.mie-u.ac.jp/~okumura/texwiki/?cmd=read&#038;page=Linux/Linux%20Mint">Linux/Linux Mint &#8211; TeX Wiki</a>
+        <a href="https://oku.edu.mie-u.ac.jp/~okumura/texwiki/?cmd=read&#038;page=Linux/Linux%20Mint">Linux/Linux Mint &#8211; TeX Wiki</a>
       </li>
     </ul>
     
@@ -343,7 +343,7 @@ wd.quit
   </h2>
   
   <div class="outline-text-2" id="text-8">
-    <img src="http://lh6.ggpht.com/-LAhbzJR8w3g/U3TSdYx0ikI/AAAAAAAABDs/1XAvbhnYv9U/2014-05-15-234140_796x882_scrot.png" />
+    <img src="https://lh6.ggpht.com/-LAhbzJR8w3g/U3TSdYx0ikI/AAAAAAAABDs/1XAvbhnYv9U/2014-05-15-234140_796x882_scrot.png" />
   </div></p>
 </div>
 

@@ -107,7 +107,7 @@ VirtualBoxはVmwarePlayerに比べると心なしか、UIがカッコ悪い気�
 
 このサイトの通りに設定しなおしたらネットワークにつなぐことができた。
 
-  * <a href="http://www.linuxmaster.jp/linux_blog/2011/09/vmwaredevice-eth0-does-not-seem-to-be-present-delaying-initialization.html" target="_blank">VMwareで「Device eth0 does not seem to be present, delaying initialization」と表示された時の対処法　その２｜リナックスマスター.JP 公式ブログ</a>
+  * <a href="https://www.linuxmaster.jp/linux_blog/2011/09/vmwaredevice-eth0-does-not-seem-to-be-present-delaying-initialization.html" target="_blank">VMwareで「Device eth0 does not seem to be present, delaying initialization」と表示された時の対処法　その２｜リナックスマスター.JP 公式ブログ</a>
 
 #### ホストオンリーアダプタの設定
 
@@ -117,7 +117,7 @@ VirtualBoxはVmwarePlayerに比べると心なしか、UIがカッコ悪い気�
 
 以下のサイトを参考に設定。
 
-<a href="http://blog.kjirou.net/p/2171" target="_blank">VIrtualBoxで仮想ネットワークを構築 | それなりブログ</a>
+<a href="https://blog.kjirou.net/p/2171" target="_blank">VIrtualBoxで仮想ネットワークを構築 | それなりブログ</a>
 
 eth1用にネットワーク起動スクリプトを作ったのがミソだった。
 
@@ -148,8 +148,8 @@ eth1用にネットワーク起動スクリプトを作ったのがミソだっ�
 
 もう、VMWare Playerにはもどれないだろうな・・。
 
- [1]: http://lh3.ggpht.com/-Isx6-_tM43U/UeI4_UfzcbI/AAAAAAAAAng/KbW6VuBk0q0/SnapCrab_NoName_2013-7-14_14-36-53_No-00.jpg
- [2]: http://lh3.ggpht.com/-I-49-KMtBfY/UeI8Q_UxomI/AAAAAAAAAnw/2nDfJ_hKN64/SnapCrab_NoName_2013-7-14_14-50-49_No-00.jpg
- [3]: http://lh4.ggpht.com/-ZCwIJ0JVBzk/UeJAAEdBD_I/AAAAAAAAAoA/nobyrcx7VdA/SnapCrab_NoName_2013-7-14_15-5-36_No-00.jpg
- [4]: http://lh5.ggpht.com/-8WGgVUqbW-g/UeJCaSepdnI/AAAAAAAAAoY/sdRNWxikHC4/vmdk_add.jpg
- [5]: http://lh6.ggpht.com/-tERlmHWy7vY/UeJFpgpdeHI/AAAAAAAAAoo/aVFjPbsqh8k/SnapCrab_Saru%252520%252520-%252520Oracle%252520VM%252520VirtualBox_2013-7-14_15-22-37_No-00.jpg
+ [1]: https://lh3.ggpht.com/-Isx6-_tM43U/UeI4_UfzcbI/AAAAAAAAAng/KbW6VuBk0q0/SnapCrab_NoName_2013-7-14_14-36-53_No-00.jpg
+ [2]: https://lh3.ggpht.com/-I-49-KMtBfY/UeI8Q_UxomI/AAAAAAAAAnw/2nDfJ_hKN64/SnapCrab_NoName_2013-7-14_14-50-49_No-00.jpg
+ [3]: https://lh4.ggpht.com/-ZCwIJ0JVBzk/UeJAAEdBD_I/AAAAAAAAAoA/nobyrcx7VdA/SnapCrab_NoName_2013-7-14_15-5-36_No-00.jpg
+ [4]: https://lh5.ggpht.com/-8WGgVUqbW-g/UeJCaSepdnI/AAAAAAAAAoY/sdRNWxikHC4/vmdk_add.jpg
+ [5]: https://lh6.ggpht.com/-tERlmHWy7vY/UeJFpgpdeHI/AAAAAAAAAoo/aVFjPbsqh8k/SnapCrab_Saru%252520%252520-%252520Oracle%252520VM%252520VirtualBox_2013-7-14_15-22-37_No-00.jpg

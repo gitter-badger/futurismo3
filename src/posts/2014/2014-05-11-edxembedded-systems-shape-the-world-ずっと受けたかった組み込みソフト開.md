@@ -35,7 +35,7 @@ url: /archives/=2439
         <a href="https://www.edx.org/course/utaustinx/utaustinx-ut-6-01x-embedded-systems-1172#.U26vMhMu2IM">Embedded Systems &#8211; Shape The World | edX</a>
       </li>
       <li>
-        <a href="http://edx-org-utaustinx.s3.amazonaws.com/UT601x/index.html">Embedded Systems</a>
+        <a href="https://edx-org-utaustinx.s3.amazonaws.com/UT601x/index.html">Embedded Systems</a>
       </li>
     </ul>
     
@@ -149,7 +149,7 @@ url: /archives/=2439
       
       <ul class="org-ul">
         <li>
-          <a href="http://www.tij.co.jp/tool/jp/ek-lm4f120xl">Stellaris LM4F120 LaunchPad 評価ボード &#8211; EK-LM4F120XL &#8211; TI ツール・フォルダ</a>
+          <a href="https://www.tij.co.jp/tool/jp/ek-lm4f120xl">Stellaris LM4F120 LaunchPad 評価ボード &#8211; EK-LM4F120XL &#8211; TI ツール・フォルダ</a>
         </li>
       </ul>
       
@@ -159,7 +159,7 @@ url: /archives/=2439
       
       <ul class="org-ul">
         <li>
-          <a href="http://www.keil.com/uvision/default.asp">µVision IDE &#8211; Overview</a>
+          <a href="https://www.keil.com/uvision/default.asp">µVision IDE &#8211; Overview</a>
         </li>
       </ul>
     </div>
@@ -245,7 +245,7 @@ url: /archives/=2439
       </p>
       
       <p>
-        <a href="http://monoist.atmarkit.co.jp/mn/articles/0703/26/news101.html">組み込みギョーカイの常識・非常識（8）：組み込みソフトウェアって何</a>
+        <a href="https://monoist.atmarkit.co.jp/mn/articles/0703/26/news101.html">組み込みギョーカイの常識・非常識（8）：組み込みソフトウェアって何</a>
       </p>
       
       <p>
@@ -255,16 +255,16 @@ url: /archives/=2439
       <div class='amazlink-box' style='text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;'>
         <div class='amazlink-list' style='clear: both;'>
           <div class='amazlink-image' style='float:left;margin:0px 12px 1px 0px;'>
-            <a href='http://www.amazon.co.jp/%E7%B5%84%E8%BE%BC%E3%81%BF%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2%E5%85%A5%E9%96%80-%E7%B5%84%E8%BE%BC%E3%81%BF%E3%83%97%E3%83%AC%E3%82%B9Selection-%E3%81%BF%E3%82%8F-%E3%82%88%E3%81%97%E3%81%93/dp/4774140155%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4774140155' target='_blank' rel='nofollow'><img src='http://ecx.images-amazon.com/images/I/41MIz39174L._SL160_.jpg' style='border: none;' /></a>
+            <a href='https://www.amazon.co.jp/%E7%B5%84%E8%BE%BC%E3%81%BF%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2%E5%85%A5%E9%96%80-%E7%B5%84%E8%BE%BC%E3%81%BF%E3%83%97%E3%83%AC%E3%82%B9Selection-%E3%81%BF%E3%82%8F-%E3%82%88%E3%81%97%E3%81%93/dp/4774140155%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4774140155' target='_blank' rel='nofollow'><img src='https://ecx.images-amazon.com/images/I/41MIz39174L._SL160_.jpg' style='border: none;' /></a>
           </div>
           
           <div class='amazlink-info' style='height:160; margin-bottom: 10px'>
             <div class='amazlink-name' style='margin-bottom:10px;line-height:120%'>
-              <a href='http://www.amazon.co.jp/%E7%B5%84%E8%BE%BC%E3%81%BF%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2%E5%85%A5%E9%96%80-%E7%B5%84%E8%BE%BC%E3%81%BF%E3%83%97%E3%83%AC%E3%82%B9Selection-%E3%81%BF%E3%82%8F-%E3%82%88%E3%81%97%E3%81%93/dp/4774140155%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4774140155' rel='nofollow' target='_blank'>組込みソフトウェアエンジニアのためのハードウェア入門 (組込みプレスSelection)</a>
+              <a href='https://www.amazon.co.jp/%E7%B5%84%E8%BE%BC%E3%81%BF%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2%E5%85%A5%E9%96%80-%E7%B5%84%E8%BE%BC%E3%81%BF%E3%83%97%E3%83%AC%E3%82%B9Selection-%E3%81%BF%E3%82%8F-%E3%82%88%E3%81%97%E3%81%93/dp/4774140155%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4774140155' rel='nofollow' target='_blank'>組込みソフトウェアエンジニアのためのハードウェア入門 (組込みプレスSelection)</a>
             </div>
             
             <div class='amazlink-powered' style='font-size:80%;margin-top:5px;line-height:120%'>
-              posted with <a href='http://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 14.05.11
+              posted with <a href='https://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 14.05.11
             </div>
             
             <div class='amazlink-detail'>
@@ -273,7 +273,7 @@ url: /archives/=2439
             
             <div class='amazlink-sub-info' style='float: left;'>
               <div class='amazlink-link' style='margin-top: 5px'>
-                <img src='http://amazlink.fuyu.gs/icon_amazon.png' width='18' /><a href='http://www.amazon.co.jp/%E7%B5%84%E8%BE%BC%E3%81%BF%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2%E5%85%A5%E9%96%80-%E7%B5%84%E8%BE%BC%E3%81%BF%E3%83%97%E3%83%AC%E3%82%B9Selection-%E3%81%BF%E3%82%8F-%E3%82%88%E3%81%97%E3%81%93/dp/4774140155%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4774140155' rel='nofollow' target='_blank'>Amazon</a> <img src='http://amazlink.fuyu.gs/icon_rakuten.gif' width='18' /><a href='http://hb.afl.rakuten.co.jp/hgc/g00q0724.n763w947.g00q0724.n763x2b4/archives/c=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F6186429%2F&#038;m=http%3A%2F%2Fm.rakuten.co.jp%2Frms%2Fmsv%2FItem%3Fn%3D6186429%26surl%3Dbook' rel='nofollow' target='_blank'>楽天</a>
+                <img src='https://amazlink.fuyu.gs/icon_amazon.png' width='18' /><a href='https://www.amazon.co.jp/%E7%B5%84%E8%BE%BC%E3%81%BF%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2%E5%85%A5%E9%96%80-%E7%B5%84%E8%BE%BC%E3%81%BF%E3%83%97%E3%83%AC%E3%82%B9Selection-%E3%81%BF%E3%82%8F-%E3%82%88%E3%81%97%E3%81%93/dp/4774140155%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4774140155' rel='nofollow' target='_blank'>Amazon</a> <img src='https://amazlink.fuyu.gs/icon_rakuten.gif' width='18' /><a href='https://hb.afl.rakuten.co.jp/hgc/g00q0724.n763w947.g00q0724.n763x2b4/archives/c=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F6186429%2F&#038;m=http%3A%2F%2Fm.rakuten.co.jp%2Frms%2Fmsv%2FItem%3Fn%3D6186429%26surl%3Dbook' rel='nofollow' target='_blank'>楽天</a>
               </div>
             </div>
           </div>
@@ -327,7 +327,7 @@ url: /archives/=2439
     
     <ul class="org-ul">
       <li>
-        <a href="http://ja.wikipedia.org/wiki/%E7%B5%84%E3%81%BF%E8%BE%BC%E3%81%BF%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0">組み込みシステム &#8211; Wikipedia</a>
+        <a href="https://ja.wikipedia.org/wiki/%E7%B5%84%E3%81%BF%E8%BE%BC%E3%81%BF%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0">組み込みシステム &#8211; Wikipedia</a>
       </li>
     </ul>
     
@@ -431,7 +431,7 @@ url: /archives/=2439
     
     <ul class="org-ul">
       <li>
-        <a href="http://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF">マイクロコンピュータ &#8211; Wikipedia</a>
+        <a href="https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF">マイクロコンピュータ &#8211; Wikipedia</a>
       </li>
     </ul>
     
@@ -480,7 +480,7 @@ url: /archives/=2439
         </p>
         
         <p>
-          <a href="http://ja.wikipedia.org/wiki/GPIO">GPIO &#8211; Wikipedia</a>
+          <a href="https://ja.wikipedia.org/wiki/GPIO">GPIO &#8211; Wikipedia</a>
         </p>
         
         <p>
@@ -492,7 +492,7 @@ url: /archives/=2439
         </p>
         
         <p>
-          <a href="http://e-words.jp/w/GPIO.html">GPIOとは 【 General Purpose Input/Output 】 &#8211; 意味/解説/説明/定義 ： IT用語辞典</a>
+          <a href="https://e-words.jp/w/GPIO.html">GPIOとは 【 General Purpose Input/Output 】 &#8211; 意味/解説/説明/定義 ： IT用語辞典</a>
         </p>
         
         <p>
@@ -540,7 +540,7 @@ url: /archives/=2439
       </p>
       
       <p>
-        <a href="http://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%B8%E3%82%B9%E3%82%BF_(%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF)">レジスタ (コンピュータ) &#8211; Wikipedia</a>
+        <a href="https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%B8%E3%82%B9%E3%82%BF_(%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF)">レジスタ (コンピュータ) &#8211; Wikipedia</a>
       </p>
       
       <p>
@@ -733,7 +733,7 @@ void FlashSOS(void){
     
     <ul class="org-ul">
       <li>
-        <a href="http://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9#.E3.83.8F.E3.83.BC.E3.83.89.E3.82.A6.E3.82.A7.E3.82.A2.E3.82.A4.E3.83.B3.E3.82.BF.E3.83.95.E3.82.A7.E3.83.BC.E3.82.B9">インタフェース (情報技術) &#8211; Wikipedia</a>
+        <a href="https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9#.E3.83.8F.E3.83.BC.E3.83.89.E3.82.A6.E3.82.A7.E3.82.A2.E3.82.A4.E3.83.B3.E3.82.BF.E3.83.95.E3.82.A7.E3.83.BC.E3.82.B9">インタフェース (情報技術) &#8211; Wikipedia</a>
       </li>
     </ul>
     
@@ -777,10 +777,10 @@ void FlashSOS(void){
       
       <ul class="org-ul">
         <li>
-          <a href="http://ja.wikipedia.org/wiki/%E3%83%91%E3%83%A9%E3%83%AC%E3%83%AB%E3%83%9D%E3%83%BC%E3%83%88">パラレルポート &#8211; Wikipedia</a>
+          <a href="https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%A9%E3%83%AC%E3%83%AB%E3%83%9D%E3%83%BC%E3%83%88">パラレルポート &#8211; Wikipedia</a>
         </li>
         <li>
-          <a href="http://www.sophia-it.com/content/%E3%83%91%E3%83%A9%E3%83%AC%E3%83%AB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9">パラレルインターフェースとは 「パラレルインタフェース」 (parallel interface)： &#8211; IT用語辞典バイナリ</a>
+          <a href="https://www.sophia-it.com/content/%E3%83%91%E3%83%A9%E3%83%AC%E3%83%AB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9">パラレルインターフェースとは 「パラレルインタフェース」 (parallel interface)： &#8211; IT用語辞典バイナリ</a>
         </li>
       </ul>
     </div></p>
@@ -898,7 +898,7 @@ void FlashSOS(void){
         
         <ul class="org-ul">
           <li>
-            <a href="http://ja.wikipedia.org/wiki/UART">UART &#8211; Wikipedia</a>
+            <a href="https://ja.wikipedia.org/wiki/UART">UART &#8211; Wikipedia</a>
           </li>
         </ul>
         
@@ -1054,7 +1054,7 @@ void FlashSOS(void){
       
       <ul class="org-ul">
         <li>
-          <a href="http://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81">コンテキストスイッチ &#8211; Wikipedia</a>
+          <a href="https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81">コンテキストスイッチ &#8211; Wikipedia</a>
         </li>
       </ul>
       
@@ -1097,7 +1097,7 @@ void FlashSOS(void){
       </p>
       
       <p>
-        <a href="http://ja.wikipedia.org/wiki/%E5%89%B2%E3%82%8A%E8%BE%BC%E3%81%BF%E3%83%8F%E3%83%B3%E3%83%89%E3%83%A9">割り込みハンドラ &#8211; Wikipedia</a>
+        <a href="https://ja.wikipedia.org/wiki/%E5%89%B2%E3%82%8A%E8%BE%BC%E3%81%BF%E3%83%8F%E3%83%B3%E3%83%89%E3%83%A9">割り込みハンドラ &#8211; Wikipedia</a>
       </p>
       
       <p>
@@ -1145,7 +1145,7 @@ void FlashSOS(void){
         
         <ul class="org-ul">
           <li>
-            <a href="http://d241445.hosting-sv.jp/community/report/report31.html">レポート31：割り込みサービスルーチン（ISR）の処理</a>
+            <a href="https://d241445.hosting-sv.jp/community/report/report31.html">レポート31：割り込みサービスルーチン（ISR）の処理</a>
           </li>
         </ul>
         
@@ -1219,4 +1219,4 @@ void FlashSOS(void){
   </div></p>
 </div>
 
- [1]: http://lh5.ggpht.com/-EN3pNSfqOd0/U26qyjK8CPI/AAAAAAAABDc/0-M2yjvKiOk/LEDchika.jpg
+ [1]: https://lh5.ggpht.com/-EN3pNSfqOd0/U26qyjK8CPI/AAAAAAAABDc/0-M2yjvKiOk/LEDchika.jpg

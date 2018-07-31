@@ -72,7 +72,7 @@ coursera で受けている, POSA の講義で出てきた Wrapper Facade Patter
     
     <ul class="org-ul">
       <li>
-        <a href="http://www.cs.wustl.edu/~schmidt/PDF/wrapper-facade.pdf">http://www.cs.wustl.edu/~schmidt/PDF/wrapper-facade.pdf</a>
+        <a href="https://www.cs.wustl.edu/~schmidt/PDF/wrapper-facade.pdf">https://www.cs.wustl.edu/~schmidt/PDF/wrapper-facade.pdf</a>
       </li>
     </ul>
   </div>
@@ -106,7 +106,7 @@ coursera で受けている, POSA の講義で出てきた Wrapper Facade Patter
   <div class="outline-text-2" id="text-4">
     <ul class="org-ul">
       <li>
-        <a href="http://stackoverflow.com/questions/15000095/wrapper-facade-pattern">java &#8211; Wrapper Facade Pattern &#8211; Stack Overflow</a>
+        <a href="https://stackoverflow.com/questions/15000095/wrapper-facade-pattern">java &#8211; Wrapper Facade Pattern &#8211; Stack Overflow</a>
       </li>
     </ul>
   </div>

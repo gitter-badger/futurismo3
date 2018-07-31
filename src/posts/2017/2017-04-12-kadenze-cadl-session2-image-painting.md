@@ -200,7 +200,7 @@ AIだって、AV女優を見れば、活性化関数が元気になるんじゃ�
 
  [1]: https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info
  [2]: https://github.com/pkmital/CADL/blob/master/session-2/session-2.ipynb
- [3]: http://cs.stanford.edu/people/karpathy/convnetjs/demo/image_regression.html
+ [3]: https://cs.stanford.edu/people/karpathy/convnetjs/demo/image_regression.html
  [4]: https://futurismo.biz/wp-content/uploads/gogh.png
  [5]: https://futurismo.biz/wp-content/uploads/index-1.png
  [6]: https://futurismo.biz/wp-content/uploads/explore.gif

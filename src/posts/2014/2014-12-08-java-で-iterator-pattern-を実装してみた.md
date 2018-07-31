@@ -35,9 +35,9 @@ Iterator パターンとは
 要素に対して順にアクセスする方法を提供する.
 
 -   [イテレータ -
-    Wikipedia](http://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%86%E3%83%AC%E3%83%BC%E3%82%BF)
+    Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%86%E3%83%AC%E3%83%BC%E3%82%BF)
 -   [Iterator パターン -
-    Wikipedia](http://ja.wikipedia.org/wiki/Iterator_%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3)
+    Wikipedia](https://ja.wikipedia.org/wiki/Iterator_%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3)
 
 コンテナオブジェクトの要素を列挙する手段を独立させることによって,
 コンテナの内部仕様に依存しない反復子を提供することを目的とする.

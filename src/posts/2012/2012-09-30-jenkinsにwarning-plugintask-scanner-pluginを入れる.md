@@ -37,11 +37,11 @@ Warning Pluginは、コンパイラが吐き出すエラーをJenkinsで表示�
 
 設定画面
 
-[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb30.png" alt="image" width="496" height="174" border="0" />][1]
+[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb30.png" alt="image" width="496" height="174" border="0" />][1]
 
 出力結果はこんな感じ。
 
-[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb31.png" alt="image" width="466" height="127" border="0" />][2]
+[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb31.png" alt="image" width="466" height="127" border="0" />][2]
 
 ### Task Scanner Plugin でやり残しを見逃さない
 
@@ -57,11 +57,11 @@ Task Scanner Pluginを使うと、
 
 設定画面
 
-[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb32.png" alt="image" width="503" height="179" border="0" />][3]
+[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb32.png" alt="image" width="503" height="179" border="0" />][3]
 
 出力結果
 
-[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb33.png" alt="image" width="508" height="220" border="0" />][4]
+[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb33.png" alt="image" width="508" height="220" border="0" />][4]
 
 ### まとめ
 
@@ -77,7 +77,7 @@ Task Scanner Pluginを使うと、
 
 これがワカルのである。
 
- [1]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image30.png
- [2]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image31.png
- [3]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image32.png
- [4]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image33.png
+ [1]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image30.png
+ [2]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image31.png
+ [3]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image32.png
+ [4]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image33.png

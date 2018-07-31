@@ -31,12 +31,12 @@ Kinectには、Xboxに接続して使うタイプと、PCに接続して使う�
 
 ２つの機能比較は、以下のリンクが参考になる。
   
-<http://thinkit.co.jp/story/2012/07/03/3605>
+<https://thinkit.co.jp/story/2012/07/03/3605>
 
   * Xboxに接続するタイプ
 
 <div id="scid:81867AAF-BB02-476b-AE5D-12BDAC2E750D:4398846a-8a5a-465d-911a-dd3b983600a8" class="wlWriterSmartContent" style="margin: 0px; display: inline; float: none; padding: 0px;">
-  <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B003T9VDJQ/sleephacker-22/ref=nosim" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31wUYDad5yL._SL160_.jpg" alt="Xbox 360 Kinect センサー" /><br /> Xbox 360 Kinect センサー<br /> </a>
+  <a href="https://www.amazon.co.jp/exec/obidos/ASIN/B003T9VDJQ/sleephacker-22/ref=nosim" target="_blank"><img src="https://ecx.images-amazon.com/images/I/31wUYDad5yL._SL160_.jpg" alt="Xbox 360 Kinect センサー" /><br /> Xbox 360 Kinect センサー<br /> </a>
 </div>
 
 &nbsp;
@@ -44,7 +44,7 @@ Kinectには、Xboxに接続して使うタイプと、PCに接続して使う�
   * PC(Windows 7)に接続するタイプ
 
 <div id="scid:81867AAF-BB02-476b-AE5D-12BDAC2E750D:df9c5e56-7cfc-4ac8-b224-12b8d6aec24e" class="wlWriterSmartContent" style="margin: 0px; display: inline; float: none; padding: 0px;">
-  <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0074BN0VO/sleephacker-22/ref=nosim" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41eOoga3LvL._SL160_.jpg" alt="マイクロソフト 【商業用】Kinect for Windows センサー L6M-00005" /><br /> マイクロソフト 【商業用】Kinect for Windows センサー L6M-00005<br /> </a>
+  <a href="https://www.amazon.co.jp/exec/obidos/ASIN/B0074BN0VO/sleephacker-22/ref=nosim" target="_blank"><img src="https://ecx.images-amazon.com/images/I/41eOoga3LvL._SL160_.jpg" alt="マイクロソフト 【商業用】Kinect for Windows センサー L6M-00005" /><br /> マイクロソフト 【商業用】Kinect for Windows センサー L6M-00005<br /> </a>
 </div>
 
 &nbsp;
@@ -57,17 +57,17 @@ MMDではダメだけれども、MikuMikuDanceの互換ソフトMikuMikuMoving(�
 
 [MikuMikuMoving][1]
 
-MMMを起動するとリボンの[Kinect]タブをクリックして、キャプチャをクリックすると、Kinectから動作を取り込むことができる。[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb48.png" alt="image" width="412" height="116" border="0" />][2]
+MMMを起動するとリボンの[Kinect]タブをクリックして、キャプチャをクリックすると、Kinectから動作を取り込むことができる。[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb48.png" alt="image" width="412" height="116" border="0" />][2]
 
 こんな感じで、踊ってみた。ふう。
   
-[http://www.youtube.com/embed/mPLmooCeXBM]
+[https://www.youtube.com/embed/mPLmooCeXBM]
 
 #### 他、MoggNUI 導入でMMDをつかう方法について
 
 どうやら、MoggNUI を利用するとMMDでもKinect for Windowsが使えるらしい。
   
-ただし、自分の環境(Windows7 64bit)ではエラーして動かなかった。[http://masque2525.blog97.fc2.com/?tag=Kinect][3]
+ただし、自分の環境(Windows7 64bit)ではエラーして動かなかった。[https://masque2525.blog97.fc2.com/?tag=Kinect][3]
 
 ### おまけ OpenNIを利用しようとして失敗した記録
 
@@ -93,6 +93,6 @@ kinect-mssdk-openni-bridgeをつかうことで、Kinect for Windowsから OpenN
 OpenNIがインストールされていませんという注意がでて終了。
 
  [1]: https://sites.google.com/site/mikumikumoving/
- [2]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image48.png
- [3]: http://masque2525.blog97.fc2.com/?tag=Kinect "http://masque2525.blog97.fc2.com/?tag=Kinect"
- [4]: http://code.google.com/p/kinect-mssdk-openni-bridge/
+ [2]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image48.png
+ [3]: https://masque2525.blog97.fc2.com/?tag=Kinect "https://masque2525.blog97.fc2.com/?tag=Kinect"
+ [4]: https://code.google.com/p/kinect-mssdk-openni-bridge/

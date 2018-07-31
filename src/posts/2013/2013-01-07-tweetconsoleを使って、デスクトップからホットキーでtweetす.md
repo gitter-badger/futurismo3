@@ -23,7 +23,7 @@ url: /archives/=1161
 
 フリーソフトで、この手のコマンドプロンプトからtwitterを利用するツールはけっこうあるらしく、その中で一つ『TweetConsole』とVBSを組み合わせたTipsを紹介。
 
-<a href="http://www.vector.co.jp/soft/win95/net/se483315.html" target="_blank"><img class="alignleft" alt="" src="http://capture.heartrails.com/150x130/shadow?http://www.vector.co.jp/soft/win95/net/se483315.html" width="150" height="130" align="left" border="0" /></a> <a style="color: #0070c5" href="http://www.vector.co.jp/soft/win95/net/se483315.html" target="_blank">TweetConsoleの詳細情報 : Vector ソフトを探す！</a> <img alt="" src="http://b.hatena.ne.jp/entry/image/http://www.vector.co.jp/soft/win95/net/se483315.html" border="0" />
+<a href="https://www.vector.co.jp/soft/win95/net/se483315.html" target="_blank"><img class="alignleft" alt="" src="https://capture.heartrails.com/150x130/shadow?https://www.vector.co.jp/soft/win95/net/se483315.html" width="150" height="130" align="left" border="0" /></a> <a style="color: #0070c5" href="https://www.vector.co.jp/soft/win95/net/se483315.html" target="_blank">TweetConsoleの詳細情報 : Vector ソフトを探す！</a> <img alt="" src="https://b.hatena.ne.jp/entry/image/https://www.vector.co.jp/soft/win95/net/se483315.html" border="0" />
 
 &nbsp;
 

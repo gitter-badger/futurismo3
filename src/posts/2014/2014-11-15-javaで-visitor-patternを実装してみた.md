@@ -28,7 +28,7 @@ Visitor Patternとは
 ビジターパターンとは、Gofのデザインパターンの一つ.
 
 -   [Visitor パターン -
-    Wikipedia](http://ja.wikipedia.org/wiki/Visitor_%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3)
+    Wikipedia](https://ja.wikipedia.org/wiki/Visitor_%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3)
 
 データと処理の分離
 ------------------
@@ -248,7 +248,7 @@ Bookmarks
 =========
 
 -   [13．Visitor パターン |
-    TECHSCORE(テックスコア)](http://www.techscore.com/tech/DesignPattern/Visitor.html/)
+    TECHSCORE(テックスコア)](https://www.techscore.com/tech/DesignPattern/Visitor.html/)
 -   [Visitorパターンで遊んでみたよ
-    （1/2）：CodeZine](http://codezine.jp/article/detail/6829)
+    （1/2）：CodeZine](https://codezine.jp/article/detail/6829)
 

@@ -38,7 +38,7 @@ Rubyでステートパターンを勉強したので、その学習メモです�
     
     <ul class="org-ul">
       <li>
-        <a href="http://ja.wikipedia.org/wiki/State_%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3">State パターン &#8211; Wikipedia</a>
+        <a href="https://ja.wikipedia.org/wiki/State_%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3">State パターン &#8211; Wikipedia</a>
       </li>
     </ul>
   </div></p>

@@ -36,7 +36,7 @@ RubySlimは、FitNesseのブラグインで、FitNesseからRubyのコマンド�
 
 作者はボブおじさんです。作者直々のチュートリアル動画も見つけました。
 
-<iframe src="http://player.vimeo.com/video/2454710" width="400" height="300" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe src="https://player.vimeo.com/video/2454710" width="400" height="300" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 ### RubySlimを使ってみる
 
@@ -48,7 +48,7 @@ RubySlimは、FitNesseのブラグインで、FitNesseからRubyのコマンド�
 
 ##### fitnesseのダウンロード
 
-  * <a href="http://fitnesse.org/FitNesseDownload" target="_blank">FitNesseDownload</a>
+  * <a href="https://fitnesse.org/FitNesseDownload" target="_blank">FitNesseDownload</a>
 
 ##### rubyslimのダウンロード
 
@@ -59,7 +59,7 @@ RubySlimは、FitNesseのブラグインで、FitNesseからRubyのコマンド�
 
 まずは、URLにアクセスして、現れたURLを編集します。
 
-    http://localhost/RubySlimFirstExample
+    https://localhost/RubySlimFirstExample
     
 
 TEST_RUNNERには、bin.rubyslimを設定。
@@ -118,4 +118,4 @@ set_input <-> input,get_output <-> get output?に対応する。
 
 これで、準備完了。testを実行すればOK.
 
- [1]: http://lh5.ggpht.com/-kisp2xg__ck/UgXaghxNd_I/AAAAAAAAAwM/tENCQ11ME_U/SnapCrab_NoName_2013-8-10_15-15-16_No-00.jpg
+ [1]: https://lh5.ggpht.com/-kisp2xg__ck/UgXaghxNd_I/AAAAAAAAAwM/tENCQ11ME_U/SnapCrab_NoName_2013-8-10_15-15-16_No-00.jpg

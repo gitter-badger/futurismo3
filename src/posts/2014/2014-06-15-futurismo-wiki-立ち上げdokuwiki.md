@@ -43,7 +43,7 @@ SEO 対策
 
 -   [ja:seo](https://www.dokuwiki.org/ja:seo)
 -   [SEO Optimized
-    DokuWiki](http://en.seowiki.info/best_practices/seo_optimized_dokuwiki)
+    DokuWiki](https://en.seowiki.info/best_practices/seo_optimized_dokuwiki)
 
 SEO Tips
 --------
@@ -51,7 +51,7 @@ SEO Tips
 SEO につよい設定方法は以下にある.これはすごい.
 
 -   [SEO Optimized DokuWiki: Basic
-    Configuration](http://en.seowiki.info/best_practices/seo_optimized_dokuwiki/basic_configuration)
+    Configuration](https://en.seowiki.info/best_practices/seo_optimized_dokuwiki/basic_configuration)
 
 簡単なメモ.
 
@@ -68,7 +68,7 @@ Google にインデックスの許可
 -   rel="nofollow"を付加 -&gt; Off に
 -   インデックスを許可 (何秒後) -&gt; 0 に
     -   [dokuwiki が検索エンジンに載りにくい理由 -
-        ぎじゅっやさん](http://hain.jp/index.php/tech-j/2007/11/12/p191)
+        ぎじゅっやさん](https://hain.jp/index.php/tech-j/2007/11/12/p191)
 
 Google ウェブマスターツール
 ---------------------------
@@ -95,7 +95,7 @@ Google Analytics for DokuWiki
 Google Analytics でアクセス解析.
 
 -   [SEO Optimized DokuWiki: Google Analytics
-    Integration](http://en.seowiki.info/best_practices/seo_optimized_dokuwiki/integration/google_analytics)
+    Integration](https://en.seowiki.info/best_practices/seo_optimized_dokuwiki/integration/google_analytics)
 
 まずは, Google Analytics でトラッキング ID 取得.
 
@@ -116,7 +116,7 @@ Google Adsense
 
 -   [【その他】 Dokuwiki に GoogleAdSense の広告を表示する -
     tsuyushiga's
-    blog](http://tsuyushiga.hatenablog.jp/entry/2014/03/02/000748)
+    blog](https://tsuyushiga.hatenablog.jp/entry/2014/03/02/000748)
 
 おわりに
 ========

@@ -46,20 +46,20 @@ Python で使えるかも注目して調べた。
 -   coincheck: [ビットコイン決済 API ドキュメント | coincheck
     payment](https://coincheck.com/ja/documents/payment/api)
 -   bitflyer: [ZaifAPI ドキュメント — Zaif api document v1.1.1
-    ドキュメント](http://techbureau-api-document.readthedocs.io/ja/latest/)
+    ドキュメント](https://techbureau-api-document.readthedocs.io/ja/latest/)
 -   Kraken: [Kraken | ビットコイン取引所 -
     API](https://www.kraken.com/ja-jp/help/api#general-usage)
 -   Quoine: [Quoine Exchange API
     Reference](https://developers.quoine.com/#introduction)
 -   Zaif: [ZaifAPI ドキュメント — Zaif api document v1.1.1
-    ドキュメント](http://techbureau-api-document.readthedocs.io/ja/latest/)
+    ドキュメント](https://techbureau-api-document.readthedocs.io/ja/latest/)
 -   BTCBOX: [ヘルプ](https://www.btcbox.co.jp/help/api.html)
 
 なお、調査には、以下のサイトの情報が役立った。
 システムトレードできる会社の名前が列挙されて、比較されている。
 
 -   [ビットコインとシステムトレード (Bitcoin & Automated Algorithmic
-    Trading)](http://bitcoin-system-trading.hatenablog.com/)
+    Trading)](https://bitcoin-system-trading.hatenablog.com/)
 
 python library 調査
 -------------------
@@ -247,7 +247,7 @@ Markets API として公開されているようだ。
 以下の日本語の記事が詳しい。
 
 -   [Bitcoincharts で bitcoin の過去の取引履歴を取得し可視化する -
-    おおかみ山](http://wolfin.hatenablog.com/entry/2016/09/04/194104)
+    おおかみ山](https://wolfin.hatenablog.com/entry/2016/09/04/194104)
 
 なので、Bitflyer
 は止めて、[Coincheck（コインチェック）](https://coincheck.com/ja/)

@@ -32,9 +32,9 @@ zsh で大変お世話になっていたコマンド、dired と cde を fish �
 -   [ターミナルの zsh と Emacs を風のように駆け抜ける！ / マスタカの
     ChangeLog メモ](https://masutaka.net/chalow/2011-09-28-1.html)
 -   [cde を改良 - syohex ’ s
-    diary](http://syohex.hatenablog.com/entry/20111026/1319606395)
+    diary](https://syohex.hatenablog.com/entry/20111026/1319606395)
 -   [cde と elscreen-separate-buffer-list の相性が悪い -
-    Qiita](http://qiita.com/__hage/items/2dd732b4dd68e124e8bd)
+    Qiita](https://qiita.com/__hage/items/2dd732b4dd68e124e8bd)
 
 dired
 =====

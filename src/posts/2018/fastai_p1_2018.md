@@ -6,7 +6,7 @@ date: 2018-05-03T20:53:43+09:00
 ## はじめに
 今年のGWにまとめてfast.aiの Practical Deep Learning for Coders 2018 を受けました。
 
-- http://course.fast.ai
+- https://course.fast.ai
 
 去年の記事はこちら。
 

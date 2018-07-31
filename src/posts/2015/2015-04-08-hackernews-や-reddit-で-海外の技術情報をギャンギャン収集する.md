@@ -51,9 +51,9 @@ reddit
 
 reddit とは, 2ch のような掲示板の海外版. 最近人気が急上昇.
 
--   <http://www.reddit.com/>
+-   <https://www.reddit.com/>
 -   [人気の出始めた英語圏版 2ch の「 reddit 」対応ブラウザまとめ | hppy
-    ブログ](http://blog.hppy.net/?p=1566)
+    ブログ](https://blog.hppy.net/?p=1566)
 
 reddit は default では, いろんなキーワードをもとに情報を集めている.
 以下のサイトを参考にして, 一旦すべてのキーワードを unsubscribe にする.
@@ -61,7 +61,7 @@ reddit は default では, いろんなキーワードをもとに情報を集�
 その後, Programming と Emacs のみを購読するように設定.
 
 -   [How do I unsubscribe from all subreddits? :
-    help](http://www.reddit.com/r/help/comments/2f13er/how_do_i_unsubscribe_from_all_subreddits/)
+    help](https://www.reddit.com/r/help/comments/2f13er/how_do_i_unsubscribe_from_all_subreddits/)
 
 hackernews
 ----------
@@ -74,12 +74,12 @@ hackernews
 最近, Hackernews で話題になった記事を翻訳するサイトも現れた.
 
 -   [POSTD |
-    プログラミングの話題を翻訳して届けるエンジニアのためのニュースメディア](http://postd.cc/)
+    プログラミングの話題を翻訳して届けるエンジニアのためのニュースメディア](https://postd.cc/)
 
 Hackernews で話題になった記事のタイトルだけ翻訳されているものもあった.
 
 -   [hourly POSTD |
-    日刊より更新するテック系メディア](http://h.postd.cc/)
+    日刊より更新するテック系メディア](https://h.postd.cc/)
 
 Emacs で読む
 ============

@@ -47,7 +47,7 @@ url: /archives/=6898
 
 今までいろんなツールを試してきたけれども、Webアプリであるtomato.esが一番いい。
 
-  * <http://www.tomato.es/>
+  * <https://www.tomato.es/>
 
 Webペースなので、場所を選ばない。LinxuでもWindowsでも動く。シンプルな外観で、そこが気に入っている場所。ほかは、タスクを記録できるアカウント管理機能があったり、統計機能があったりする。そしてなんと、我らDeveoperのために、APIも公開されているのである。
 
@@ -95,5 +95,5 @@ Webペースなので、場所を選ばない。LinxuでもWindowsでも動く�
  [1]: https://futurismo.biz/archives/6064
  [2]: https://futurismo.biz/archives/2139
  [3]: https://futurismo.biz/archives/1740
- [4]: http://www.tomato.es/pages/api_reference
+ [4]: https://www.tomato.es/pages/api_reference
  [5]: https://spire.io/

@@ -89,7 +89,7 @@ url: /archives/=6047
       
       <ul class="org-ul">
         <li>
-          <a href="http://ftp.gnu.org/gnu/emacs/">http://ftp.gnu.org/gnu/emacs/</a>
+          <a href="https://ftp.gnu.org/gnu/emacs/">https://ftp.gnu.org/gnu/emacs/</a>
         </li>
       </ul>
       
@@ -160,7 +160,7 @@ url: /archives/=6047
     
     <ul class="org-ul">
       <li>
-        <a href="http://askubuntu.com/questions/851633/emacs-25-on-ubuntu-16-10">apt &#8211; Emacs 25 on Ubuntu 16.10? &#8211; Ask Ubuntu</a>
+        <a href="https://askubuntu.com/questions/851633/emacs-25-on-ubuntu-16-10">apt &#8211; Emacs 25 on Ubuntu 16.10? &#8211; Ask Ubuntu</a>
       </li>
     </ul>
     
@@ -178,13 +178,13 @@ url: /archives/=6047
   <div class="outline-text-2" id="text-org4c17b36">
     <ul class="org-ul">
       <li>
-        <a href="http://www.shigemk2.com/entry/emacs_25_install_ubuntu">Emacs 25.1.1 をインストール(Ubuntu) &#8211; by shigemk2</a>
+        <a href="https://www.shigemk2.com/entry/emacs_25_install_ubuntu">Emacs 25.1.1 をインストール(Ubuntu) &#8211; by shigemk2</a>
       </li>
       <li>
-        <a href="http://chrisperkins.blogspot.jp/2011/07/building-emacs-24.html">Building Emacs 24</a>
+        <a href="https://chrisperkins.blogspot.jp/2011/07/building-emacs-24.html">Building Emacs 24</a>
       </li>
       <li>
-        <a href="http://ubuntuhandbook.org/index.php/2016/09/install-gnu-emacs-25-1-in-ubuntu-16-04/">How to Install GNU Emacs 25.1 in Ubuntu 16.04 | UbuntuHandbook</a>
+        <a href="https://ubuntuhandbook.org/index.php/2016/09/install-gnu-emacs-25-1-in-ubuntu-16-04/">How to Install GNU Emacs 25.1 in Ubuntu 16.04 | UbuntuHandbook</a>
       </li>
       <li>
         <a href="https://www.hiroom2.com/2016/09/29/ubuntu-16-04-emacs%E3%82%92%E3%83%93%E3%83%AB%E3%83%89%E3%81%97%E3%81%A6%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B/">Ubuntu 16.04: Emacs をビルドしてインストールする &#8211; Narrow Escape</a>

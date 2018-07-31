@@ -44,7 +44,7 @@ eshell alias
 
 eshell の alias 設定
 
--   <http://www.emacswiki.org/emacs/EshellAlias>
+-   <https://www.emacswiki.org/emacs/EshellAlias>
 
 eshell 上では eshell/hoge というコマンドは hoge に置き換えられる.
 
@@ -103,7 +103,7 @@ find-file を利用すると, emacs \[ファイル名\] というかたちでフ
 
 Eshell を複数起動するためには, 一工夫必要.
 
--   <http://stackoverflow.com/questions/2540997/create-more-than-one-eshell-instance-in-emacs>
+-   <https://stackoverflow.com/questions/2540997/create-more-than-one-eshell-instance-in-emacs>
 
 ``` {.commonlisp}
 (defun eshell/make-new-eshell (name)
@@ -122,13 +122,13 @@ Eshell と helm を組合せ.
 -   <https://github.com/emacs-helm/helm/blob/master/helm-eshell.el>
 -   <https://github.com/emacs-helm/helm/wiki#helmeshellcompletion>
 -   [helm で eshell が便利 -
-    あじーん-0.0.2-SNAPSHOT](http://nishikawasasaki.hatenablog.com/entry/2012/09/12/233116)
+    あじーん-0.0.2-SNAPSHOT](https://nishikawasasaki.hatenablog.com/entry/2012/09/12/233116)
 
 つかいかた
 
 -   helm-esh-pcomplete helm で補完 ほんとは tab に bind したいのだが,
     できない.
-    <http://www.gnu.org/software/emacs/manual/html_node/eshell/Completion.html>
+    <https://www.gnu.org/software/emacs/manual/html_node/eshell/Completion.html>
 
 -   helm-eshell-history 履歴から入力
 
@@ -173,7 +173,7 @@ shell-pop
 シェルをポップアップ.
 
 -   [Emacs でシェルを好きな時に呼び出す その 4 - 8tree
-    にっき](http://d.hatena.ne.jp/kyagi/20090601/1243841415)
+    にっき](https://d.hatena.ne.jp/kyagi/20090601/1243841415)
 -   <https://github.com/kyagi/shell-pop-el>
 
 設定すると, 下からピョコットシェルがでてくるので便利.
@@ -198,7 +198,7 @@ exec-path-from-shell
 環境変数 PATH を引き継ぐ.
 
 -   [purcell/exec-path-from-shell](https://github.com/purcell/exec-path-from-shell)
--   <http://sakito.jp/emacs/emacsshell.html#emacs>
+-   <https://sakito.jp/emacs/emacsshell.html#emacs>
 
 ``` {.commonlisp}
 (require 'exec-path-from-shell)
@@ -219,10 +219,10 @@ default-directory を利用する
 ```
 
 -   [customization - Changing the default folder in Emacs - Stack
-    Overflow](http://stackoverflow.com/questions/60464/changing-the-default-folder-in-emacs)
+    Overflow](https://stackoverflow.com/questions/60464/changing-the-default-folder-in-emacs)
 -   [Windows の Emacs (NTEmacs) で起動時ディレクトリを HOME
     ディレクトリに変更できない問題解決! |
-    こすブ](http://blog.cosscoss.biz/?p=477)
+    こすブ](https://blog.cosscoss.biz/?p=477)
 
 term-run
 --------

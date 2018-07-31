@@ -35,7 +35,7 @@ Jenkinsをつかったステップ数表示について、以前CCCCを紹介し
 
 残るは、StepCounter Plugin。こちらのサイトで紹介されている。
   
-<a name="1324778439" href="http://d.hatena.ne.jp/takuma02141978/20111225/1324778439"></a>StepCounterプラグインの紹介- takumaの備忘録
+<a name="1324778439" href="https://d.hatena.ne.jp/takuma02141978/20111225/1324778439"></a>StepCounterプラグインの紹介- takumaの備忘録
 
 結論としては、これが良い感じ。
 
@@ -57,26 +57,26 @@ githubからダウンロードできた。
   
 あとは、ジョブの[設定] > [ビルド後の処理の追加]から[StepCounter]を選択してそれなりの設定を入れる。
 
-[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb37.png" alt="image" width="537" height="117" border="0" />][4]
+[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb37.png" alt="image" width="537" height="117" border="0" />][4]
 
 ### 出力結果
 
-[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb38.png" alt="image" width="464" height="188" border="0" />][5]
+[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb38.png" alt="image" width="464" height="188" border="0" />][5]
 
 ファイルごとにステップ数もでる。
 
-[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb39.png" alt="image" width="401" height="196" border="0" />][6]
+[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb39.png" alt="image" width="401" height="196" border="0" />][6]
 
 時系列の推移も大丈夫そうだ。
 
-[http://www.youtube.com/embed/LUuROdFRfRc]
+[https://www.youtube.com/embed/LUuROdFRfRc]
 
 <div id="fastlookup_top" style="display: none;">
 </div>
 
- [1]: http://www.sonarsource.org/
- [2]: http://sourceforge.jp/projects/c4ju/wiki/FrontPage
- [3]: http://srz-zumix.blogspot.jp/2012/06/cccc-jenkins.html
- [4]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image37.png
- [5]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image38.png
- [6]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image39.png
+ [1]: https://www.sonarsource.org/
+ [2]: https://sourceforge.jp/projects/c4ju/wiki/FrontPage
+ [3]: https://srz-zumix.blogspot.jp/2012/06/cccc-jenkins.html
+ [4]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image37.png
+ [5]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image38.png
+ [6]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image39.png

@@ -50,10 +50,10 @@ url: /archives/=2403
     
     <ul class="org-ul">
       <li>
-        <a href="http://sky-y.github.io/site-pandoc-jp/users-guide/">Pandoc ユーザーズガイド 日本語版 &#8211; Japanese Pandoc User&#8217;s Association</a>
+        <a href="https://sky-y.github.io/site-pandoc-jp/users-guide/">Pandoc ユーザーズガイド 日本語版 &#8211; Japanese Pandoc User&#8217;s Association</a>
       </li>
       <li>
-        <a href="http://qiita.com/sky_y/items/80bcd0f353ef5b8980ee">HTML &#8211; 多様なフォーマットに対応! ドキュメント変換ツール Pandoc を知ろう &#8211; Qiita</a>
+        <a href="https://qiita.com/sky_y/items/80bcd0f353ef5b8980ee">HTML &#8211; 多様なフォーマットに対応! ドキュメント変換ツール Pandoc を知ろう &#8211; Qiita</a>
       </li>
     </ul>
     
@@ -86,7 +86,7 @@ url: /archives/=2403
     
     <ul class="org-ul">
       <li>
-        <a href="http://johnmacfarlane.net/pandoc/installing.html">Pandoc &#8211; Installing</a>
+        <a href="https://johnmacfarlane.net/pandoc/installing.html">Pandoc &#8211; Installing</a>
       </li>
     </ul>
     
@@ -310,7 +310,7 @@ url: /archives/=2403
     
     <ul class="org-ul">
       <li>
-        <a href="http://orgmode.org/manual/Markdown-export.html">http://orgmode.org/manual/Markdown-export.html</a>
+        <a href="https://orgmode.org/manual/Markdown-export.html">https://orgmode.org/manual/Markdown-export.html</a>
       </li>
     </ul>
     
@@ -332,10 +332,10 @@ url: /archives/=2403
     
     <ul class="org-ul">
       <li>
-        <a href="http://orgmode.org/manual/Export-settings.html#Export-settings">Export settings &#8211; The Org Manual</a>
+        <a href="https://orgmode.org/manual/Export-settings.html#Export-settings">Export settings &#8211; The Org Manual</a>
       </li>
       <li>
-        <a href="http://d.hatena.ne.jp/tamura70/20100304/org">Emacs org-mode を使ってみる: (29) エクスポートオプション一覧 &#8211; 屯遁のパズルとプログラミングの日記</a>
+        <a href="https://d.hatena.ne.jp/tamura70/20100304/org">Emacs org-mode を使ってみる: (29) エクスポートオプション一覧 &#8211; 屯遁のパズルとプログラミングの日記</a>
       </li>
     </ul>
   </div>
@@ -356,13 +356,13 @@ url: /archives/=2403
       
       <ul class="org-ul">
         <li>
-          <a href="http://d.hatena.ne.jp/rubikitch/20101107/org2html">org-mode → HTML 変換をする 3 つの方法 &#8211; (rubikitch loves (Emacs Ruby CUI Books))</a>
+          <a href="https://d.hatena.ne.jp/rubikitch/20101107/org2html">org-mode → HTML 変換をする 3 つの方法 &#8211; (rubikitch loves (Emacs Ruby CUI Books))</a>
         </li>
         <li>
-          <a href="http://shuzo-kino.hateblo.jp/entry/2014/01/02/012905">CLI で emacs の org-mode を使って html 化する &#8211; Bye Bye Moore</a>
+          <a href="https://shuzo-kino.hateblo.jp/entry/2014/01/02/012905">CLI で emacs の org-mode を使って html 化する &#8211; Bye Bye Moore</a>
         </li>
         <li>
-          <a href="http://www.bookshelf.jp/texi/emacs-20.6-man-jp/emacs_32.html#SEC490">GNU Emacs マニュアル: A. コマンド行引数</a>
+          <a href="https://www.bookshelf.jp/texi/emacs-20.6-man-jp/emacs_32.html#SEC490">GNU Emacs マニュアル: A. コマンド行引数</a>
         </li>
       </ul>
       

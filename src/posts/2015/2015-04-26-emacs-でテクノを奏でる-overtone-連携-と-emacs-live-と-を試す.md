@@ -268,10 +268,10 @@ url: /archives/=3464
           <div class="outline-text-2" id="text-unnumbered-11">
             <ul class="org-ul">
               <li>
-                <a href="http://bzg.fr/emacs-org-babel-overtone-intro.html">Emacs Org and Overtone quick intro</a>
+                <a href="https://bzg.fr/emacs-org-babel-overtone-intro.html">Emacs Org and Overtone quick intro</a>
               </li>
               <li>
-                <a href="http://atsuya046.hatenablog.com/entry/2015/02/11/232316">Emacs で Overtone 演奏環境構築 &#8211; のぶ Lab.</a>
+                <a href="https://atsuya046.hatenablog.com/entry/2015/02/11/232316">Emacs で Overtone 演奏環境構築 &#8211; のぶ Lab.</a>
               </li>
             </ul>
           </div>

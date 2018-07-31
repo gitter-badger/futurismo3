@@ -28,7 +28,7 @@ url: /archives/=2358
     
     <ul class="org-ul">
       <li>
-        <a href="http://docs.ruby-lang.org/ja/2.1.0/library/debug.html">library debug</a>
+        <a href="https://docs.ruby-lang.org/ja/2.1.0/library/debug.html">library debug</a>
       </li>
     </ul>
     
@@ -95,7 +95,7 @@ url: /archives/=2358
       
       <ul class="org-ul">
         <li>
-          <a href="http://d.hatena.ne.jp/takihiro/20100404/1270370312">http://d.hatena.ne.jp/takihiro/20100404/1270370312</a>
+          <a href="https://d.hatena.ne.jp/takihiro/20100404/1270370312">https://d.hatena.ne.jp/takihiro/20100404/1270370312</a>
         </li>
       </ul>
     </div></p>

@@ -76,7 +76,7 @@ static void testIntMap () {
 原因は, byte\[\] が 大小比較できないから.
 
 -   [Using a byte array as HashMap key (Java) - Stack
-    Overflow](http://stackoverflow.com/questions/1058149/using-a-byte-array-as-hashmap-key-java)
+    Overflow](https://stackoverflow.com/questions/1058149/using-a-byte-array-as-hashmap-key-java)
 
 Stack Overflow によると
 
@@ -142,9 +142,9 @@ Special Thanks
 ==============
 
 -   [Using a byte array as HashMap key (Java) - Stack
-    Overflow](http://stackoverflow.com/questions/1058149/using-a-byte-array-as-hashmap-key-java)
+    Overflow](https://stackoverflow.com/questions/1058149/using-a-byte-array-as-hashmap-key-java)
 -   [byte array as HashMap key? | Coding
-    Forums](http://www.thecodingforums.com/threads/byte-array-as-hashmap-key.141717/)
+    Forums](https://www.thecodingforums.com/threads/byte-array-as-hashmap-key.141717/)
 -   [Java で String と byte 配列のとの相互変換 -
-    Java](http://www.syboos.jp/java/doc/byte-string.html)
+    Java](https://www.syboos.jp/java/doc/byte-string.html)
 

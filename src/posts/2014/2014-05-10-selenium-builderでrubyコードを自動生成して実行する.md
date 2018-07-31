@@ -47,7 +47,7 @@ url: /archives/=2431
       
       <ul class="org-ul">
         <li>
-          <a href="http://www.mozilla.org/ja/firefox/new/">Firefox のダウンロード — 自由な Web ブラウザ — Mozilla</a>
+          <a href="https://www.mozilla.org/ja/firefox/new/">Firefox のダウンロード — 自由な Web ブラウザ — Mozilla</a>
         </li>
       </ul>
       
@@ -57,7 +57,7 @@ url: /archives/=2431
       
       <ul class="org-ul">
         <li>
-          <a href="http://sebuilder.github.io/se-builder/">Selenium Builder &#8211; The next evolution</a>
+          <a href="https://sebuilder.github.io/se-builder/">Selenium Builder &#8211; The next evolution</a>
         </li>
       </ul>
       
@@ -71,7 +71,7 @@ url: /archives/=2431
       
       <ul class="org-ul">
         <li>
-          <a href="http://blog.trident-qa.com/2013/12/selenium-builder-vs-ide-recap/">次世代のIDE、Selenium Builderまとめ | 品質向上ブログ</a>
+          <a href="https://blog.trident-qa.com/2013/12/selenium-builder-vs-ide-recap/">次世代のIDE、Selenium Builderまとめ | 品質向上ブログ</a>
         </li>
       </ul>
       
@@ -107,7 +107,7 @@ url: /archives/=2431
       </p>
       
       <div class="org-src-container">
-        <pre class="src src-sh">gem install selenium-webdriver -r -p http://username:password@proxy.hostname:port
+        <pre class="src src-sh">gem install selenium-webdriver -r -p https://username:password@proxy.hostname:port
 </pre></p>
       </div></p>
     </div>
@@ -124,7 +124,7 @@ url: /archives/=2431
         
         <ul class="org-ul">
           <li>
-            <a href="http://rubyinstaller.org/">RubyInstaller for Windows</a>
+            <a href="https://rubyinstaller.org/">RubyInstaller for Windows</a>
           </li>
         </ul>
       </div></p>

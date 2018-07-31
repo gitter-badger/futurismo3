@@ -26,7 +26,7 @@ url: /archives/=2572
 
 ネットワークの知識をつけるためにソケットプログラミングの本を読み始めた.
 
-<div class='amazlink-box' style='text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;'><div class='amazlink-list' style='clear: both;'><div class='amazlink-image' style='float:left;margin:0px 12px 1px 0px;'><a href='http://www.amazon.co.jp/Working-With-Sockets-Jesse-Storimer-ebook/dp/B00BPYT6PK%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00BPYT6PK' target='_blank' rel='nofollow'><img src='http://ecx.images-amazon.com/images/I/51uNC60Jm4L._SL160_.jpg' style='border: none;' /></a></div><div class='amazlink-info' style='height:124; margin-bottom: 10px'><div class='amazlink-name' style='margin-bottom:10px;line-height:120%'><a href='http://www.amazon.co.jp/Working-With-Sockets-Jesse-Storimer-ebook/dp/B00BPYT6PK%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00BPYT6PK' rel='nofollow' target='_blank'>Working With TCP Sockets</a></div><div class='amazlink-powered' style='font-size:80%;margin-top:5px;line-height:120%'>posted with <a href='http://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 14.08.17</div><div class='amazlink-detail'>Jesse Storimer<br /></div><div class='amazlink-sub-info' style='float: left;'><div class='amazlink-link' style='margin-top: 5px'><img src='http://amazlink.fuyu.gs/icon_amazon.png' width='18'><a href='http://www.amazon.co.jp/Working-With-Sockets-Jesse-Storimer-ebook/dp/B00BPYT6PK%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00BPYT6PK' rel='nofollow' target='_blank'>Amazon</a></div></div></div></div></div>
+<div class='amazlink-box' style='text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;'><div class='amazlink-list' style='clear: both;'><div class='amazlink-image' style='float:left;margin:0px 12px 1px 0px;'><a href='https://www.amazon.co.jp/Working-With-Sockets-Jesse-Storimer-ebook/dp/B00BPYT6PK%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00BPYT6PK' target='_blank' rel='nofollow'><img src='https://ecx.images-amazon.com/images/I/51uNC60Jm4L._SL160_.jpg' style='border: none;' /></a></div><div class='amazlink-info' style='height:124; margin-bottom: 10px'><div class='amazlink-name' style='margin-bottom:10px;line-height:120%'><a href='https://www.amazon.co.jp/Working-With-Sockets-Jesse-Storimer-ebook/dp/B00BPYT6PK%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00BPYT6PK' rel='nofollow' target='_blank'>Working With TCP Sockets</a></div><div class='amazlink-powered' style='font-size:80%;margin-top:5px;line-height:120%'>posted with <a href='https://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 14.08.17</div><div class='amazlink-detail'>Jesse Storimer<br /></div><div class='amazlink-sub-info' style='float: left;'><div class='amazlink-link' style='margin-top: 5px'><img src='https://amazlink.fuyu.gs/icon_amazon.png' width='18'><a href='https://www.amazon.co.jp/Working-With-Sockets-Jesse-Storimer-ebook/dp/B00BPYT6PK%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00BPYT6PK' rel='nofollow' target='_blank'>Amazon</a></div></div></div></div></div>
 
 本の内容
 ========
@@ -79,7 +79,7 @@ Socket
     ミングインターフェース (API) の一つ.
 -   TCP/IP アプリケーションを作成するための抽象化されたインターフェース
 -   [ソケット (BSD) -
-    Wikipedia](http://ja.wikipedia.org/wiki/%E3%82%BD%E3%82%B1%E3%83%83%E3%83%88_(BSD))
+    Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%BD%E3%82%B1%E3%83%83%E3%83%88_(BSD))
 
 EndPoints
 ---------
@@ -91,7 +91,7 @@ Socket は IP Address と PortNo.をつかって, 通信先のソケットを特
 端末の総称.
 
 -   [エンドポイントとは (end point): - IT
-    用語辞典バイナリ](http://www.sophia-it.com/content/%E3%82%A8%E3%83%B3%E3%83%89%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88)
+    用語辞典バイナリ](https://www.sophia-it.com/content/%E3%82%A8%E3%83%B3%E3%83%89%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88)
 
 エンドボイントに Socket がバインドされる.
 
@@ -108,7 +108,7 @@ IP アドレスは必ずしもリモートホストと関連付けられてい�
 -   Linux では, localhost と言われている. IP は 127.0.0.1
 
 [ループバックとは 〔 ローカルループバック
-〕](http://e-words.jp/w/E383ABE383BCE38397E38390E38383E382AF.html)
+〕](https://e-words.jp/w/E383ABE383BCE38397E38390E38383E382AF.html)
 
 Server Lifecycle
 ----------------
@@ -163,7 +163,7 @@ server.close
 Ruby では, 以下のような糖衣構文がある.
 
 -   [class
-    TCPServer](http://docs.ruby-lang.org/ja/2.0.0/class/TCPServer.html)
+    TCPServer](https://docs.ruby-lang.org/ja/2.0.0/class/TCPServer.html)
 
 ``` {.ruby}
 server = TCPServer.new (4481)
@@ -203,7 +203,7 @@ socket.close
 Ruby では, 以下のような糖衣構文がある.
 
 -   [class
-    TCPSocket](http://docs.ruby-lang.org/ja/1.8.7/class/TCPSocket.html)
+    TCPSocket](https://docs.ruby-lang.org/ja/1.8.7/class/TCPSocket.html)
 
 ``` {.ruby}
 socket = TCPSocket.new ('google.com', 80)

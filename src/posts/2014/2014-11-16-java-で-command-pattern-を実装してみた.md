@@ -35,7 +35,7 @@ Command Pattern とは
 動作とそれに伴うパラメータをカプセル化したもの.
 
 -   [Command パターン -
-    Wikipedia](http://ja.wikipedia.org/wiki/Command_%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3)
+    Wikipedia](https://ja.wikipedia.org/wiki/Command_%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3)
 
 特徴
 ----

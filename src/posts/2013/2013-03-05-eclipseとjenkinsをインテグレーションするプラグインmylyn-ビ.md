@@ -27,7 +27,7 @@ Eclipseを使っていて、Jenkinsも使っていると、どうしてもEclips
 
 インストールは以下のURLを[ヘルプ] > [新規ソフトウェアのインストール] > [追加]に追加して、落としてくるのがよい。
 
-<http://download.eclipse.org/mylyn/releases/latest>
+<https://download.eclipse.org/mylyn/releases/latest>
 
 （他にも、mylynのビューから[新規タスクの追加] > [コネクターをさらにインストール]からHadson/Jenkinsを選択してもよい。しかし、上記URLから落としてきたほうが最新版がテに入るので良い）
 
@@ -43,7 +43,7 @@ Eclipseを使っていて、Jenkinsも使っていると、どうしてもEclips
 （できないときは、プラグインのバージョンが古いかも。   
 自分も古いバージョンでログインできずにハマった）
 
-[<img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" border="0" alt="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb93.png" width="511" height="368" />][1]
+[<img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" border="0" alt="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb93.png" width="511" height="368" />][1]
 
 ビルド・プランの欄にJobが現れるので、Eclipseから見たいJobを選択して、完了をおす。
 
@@ -53,11 +53,11 @@ Eclipseを使っていて、Jenkinsも使っていると、どうしてもEclips
 また、ビルドの履歴、テスト結果、ビルド時のコンソールもみれる。   
 これがあれば、わざわざサーバまでアクセスして結果の確認をする必要もない。
 
-[<img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" border="0" alt="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb94.png" width="566" height="98" />][2]
+[<img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" border="0" alt="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb94.png" width="566" height="98" />][2]
 
 また、ビルドの成功、失敗はポップアップ通知で表示されたりする。
 
-[http://www.youtube.com/embed/2qTgUnHY7s4]
+[https://www.youtube.com/embed/2qTgUnHY7s4]
 
- [1]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image93.png
- [2]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image94.png
+ [1]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image93.png
+ [2]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image94.png

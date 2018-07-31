@@ -634,13 +634,13 @@ $ apply -D plughw:1,0 /usr/share/sounds/alsa/Front_Center.wav
         <a href="https://wiki.archlinux.org/index.php/Beginners'_Guide/Extra_(%E6%97%A5%E6%9C%AC%E8%AA%9E)">Beginners&#8217; Guide/Extra (日本語) &#8211; ArchWiki</a>
       </li>
       <li>
-        <a href="http://note.chiebukuro.yahoo.co.jp/detail/n267693">Archlinuxのインストールから環境設定まで &#8211; Yahoo!知恵袋</a>
+        <a href="https://note.chiebukuro.yahoo.co.jp/detail/n267693">Archlinuxのインストールから環境設定まで &#8211; Yahoo!知恵袋</a>
       </li>
       <li>
-        <a href="http://memo.laughk.org/2014/05/25/start_archlinux.html">Arch Linux はじめました ~ 続・ラフなラボ</a>
+        <a href="https://memo.laughk.org/2014/05/25/start_archlinux.html">Arch Linux はじめました ~ 続・ラフなラボ</a>
       </li>
       <li>
-        <a href="http://archlinux-blogger.blogspot.jp/2014/02/arch-linux-20140201-2-x-gnomegui.html">普段使いのArch Linux: Arch Linux インストール (デスクトップ環境・日本語化編)</a>
+        <a href="https://archlinux-blogger.blogspot.jp/2014/02/arch-linux-20140201-2-x-gnomegui.html">普段使いのArch Linux: Arch Linux インストール (デスクトップ環境・日本語化編)</a>
       </li>
     </ul>
   </div>

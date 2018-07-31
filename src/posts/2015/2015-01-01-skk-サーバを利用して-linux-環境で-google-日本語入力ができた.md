@@ -27,10 +27,10 @@ Google 日本語入力がもっとも変換にすぐれているとおもう. mo
 それは・・・ **親指シフトに対応していないこと**
 
 -   [Ubuntu10.10 インストール: 親指シフト on
-    Linux](http://thumb-shift-on-linux.seesaa.net/article/166840845.html)
+    Linux](https://thumb-shift-on-linux.seesaa.net/article/166840845.html)
 -   [腱鞘炎と戦う男 腱鞘炎対策キーボード作成記 google 日本語入力 (mozc)
     で,
-    かえであすかモドキを作ってみた](http://kenfight.blog137.fc2.com/blog-entry-131.html)
+    かえであすかモドキを作ってみた](https://kenfight.blog137.fc2.com/blog-entry-131.html)
 
 Windows 環境では, GoogleIME + やまぶきの組み合わせで実現できていた.
 Linux 環境での IME は, ibus-anthy を利用していた.
@@ -50,7 +50,7 @@ SKK とは
 SKK は, IME の一種.
 
 -   [SKK Openlab -
-    ドキュメント](http://openlab.ring.gr.jp/skk/doc-ja.html)
+    ドキュメント](https://openlab.ring.gr.jp/skk/doc-ja.html)
 
 導入手順は過去記事を参照. 親指シフトにも対応している.
 
@@ -65,7 +65,7 @@ SKK Server という機能を利用すると, Google
 
 -   <https://github.com/hitode909/google-ime-skk>
 -   [Google IME SKK サーバー 作った - hitode909
-    の日記](http://hitode909.hatenablog.com/entry/20110421/1303274561)
+    の日記](https://hitode909.hatenablog.com/entry/20110421/1303274561)
 
 ローカル PC で SKK サーバを動かして,
 日本語入力サーバにアクセスすることで, 親指シフト入力が出来るようになる.

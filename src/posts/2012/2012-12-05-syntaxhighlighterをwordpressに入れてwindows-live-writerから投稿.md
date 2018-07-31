@@ -17,7 +17,7 @@ syntaxhighlighterとは、ブログでソースコードを綺麗に表示させ
 WordPressには、syntaxhighlighterを利用するためのプラグインが多数ある。
 
   * syntaxhighlighter 
-      * [http://code.google.com/p/syntaxhighlighter/][1] 
+      * [https://code.google.com/p/syntaxhighlighter/][1] 
 
 今回は、普段使っている Windows Live Writerのプラグイン   
 『Windows Live Writer Plug-ins』   
@@ -28,7 +28,7 @@ WordPressには、syntaxhighlighterを利用するためのプラグインが多
 
 以下のサイトが大変参考になった。
 
-<a href="http://cre.main.jp/wp/archives/454" target="_blank"><img class="alignleft" border="0" alt="" align="left" src="http://capture.heartrails.com/150x130/shadow?http://cre.main.jp/wp/archives/454" width="150" height="130" /></a> <a style="color: #0070c5" href="http://cre.main.jp/wp/archives/454" target="_blank">memo+ ≫ WordPressでSyntaxHighlighter for Windows Live Writerを使用する</a>    <img border="0" alt="" src="http://b.hatena.ne.jp/entry/image/http://cre.main.jp/wp/archives/454" />  <br style="clear: both" />
+<a href="https://cre.main.jp/wp/archives/454" target="_blank"><img class="alignleft" border="0" alt="" align="left" src="https://capture.heartrails.com/150x130/shadow?https://cre.main.jp/wp/archives/454" width="150" height="130" /></a> <a style="color: #0070c5" href="https://cre.main.jp/wp/archives/454" target="_blank">memo+ ≫ WordPressでSyntaxHighlighter for Windows Live Writerを使用する</a>    <img border="0" alt="" src="https://b.hatena.ne.jp/entry/image/https://cre.main.jp/wp/archives/454" />  <br style="clear: both" />
 
 &#160;
 
@@ -36,13 +36,13 @@ WordPressには、syntaxhighlighterを利用するためのプラグインが多
 
 まだ、Windows Live Writer Plug-insを入れていない場合は、以下から手に入れる。
 
-[http://plugins.live.com/writer/detail/syntaxhighlighter-for-windows-live-writer][2]
+[https://plugins.live.com/writer/detail/syntaxhighlighter-for-windows-live-writer][2]
 
 ### syntaxhighlighterのダウンロードとインストール
 
 以下からダウンロード。
 
-[http://code.google.com/p/syntaxhighlighter/][1]
+[https://code.google.com/p/syntaxhighlighter/][1]
 
 rarファイルを解凍すると、以下の3つが格納されている。
 
@@ -108,5 +108,5 @@ dp.SyntaxHighlighter.ClipboardSwfに設定するパスはそれぞれの環境�
 
 これで、Windows Live Writer から投稿すると、Wordpressでコードか綺麗に表示されるはず。
 
- [1]: http://code.google.com/p/syntaxhighlighter/ "http://code.google.com/p/syntaxhighlighter/"
- [2]: http://plugins.live.com/writer/detail/syntaxhighlighter-for-windows-live-writer "http://plugins.live.com/writer/detail/syntaxhighlighter-for-windows-live-writer"
+ [1]: https://code.google.com/p/syntaxhighlighter/ "https://code.google.com/p/syntaxhighlighter/"
+ [2]: https://plugins.live.com/writer/detail/syntaxhighlighter-for-windows-live-writer "https://plugins.live.com/writer/detail/syntaxhighlighter-for-windows-live-writer"

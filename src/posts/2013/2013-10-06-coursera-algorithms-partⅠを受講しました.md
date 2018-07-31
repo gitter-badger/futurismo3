@@ -33,7 +33,7 @@ url: /archives/=1834
 
 * * *
 
-<a href="https://www.coursera.org/course/algs4partI" target="_blank"><img class="alignleft" alt="" src="http://capture.heartrails.com/150x130/shadow?https://www.coursera.org/course/algs4partI" width="150" height="130" align="left" border="0" /></a> <a style="color: #0070c5;" href="https://www.coursera.org/course/algs4partI" target="_blank">Algorithms, Part I | Coursera</a>  <img alt="" src="http://b.hatena.ne.jp/entry/image/https://www.coursera.org/course/algs4partI" border="0" /><br style="clear: both;" />
+<a href="https://www.coursera.org/course/algs4partI" target="_blank"><img class="alignleft" alt="" src="https://capture.heartrails.com/150x130/shadow?https://www.coursera.org/course/algs4partI" width="150" height="130" align="left" border="0" /></a> <a style="color: #0070c5;" href="https://www.coursera.org/course/algs4partI" target="_blank">Algorithms, Part I | Coursera</a>  <img alt="" src="https://b.hatena.ne.jp/entry/image/https://www.coursera.org/course/algs4partI" border="0" /><br style="clear: both;" />
 
 * * *
 
@@ -70,7 +70,7 @@ Lectureの動画をみて、Excerciseの問題を解いて、Assignmentを解く
 
 参考書籍は以下。買わなくても講義のスライドでなんとかなる。1000ページ！！
 
-<iframe style="width: 120px; height: 240px;" src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=sleephacker-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=032157351X" height="240" width="320" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<iframe style="width: 120px; height: 240px;" src="https://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=sleephacker-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=032157351X" height="240" width="320" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 ### 内容について
 
@@ -91,7 +91,7 @@ Lectureの動画をみて、Excerciseの問題を解いて、Assignmentを解く
 
 Courseraは教育の格差をなくし、全ての学ぶ意欲のあるひとに機会を与えてくれる。社会人の自分にも、Courseraを通じて再び学問に触れることができることはとても嬉しいことだ。
 
-<iframe src="http://embed.ted.com/talks/lang/ja/daphne_koller_what_we_re_learning_from_online_education.html" height="315" width="560" allowfullscreen="" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://embed.ted.com/talks/lang/ja/daphne_koller_what_we_re_learning_from_online_education.html" height="315" width="560" allowfullscreen="" frameborder="0" scrolling="no"></iframe>
 
 理想的には、1度に２つのコースを受講したいが、勉強時間の確保が難しいかな。。週20~30時間。定時退社したい。とりあえず、生活と人格が破綻するまで頑張る。
 

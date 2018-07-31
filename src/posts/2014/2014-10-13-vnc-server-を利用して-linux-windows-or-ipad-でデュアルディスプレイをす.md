@@ -146,7 +146,7 @@ url: /archives/=2647
       
       <ul class="org-ul">
         <li>
-          <a href="http://www.obenri.com/_vnc/vnc_server2.html">http://www.obenri.com/_vnc/vnc_server2.html</a>
+          <a href="https://www.obenri.com/_vnc/vnc_server2.html">https://www.obenri.com/_vnc/vnc_server2.html</a>
         </li>
       </ul>
     </div>
@@ -271,16 +271,16 @@ url: /archives/=2647
     <div class="outline-text-3" id="text-unnumbered-9">
       <ul class="org-ul">
         <li>
-          <a href="http://d.hatena.ne.jp/kiwanami/20110514/1305388379">Linux で iPad をセカンドモニターにする &#8211; 技術日記＠ kiwanami</a>
+          <a href="https://d.hatena.ne.jp/kiwanami/20110514/1305388379">Linux で iPad をセカンドモニターにする &#8211; 技術日記＠ kiwanami</a>
         </li>
         <li>
           <a href="https://wiki.archlinux.org/index.php/Vncserver_(%E6%97%A5%E6%9C%AC%E8%AA%9E)">Vncserver (日本語) &#8211; ArchWiki</a>
         </li>
         <li>
-          <a href="http://pocke.hatenablog.com/entry/2014/01/18/155859">Android タブレットを Linux のディスプレイにしよう &#8211; pockestrap</a>
+          <a href="https://pocke.hatenablog.com/entry/2014/01/18/155859">Android タブレットを Linux のディスプレイにしよう &#8211; pockestrap</a>
         </li>
         <li>
-          <a href="http://nosada.hatenablog.com/entry/2012/09/11/144300">VNC を使って Android 端末をサブディスプレイにする &#8211; テクニカルプア</a>
+          <a href="https://nosada.hatenablog.com/entry/2012/09/11/144300">VNC を使って Android 端末をサブディスプレイにする &#8211; テクニカルプア</a>
         </li>
       </ul>
     </div>

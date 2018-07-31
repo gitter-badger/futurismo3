@@ -49,7 +49,7 @@ wayland
 
 x window にかわる, 次世代ウィンドウマネージャー.
 
--   [Wayland - Wikipedia](http://ja.wikipedia.org/wiki/Wayland)
+-   [Wayland - Wikipedia](https://ja.wikipedia.org/wiki/Wayland)
 
 Arch Wiki が詳しい.
 
@@ -145,16 +145,16 @@ mode=1600x900
 パフォーマンスについての考察.
 
 -   [本の虫: XWayland
-    のパフォーマンス](http://cpplover.blogspot.jp/2013/07/xwayland.html)
+    のパフォーマンス](https://cpplover.blogspot.jp/2013/07/xwayland.html)
 
 Bookmarks
 =========
 
 -   [Wayland/Weston について - devm33
-    の備忘録](http://d.hatena.ne.jp/devm33/20140414/1397473785)
+    の備忘録](https://d.hatena.ne.jp/devm33/20140414/1397473785)
 -   [weston (wayland) の screenshot の取り方 -
-    Qiita](http://qiita.com/TNaruto/items/7eef814e7673fd42e681)
--   [Wayland を試してみる](http://mlny.info/2014/10/wayland/)
+    Qiita](https://qiita.com/TNaruto/items/7eef814e7673fd42e681)
+-   [Wayland を試してみる](https://mlny.info/2014/10/wayland/)
 -   [Give Wayland/Weston a try on Arch Linux - Siosm's
     blog](https://tim.siosm.fr/blog/2012/09/21/try-weston-arch-linux/)
 

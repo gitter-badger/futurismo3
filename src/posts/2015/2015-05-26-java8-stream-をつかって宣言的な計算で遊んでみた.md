@@ -19,7 +19,7 @@ url: /archives/=3987
 関数型の書き方に早く慣れ親しみたいので、 **Java
 による関数型プログラミング** を買ってみました.
 
-<div class='amazlink-box' style='text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;'><div class='amazlink-list' style='clear: both;'><div class='amazlink-image' style='float:left;margin:0px 12px 1px 0px;'><a href='http://www.amazon.co.jp/Java%E3%81%AB%E3%82%88%E3%82%8B%E9%96%A2%E6%95%B0%E5%9E%8B%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0-%E2%80%95Java-8%E3%83%A9%E3%83%A0%E3%83%80%E5%BC%8F%E3%81%A8Stream-Venkat-Subramaniam/dp/4873117046%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4873117046' target='_blank' rel='nofollow'><img src='http://ecx.images-amazon.com/images/I/41aZ-lQtWmL._SL160_.jpg' style='border: none;' /></a></div><div class='amazlink-info' style='height:160; margin-bottom: 10px'><div class='amazlink-name' style='margin-bottom:10px;line-height:120%'><a href='http://www.amazon.co.jp/Java%E3%81%AB%E3%82%88%E3%82%8B%E9%96%A2%E6%95%B0%E5%9E%8B%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0-%E2%80%95Java-8%E3%83%A9%E3%83%A0%E3%83%80%E5%BC%8F%E3%81%A8Stream-Venkat-Subramaniam/dp/4873117046%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4873117046' rel='nofollow' target='_blank'>Java による関数型プログラミング — Java 8 ラムダ式と Stream</a></div><div class='amazlink-powered' style='font-size:80%;margin-top:5px;line-height:120%'>posted with <a href='http://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 15.05.26</div><div class='amazlink-detail'>Venkat Subramaniam<br /></div><div class='amazlink-sub-info' style='float: left;'><div class='amazlink-link' style='margin-top: 5px'><img src='http://amazlink.fuyu.gs/icon_amazon.png' width='18'><a href='http://www.amazon.co.jp/Java%E3%81%AB%E3%82%88%E3%82%8B%E9%96%A2%E6%95%B0%E5%9E%8B%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0-%E2%80%95Java-8%E3%83%A9%E3%83%A0%E3%83%80%E5%BC%8F%E3%81%A8Stream-Venkat-Subramaniam/dp/4873117046%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4873117046' rel='nofollow' target='_blank'>Amazon</a></div></div></div></div></div>
+<div class='amazlink-box' style='text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;'><div class='amazlink-list' style='clear: both;'><div class='amazlink-image' style='float:left;margin:0px 12px 1px 0px;'><a href='https://www.amazon.co.jp/Java%E3%81%AB%E3%82%88%E3%82%8B%E9%96%A2%E6%95%B0%E5%9E%8B%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0-%E2%80%95Java-8%E3%83%A9%E3%83%A0%E3%83%80%E5%BC%8F%E3%81%A8Stream-Venkat-Subramaniam/dp/4873117046%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4873117046' target='_blank' rel='nofollow'><img src='https://ecx.images-amazon.com/images/I/41aZ-lQtWmL._SL160_.jpg' style='border: none;' /></a></div><div class='amazlink-info' style='height:160; margin-bottom: 10px'><div class='amazlink-name' style='margin-bottom:10px;line-height:120%'><a href='https://www.amazon.co.jp/Java%E3%81%AB%E3%82%88%E3%82%8B%E9%96%A2%E6%95%B0%E5%9E%8B%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0-%E2%80%95Java-8%E3%83%A9%E3%83%A0%E3%83%80%E5%BC%8F%E3%81%A8Stream-Venkat-Subramaniam/dp/4873117046%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4873117046' rel='nofollow' target='_blank'>Java による関数型プログラミング — Java 8 ラムダ式と Stream</a></div><div class='amazlink-powered' style='font-size:80%;margin-top:5px;line-height:120%'>posted with <a href='https://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 15.05.26</div><div class='amazlink-detail'>Venkat Subramaniam<br /></div><div class='amazlink-sub-info' style='float: left;'><div class='amazlink-link' style='margin-top: 5px'><img src='https://amazlink.fuyu.gs/icon_amazon.png' width='18'><a href='https://www.amazon.co.jp/Java%E3%81%AB%E3%82%88%E3%82%8B%E9%96%A2%E6%95%B0%E5%9E%8B%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0-%E2%80%95Java-8%E3%83%A9%E3%83%A0%E3%83%80%E5%BC%8F%E3%81%A8Stream-Venkat-Subramaniam/dp/4873117046%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4873117046' rel='nofollow' target='_blank'>Amazon</a></div></div></div></div></div>
 
 今日は、 簡単な演算を stream
 で実施するとどうやるかをいろいろ実験してみました.
@@ -124,19 +124,19 @@ Special Thanks
 ==============
 
 -   [Java Stream メモ(Hishidama's Java8 Stream
-    Memo)](http://www.ne.jp/asahi/hishidama/home/tech/java/stream.html)
+    Memo)](https://www.ne.jp/asahi/hishidama/home/tech/java/stream.html)
 -   [java.util.stream (Java Platform SE 8
-    )](http://docs.oracle.com/javase/jp/8/api/java/util/stream/package-summary.html)
+    )](https://docs.oracle.com/javase/jp/8/api/java/util/stream/package-summary.html)
 -   [Java 8 の新機能をエレガントに使いたい | mono
-    の開発ブログ](http://blog.monoweb.info/blog/2015/04/29/java-stream/)
+    の開発ブログ](https://blog.monoweb.info/blog/2015/04/29/java-stream/)
 -   [Stream API にチャレンジ！ - Java EE
-    事始め！](http://masatoshitada.hatenadiary.jp/entry/2014/10/06/201202)
+    事始め！](https://masatoshitada.hatenadiary.jp/entry/2014/10/06/201202)
 -   [java8 - コレクションを強化した Stream -
-    Qiita](http://qiita.com/pepepe/items/337134b4fccbfee83a2d#)
+    Qiita](https://qiita.com/pepepe/items/337134b4fccbfee83a2d#)
 -   [Java SE 8 のストリーム API
     の正しい使い方──ラムダ式とともに導入された新 API
     で、並列処理の実装はどう変わるのか？ - page2 - builder by ZDNet
-    Japan](http://builder.japan.zdnet.com/sp_oracle/weblogic/35056789/2/)
+    Japan](https://builder.japan.zdnet.com/sp_oracle/weblogic/35056789/2/)
 
 <p style="font-size:32px">以上、Happy Hacking!!</p>
 

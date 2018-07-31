@@ -446,7 +446,7 @@ motmuch というメールシステムを導入したので、導入手順をま
       
       <ul class="org-ul">
         <li>
-          <a href="http://u7fa9.org/memo/HEAD/archives/2012-06/2012-06-01.rst">notmuch で日本語検索をいい感じにする &#8211; memo</a>
+          <a href="https://u7fa9.org/memo/HEAD/archives/2012-06/2012-06-01.rst">notmuch で日本語検索をいい感じにする &#8211; memo</a>
         </li>
       </ul>
       
@@ -522,10 +522,10 @@ motmuch というメールシステムを導入したので、導入手順をま
   <div id="text-org7d1773e" class="outline-text-2">
     <ul class="org-ul">
       <li>
-        <a href="http://blog.tai2.net/mutt-and-notmuch.html#id11">mutt + notmuch でコマンドラインメール送受信環境を構築する(Mac OS X 編)</a>
+        <a href="https://blog.tai2.net/mutt-and-notmuch.html#id11">mutt + notmuch でコマンドラインメール送受信環境を構築する(Mac OS X 編)</a>
       </li>
       <li>
-        <a href="http://chrisdone.com/posts/emacs-mail">Emacs, Notmuch and Offlineimap</a>
+        <a href="https://chrisdone.com/posts/emacs-mail">Emacs, Notmuch and Offlineimap</a>
       </li>
     </ul>
   </div>

@@ -34,7 +34,7 @@ url: /archives/=1678
 
 ちなみに、一番参考になったのは、以下のサイト
 
-  * <a href="http://cbednarski.com/articles/creating-vagrant-base-box-for-centos-62/" target="_blank">Creating a CentOS 6.2 Base Box for Vagrant 1.1 &#8211; Chris Bednarski</a>
+  * <a href="https://cbednarski.com/articles/creating-vagrant-base-box-for-centos-62/" target="_blank">Creating a CentOS 6.2 Base Box for Vagrant 1.1 &#8211; Chris Bednarski</a>
 
 [toc]
 
@@ -210,13 +210,13 @@ package.boxが作成される。（けっこう時間かかる）
 
 #### 参考
 
-  * <a href="http://d.hatena.ne.jp/okinaka/20110805/1312474847" target="_blank">Vagrant のベースBOX作成手順 (Scientific Linux 6.1) &#8211; エンジニアきまぐれTips</a>
-  * <a href="http://qiita.com/amedama/items/459a9187a116ba90016c" target="_blank">Ubuntu 13.04 の vagrant 用 box を作る &#8211; Qiita [キータ]</a>
+  * <a href="https://d.hatena.ne.jp/okinaka/20110805/1312474847" target="_blank">Vagrant のベースBOX作成手順 (Scientific Linux 6.1) &#8211; エンジニアきまぐれTips</a>
+  * <a href="https://qiita.com/amedama/items/459a9187a116ba90016c" target="_blank">Ubuntu 13.04 の vagrant 用 box を作る &#8211; Qiita [キータ]</a>
   * [Vagrant Documentation &#8211; Documentation &#8211; Base Boxes][3]
   * <a href="https://github.com/fespinoza/checklist_and_guides/wiki/Creating-a-vagrant-base-box-for-ubuntu-12.04-32bit-server" target="_blank">Creating a vagrant base box for ubuntu 12.04 32bit server · fespinoza/checklist_and_guides Wiki</a>
-  * <a href="http://briceno.mx/2012/10/easy-guide-to-create-a-vagrant-box-from-virtualbox/" target="_blank">Easy and simple guide to create your own Vagrant box (Ubuntu-12.02-64 server bridged) from VirtualBox « Basilio Briceño</a>
-  * <a href="http://blog.vandenbrand.org/2012/02/21/creating-a-centos-6-2-base-box-for-vagrant/" target="_blank">Creating a CentOS 6.2 base box for Vagrant | Ricbra&#8217;s Blog</a>
+  * <a href="https://briceno.mx/2012/10/easy-guide-to-create-a-vagrant-box-from-virtualbox/" target="_blank">Easy and simple guide to create your own Vagrant box (Ubuntu-12.02-64 server bridged) from VirtualBox « Basilio Briceño</a>
+  * <a href="https://blog.vandenbrand.org/2012/02/21/creating-a-centos-6-2-base-box-for-vagrant/" target="_blank">Creating a CentOS 6.2 base box for Vagrant | Ricbra&#8217;s Blog</a>
 
  [1]: https://futurismo.biz/archives/1330
  [2]: https://futurismo.biz/archives/1643
- [3]: http://docs-v1.vagrantup.com/v1/docs/base_boxes.html
+ [3]: https://docs-v1.vagrantup.com/v1/docs/base_boxes.html

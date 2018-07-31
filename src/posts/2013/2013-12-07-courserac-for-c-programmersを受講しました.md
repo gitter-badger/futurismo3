@@ -63,21 +63,21 @@ C++の初級的な話題が紹介される。この講義でC++の基礎がマ�
 <div class='amazlink-box' style='text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;'>
   <div class='amazlink-list' style='clear: both;'>
     <div class='amazlink-image' style='float:left;margin:0px 12px 1px 0px;'>
-      <a href='http://www.amazon.co.jp/For-Programmers-Third-Edition/dp/0201395193%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0201395193' target='_blank' rel='nofollow'><img src='http://ecx.images-amazon.com/images/I/41M6JR7Z4DL._SL160_.jpg' style='border: none;' /></a>
+      <a href='https://www.amazon.co.jp/For-Programmers-Third-Edition/dp/0201395193%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0201395193' target='_blank' rel='nofollow'><img src='https://ecx.images-amazon.com/images/I/41M6JR7Z4DL._SL160_.jpg' style='border: none;' /></a>
     </div>
     
     <div class='amazlink-info' style='height:160; margin-bottom: 10px'>
       <div class='amazlink-name' style='margin-bottom:10px;line-height:120%'>
-        <a href='http://www.amazon.co.jp/For-Programmers-Third-Edition/dp/0201395193%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0201395193' rel='nofollow' target='_blank'>C++ For C Programmers, Third Edition</a>
+        <a href='https://www.amazon.co.jp/For-Programmers-Third-Edition/dp/0201395193%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0201395193' rel='nofollow' target='_blank'>C++ For C Programmers, Third Edition</a>
       </div>
       
       <div class='amazlink-powered' style='font-size:80%;margin-top:5px;line-height:120%'>
-        posted with <a href='http://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 13.11.05
+        posted with <a href='https://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 13.11.05
       </div>
       
       <p>
         <noscript>
-          <a href='http://bust-up.gob.jp'>xn--cck2b5as2b7b</a>
+          <a href='https://bust-up.gob.jp'>xn--cck2b5as2b7b</a>
         </noscript>
       </p>
       
@@ -87,7 +87,7 @@ C++の初級的な話題が紹介される。この講義でC++の基礎がマ�
       
       <div class='amazlink-sub-info' style='float: left;'>
         <div class='amazlink-link' style='margin-top: 5px'>
-          <img src='http://amazlink.fuyu.gs/icon_amazon.png' width='18' /><a href='http://www.amazon.co.jp/For-Programmers-Third-Edition/dp/0201395193%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0201395193' rel='nofollow' target='_blank'>Amazon</a>
+          <img src='https://amazlink.fuyu.gs/icon_amazon.png' width='18' /><a href='https://www.amazon.co.jp/For-Programmers-Third-Edition/dp/0201395193%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0201395193' rel='nofollow' target='_blank'>Amazon</a>
         </div>
       </div>
     </div>

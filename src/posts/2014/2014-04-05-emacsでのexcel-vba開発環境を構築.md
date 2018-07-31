@@ -36,7 +36,7 @@ Excel VBAなどの開発環境は、たいていVisual Basic Editorです。
     
     <ul class="org-ul">
       <li>
-        <a href="http://www.emacswiki.org/cgi-bin/wiki/visual-basic-mode.el">EmacsWiki: visual-basic-mode.el</a>
+        <a href="https://www.emacswiki.org/cgi-bin/wiki/visual-basic-mode.el">EmacsWiki: visual-basic-mode.el</a>
       </li>
     </ul>
     
@@ -87,10 +87,10 @@ Excel VBAなどの開発環境は、たいていVisual Basic Editorです。
     
     <ul class="org-ul">
       <li>
-        <a href="http://rsh.csh.sh/text-scripting-vba/define/text-vba.html">vi で書こう VBA (実践編) — Text Scripting on VBA</a>
+        <a href="https://rsh.csh.sh/text-scripting-vba/define/text-vba.html">vi で書こう VBA (実践編) — Text Scripting on VBA</a>
       </li>
       <li>
-        <a href="http://rsh.csh.sh/text-scripting-vba/define/resource-catalog/text-scripting-vba/quick-start.html#text-scripting-vba-quickstart">Quick Start: Text Scripting VBA — Text Scripting on VBA</a>
+        <a href="https://rsh.csh.sh/text-scripting-vba/define/resource-catalog/text-scripting-vba/quick-start.html#text-scripting-vba-quickstart">Quick Start: Text Scripting VBA — Text Scripting on VBA</a>
       </li>
     </ul>
   </div>
@@ -187,7 +187,7 @@ End Sub
     
     <ul class="org-ul">
       <li>
-        <a href="http://vb-lite-unit.sourceforge.net/">VB Lite Unit Home Page</a>
+        <a href="https://vb-lite-unit.sourceforge.net/">VB Lite Unit Home Page</a>
       </li>
     </ul>
     
@@ -218,7 +218,7 @@ End Sub
     
     <ul class="org-ul">
       <li>
-        <a href="http://aki2o.hatenablog.jp/entry/2014/01/10/Emacs%E3%82%92Visual_Basic_Editor%E4%B8%A6%E3%81%BF%E3%81%AEVBA%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E3%81%AB%E3%81%99%E3%82%8Bvbasense.el%E3%82%92%E4%BD%9C%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F">EmacsをVisual Basic Editor並みのVBA開発環境にするvbasense.elを作りました &#8211; 死ぬまでの暇潰し</a>
+        <a href="https://aki2o.hatenablog.jp/entry/2014/01/10/Emacs%E3%82%92Visual_Basic_Editor%E4%B8%A6%E3%81%BF%E3%81%AEVBA%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E3%81%AB%E3%81%99%E3%82%8Bvbasense.el%E3%82%92%E4%BD%9C%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F">EmacsをVisual Basic Editor並みのVBA開発環境にするvbasense.elを作りました &#8211; 死ぬまでの暇潰し</a>
       </li>
     </ul>
     
@@ -276,7 +276,7 @@ End Sub
     
     <ul class="org-ul">
       <li>
-        <a href="http://d.hatena.ne.jp/language_and_engineering/20090524/p1">&#8220;Excelenium&#8221;（エクセレニウム）で，快適な自動回帰テストを　　（Seleniumのテストスクリプトとテスト仕様書を自動生成） &#8211; 主に言語とシステム開発に関して</a>
+        <a href="https://d.hatena.ne.jp/language_and_engineering/20090524/p1">&#8220;Excelenium&#8221;（エクセレニウム）で，快適な自動回帰テストを　　（Seleniumのテストスクリプトとテスト仕様書を自動生成） &#8211; 主に言語とシステム開発に関して</a>
       </li>
     </ul>
   </div></p>

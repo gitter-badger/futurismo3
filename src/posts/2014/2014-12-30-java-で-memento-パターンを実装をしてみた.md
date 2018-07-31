@@ -30,7 +30,7 @@ Memento パターンとは
 オブジェクトを以前の状態に (ロールバックにより) 戻す能力を提供する.
 
 -   [Memento パターン -
-    Wikipedia](http://ja.wikipedia.org/wiki/Memento_%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3)
+    Wikipedia](https://ja.wikipedia.org/wiki/Memento_%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3)
 
 パターン適用前
 ==============

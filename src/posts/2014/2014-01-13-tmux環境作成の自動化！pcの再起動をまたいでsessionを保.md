@@ -102,6 +102,6 @@ tmuxの状態保存は、tmux-sessionがよい。save/restoreの簡易なとこ�
 
  [1]: https://github.com/aziz/tmuxinator/
  [2]: https://github.com/aziz/tmuxinator/tree/master/bin
- [3]: http://lh3.ggpht.com/-nHZjL2lxJYw/UtKTCOUcOJI/AAAAAAAAA9c/7z4EWV7IQJ0/tmuxinator.jpg
- [4]: http://superuser.com/questions/440015/restore-tmux-session-after-reboot
- [5]: http://brainscraps.wikia.com/wiki/Resurrecting_tmux_Sessions_After_Reboot
+ [3]: https://lh3.ggpht.com/-nHZjL2lxJYw/UtKTCOUcOJI/AAAAAAAAA9c/7z4EWV7IQJ0/tmuxinator.jpg
+ [4]: https://superuser.com/questions/440015/restore-tmux-session-after-reboot
+ [5]: https://brainscraps.wikia.com/wiki/Resurrecting_tmux_Sessions_After_Reboot

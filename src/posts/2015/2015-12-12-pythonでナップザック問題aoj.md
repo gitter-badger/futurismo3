@@ -21,7 +21,7 @@ url: /archives/=5436
 
 <ul class="org-ul">
   <li>
-    <a href="http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_1_B&lang=jp">http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_1_B&lang=jp</a>
+    <a href="https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_1_B&lang=jp">https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_1_B&lang=jp</a>
   </li>
 </ul>
 
@@ -29,7 +29,7 @@ url: /archives/=5436
 
 <ul class="org-ul">
   <li>
-    <a href="http://dai1741.github.io/maximum-algo-2012/docs/dynamic-programming/">動的計画法（ナップサック問題） &#8211; アルゴリズム講習会</a>
+    <a href="https://dai1741.github.io/maximum-algo-2012/docs/dynamic-programming/">動的計画法（ナップサック問題） &#8211; アルゴリズム講習会</a>
   </li>
 </ul>
 
@@ -128,7 +128,7 @@ url: /archives/=5436
                     <div class="outline-text-2" id="text-orgheadline4">
                       <ul class="org-ul">
                         <li>
-                          <a href="http://www.itmedia.co.jp/enterprise/articles/1005/15/news002.html">最強最速アルゴリズマー養成講座：病みつきになる「動的計画法」、その深淵に迫る (1/4) &#8211; ITmedia エンタープライズ</a>
+                          <a href="https://www.itmedia.co.jp/enterprise/articles/1005/15/news002.html">最強最速アルゴリズマー養成講座：病みつきになる「動的計画法」、その深淵に迫る (1/4) &#8211; ITmedia エンタープライズ</a>
                         </li>
                       </ul>
                     </div>

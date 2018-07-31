@@ -22,7 +22,7 @@ url: /archives/=2326
 
 <ul class="org-ul">
   <li>
-    <a href="http://www.find-job.net/startup/english-for-engineers-naming-conventions">正しいコーディングが身につくエンジニア英語の手引き 〜文法とクラス／メソッド、命名規則〜 | Find Job ! Startup</a>
+    <a href="https://www.find-job.net/startup/english-for-engineers-naming-conventions">正しいコーディングが身につくエンジニア英語の手引き 〜文法とクラス／メソッド、命名規則〜 | Find Job ! Startup</a>
   </li>
   <li>
     <a href="https://futurismo.biz/archives/2200">散文的ブログラミングの哲学につら抜かれたCleanCodeでカルチャーショック体験 | Futurismo</a>
@@ -47,7 +47,7 @@ url: /archives/=2326
     
     <ul class="org-ul">
       <li>
-        <a href="http://www5d.biglobe.ne.jp/chick/5senpat.html">英語５文型のまえがきと目次</a>
+        <a href="https://www5d.biglobe.ne.jp/chick/5senpat.html">英語５文型のまえがきと目次</a>
       </li>
     </ul>
   </div>
@@ -147,7 +147,7 @@ url: /archives/=2326
           感覚系 feel、sound、
         </li>
         <li>
-          <a href="http://www.elm-lab.com/CCP040.html">第２文型をとる動詞</a>
+          <a href="https://www.elm-lab.com/CCP040.html">第２文型をとる動詞</a>
         </li>
       </ul>
       

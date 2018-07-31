@@ -236,9 +236,9 @@ copyq &
 -   [Xmonad/Config archive/John Goerzen's Configuration -
     HaskellWiki](https://wiki.haskell.org/Xmonad/Config_archive/John_Goerzen%27s_Configuration)
 -   [Xmonad の設定 -
-    kenkovlog](http://kenkov.hatenablog.jp/entry/20110509/1304961140)
+    kenkovlog](https://kenkov.hatenablog.jp/entry/20110509/1304961140)
 -   ["My configuration of xmonad window manager with xmobar and trayer "
     at arjuna del
-    toso](http://arjuna.deltoso.net/index.html%3Fp=242.html)
+    toso](https://arjuna.deltoso.net/index.html%3Fp=242.html)
 -   [2016 年の Linux 環境 - Devlion
-    Memo](http://mjhd.hatenablog.com/entry/2016/03/23/131055)
+    Memo](https://mjhd.hatenablog.com/entry/2016/03/23/131055)

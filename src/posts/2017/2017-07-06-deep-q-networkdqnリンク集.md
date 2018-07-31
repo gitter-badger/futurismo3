@@ -61,20 +61,20 @@ url: /archives/=6604
   * [Simple Reinforcement Learning with Tensorflow Part 0: Q-Learning with Tables and Neural Networks][19]
 
  [1]: https://ja.wikipedia.org/wiki/DQN_(%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF)
- [2]: http://qiita.com/Ugo-Nama/items/08c6a5f6a571335972d5
+ [2]: https://qiita.com/Ugo-Nama/items/08c6a5f6a571335972d5
  [3]: https://elix-tech.github.io/ja/2016/06/29/dqn-ja.html
- [4]: http://qiita.com/icoxfog417/items/242439ecd1a477ece312
+ [4]: https://qiita.com/icoxfog417/items/242439ecd1a477ece312
  [5]: https://www.slideshare.net/mooopan/dqn-58511529
- [6]: http://enakai00.hatenablog.com/entry/2016/05/18/125007
- [7]: http://www.iclr.cc/lib/exe/fetch.php?media=iclr2015:silver-iclr2015.pdf
- [8]: http://videolectures.net/rldm2015_silver_reinforcement_learning/
+ [6]: https://enakai00.hatenablog.com/entry/2016/05/18/125007
+ [7]: https://www.iclr.cc/lib/exe/fetch.php?media=iclr2015:silver-iclr2015.pdf
+ [8]: https://videolectures.net/rldm2015_silver_reinforcement_learning/
  [9]: https://keon.io/deep-q-learning/
  [10]: https://www.intelnervana.com/demystifying-deep-reinforcement-learning/
  [11]: https://arxiv.org/abs/1312.5602
- [12]: http://www.readcube.com/articles/10.1038/nature14236
+ [12]: https://www.readcube.com/articles/10.1038/nature14236
  [13]: https://yanpanlau.github.io/2016/07/10/FlappyBird-Keras.html
  [14]: https://github.com/muupan/deep-reinforcement-learning-papers
- [15]: http://rll.berkeley.edu/deeprlcourse/
+ [15]: https://rll.berkeley.edu/deeprlcourse/
  [16]: https://katefvision.github.io/
  [17]: https://github.com/yandexdataschool/Practical_RL
  [18]: https://github.com/dennybritz/reinforcement-learning

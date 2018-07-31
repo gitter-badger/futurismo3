@@ -26,7 +26,7 @@ iRemoconでPCからエアコン制御をしてみた。
 詰まったのは ファイアウォ－ルのポ－トの開け方と、Boostのコンパイル方法。  
 ここをみて解決。  
 [Windows 7 パーソナルファイアウォールに個別ポート許可設定][3]  
-<http://www.richelbilderbeek.nl/CppLinkErrorUndefinedReferenceToBoostSystem.htm>
+<https://www.richelbilderbeek.nl/CppLinkErrorUndefinedReferenceToBoostSystem.htm>
 
 環境は Windows 7 + Cygwin  
 Boostのコンパイルが特にハマったけれど結局以下で解決。
@@ -48,6 +48,6 @@ Boostのコンパイルが特にハマったけれど結局以下で解決。
   </div>
 </div>
 
- [1]: http://d.hatena.ne.jp/hecomi/20120109/1326112105
- [2]: http://zigsow.jp/portal/own_item_detail/181910/
- [3]: http://www.akakagemaru.info/port/windows7fwport.html
+ [1]: https://d.hatena.ne.jp/hecomi/20120109/1326112105
+ [2]: https://zigsow.jp/portal/own_item_detail/181910/
+ [3]: https://www.akakagemaru.info/port/windows7fwport.html

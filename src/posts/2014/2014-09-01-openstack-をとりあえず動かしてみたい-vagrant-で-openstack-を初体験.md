@@ -46,7 +46,7 @@ url: /archives/=2604
     
     <ul class="org-ul">
       <li>
-        <a href="http://www.openstack.org/">http://www.openstack.org/</a>
+        <a href="https://www.openstack.org/">https://www.openstack.org/</a>
       </li>
     </ul>
   </div>
@@ -113,16 +113,16 @@ url: /archives/=2604
       <div class="outline-text-4" id="text-2-1-2">
         <ul class="org-ul">
           <li>
-            <a href="http://ja.wikipedia.org/wiki/OpenStack">OpenStack &#8211; Wikipedia</a>
+            <a href="https://ja.wikipedia.org/wiki/OpenStack">OpenStack &#8211; Wikipedia</a>
           </li>
           <li>
-            <a href="http://www.atmarkit.co.jp/ait/articles/1406/10/news039.html">NEC の柴田氏に聞く:OpenStack はなぜこれまで成功してきたのか &#8211; ＠ IT</a>
+            <a href="https://www.atmarkit.co.jp/ait/articles/1406/10/news039.html">NEC の柴田氏に聞く:OpenStack はなぜこれまで成功してきたのか &#8211; ＠ IT</a>
           </li>
           <li>
-            <a href="http://itpro.nikkeibp.co.jp/article/Keyword/20121029/433321/">Network キーワード &#8211; OpenStack とは:ITpro</a>
+            <a href="https://itpro.nikkeibp.co.jp/article/Keyword/20121029/433321/">Network キーワード &#8211; OpenStack とは:ITpro</a>
           </li>
           <li>
-            <a href="http://cloud.watch.impress.co.jp/docs/column/cloud/20140404_642748.html">【クラウド特捜部】プレーヤーがそろい表舞台に立つ OpenStack &#8211; クラウド Watch</a>
+            <a href="https://cloud.watch.impress.co.jp/docs/column/cloud/20140404_642748.html">【クラウド特捜部】プレーヤーがそろい表舞台に立つ OpenStack &#8211; クラウド Watch</a>
           </li>
         </ul>
       </div>
@@ -139,10 +139,10 @@ url: /archives/=2604
       
       <ul class="org-ul">
         <li>
-          <a href="http://thinkit.co.jp/story/2014/06/10/4999">OpenStack のアーキテクチャを理解しよう | Think IT (シンクイット)</a>
+          <a href="https://thinkit.co.jp/story/2014/06/10/4999">OpenStack のアーキテクチャを理解しよう | Think IT (シンクイット)</a>
         </li>
         <li>
-          <a href="http://docs.openstack.org/ja/trunk/install-guide/install/apt-debian/content/ch_overview.html">第 1 章 アーキテクチャー &#8211; OpenStack インストールガイド Debian 7.0 (Wheezy) 版 &#8211; juno</a>
+          <a href="https://docs.openstack.org/ja/trunk/install-guide/install/apt-debian/content/ch_overview.html">第 1 章 アーキテクチャー &#8211; OpenStack インストールガイド Debian 7.0 (Wheezy) 版 &#8211; juno</a>
         </li>
       </ul>
     </div>
@@ -165,7 +165,7 @@ url: /archives/=2604
     
     <ul class="org-ul">
       <li>
-        <a href="http://docs.openstack.org/ja/">OpenStack Docs: Japanese</a>
+        <a href="https://docs.openstack.org/ja/">OpenStack Docs: Japanese</a>
       </li>
     </ul>
   </div>
@@ -180,13 +180,13 @@ url: /archives/=2604
       
       <ul class="org-ul">
         <li>
-          <a href="http://devstack.org/">DevStack &#8211; Deploying OpenStack for Developers</a>
+          <a href="https://devstack.org/">DevStack &#8211; Deploying OpenStack for Developers</a>
         </li>
         <li>
-          <a href="http://www.ospn.jp/press/20120828no27-useit-oss.html"> 「オープンソース」を使ってみよう (第 23 回 DevStack でラクラク導入!</a>
+          <a href="https://www.ospn.jp/press/20120828no27-useit-oss.html"> 「オープンソース」を使ってみよう (第 23 回 DevStack でラクラク導入!</a>
         </li>
         <li>
-          <a href="http://momijiame.tumblr.com/post/80665373356/vagrant-devstack-openstack">Vagrant と DevStack で OpenStack をサクッと試す | CUBE SUGAR STORAGE</a>
+          <a href="https://momijiame.tumblr.com/post/80665373356/vagrant-devstack-openstack">Vagrant と DevStack で OpenStack をサクッと試す | CUBE SUGAR STORAGE</a>
         </li>
         <li>
           <a href="https://github.com/openstack-dev/devstack.git">https://github.com/openstack-dev/devstack.git</a>
@@ -208,10 +208,10 @@ url: /archives/=2604
           <a href="https://openstack.redhat.com/Main_Page">RDO</a>
         </li>
         <li>
-          <a href="http://momijiame.tumblr.com/post/80582413671/vagrant-rdo-openstack">Vagrant と RDO で OpenStack をサクッと試す | CUBE SUGAR STORAGE</a>
+          <a href="https://momijiame.tumblr.com/post/80582413671/vagrant-rdo-openstack">Vagrant と RDO で OpenStack をサクッと試す | CUBE SUGAR STORAGE</a>
         </li>
         <li>
-          <a href="http://www.atmarkit.co.jp/ait/articles/1311/06/news004_2.html">Havana 登場! 何が変わった?/DevStack で Havana を試すには? (2/3) &#8211; ＠ IT</a>
+          <a href="https://www.atmarkit.co.jp/ait/articles/1311/06/news004_2.html">Havana 登場! 何が変わった?/DevStack で Havana を試すには? (2/3) &#8211; ＠ IT</a>
         </li>
       </ul>
     </div>
@@ -227,10 +227,10 @@ url: /archives/=2604
       
       <ul class="org-ul">
         <li>
-          <a href="http://www.vmware.com/products/openstack">VMware Integrated OpenStack (Beta) | United States</a>
+          <a href="https://www.vmware.com/products/openstack">VMware Integrated OpenStack (Beta) | United States</a>
         </li>
         <li>
-          <a href="http://www.atmarkit.co.jp/ait/articles/1408/26/news127.html">「 OpenStack の本質は API 」:OpenStack ディストリビューションを発表, ヴイエムウェアは何を考えているか &#8211; ＠ IT</a>
+          <a href="https://www.atmarkit.co.jp/ait/articles/1408/26/news127.html">「 OpenStack の本質は API 」:OpenStack ディストリビューションを発表, ヴイエムウェアは何を考えているか &#8211; ＠ IT</a>
         </li>
       </ul>
     </div>
@@ -309,7 +309,7 @@ url: /archives/=2604
       
       <ul class="org-ul">
         <li>
-          <a href="http://qiita.com/takuan_osho/items/7f571fb35d282251e5e7">OpenStack 初心者でも Vagrant を使って OpenStack を体験する方法 &#8211; Qiita</a>
+          <a href="https://qiita.com/takuan_osho/items/7f571fb35d282251e5e7">OpenStack 初心者でも Vagrant を使って OpenStack を体験する方法 &#8211; Qiita</a>
         </li>
         <li>
           <a href="https://github.com/TelekomLabs/vagrant-devstack">TelekomLabs/vagrant-devstack</a>
@@ -325,7 +325,7 @@ url: /archives/=2604
       </p>
       
       <p>
-        <a href="http://192.168.50.10/">http://192.168.50.10/</a> にアクセスして, user: admin/ password: devstack でログイン.
+        <a href="https://192.168.50.10/">https://192.168.50.10/</a> にアクセスして, user: admin/ password: devstack でログイン.
       </p>
       
       <div class="figure">
@@ -383,7 +383,7 @@ url: /archives/=2604
     
     <ul class="org-ul">
       <li>
-        <a href="http://developer.openstack.org/"> Documentation >> Application Development</a>
+        <a href="https://developer.openstack.org/"> Documentation >> Application Development</a>
       </li>
     </ul>
   </div>

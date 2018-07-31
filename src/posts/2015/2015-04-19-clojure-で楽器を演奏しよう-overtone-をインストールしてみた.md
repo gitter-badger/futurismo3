@@ -156,8 +156,8 @@ Special Thanks
 ==============
 
 -   [Emacs Org and Overtone quick
-    intro](http://bzg.fr/emacs-org-babel-overtone-intro.html#)
+    intro](https://bzg.fr/emacs-org-babel-overtone-intro.html#)
 -   [Emacs で Overtone 演奏環境構築 - のぶ
-    Lab.](http://atsuya046.hatenablog.com/entry/2015/02/11/232316)
+    Lab.](https://atsuya046.hatenablog.com/entry/2015/02/11/232316)
 
 

@@ -55,7 +55,7 @@ OpenSSL 1.0.0-fips 29 Mar 2010
 
 調べてみると、libssl-devなるものが必要なようだ。
 
-<a href="http://www.ruby-forum.com/topic/4411882" target="_blank">Installing Ruby 2.0.0-p0 using Rbenv on Ubuntu 12.04.2 LTS &#8211; Ruby Forum</a>
+<a href="https://www.ruby-forum.com/topic/4411882" target="_blank">Installing Ruby 2.0.0-p0 using Rbenv on Ubuntu 12.04.2 LTS &#8211; Ruby Forum</a>
 
 CentOSでは、openssl-develに当たるものがそれっぽいので、インストール。
 

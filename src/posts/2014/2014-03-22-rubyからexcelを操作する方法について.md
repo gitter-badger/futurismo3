@@ -43,7 +43,7 @@ RubyからExcel操作をする手順について調べてみた。
     </p>
     
     <p>
-      <a href="http://qiita.com/damassima/items/1b791ba90459ef0534fe">RubyでExcelファイルを扱うライブラリの比較 &#8211; Qiita</a>
+      <a href="https://qiita.com/damassima/items/1b791ba90459ef0534fe">RubyでExcelファイルを扱うライブラリの比較 &#8211; Qiita</a>
     </p>
     
     <p>
@@ -84,7 +84,7 @@ RubyからExcel操作をする手順について調べてみた。
     
     <ul>
       <li>
-        <a href="http://magazine.rubyist.net/?0003-Win32OLE">Rubyist Magazine &#8211; Win32OLE 活用法 【第 1 回】 Win32OLE ことはじめ</a>
+        <a href="https://magazine.rubyist.net/?0003-Win32OLE">Rubyist Magazine &#8211; Win32OLE 活用法 【第 1 回】 Win32OLE ことはじめ</a>
       </li>
     </ul>
     
@@ -123,7 +123,7 @@ RubyからExcel操作をする手順について調べてみた。
         Range ・・・ Excelのセルやセルの集合。
       </li>
       <li>
-        <a href="http://www.tech-notes.dyndns.org/excel_lib/excel_doc.html">Excelのクラスの説明</a>
+        <a href="https://www.tech-notes.dyndns.org/excel_lib/excel_doc.html">Excelのクラスの説明</a>
       </li>
     </ul>
   </div>
@@ -233,7 +233,7 @@ book.<span style="color: #66d9ef; font-weight: bold;">Worksheets</span>.each {|s
         
         <ul>
           <li>
-            <a href="http://d.hatena.ne.jp/maluboh/20070708#p1">2007-07-08 &#8211; まるぼ～の日記</a>
+            <a href="https://d.hatena.ne.jp/maluboh/20070708#p1">2007-07-08 &#8211; まるぼ～の日記</a>
           </li>
         </ul>
       </div>
@@ -351,13 +351,13 @@ cell.<span style="color: #66d9ef; font-weight: bold;">Value</span> = <span style
   <div id="text-4" class="outline-text-2">
     <ul>
       <li>
-        <a href="http://magazine.rubyist.net/?0004-Win32OLE">Rubyist Magazine &#8211; Win32OLE 活用法 【第 2 回】 Excel</a>
+        <a href="https://magazine.rubyist.net/?0004-Win32OLE">Rubyist Magazine &#8211; Win32OLE 活用法 【第 2 回】 Excel</a>
       </li>
       <li>
-        <a href="http://qiita.com/damassima/items/1b791ba90459ef0534fe">RubyでExcelファイルを扱うライブラリの比較 &#8211; Qiita</a>
+        <a href="https://qiita.com/damassima/items/1b791ba90459ef0534fe">RubyでExcelファイルを扱うライブラリの比較 &#8211; Qiita</a>
       </li>
       <li>
-        <a href="http://naoty.hatenablog.com/entry/20100823/1282559185">WIN32OLEを使ったExcelの操作(1) &#8211; naoty.to_s</a>
+        <a href="https://naoty.hatenablog.com/entry/20100823/1282559185">WIN32OLEを使ったExcelの操作(1) &#8211; naoty.to_s</a>
       </li>
     </ul>
   </div>

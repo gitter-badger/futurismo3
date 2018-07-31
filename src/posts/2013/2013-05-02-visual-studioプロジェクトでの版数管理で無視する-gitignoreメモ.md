@@ -47,5 +47,5 @@ Visual Studioをいじりはじめた。いろいろと不明な拡張子があ�
   * [Visual Studio + Subversion で管理するファイルについて &#8211; @sugamasao.blog.title # => ”コードで世界を変えたい”][1] 
   * [Visual Studio 2010 の sdf と ipch &#8211; なたでぽぽ][2]
 
- [1]: http://d.hatena.ne.jp/seiunsky/20070324/1174761587
- [2]: http://popo.ara3.net/diary/2010/20101221.htm
+ [1]: https://d.hatena.ne.jp/seiunsky/20070324/1174761587
+ [2]: https://popo.ara3.net/diary/2010/20101221.htm

@@ -34,9 +34,9 @@ Spring Boot
 参考:
 
 -   [春だから！Javaでの開発にSpring
-    Bootを使おう！](http://maplesystems.co.jp/blog/all/programming/18474.html)
+    Bootを使おう！](https://maplesystems.co.jp/blog/all/programming/18474.html)
 -   [» Spring Boot 入門 TECHSCORE
-    BLOG](http://www.techscore.com/blog/2014/05/01/spring-boot-introduction/)
+    BLOG](https://www.techscore.com/blog/2014/05/01/spring-boot-introduction/)
 
 Play
 ====
@@ -82,13 +82,13 @@ Special Thanks
 
 -   [3つのフレームワークで学ぶエンタープライズJava開発入門（1）：Strutsを使い続けることの問題点＆現在有力なJava
     EE、Spring、Play
-    ...](http://www.atmarkit.co.jp/ait/articles/1507/02/news012.html)
+    ...](https://www.atmarkit.co.jp/ait/articles/1507/02/news012.html)
 -   [フレームワーク選択のススメ -
-    yuksewの日記](http://d.hatena.ne.jp/yuksew/20130318/1363570567)
+    yuksewの日記](https://d.hatena.ne.jp/yuksew/20130318/1363570567)
 -   [Javaの常識を変えるPlay
     framework入門（1）：Java開発で泣かないためのPlay frameworkの基礎知識
     (1/3) -
-    ＠IT](http://www.atmarkit.co.jp/ait/articles/1204/09/news114.html)
+    ＠IT](https://www.atmarkit.co.jp/ait/articles/1204/09/news114.html)
 
 
 Javaの Web フレームワークで有名な Spring と Play について調べてみました. 

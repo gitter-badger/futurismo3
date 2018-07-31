@@ -31,5 +31,5 @@ UnionFindとは、２つの異なる集合がつながっているかを調べ�
 
   * [Case Study: Union-Find][2]
 
- [1]: http://ja.wikipedia.org/wiki/%E7%B4%A0%E9%9B%86%E5%90%88%E3%83%87%E3%83%BC%E3%82%BF%E6%A7%8B%E9%80%A0
- [2]: http://algs4.cs.princeton.edu/15uf/
+ [1]: https://ja.wikipedia.org/wiki/%E7%B4%A0%E9%9B%86%E5%90%88%E3%83%87%E3%83%BC%E3%82%BF%E6%A7%8B%E9%80%A0
+ [2]: https://algs4.cs.princeton.edu/15uf/

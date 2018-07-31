@@ -60,7 +60,7 @@ doc-view-mode が動かん!
 どうも, GhostScript というものを入れる必要があるようだ.
 
 -   [Emacs and PDF - Carpe diem (Felix's
-    blog)](http://www.idryman.org/blog/2013/05/20/emacs-and-pdf/)
+    blog)](https://www.idryman.org/blog/2013/05/20/emacs-and-pdf/)
 
 ということで, インストール.
 
@@ -96,7 +96,7 @@ emacsclient -c
 linum-mode が悪さをしていることが判明.
 
 -   [How can I speed up Emacs DocView mode? - Stack
-    Overflow](http://stackoverflow.com/questions/16132234/how-can-i-speed-up-emacs-docview-mode)
+    Overflow](https://stackoverflow.com/questions/16132234/how-can-i-speed-up-emacs-docview-mode)
 
 どうも, doc-view-mode がめちゃくちゃ遅い!linum-mode が有効なことが原因.
 以下のページを参考に, major-mode が
@@ -107,7 +107,7 @@ linum-mode が悪さをしていることが判明.
 のときは, linum-mode は disable に.
 
 -   [How can I speed up Emacs DocView mode? - Stack
-    Overflow](http://stackoverflow.com/questions/16132234/how-can-i-speed-up-emacs-docview-mode)
+    Overflow](https://stackoverflow.com/questions/16132234/how-can-i-speed-up-emacs-docview-mode)
 
 pdf-info-epdfinfo-program error がでる.
 ---------------------------------------
@@ -137,5 +137,5 @@ pdf-occur とか, pdf-isearch とか, 便利.
 
 -   [Emacs 上の PDF で isearch,occur,imenu とかなんでもしてしまう
     pdf-tools の紹介 |
-    sheephead](http://sheephead.homelinux.org/2014/03/17/7076/)
+    sheephead](https://sheephead.homelinux.org/2014/03/17/7076/)
 

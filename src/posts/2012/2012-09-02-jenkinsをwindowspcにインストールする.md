@@ -35,21 +35,21 @@ url: /archives/=299
 
 ### JenkinsをWindowsPCにインストールする
 
-  1. 公式サイト（[<span style="color: #0066cc;">http://jenkins-ci.org/</span>][3]）にアクセスする。
-  2. 右のサイドバーにある [Or native package]からWindowsを選択する。[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb4.png" alt="image" width="373" height="199" border="0" />][4]
+  1. 公式サイト（[<span style="color: #0066cc;">https://jenkins-ci.org/</span>][3]）にアクセスする。
+  2. 右のサイドバーにある [Or native package]からWindowsを選択する。[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb4.png" alt="image" width="373" height="199" border="0" />][4]
   3. ダウンロードしたファイルを解凍し、インストーラを起動(setup.exeのほう）
-  4. Webブラウザから「<http://localhost:8080>」にアクセス。
+  4. Webブラウザから「<https://localhost:8080>」にアクセス。
   5. Jenkins導入完了！
 
-[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb5.png" alt="image" width="320" height="230" border="0" />][5]
+[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb5.png" alt="image" width="320" height="230" border="0" />][5]
 
 &nbsp;
 
 参考:[Windows環境でもJenkins -執事さんとご対面-][6]
 
- [1]: http://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&ved=0CDkQFjAD&url=http%3A%2F%2Fq.hatena.ne.jp%2F1107315097&ei=EJ1CULWEMqX2mAXxiYCoBA&usg=AFQjCNHO7Xe-2FHnHFR_4hsWym7daBG13g&sig2=_KMGTaGtnJSZZpeiWIBU5A
- [2]: http://www.cat-ears.net/archives/=318
- [3]: http://jenkins-ci.org/
- [4]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image4.png
- [5]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image5.png
- [6]: http://pplace.jp/2011/06/199/
+ [1]: https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&ved=0CDkQFjAD&url=http%3A%2F%2Fq.hatena.ne.jp%2F1107315097&ei=EJ1CULWEMqX2mAXxiYCoBA&usg=AFQjCNHO7Xe-2FHnHFR_4hsWym7daBG13g&sig2=_KMGTaGtnJSZZpeiWIBU5A
+ [2]: https://www.cat-ears.net/archives/=318
+ [3]: https://jenkins-ci.org/
+ [4]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image4.png
+ [5]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image5.png
+ [6]: https://pplace.jp/2011/06/199/

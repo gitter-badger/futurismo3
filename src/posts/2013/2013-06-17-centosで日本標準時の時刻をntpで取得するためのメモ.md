@@ -33,7 +33,7 @@ NTPとは、NetWork Time Protocolの略。
 
 日本標準時プロジェクトというものがあり、ここから日本の正確な時刻を配信している。
 
-<a href="http://www2.nict.go.jp/aeri/sts/tsp/PubNtp/index.html" target="_blank"><img class="alignleft" align="left" border="0" src="http://capture.heartrails.com/150x130/shadow?http://www2.nict.go.jp/aeri/sts/tsp/PubNtp/index.html" alt="" width="150" height="130" /></a> <a style="color:#0070C5;" href="http://www2.nict.go.jp/aeri/sts/tsp/PubNtp/index.html" target="_blank">日本標準時プロジェクト　公開NTP</a>  <img border="0" src="http://b.hatena.ne.jp/entry/image/http://www2.nict.go.jp/aeri/sts/tsp/PubNtp/index.html" alt="" style="" /><br style="clear:both;" />
+<a href="https://www2.nict.go.jp/aeri/sts/tsp/PubNtp/index.html" target="_blank"><img class="alignleft" align="left" border="0" src="https://capture.heartrails.com/150x130/shadow?https://www2.nict.go.jp/aeri/sts/tsp/PubNtp/index.html" alt="" width="150" height="130" /></a> <a style="color:#0070C5;" href="https://www2.nict.go.jp/aeri/sts/tsp/PubNtp/index.html" target="_blank">日本標準時プロジェクト　公開NTP</a>  <img border="0" src="https://b.hatena.ne.jp/entry/image/https://www2.nict.go.jp/aeri/sts/tsp/PubNtp/index.html" alt="" style="" /><br style="clear:both;" />
 
 ntp.nict.jpというサーバから正確な時刻を取得する。
 
@@ -96,6 +96,6 @@ ntpd -pでステータスを確認することができます。
 
 #### 参考
 
-  * <a href="http://sj6.org/ntp_install_for_centos/" target="_blank">CentOSにntpサーバで時刻同期設定 | 適当な日々</a>
-  * <a href="http://sj6.org/ntp_install_for_centos/" target="_blank">CentOSにntpサーバで時刻同期設定 | 適当な日々</a>
-  * <a href="http://www2.nict.go.jp/aeri/sts/tsp/PubNtp/index.html" target="_blank">日本標準時プロジェクト　公開NTP</a>
+  * <a href="https://sj6.org/ntp_install_for_centos/" target="_blank">CentOSにntpサーバで時刻同期設定 | 適当な日々</a>
+  * <a href="https://sj6.org/ntp_install_for_centos/" target="_blank">CentOSにntpサーバで時刻同期設定 | 適当な日々</a>
+  * <a href="https://www2.nict.go.jp/aeri/sts/tsp/PubNtp/index.html" target="_blank">日本標準時プロジェクト　公開NTP</a>

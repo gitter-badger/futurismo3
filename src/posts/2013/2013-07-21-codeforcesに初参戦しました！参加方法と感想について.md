@@ -58,7 +58,7 @@ Codeforcesに初参戦しました。
 
 まずは、Webページにアクセス
 
-  * <a href="http://codeforces.com/enter" target="_blank">Login &#8211; Codeforces</a>
+  * <a href="https://codeforces.com/enter" target="_blank">Login &#8211; Codeforces</a>
 
 Gmailアカウントがあれば、それで認証して終了。わぁ、登録カンタン。
 
@@ -127,7 +127,7 @@ coutを使って、標準出力に書き出します。
 
 Codeforces Round #192 (Div. 2) A
 
-  * <a href="http://codeforces.com/problemset/problem/330/A" target="_blank">Problem &#8211; 330A &#8211; Codeforces</a>
+  * <a href="https://codeforces.com/problemset/problem/330/A" target="_blank">Problem &#8211; 330A &#8211; Codeforces</a>
 
 [gist id=6045503]
   
@@ -168,7 +168,7 @@ It&#8217;s so called &#8220;Programming Contests&#8221;。 Special feature are f
 
 At first access to the url
 
-  * <a href="http://codeforces.com/enter" target="_blank">Login &#8211; Codeforces</a>
+  * <a href="https://codeforces.com/enter" target="_blank">Login &#8211; Codeforces</a>
 
 If you have a google account, authenticate with that。Wah, it&#8217;s easy.
 
@@ -229,10 +229,10 @@ My answer was failed with system test,..(ノД｀)
 
 Codeforces Round #192 (Div. 2) A
 
-  * <a href="http://codeforces.com/problemset/problem/330/A" target="_blank">Problem &#8211; 330A &#8211; Codeforces</a>
+  * <a href="https://codeforces.com/problemset/problem/330/A" target="_blank">Problem &#8211; 330A &#8211; Codeforces</a>
 
 [gist id=6045503]<!--:-->
 
  [1]: https://picasaweb.google.com/lh/photo/0MQfo68bQ4W-N60rOwLxVDyD6hjDXGH6XyE6iLrzolo?feat=embedwebsite
  [2]: https://picasaweb.google.com/lh/photo/v8PMrj-xLbjoUJgSf9ARfDyD6hjDXGH6XyE6iLrzolo?feat=embedwebsite
- [3]: http://lh4.ggpht.com/-3OFYRTc4OAU/UeuIWWNzBKI/AAAAAAAAAts/6ch5d_m1KVo/SnapCrab_NoName_2013-7-20_22-45-0_No-00.jpg
+ [3]: https://lh4.ggpht.com/-3OFYRTc4OAU/UeuIWWNzBKI/AAAAAAAAAts/6ch5d_m1KVo/SnapCrab_NoName_2013-7-20_22-45-0_No-00.jpg

@@ -33,13 +33,13 @@ url: /archives/=1832
 
 <!--:ja-->C++ の TDD本、『Modern C++ Programming with Test-Driven Development』の写経環境を構築するためのメモです。
 
-<iframe style="width: 120px; height: 240px;" src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=sleephacker-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=1937785483" width="320" height="240" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<iframe style="width: 120px; height: 240px;" src="https://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=sleephacker-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=1937785483" width="320" height="240" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 [toc]
 
 ebookはここから購入できる。
 
-  * <a href="http://pragprog.com/book/lotdd/modern-c-programming-with-test-driven-development" target="_blank" rel="noopener noreferrer">The Pragmatic Bookshelf | Modern C++ Programming with Test-Driven Development</a>
+  * <a href="https://pragprog.com/book/lotdd/modern-c-programming-with-test-driven-development" target="_blank" rel="noopener noreferrer">The Pragmatic Bookshelf | Modern C++ Programming with Test-Driven Development</a>
 
 各ツールの説明は、書籍の第1章に載っています。自分のPCはWindowsなのですが、Virtual Box 上に CentOSをインストールしてそこに開発環境を構築し、、Sambaを経由してWindows上のEclipse上から写経をしようと考えています。なので、ベースは CentOS。そのへんの導入方法は過去記事を参照のこと。
 
@@ -62,7 +62,7 @@ githubはこのリンクから。
 
 コードはここからダウンロード可能。
 
-  * <a href="http://pragprog.com/titles/lotdd/source_code" target="_blank" rel="noopener noreferrer">The Pragmatic Bookshelf | Source Code</a>tar xzf lotdd-code.tgz
+  * <a href="https://pragprog.com/titles/lotdd/source_code" target="_blank" rel="noopener noreferrer">The Pragmatic Bookshelf | Source Code</a>tar xzf lotdd-code.tgz
   
     mv code modernCTDD
 
@@ -161,7 +161,7 @@ Windows上でのEclipseの設定。前述のとおり、ここでは、Sambaを�
 
 Chapter5で必要となる。サイトから最新版をダウンロード。
 
-  * <a href="http://curl.haxx.se/" target="_blank" rel="noopener noreferrer">curl and libcurl</a> 
+  * <a href="https://curl.haxx.se/" target="_blank" rel="noopener noreferrer">curl and libcurl</a> 
       * curl-7.32.0.tar.gz
 
 以下のコマンドでインストール。
@@ -179,7 +179,7 @@ Chapter5で必要となる。サイトから最新版をダウンロード。
 
 Chapter5で必要となる。サイトから最新版をダウンロード。
 
-  * <a href="http://sourceforge.net/projects/jsoncpp/files/" target="_blank" rel="noopener noreferrer">json-cpp &#8211; Browse Files at SourceForge.net</a> 
+  * <a href="https://sourceforge.net/projects/jsoncpp/files/" target="_blank" rel="noopener noreferrer">json-cpp &#8211; Browse Files at SourceForge.net</a> 
       * jsoncpp-src-0.5.0.tar.gz
 
 インストールには、pythonで書かれたビルドツールsconsというものが必要らしい。(makeのようなもの）。以下から落とす。
@@ -273,7 +273,7 @@ Chapter8でrlogが使われます。
  [1]: https://futurismo.biz/archives/1841
  [2]: https://code.google.com/p/googlemock/downloads/list
  [3]: https://futurismo.biz/archives/1302
- [4]: http://sourceforge.net/projects/scons/files/scons-local/
- [5]: http://sourceforge.net/projects/boost/files/boost/1.54.0/
- [6]: http://cpputest.github.io/index.html
+ [4]: https://sourceforge.net/projects/scons/files/scons-local/
+ [5]: https://sourceforge.net/projects/boost/files/boost/1.54.0/
+ [6]: https://cpputest.github.io/index.html
  [7]: https://code.google.com/p/rlog/

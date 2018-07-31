@@ -22,7 +22,7 @@ EmacsからPlantUMLをつかう方法を調べた。
 
 <ul class="org-ul">
   <li>
-    <a href="http://plantuml.sourceforge.net/emacs.html">PlantUML</a>
+    <a href="https://plantuml.sourceforge.net/emacs.html">PlantUML</a>
   </li>
 </ul>
 
@@ -48,7 +48,7 @@ EmacsからPlantUMLをつかう方法を調べた。
     
     <ul class="org-ul">
       <li>
-        <a href="http://d.hatena.ne.jp/a_bicky/20121016/1350347857">Emacs から PlantUML を使ってみた &#8211; あらびき日記</a>
+        <a href="https://d.hatena.ne.jp/a_bicky/20121016/1350347857">Emacs から PlantUML を使ってみた &#8211; あらびき日記</a>
       </li>
     </ul>
     
@@ -132,7 +132,7 @@ EmacsからPlantUMLをつかう方法を調べた。
     
     <ul class="org-ul">
       <li>
-        <a href="http://zhangweize.wordpress.com/2010/08/25/creating-uml-images-by-using-plantuml-and-org-babel-in-emacs/">Creating uml images by using plantuml and org-babel in emacs | zwz&#8217;s Blog</a>
+        <a href="https://zhangweize.wordpress.com/2010/08/25/creating-uml-images-by-using-plantuml-and-org-babel-in-emacs/">Creating uml images by using plantuml and org-babel in emacs | zwz&#8217;s Blog</a>
       </li>
     </ul>
   </div></p>

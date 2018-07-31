@@ -99,9 +99,9 @@ Reproducible blog を目指して
 Reproducible Research が注目を集める背景には, 以下のようなことがある.
 
 -   [論文の再現性について -
-    ある医療系大学長のつぼやき](http://blog.goo.ne.jp/toyodang/e/1316a8dad8d53aef57063e651b0763cb)
+    ある医療系大学長のつぼやき](https://blog.goo.ne.jp/toyodang/e/1316a8dad8d53aef57063e651b0763cb)
 -   [再現性の無い研究論文を減らすにはどうすべきか |
-    堀川大樹](http://www.huffingtonpost.jp/daiki-horikawa/post_5982_b_4165458.html)
+    堀川大樹](https://www.huffingtonpost.jp/daiki-horikawa/post_5982_b_4165458.html)
 
 自分は研究者ではないので, いまいちピンとこないのだけれども,
 身近な問題に置き換えると, ネット上でみつけたコード辺を動かしてみよう
@@ -113,7 +113,7 @@ Reproducible Research が注目を集める背景には, 以下のようなこ�
 最近では, Web 上でコードを実行できるサービスも出てきた.
 
 -   [これはすごい!3 秒でプログラミングが始められるサービス 17 選 - paiza
-    開発日誌](http://paiza.hatenablog.com/entry/2014/12/04/%E3%80%90%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E5%AD%A6%E7%BF%92%E3%80%91%E3%81%8C%E8%B6%85%E6%8D%97%E3%82%8B%EF%BC%813%E7%A7%92%E3%81%A7%E5%AE%9F%E8%A1%8C%E7%92%B0%E5%A2%83)
+    開発日誌](https://paiza.hatenablog.com/entry/2014/12/04/%E3%80%90%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E5%AD%A6%E7%BF%92%E3%80%91%E3%81%8C%E8%B6%85%E6%8D%97%E3%82%8B%EF%BC%813%E7%A7%92%E3%81%A7%E5%AE%9F%E8%A1%8C%E7%92%B0%E5%A2%83)
 
 このようなサービスを利用することで,
 
@@ -136,7 +136,7 @@ full computational environment used to produce the results in the paper
 such as the code, data, etc.
 
 -   [Reproducibility - Wikipedia, the free
-    encyclopedia](http://en.wikipedia.org/wiki/Reproducibility)
+    encyclopedia](https://en.wikipedia.org/wiki/Reproducibility)
 
 Computational X の X の部分にすべて適用できる考え方
 
@@ -155,7 +155,7 @@ Computational X の X の部分にすべて適用できる考え方
 (Reproducible: 再現)
 
 -   [再現性 -
-    Wikipedia](http://ja.wikipedia.org/wiki/%E5%86%8D%E7%8F%BE%E6%80%A7)
+    Wikipedia](https://ja.wikipedia.org/wiki/%E5%86%8D%E7%8F%BE%E6%80%A7)
 
 音楽における楽譜がデータ解析におけるスクリプトとなる.
 
@@ -227,17 +227,17 @@ R markdown
 
 R Studio のための マークアップ言語.
 
--   <http://rmarkdown.rstudio.com/>
+-   <https://rmarkdown.rstudio.com/>
 
 RStudio と R markdown を利用することで 簡単に Reproducible な report
 が作成可能.
 
 -   [R で reproducible
-    research](http://www.slideshare.net/sfchaos/rreproducible-research-13569000)
+    research](https://www.slideshare.net/sfchaos/rreproducible-research-13569000)
 -   [knitr+pandoc ではじめる\~『 R Markdown で Reproducible Research
-    』](http://www.slideshare.net/teramonagi/tokyo-r36-20140222)
+    』](https://www.slideshare.net/teramonagi/tokyo-r36-20140222)
 -   [Writing reproducible reports in R with markdown, knitr and pandoc -
-    Nice R Code](http://nicercode.github.io/guides/reports/)
+    Nice R Code](https://nicercode.github.io/guides/reports/)
 
 ### knitr
 
@@ -256,7 +256,7 @@ evidence-based data analysis
 ----------------------------
 
 -   [Treading a New Path for Reproducible Research: Part 1 | Simply
-    Statistics](http://simplystatistics.org/2013/08/21/treading-a-new-path-for-reproducible-research-part-1/)
+    Statistics](https://simplystatistics.org/2013/08/21/treading-a-new-path-for-reproducible-research-part-1/)
 -   [Treading a New Path for Reproducible Research (Part 2) | Simply
-    Statistics](http://simplystatistics.org/2013/08/28/evidence-based-data-analysis-treading-a-new-path-for-reproducible-research-part-2/)
+    Statistics](https://simplystatistics.org/2013/08/28/evidence-based-data-analysis-treading-a-new-path-for-reproducible-research-part-2/)
 

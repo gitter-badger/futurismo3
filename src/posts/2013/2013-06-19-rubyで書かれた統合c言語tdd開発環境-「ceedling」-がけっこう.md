@@ -277,7 +277,7 @@ L68行目にもバグがあるので、修正。
           # stream.puts "\t\t</Test>"
     
 
-<a href="http://sourceforge.net/p/ceedling/discussion/1052467/thread/27c7f086" target="_blank">Ceedling / Discussion / Ceedling Forum:XML report</a>
+<a href="https://sourceforge.net/p/ceedling/discussion/1052467/thread/27c7f086" target="_blank">Ceedling / Discussion / Ceedling Forum:XML report</a>
 
 これで、Jenkinsでも結果が表示されたた。
 

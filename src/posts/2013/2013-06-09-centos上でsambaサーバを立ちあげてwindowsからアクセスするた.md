@@ -143,6 +143,6 @@ setsebool -P samba\_enable\_home_dirs on
 
 #### 参考
 
-  * <a href="http://centossrv.com/samba.shtml" target="_blank">Windowsファイルサーバー構築(Samba) &#8211; CentOSで自宅サーバー構築</a> 
-  * <a href="http://d.hatena.ne.jp/camellia1977/20120818/1345288125" target="_blank">CentOS 6.3でSambaサーバ &#8211; つばき さざんか 茶飲んでずずず</a> 
-  * <a href="http://d.hatena.ne.jp/erio_nk/20120502/1335971007" target="_blank">Sambaの覚書。 &#8211; erio_nk://memo</a>
+  * <a href="https://centossrv.com/samba.shtml" target="_blank">Windowsファイルサーバー構築(Samba) &#8211; CentOSで自宅サーバー構築</a> 
+  * <a href="https://d.hatena.ne.jp/camellia1977/20120818/1345288125" target="_blank">CentOS 6.3でSambaサーバ &#8211; つばき さざんか 茶飲んでずずず</a> 
+  * <a href="https://d.hatena.ne.jp/erio_nk/20120502/1335971007" target="_blank">Sambaの覚書。 &#8211; erio_nk://memo</a>

@@ -47,14 +47,14 @@ ev3dev
 ======
 
 -   [Getting Started with
-    ev3dev](http://www.ev3dev.org/docs/getting-started/)
+    ev3dev](https://www.ev3dev.org/docs/getting-started/)
 
 ev3dev の OS 起動
 -----------------
 
 ev3dev とは、Debian ベースの Linux OS.
 
--   [ev3dev Home](http://www.ev3dev.org/)
+-   [ev3dev Home](https://www.ev3dev.org/)
 
 Python でプログラミングするには、標準で入っている OS ではなく、ev3dev
 を利用する。 この ev3dev OS を micro SD カードに焼いて、カードから OS
@@ -65,7 +65,7 @@ Python でプログラミングするには、標準で入っている OS では
 
 まずは、OS のイメージをダウンロードする。
 
--   [ev3dev Downloads](http://www.ev3dev.org/downloads/)
+-   [ev3dev Downloads](https://www.ev3dev.org/downloads/)
 
 ダウンロードしたファイルを解凍する。
 
@@ -168,7 +168,7 @@ sudo apt-get install --only-upgrade python3-ev3dev
 
 ライブラリのドキュメントは以下。
 
--   <http://python-ev3dev.readthedocs.io/en/latest/>
+-   <https://python-ev3dev.readthedocs.io/en/latest/>
 
 インタラクティブ
 ----------------
@@ -199,7 +199,7 @@ ev3.Sound.speak('Hello World!').wait()
 
 ### モーター制御
 
--   <http://python-ev3dev.readthedocs.io/en/latest/motors.html>
+-   <https://python-ev3dev.readthedocs.io/en/latest/motors.html>
 
 ev3.LargeMotor でモーターのインスタンスを作成する。
 
@@ -302,7 +302,7 @@ PyCharm
 PyCharm での 開発設定は以下にまとめられている。
 
 -   [Setting Up a Python Development Environment with
-    PyCharm](http://www.ev3dev.org/docs/tutorials/setting-up-python-pycharm/)
+    PyCharm](https://www.ev3dev.org/docs/tutorials/setting-up-python-pycharm/)
 
 ここには、git
 経由で編集するやり方が書いてある。編集と確認のたびにソースをコミットする必要がありそう。
@@ -362,7 +362,7 @@ Jupyter Notebook
 頑張れば Jupyter Notebook
 をインストールして使えるようだ。以下のページを参考にした。
 
--   <http://yakushi.shinshu-u.ac.jp/robotics/?EV3#n970fb72>
+-   <https://yakushi.shinshu-u.ac.jp/robotics/?EV3#n970fb72>
 
 試してみたけれども、セルの実行に時間がかかりすぎたり、謎の kernel
 エラーが発生したりしたのでやめた。

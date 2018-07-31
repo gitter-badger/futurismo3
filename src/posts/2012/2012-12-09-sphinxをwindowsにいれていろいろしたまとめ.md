@@ -24,7 +24,7 @@ Sphinx(スフィンクス)とは、文章を書くためのツール（フレー
   
 エディタとも、wikiとも分類しがたい、新たな書き方のツール。
 
-<a href="http://sphinx-users.jp/" target="_blank"><img class="alignleft" alt="" src="http://capture.heartrails.com/150x130/shadow?http://sphinx-users.jp/" width="150" height="130" align="left" border="0" /></a> <a style="color: #0070c5;" href="http://sphinx-users.jp/" target="_blank">Sphinx-Users.jp :: ドキュメンテーションツール スフィンクス Sphinx-users.jp</a> <img alt="" src="http://b.hatena.ne.jp/entry/image/http://sphinx-users.jp/" border="0" />
+<a href="https://sphinx-users.jp/" target="_blank"><img class="alignleft" alt="" src="https://capture.heartrails.com/150x130/shadow?https://sphinx-users.jp/" width="150" height="130" align="left" border="0" /></a> <a style="color: #0070c5;" href="https://sphinx-users.jp/" target="_blank">Sphinx-Users.jp :: ドキュメンテーションツール スフィンクス Sphinx-users.jp</a> <img alt="" src="https://b.hatena.ne.jp/entry/image/https://sphinx-users.jp/" border="0" />
 
 導入方法はこの記事を参照されたし。
   

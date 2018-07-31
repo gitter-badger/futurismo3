@@ -100,10 +100,10 @@ Rictyを設定。アンチエイリアスも有効に設定。
   * [urxvt 入れてみた &#8211; oogattaの勉強日記][3]
   * [Urxvtのカスタマイズ : アシアルブログ][7]
 
- [1]: http://software.schmorp.de/pkg/rxvt-unicode.html
- [2]: http://lh6.ggpht.com/-Kr1vXZsZdh0/Utu4uNAyrmI/AAAAAAAABAM/fWV1z6HQUxA/2014-01-19-203608_796x432_scrot.png
- [3]: http://d.hatena.ne.jp/oogatta/20130905/1378364651
- [4]: http://blog.asial.co.jp/404
+ [1]: https://software.schmorp.de/pkg/rxvt-unicode.html
+ [2]: https://lh6.ggpht.com/-Kr1vXZsZdh0/Utu4uNAyrmI/AAAAAAAABAM/fWV1z6HQUxA/2014-01-19-203608_796x432_scrot.png
+ [3]: https://d.hatena.ne.jp/oogatta/20130905/1378364651
+ [4]: https://blog.asial.co.jp/404
  [5]: https://github.com/brianbuccola/dotfiles/blob/master/xcolors/molokai
  [6]: https://github.com/tsu-nera/dotfiles/blob/master/.Xdefaults
- [7]: http://blog.asial.co.jp/262
+ [7]: https://blog.asial.co.jp/262

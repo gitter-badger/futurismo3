@@ -67,8 +67,8 @@ kadenzeの[Creative Applications of Deep Learning with TensorFlow][1]を受け�
 
  [1]: https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info
  [2]: https://github.com/pkmital/CADL/blob/master/session-1/session-1.ipynb
- [3]: http://qiita.com/tackey/items/c340f01ce64374129452
- [4]: http://setosa.io/ev/image-kernels/
+ [3]: https://qiita.com/tackey/items/c340f01ce64374129452
+ [4]: https://setosa.io/ev/image-kernels/
  [5]: https://futurismo.biz/wp-content/uploads/dataset.png
  [6]: https://futurismo.biz/wp-content/uploads/mean.png
  [7]: https://futurismo.biz/wp-content/uploads/kernel.png

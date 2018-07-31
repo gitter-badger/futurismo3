@@ -51,7 +51,7 @@ cbatticon
 -   [Power saving -
     ArchWiki](https://wiki.archlinux.org/index.php/Power_saving)
 -   [Linux – Extend your laptop's battery
-    life](http://en.kioskea.net/faq/2800-linux-extend-your-laptop-s-battery-life#laptop-mode-tools-functions)
+    life](https://en.kioskea.net/faq/2800-linux-extend-your-laptop-s-battery-life#laptop-mode-tools-functions)
 
 明るさ調整
 ----------
@@ -79,11 +79,11 @@ laptop-mode-tools
 laptop-mode-tools は, ラップトップ PC の電源を,
 使用状態に応じて適切に調整してくれるツール.
 
--   Official: [Laptop Mode Tools](http://samwel.tk/laptop_mode/)
+-   Official: [Laptop Mode Tools](https://samwel.tk/laptop_mode/)
 -   [Laptop Mode Tools -
     ArchWiki](https://wiki.archlinux.org/index.php/Laptop_Mode_Tools)
 -   [電力管理/ ハウツー - Gentoo
-    ](http://wiki.gentoo.org/wiki/Power_management/HOWTO/ja)
+    ](https://wiki.gentoo.org/wiki/Power_management/HOWTO/ja)
 
 初期設定はここ. /etc/laptop-mode/laptop-mode.conf
 

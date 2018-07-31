@@ -14,7 +14,7 @@ date: 2018-05-14T17:47:09+09:00
 美人ならばlikeを、そうでなければnopeをすることをしてみました。
 
 今回の記事は、以下の記事に触発されています。
-- [Deep Learning \(Machine Learning\) applied to Tinder – Philippe Remy – My Blog\.](http://philipperemy.github.io/tinder-deep-learning/)
+- [Deep Learning \(Machine Learning\) applied to Tinder – Philippe Remy – My Blog\.](https://philipperemy.github.io/tinder-deep-learning/)
 
 ## pynderをいじる
 まずは、インストールから。
@@ -88,7 +88,7 @@ user.dislike
 それは置いておいて、美人判定をする方法を調べました。
 
 ### 先行事例
-- [Deep Learning \(Machine Learning\) applied to Tinder – Philippe Remy – My Blog\.](http://philipperemy.github.io/tinder-deep-learning/)
+- [Deep Learning \(Machine Learning\) applied to Tinder – Philippe Remy – My Blog\.](https://philipperemy.github.io/tinder-deep-learning/)
 - [How Attractive Are You in the Eyes of Deep Neural Network?](https://towardsdatascience.com/how-attractive-are-you-in-the-eyes-of-deep-neural-network-3d71c0755ccc)
 - [Can deep learning help find the perfect date?](https://www.kdnuggets.com/2015/07/can-deep-learning-help-find-perfect-girl.html)
 

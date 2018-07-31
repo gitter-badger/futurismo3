@@ -52,10 +52,10 @@ url: /archives/=2682
     
     <ul class="org-ul">
       <li>
-        <a href="http://www.linuxfoundation.org/news-media/announcements/2014/03/linux-foundation-build-massive-open-online-course-program-edx">Linux Foundation to Build Massive Open Online Course Program with edX, Increase Access to Linux Training for All | The Linux Foundation</a>
+        <a href="https://www.linuxfoundation.org/news-media/announcements/2014/03/linux-foundation-build-massive-open-online-course-program-edx">Linux Foundation to Build Massive Open Online Course Program with edX, Increase Access to Linux Training for All | The Linux Foundation</a>
       </li>
       <li>
-        <a href="http://lifehacker.com/learn-linux-with-this-free-edx-course-from-the-linux-fo-1612770920">Learn Linux with This Free edX Course from the Linux Foundation</a>
+        <a href="https://lifehacker.com/learn-linux-with-this-free-edx-course-from-the-linux-fo-1612770920">Learn Linux with This Free edX Course from the Linux Foundation</a>
       </li>
     </ul>
     
@@ -73,7 +73,7 @@ url: /archives/=2682
     
     <blockquote class="twitter-tweet" data-cards="hidden" lang="ja">
       <p>
-        動画にうつっているのは linux 作者だった. びっくり. edX | LinuxFoundationX: Introduction to Linux: XLFS101x About Video <a href="http://t.co/kpaohcIiRt">http://t.co/kpaohcIiRt</a>
+        動画にうつっているのは linux 作者だった. びっくり. edX | LinuxFoundationX: Introduction to Linux: XLFS101x About Video <a href="https://t.co/kpaohcIiRt">https://t.co/kpaohcIiRt</a>
       </p>
       
       <p>

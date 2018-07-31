@@ -84,7 +84,7 @@ url: /archives/=2492
     
     <ul class="org-ul">
       <li>
-        <a href="http://orgmode.org/manual/Batch-execution.html">Batch execution &#8211; The Org Manual</a>
+        <a href="https://orgmode.org/manual/Batch-execution.html">Batch execution &#8211; The Org Manual</a>
       </li>
     </ul>
     
@@ -141,7 +141,7 @@ emacs -Q --batch \
     
     <ul class="org-ul">
       <li>
-        <a href="http://orgmode.org/worg/org-contrib/babel/languages/ob-doc-makefile.html">Makefile Source Code Blocks in Org Mode</a>
+        <a href="https://orgmode.org/worg/org-contrib/babel/languages/ob-doc-makefile.html">Makefile Source Code Blocks in Org Mode</a>
       </li>
     </ul>
     

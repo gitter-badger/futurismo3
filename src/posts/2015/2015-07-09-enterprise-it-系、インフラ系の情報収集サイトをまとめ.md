@@ -25,8 +25,8 @@ Publickey
 
 個人サイトだけれども、このサイトが最も興味深い情報源です.
 
-<a style="overflow:hidden;display:inline-block;" href="http://www.publickey1.jp/" target="_blank">
-<img style="float:left;margin-right:.5em;" src="http://capture.heartrails.com/120x120/shorten?http://www.publickey1.jp/" alt="" width="120" height="120" border="0" />
+<a style="overflow:hidden;display:inline-block;" href="https://www.publickey1.jp/" target="_blank">
+<img style="float:left;margin-right:.5em;" src="https://capture.heartrails.com/120x120/shorten?https://www.publickey1.jp/" alt="" width="120" height="120" border="0" />
 </a>
 
 IT Pro クラウド
@@ -34,8 +34,8 @@ IT Pro クラウド
 
 日経コンピュータによる情報サイト。ここも有力.
 
-<a style="overflow:hidden;display:inline-block;" href="http://itpro.nikkeibp.co.jp/cloud/" target="_blank">
-<img style="float:left;margin-right:.5em;" src="http://capture.heartrails.com/120x120/shorten?http://itpro.nikkeibp.co.jp/cloud/" alt="" width="120" height="120" border="0" />
+<a style="overflow:hidden;display:inline-block;" href="https://itpro.nikkeibp.co.jp/cloud/" target="_blank">
+<img style="float:left;margin-right:.5em;" src="https://capture.heartrails.com/120x120/shorten?https://itpro.nikkeibp.co.jp/cloud/" alt="" width="120" height="120" border="0" />
 </a>
 
 Think IT
@@ -43,8 +43,8 @@ Think IT
 
 オープンソースの情報が多め.
 
-<a style="overflow:hidden;display:inline-block;" href="http://thinkit.co.jp/" target="_blank">
-<img style="float:left;margin-right:.5em;" src="http://capture.heartrails.com/120x120/shorten?http://thinkit.co.jp/" alt="" width="120" height="120" border="0" />
+<a style="overflow:hidden;display:inline-block;" href="https://thinkit.co.jp/" target="_blank">
+<img style="float:left;margin-right:.5em;" src="https://capture.heartrails.com/120x120/shorten?https://thinkit.co.jp/" alt="" width="120" height="120" border="0" />
 </a>
 
 とりあえず購読
@@ -55,29 +55,29 @@ Think IT
 IT media エンタープライズ: クラウドコンピューティング
 -----------------------------------------------------
 
-<a style="overflow:hidden;display:inline-block;" href="http://www.itmedia.co.jp/enterprise/subtop/cloud/index.html" target="_blank">
-<img style="float:left;margin-right:.5em;" src="http://capture.heartrails.com/120x120/shorten?http://www.itmedia.co.jp/enterprise/subtop/cloud/index.html" alt="" width="120" height="120" border="0" />
+<a style="overflow:hidden;display:inline-block;" href="https://www.itmedia.co.jp/enterprise/subtop/cloud/index.html" target="_blank">
+<img style="float:left;margin-right:.5em;" src="https://capture.heartrails.com/120x120/shorten?https://www.itmedia.co.jp/enterprise/subtop/cloud/index.html" alt="" width="120" height="120" border="0" />
 </a>
 
 ＠IT Server ＆ Storageフォーラム
 --------------------------------
 
-<a style="overflow:hidden;display:inline-block;" href="http://www.atmarkit.co.jp/ait/subtop/server/" target="_blank">
-<img style="float:left;margin-right:.5em;" src="http://capture.heartrails.com/120x120/shorten?http://www.atmarkit.co.jp/ait/subtop/server/" alt="" width="120" height="120" border="0" />
+<a style="overflow:hidden;display:inline-block;" href="https://www.atmarkit.co.jp/ait/subtop/server/" target="_blank">
+<img style="float:left;margin-right:.5em;" src="https://capture.heartrails.com/120x120/shorten?https://www.atmarkit.co.jp/ait/subtop/server/" alt="" width="120" height="120" border="0" />
 </a>
 
 ASCII.Jp − TECH
 ---------------
 
-<a style="overflow:hidden;display:inline-block;" href="http://ascii.jp/cate/141/" target="_blank">
-<img style="float:left;margin-right:.5em;" src="http://capture.heartrails.com/120x120/shorten?http://ascii.jp/cate/141/" alt="" width="120" height="120" border="0" />
+<a style="overflow:hidden;display:inline-block;" href="https://ascii.jp/cate/141/" target="_blank">
+<img style="float:left;margin-right:.5em;" src="https://capture.heartrails.com/120x120/shorten?https://ascii.jp/cate/141/" alt="" width="120" height="120" border="0" />
 </a>
 
 マイナビニュース エンタープライズ 次世代インフラ
 ------------------------------------------------
 
-<a style="overflow:hidden;display:inline-block;" href="http://news.mynavi.jp/enterprise/nextinfra/" target="_blank">
-<img style="float:left;margin-right:.5em;" src="http://capture.heartrails.com/120x120/shorten?http://news.mynavi.jp/enterprise/nextinfra/" alt="" width="120" height="120" border="0" />
+<a style="overflow:hidden;display:inline-block;" href="https://news.mynavi.jp/enterprise/nextinfra/" target="_blank">
+<img style="float:left;margin-right:.5em;" src="https://capture.heartrails.com/120x120/shorten?https://news.mynavi.jp/enterprise/nextinfra/" alt="" width="120" height="120" border="0" />
 </a>
 
 まとめ
@@ -88,10 +88,10 @@ ASCII.Jp − TECH
 
 技術動向に置いてけぼりにならないために、RSSを毎日購読して情報をチェック！
 
--   <http://www.publickey1.jp/>
--   <http://itpro.nikkeibp.co.jp/cloud/>
--   <http://thinkit.co.jp/>
--   <http://www.itmedia.co.jp/enterprise/subtop/cloud/index.html>
--   <http://www.atmarkit.co.jp/ait/subtop/server/>
--   <http://ascii.jp/cate/141/>
--   <http://news.mynavi.jp/enterprise/nextinfra/>
+-   <https://www.publickey1.jp/>
+-   <https://itpro.nikkeibp.co.jp/cloud/>
+-   <https://thinkit.co.jp/>
+-   <https://www.itmedia.co.jp/enterprise/subtop/cloud/index.html>
+-   <https://www.atmarkit.co.jp/ait/subtop/server/>
+-   <https://ascii.jp/cate/141/>
+-   <https://news.mynavi.jp/enterprise/nextinfra/>

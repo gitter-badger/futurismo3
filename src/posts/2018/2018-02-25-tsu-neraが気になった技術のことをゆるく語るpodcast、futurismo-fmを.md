@@ -54,6 +54,6 @@ SoundCloudで音源が公開できるときいたので、ここで音源を公�
 というわけで、これからよろしくお願いしますm(._.)m
 
  [1]: https://scrapbox.io/kimaben
- [2]: http://kumocast.jp/
+ [2]: https://kumocast.jp/
  [3]: https://soundcloud.com/futurismofm
- [4]: http://blog.yusuke.be/entry/2015/11/22/104734
+ [4]: https://blog.yusuke.be/entry/2015/11/22/104734

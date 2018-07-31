@@ -36,7 +36,7 @@ Amazon Web Service (AWS) をずっと試してみたかったので,
 
 まずは, アカウントを作成.
 
--   <http://aws.amazon.com/jp/>
+-   <https://aws.amazon.com/jp/>
 
 やりたいこと
 ------------
@@ -49,7 +49,7 @@ Linux サーバと Windows サーバをお手軽に借りたい
 AWS にはいろいろなサブコンポーネントがある.
 
 -   [AWS クラウド 無料利用枠 | アマゾン ウェブ サービス (AWS
-    日本語)](http://aws.amazon.com/jp/free/?sc_ichannel=ha&sc_ipage=homepage&sc_icountry=jp&sc_isegment=c&sc_iplace=hero1&sc_icampaigntype=free_tier&sc_icampaign=ha_jp_FreeTier&sc_icategory=none&sc_idetail=ha_jp_206_1&sc_icontent=ha_206)
+    日本語)](https://aws.amazon.com/jp/free/?sc_ichannel=ha&sc_ipage=homepage&sc_icountry=jp&sc_isegment=c&sc_iplace=hero1&sc_icampaigntype=free_tier&sc_icampaign=ha_jp_FreeTier&sc_icategory=none&sc_idetail=ha_jp_206_1&sc_icontent=ha_206)
 
 これによると,
 
@@ -70,11 +70,11 @@ Amazon Lambda を利用すると, EC2 を常時立ち上げていなくてもい
 以下で料金が見積もれる. はじめの一年間は無料らしい.
 
 -   [Amazon Web Services Simple Monthly
-    Calculator](http://calculator.s3.amazonaws.com/index.html?lng=ja_JP#)
+    Calculator](https://calculator.s3.amazonaws.com/index.html?lng=ja_JP#)
 
 Windows と Linux を最小構成で週 2 時間借りた場合は, 0.6 ドル??
 
--   <http://calculator.s3.amazonaws.com/index.html?lng=ja_JP#r=NRT&s=EC2&key=calc-813C393E-B64B-4410-8E86-AB42F1CB9898>
+-   <https://calculator.s3.amazonaws.com/index.html?lng=ja_JP#r=NRT&s=EC2&key=calc-813C393E-B64B-4410-8E86-AB42F1CB9898>
 
 ![](./../img/2014-12-26-151045_938x142_scrot.png)
 
@@ -93,9 +93,9 @@ Windows のインスタンスを作成
 参考
 
 -   [Amazon EC2 Windows インスタンスの使用開始 - Amazon Elastic Compute
-    Cloud](http://docs.aws.amazon.com/ja_jp/AWSEC2/latest/WindowsGuide/EC2Win_GetStarted.html#EC2Win_LaunchInstance)
+    Cloud](https://docs.aws.amazon.com/ja_jp/AWSEC2/latest/WindowsGuide/EC2Win_GetStarted.html#EC2Win_LaunchInstance)
 -   [Amazon EC2 で Windows 環境の構築 その 1
-    リモートデスクトップで接続](http://awoni.net/hosting/ec2-setup/)
+    リモートデスクトップで接続](https://awoni.net/hosting/ec2-setup/)
 
 リモートデスクトップで接続
 ==========================

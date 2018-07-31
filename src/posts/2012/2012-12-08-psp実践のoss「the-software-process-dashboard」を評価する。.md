@@ -40,11 +40,11 @@ GTDに心酔している自分は、タスクに対して時間を割り当て�
 
 ### Process Dashboardをインストール
 
-<a href="http://www.processdash.com/" target="_blank"><img class="alignleft" border="0" alt="" align="left" src="http://capture.heartrails.com/150x130/shadow?http://www.processdash.com/" width="150" height="130" /></a> <a style="color: #0070c5" href="http://www.processdash.com/" target="_blank">The Software Process Dashboard | The Software Process Dashboard Initiative</a>    <img border="0" alt="" src="http://b.hatena.ne.jp/entry/image/http://www.processdash.com/" />  <br style="clear: both" />
+<a href="https://www.processdash.com/" target="_blank"><img class="alignleft" border="0" alt="" align="left" src="https://capture.heartrails.com/150x130/shadow?https://www.processdash.com/" width="150" height="130" /></a> <a style="color: #0070c5" href="https://www.processdash.com/" target="_blank">The Software Process Dashboard | The Software Process Dashboard Initiative</a>    <img border="0" alt="" src="https://b.hatena.ne.jp/entry/image/https://www.processdash.com/" />  <br style="clear: both" />
 
 以下のリンクより、ダウンロード。
 
-  * [http://www.processdash.com/download][3] 
+  * [https://www.processdash.com/download][3] 
       * pdash-install-main-1-15-0-1.exe 
 
 インストーラを起動して、聞かれるままにOKを押せばよい。   
@@ -52,7 +52,7 @@ GTDに心酔している自分は、タスクに対して時間を割り当て�
 
 ### Process Dashboardを使ってみる
 
-[<img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" border="0" alt="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb84.png" width="421" height="103" />][4]
+[<img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" border="0" alt="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb84.png" width="421" height="103" />][4]
 
 UIはシンプル。JAVAでできている。   
 ホットキーに対応していないのが（一番）つらいところだ。   
@@ -73,17 +73,17 @@ Subversionがデフォルトでサポートされている。
 
 しかし、自分の要件としてはドキュメント作成時間やテスト項目も管理したいので、これでは足りない。
 
-[<img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" border="0" alt="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb85.png" width="361" height="270" />][5]
+[<img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" border="0" alt="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb85.png" width="361" height="270" />][5]
 
 基本機能は、こんな感じ。   
 拡張機能を利用するためには、アンケートに登録する必要がある。しかし、会社で利用して、さらにはよければ他人の展開することも考えると、これは障害になるかな。
 
 <div style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px" id="scid:81867AAF-BB02-476b-AE5D-12BDAC2E750D:358162bb-9be0-4131-bd5d-5f7fb6218911" class="wlWriterEditableSmartContent">
-  <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4320120132/sleephacker-22/ref=nosim" target="_blank"><img alt="パーソナルソフトウェアプロセス入門" src="http://ecx.images-amazon.com/images/I/515YEEDHN6L._SL160_.jpg" /><br />パーソナルソフトウェアプロセス入門<br />ワッツ ハンフリー </a>
+  <a href="https://www.amazon.co.jp/exec/obidos/ASIN/4320120132/sleephacker-22/ref=nosim" target="_blank"><img alt="パーソナルソフトウェアプロセス入門" src="https://ecx.images-amazon.com/images/I/515YEEDHN6L._SL160_.jpg" /><br />パーソナルソフトウェアプロセス入門<br />ワッツ ハンフリー </a>
 </div>
 
- [1]: http://gihyo.jp/lifestyle/feature/01/psp
- [2]: http://forza.cocolog-nifty.com/blog/2010/02/psp-cd51.html
- [3]: http://www.processdash.com/download "http://www.processdash.com/download"
- [4]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image84.png
- [5]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image85.png
+ [1]: https://gihyo.jp/lifestyle/feature/01/psp
+ [2]: https://forza.cocolog-nifty.com/blog/2010/02/psp-cd51.html
+ [3]: https://www.processdash.com/download "https://www.processdash.com/download"
+ [4]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image84.png
+ [5]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image85.png

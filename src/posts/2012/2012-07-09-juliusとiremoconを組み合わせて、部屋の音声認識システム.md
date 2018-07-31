@@ -22,7 +22,7 @@ JuliusとiRemoconを組み合わせて、部屋の音声認識システムをつ
   
 出来栄えは、こんな感じ。
 
-[http://www.youtube.com/embed/N6uw2pMFC1s]
+[https://www.youtube.com/embed/N6uw2pMFC1s]
 
 &nbsp;
 
@@ -138,4 +138,4 @@ iRemoconを購入してから85時間の戦いだった。
 <div id="fastlookup_top" style="display: none;">
 </div>
 
- [1]: http://d.hatena.ne.jp/hecomi/20120116/1326726831
+ [1]: https://d.hatena.ne.jp/hecomi/20120116/1326726831

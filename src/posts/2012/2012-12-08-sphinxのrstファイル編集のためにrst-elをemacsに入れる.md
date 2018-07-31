@@ -53,7 +53,7 @@ url: /archives/=910
 
 rst-modeのキーバインドは以下のURLから。
 
-  * [http://docutils.sourceforge.net/docs/user/emacs.html][2]
+  * [https://docutils.sourceforge.net/docs/user/emacs.html][2]
   * [emacs の rest-mode のバインディング &#8211; 科学と非科学の迷宮][3]
 
 とりあえず、よく使いそうなものを抜粋。
@@ -121,6 +121,6 @@ rst-modeのキーバインドは以下のURLから。
 <div id="fastlookup_top" style="display: none;">
 </div>
 
- [1]: http://docutils.sourceforge.net/tools/editors/emacs/rst.el
- [2]: http://docutils.sourceforge.net/docs/user/emacs.html "http://docutils.sourceforge.net/docs/user/emacs.html"
- [3]: http://d.hatena.ne.jp/shiumachi/20111221/1324461243
+ [1]: https://docutils.sourceforge.net/tools/editors/emacs/rst.el
+ [2]: https://docutils.sourceforge.net/docs/user/emacs.html "https://docutils.sourceforge.net/docs/user/emacs.html"
+ [3]: https://d.hatena.ne.jp/shiumachi/20111221/1324461243

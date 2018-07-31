@@ -27,9 +27,9 @@ GoogleTestとは、C++用の単体テスト用のツール。
   * テストスイートをかかなくても、自動でテストスイートを作成してるれるところ
   * GUI 表示をするツールがある（Guiter)ので、楽しい。
   
-    (<span style="font-family: Verdana;"><a href="http://code.google.com/p/gtest-gbar/">http://code.google.com/p/gtest-gbar/</a></span>)
+    (<span style="font-family: Verdana;"><a href="https://code.google.com/p/gtest-gbar/">https://code.google.com/p/gtest-gbar/</a></span>)
 
-[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb6.png" alt="image" width="433" height="227" border="0" />][1]
+[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb6.png" alt="image" width="433" height="227" border="0" />][1]
 
 なにより、
 
@@ -39,7 +39,7 @@ GoogleTestとは、C++用の単体テスト用のツール。
 
 なので、理由もなく愛用中。
 
-ダウンロードはココから:<http://code.google.com/p/googletest/>
+ダウンロードはココから:<https://code.google.com/p/googletest/>
   
 C++でのつかいかたはここから:[Google Test ドキュメント日本語訳][2]
 
@@ -85,6 +85,6 @@ GoogleTestがC言語で使えるようになったら、
 
 G[oogleMockをC言語で使う方法をハックしてみた][3]
 
- [1]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image6.png
- [2]: http://opencv.jp/googletestdocs/
+ [1]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image6.png
+ [2]: https://opencv.jp/googletestdocs/
  [3]: https://futurismo.biz/archives/306 "GoogleMockをC言語で使う方法をハックしてみた"

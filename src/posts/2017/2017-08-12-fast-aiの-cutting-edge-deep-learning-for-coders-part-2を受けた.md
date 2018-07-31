@@ -269,9 +269,9 @@ Kaggleのコンペを使って時系列データの扱いを学ぶ。Part1は主
 
 他にも、たくさん論文が紹介されたのだけれども、後半紹介された論文は、あまり読んでない。。。
 
- [1]: http://course.fast.ai/part2.html
+ [1]: https://course.fast.ai/part2.html
  [2]: https://futurismo.biz/archives/6440
- [3]: http://www.fast.ai/2017/07/28/deep-learning-part-two-launch/
+ [3]: https://www.fast.ai/2017/07/28/deep-learning-part-two-launch/
  [4]: https://www.mendeley.com/
  [5]: https://arxiv.org/abs/1508.06576
  [6]: https://elix-tech.github.io/ja/2016/08/22/art.html
@@ -279,19 +279,19 @@ Kaggleのコンペを使って時系列データの扱いを学ぶ。Part1は主
  [8]: https://medium.com/towards-data-science/fadl2-l8-neural-artistic-style-transfer-a2e6780ab17b
  [9]: https://futurismo.biz/archives/6694
  [10]: https://arxiv.org/abs/1603.08155
- [11]: http://qiita.com/dsanno/items/a79a87720239f295234b
+ [11]: https://qiita.com/dsanno/items/a79a87720239f295234b
  [12]: https://engineering.linecorp.com/ja/blog/detail/105
- [13]: http://cs.stanford.edu/people/jcjohns/papers/eccv16/JohnsonECCV16Supplementary.pdf
+ [13]: https://cs.stanford.edu/people/jcjohns/papers/eccv16/JohnsonECCV16Supplementary.pdf
  [14]: https://futurismo.biz/archives/6702
  [15]: https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41869.pdf
  [16]: https://github.com/fastai/courses/blob/master/deeplearning2/imagenet_process.ipynb
- [17]: http://pytorch.org/
+ [17]: https://pytorch.org/
  [18]: https://futurismo.biz/archives/6707
  [19]: https://futurismo.biz/archives/6710
- [20]: http://pytorch.org/docs/0.2.0/notes/broadcasting.html
- [21]: http://deeplearning.hatenablog.com/entry/memory_networks
+ [20]: https://pytorch.org/docs/0.2.0/notes/broadcasting.html
+ [21]: https://deeplearning.hatenablog.com/entry/memory_networks
  [22]: https://www.slideshare.net/unnonouno/nip2015endtoend-memory-networks
- [23]: http://amzn.to/2vNM7x6
+ [23]: https://amzn.to/2vNM7x6
  [24]: https://arxiv.org/abs/1412.7449
  [25]: https://github.com/tsu-nera/dlnd-language-translation
  [26]: https://arxiv.org/abs/1608.06993

@@ -31,22 +31,22 @@ reference
 ---------
 
 -   [Files (Java Platform SE 7
-    )](http://docs.oracle.com/javase/jp/7/api/java/nio/file/Files.html)
+    )](https://docs.oracle.com/javase/jp/7/api/java/nio/file/Files.html)
 -   [Java ファイル関連メモ 2 (Hishidama's Java Files
-    Memo)](http://www.ne.jp/asahi/hishidama/home/tech/java/files.html)
+    Memo)](https://www.ne.jp/asahi/hishidama/home/tech/java/files.html)
 -   [Java SE 7 徹底理解 第 4 回 New I/O 2
     の新しいファイルシステムインタフェース その
-    1:ITpro](http://itpro.nikkeibp.co.jp/article/COLUMN/20110725/362803/?ST=develop)
+    1:ITpro](https://itpro.nikkeibp.co.jp/article/COLUMN/20110725/362803/?ST=develop)
 -   [Java SE 7 徹底理解 第 5 回 New I/O 2
     の新しいファイルシステムインタフェース その
-    2:ITpro](http://itpro.nikkeibp.co.jp/article/COLUMN/20110830/367909/)
+    2:ITpro](https://itpro.nikkeibp.co.jp/article/COLUMN/20110830/367909/)
 -   [Java SE 7 の java.nio.file.Files がとても便利な件 -
-    きしだのはてな](http://d.hatena.ne.jp/nowokay/20110707)
+    きしだのはてな](https://d.hatena.ne.jp/nowokay/20110707)
 -   [java.nio.file.Files のメソッドを一通り使ってみた - kagamihoge
-    の日記](http://kagamihoge.hatenablog.com/entry/20130110/1357810886)
+    の日記](https://kagamihoge.hatenablog.com/entry/20130110/1357810886)
 -   [これからの「 Java I/O 」の話をしよう www (5) : Files
     クラスのメソッド 〜ファイル内容の読み書き〜 - 倭マン's
-    BLOG](http://waman.hatenablog.com/entry/20120515/1337044411)
+    BLOG](https://waman.hatenablog.com/entry/20120515/1337044411)
 
 基本
 ====
@@ -81,7 +81,7 @@ Path barFile = Paths.get ("bar.txt");
 Files オブジェクトの copy メソッドを利用する.
 
 -   [Files (Java Platform SE 7
-    )](http://docs.oracle.com/javase/jp/7/api/java/nio/file/Files.html#copy (java.nio.file.Path,%20java.nio.file.Path,%20java.nio.file.CopyOption...))
+    )](https://docs.oracle.com/javase/jp/7/api/java/nio/file/Files.html#copy (java.nio.file.Path,%20java.nio.file.Path,%20java.nio.file.CopyOption...))
 
 ``` {.java}
 public static Path copy (Path source, Path target, CopyOption... options) throws IOException
@@ -105,15 +105,15 @@ reference
 
 -   [(3/7) Java 技術最前線 - Java SE 7 徹底理解 第 5 回 New I/O 2
     の新しいファイルシステムインタフェース その
-    2:ITpro](http://itpro.nikkeibp.co.jp/article/COLUMN/20110830/367909/?ST=develop&P=3)
+    2:ITpro](https://itpro.nikkeibp.co.jp/article/COLUMN/20110830/367909/?ST=develop&P=3)
 -   [Java 7 新機能 3 ファイルコピー -
-    Qiita](http://qiita.com/asahina_dev/items/ce85cc4ddec2543b99f0)
+    Qiita](https://qiita.com/asahina_dev/items/ce85cc4ddec2543b99f0)
 
 移動
 
 -   [(4/7) Java 技術最前線 - Java SE 7 徹底理解 第 5 回 New I/O 2
     の新しいファイルシステムインタフェース その
-    2:ITpro](http://itpro.nikkeibp.co.jp/article/COLUMN/20110830/367909/?ST=develop&P=4)
+    2:ITpro](https://itpro.nikkeibp.co.jp/article/COLUMN/20110830/367909/?ST=develop&P=4)
 
 属性の取得
 ==========
@@ -128,7 +128,7 @@ getFileAttributeView (), readFileAttirbute () だと, 指定した
 FileAttributeView オブジェクトが取得できる.
 
 -   [FileAttributeView (Java Platform SE 7
-    )](http://docs.oracle.com/javase/7/docs/api/java/nio/file/attribute/FileAttributeView.html)
+    )](https://docs.oracle.com/javase/7/docs/api/java/nio/file/attribute/FileAttributeView.html)
 
 ``` {.java}
 BasicFileAttributes attrs = Files.getFileAttributeView (barFile, BasicFileAttributeView.class);
@@ -139,9 +139,9 @@ getFileAttribute で FileAttirbuteView
 の個々の属性を指定して情報を取得することができる.
 
 -   [FileAttributeView (Java Platform SE 7
-    )](http://docs.oracle.com/javase/7/docs/api/java/nio/file/attribute/FileAttributeView.html)
+    )](https://docs.oracle.com/javase/7/docs/api/java/nio/file/attribute/FileAttributeView.html)
 -   [Obtaining and modifying the metadata of the files in Java 7
-    NIO.2](http://www.javabeat.net/obtaining-and-modifying-the-metadata-of-the-files-in-java-7-nio-2/)
+    NIO.2](https://www.javabeat.net/obtaining-and-modifying-the-metadata-of-the-files-in-java-7-nio-2/)
 
 Sample Code
 ===========

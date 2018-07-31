@@ -39,7 +39,7 @@ Checking for flex... not found!</pre>
 
 調べて見たらlibiconvというものが必要みたい。
   
-Cygwin の　setup.exeで手に入れて再度makeを実行したら、コンパイル成功ﾂꀀ<http://sourceforge.net/projects/doxygen/forums/forum/130996/topic/3136999>
+Cygwin の　setup.exeで手に入れて再度makeを実行したら、コンパイル成功ﾂꀀ<https://sourceforge.net/projects/doxygen/forums/forum/130996/topic/3136999>
 
 make install で再度エラ－
 

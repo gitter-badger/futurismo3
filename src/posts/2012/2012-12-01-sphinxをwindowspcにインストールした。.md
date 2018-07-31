@@ -42,7 +42,7 @@ Sphinxを利用すると、以下のことができる。
 
 Windowsへのインストール方法は公式HPに乗っている。
   
-<http://sphinx-users.jp/gettingstarted/install_windows.html>
+<https://sphinx-users.jp/gettingstarted/install_windows.html>
 
 #### Pythonをインストール
 
@@ -54,7 +54,7 @@ Windowsへのインストール方法は公式HPに乗っている。
 
 easy_installというコマンドを使うと、外部ライブラリを簡単にインストールできるようになるので、このコマンドを使えるようにする。
 
-以下のURLからez_setup.pyをダウンロードして、コマンドラインから実行。 (<http://peak.telecommunity.com/dist/ez_setup.py>)
+以下のURLからez_setup.pyをダウンロードして、コマンドラインから実行。 (<https://peak.telecommunity.com/dist/ez_setup.py>)
 
 > > python ez_setup.py
 
@@ -68,13 +68,13 @@ easy_installというコマンドを使うと、外部ライブラリを簡単�
 
 > Searching for sphinx
   
-> Reading [<span style="color: #0066cc;">http://pypi.python.org/simple/sphinx/</span>][1]
+> Reading [<span style="color: #0066cc;">https://pypi.python.org/simple/sphinx/</span>][1]
   
-> Reading [<span style="color: #0066cc;">http://sphinx.pocoo.org/</span>][2]
+> Reading [<span style="color: #0066cc;">https://sphinx.pocoo.org/</span>][2]
   
 > Best match: Sphinx 1.1.3
   
-> Downloading [<span style="color: #0066cc;">http://pypi.python.org/packages/2.6/S/Sphinx/Sphinx-1.1.3-py2.6.egg#md5=f0873b56</span>][3]
+> Downloading [<span style="color: #0066cc;">https://pypi.python.org/packages/2.6/S/Sphinx/Sphinx-1.1.3-py2.6.egg#md5=f0873b56</span>][3]
 
 easy\_installが実行できないときは、Scriptフォルダにパスが通っているか確認。easy\_install.exeはScriptsフォルダにインストールされるので、
   
@@ -284,15 +284,15 @@ HTMLファイルを生成してみる。以下のコマンド実行。
 
 \_build\htmlフォルダ配下にHTMLファイルが生成されるので、index.htmlを開いてみる。
 
-[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb75.png" alt="image" width="458" height="197" border="0" />][4]
+[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb75.png" alt="image" width="458" height="197" border="0" />][4]
 
-[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb76.png" alt="image" width="459" height="235" border="0" />][5]
+[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb76.png" alt="image" width="459" height="235" border="0" />][5]
 
 <div id="fastlookup_top">
 </div>
 
- [1]: http://pypi.python.org/simple/sphinx/
- [2]: http://sphinx.pocoo.org/
- [3]: http://pypi.python.org/packages/2.6/S/Sphinx/Sphinx-1.1.3-py2.6.egg#md5=f0873b56
- [4]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image75.png
- [5]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image76.png
+ [1]: https://pypi.python.org/simple/sphinx/
+ [2]: https://sphinx.pocoo.org/
+ [3]: https://pypi.python.org/packages/2.6/S/Sphinx/Sphinx-1.1.3-py2.6.egg#md5=f0873b56
+ [4]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image75.png
+ [5]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image76.png

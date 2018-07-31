@@ -40,7 +40,7 @@ EclipseをダウンロードしてきたときのデフォルトJUnitにJMockを
 
 このページを参考 :
   
-[http://stackoverflow.com/questions/4755442/jmock-dependency-issue][1]
+[https://stackoverflow.com/questions/4755442/jmock-dependency-issue][1]
 
 以下の解決方法が提示されている。
 
@@ -57,11 +57,11 @@ EclipseをダウンロードしてきたときのデフォルトJUnitにJMockを
 
 [JUnitのインストールとEclipseでの使い方まとめ][2]
 
-[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb86.png" alt="image" width="571" height="316" border="0" />][3]
+[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb86.png" alt="image" width="571" height="316" border="0" />][3]
 
 <div id="fastlookup_top" style="display: none;">
 </div>
 
- [1]: http://stackoverflow.com/questions/4755442/jmock-dependency-issue "http://stackoverflow.com/questions/4755442/jmock-dependency-issue"
+ [1]: https://stackoverflow.com/questions/4755442/jmock-dependency-issue "https://stackoverflow.com/questions/4755442/jmock-dependency-issue"
  [2]: https://futurismo.biz/archives/844 "JUnitのインストールとEclipseでの使い方まとめ"
- [3]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image86.png
+ [3]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image86.png

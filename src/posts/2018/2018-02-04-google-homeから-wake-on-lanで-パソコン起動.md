@@ -119,7 +119,7 @@ if __name__ == '__main__':
 
 サービスファイルを以下のように、作成 /lib/systemd/system/hal.service
 
-  * <http://kernhack.hatenablog.com/entry/2014/09/20/110938>
+  * <https://kernhack.hatenablog.com/entry/2014/09/20/110938>
 
       [Unit]
       Description=Hal Service

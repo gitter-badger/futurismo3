@@ -244,6 +244,6 @@ Checking usage of global functions..
   
 [/text]
 
- [1]: http://sourceforge.jp/projects/sfnet_cppcheck/
- [2]: http://dos-sonority.jugem.jp/?eid=1313
- [3]: http://cppcheck.sourceforge.net/manual.pdf
+ [1]: https://sourceforge.jp/projects/sfnet_cppcheck/
+ [2]: https://dos-sonority.jugem.jp/?eid=1313
+ [3]: https://cppcheck.sourceforge.net/manual.pdf

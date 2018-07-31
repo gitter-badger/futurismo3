@@ -44,7 +44,7 @@ Ruby関連のelispをまとめるために、新しいディレクトリを作�
 
 まずはともあれ、Emacsのruby-modeを使う。ruby-mode は Ruby ソースの中に入ってる。Rubyを配布サイトからダウンロードして、解凍する。
 
-<http://www.ruby-lang.org/ja/downloads/>
+<https://www.ruby-lang.org/ja/downloads/>
 
 ruby/misc ディレクトリにある Emacs Lisp ファイル（.*.el）をload-pathが通ったディレクトリにコピーする。
 
@@ -74,7 +74,7 @@ ruby-electricはかっこやdo endなどの対応関係を自動で補正して�
 
 ruby-blockを導入すると、end に対応する行をハイライトしてくれます。以下からダウンロードして、load-pathに配置。設定を追加。
 
-[<span style="color: #0066cc;">http://www.emacswiki.org/cgi-bin/wiki/ruby-block.el</span>][2]
+[<span style="color: #0066cc;">https://www.emacswiki.org/cgi-bin/wiki/ruby-block.el</span>][2]
 
 <div class="wlWriterEditableSmartContent" id="scid:812469c5-0cb0-4c63-8c15-c81123a09de7:6724a1b2-707b-41cb-870a-ace05ed53fda" style="margin: 0px; display: inline; float: none; padding: 0px;">
   <pre name="code" class="c:nogutter">;;; ruby-block.el --- highlight matching block
@@ -96,7 +96,7 @@ rcodertoolsとは、Ruby開発のためのツール群。以下のような機�
 >   * ruby-toggle-file: テストスクリプトと実装スクリプトを切り換える
 >   * rbtest: 小規模スクリプトのための埋め込み Test::Unit
 > 
-> （引用元 [<span style="color: #0066cc;">http://d.hatena.ne.jp/keyword/rcodetools</span>][3])
+> （引用元 [<span style="color: #0066cc;">https://d.hatena.ne.jp/keyword/rcodetools</span>][3])
 
 まずは、rcodertoolsをダウンロードする。gemコマンドで入る。
 
@@ -135,7 +135,7 @@ rct-completeを使うと、コードの自動補完が使える。
 
 SmaprtCompleを入れることで、Emacs編集中に&#8221;C+c, C+c&#8221;でRubyを実行することができます。以下からダウンロードして、load-path配下に置きます。.emacsにも設定を追加します。
 
-<http://www.emacswiki.org/emacs/download/smart-compile.el>
+<https://www.emacswiki.org/emacs/download/smart-compile.el>
 
 <div class="wlWriterEditableSmartContent" id="scid:812469c5-0cb0-4c63-8c15-c81123a09de7:58dff2d8-952d-4e22-8c39-bf74664e7639" style="margin: 0px; display: inline; float: none; padding: 0px;">
   <pre name="code" class="c:nogutter">;; smart-compile
@@ -174,7 +174,7 @@ Ruby関連のelispをまとめるために、新しいディレクトリを作�
 
 まずはともあれ、Emacsのruby-modeを使う。ruby-mode は Ruby ソースの中に入ってる。Rubyを配布サイトからダウンロードして、解凍する。
 
-<http://www.ruby-lang.org/ja/downloads/>
+<https://www.ruby-lang.org/ja/downloads/>
 
 ruby/misc ディレクトリにある Emacs Lisp ファイル（.*.el）をload-pathが通ったディレクトリにコピーする。
 
@@ -204,7 +204,7 @@ ruby-electricはかっこやdo endなどの対応関係を自動で補正して�
 
 ruby-blockを導入すると、end に対応する行をハイライトしてくれます。以下からダウンロードして、load-pathに配置。設定を追加。
 
-[<span style="color: #0066cc;">http://www.emacswiki.org/cgi-bin/wiki/ruby-block.el</span>][2]
+[<span style="color: #0066cc;">https://www.emacswiki.org/cgi-bin/wiki/ruby-block.el</span>][2]
 
 <div class="wlWriterEditableSmartContent" id="scid:812469c5-0cb0-4c63-8c15-c81123a09de7:6724a1b2-707b-41cb-870a-ace05ed53fda" style="margin: 0px; display: inline; float: none; padding: 0px;">
   <pre name="code" class="c:nogutter">;;; ruby-block.el --- highlight matching block
@@ -226,7 +226,7 @@ rcodertoolsとは、Ruby開発のためのツール群。以下のような機�
 >   * ruby-toggle-file: テストスクリプトと実装スクリプトを切り換える
 >   * rbtest: 小規模スクリプトのための埋め込み Test::Unit
 > 
-> （引用元 [<span style="color: #0066cc;">http://d.hatena.ne.jp/keyword/rcodetools</span>][3])
+> （引用元 [<span style="color: #0066cc;">https://d.hatena.ne.jp/keyword/rcodetools</span>][3])
 
 まずは、rcodertoolsをダウンロードする。gemコマンドで入る。
 
@@ -265,7 +265,7 @@ rct-completeを使うと、コードの自動補完が使える。
 
 SmaprtCompleを入れることで、Emacs編集中に&#8221;C+c, C+c&#8221;でRubyを実行することができます。以下からダウンロードして、load-path配下に置きます。.emacsにも設定を追加します。
 
-<http://www.emacswiki.org/emacs/download/smart-compile.el>
+<https://www.emacswiki.org/emacs/download/smart-compile.el>
 
 <div class="wlWriterEditableSmartContent" id="scid:812469c5-0cb0-4c63-8c15-c81123a09de7:58dff2d8-952d-4e22-8c39-bf74664e7639" style="margin: 0px; display: inline; float: none; padding: 0px;">
   <pre name="code" class="c:nogutter">;; smart-compile
@@ -293,9 +293,9 @@ SmaprtCompleを入れることで、Emacs編集中に&#8221;C+c, C+c&#8221;でRu
 <!--:-->
 
  [1]: https://futurismo.biz/archives/2213 "EmacsでRubyの開発環境をさらにめちゃガチャパワーアップしたまとめ"
- [2]: http://www.emacswiki.org/cgi-bin/wiki/ruby-block.el
- [3]: http://d.hatena.ne.jp/keyword/rcodetools
- [4]: http://ka-zoo.net/2013/03/smartcompile-emacs%E3%81%8B%E3%82%89ruby%E3%82%92%E7%9B%B4%E6%8E%A5%E5%AE%9F%E8%A1%8C/
- [5]: http://shibayu36.hatenablog.com/entry/2013/03/18/192651
- [6]: http://qiita.com/items/f02ab0c38ad5e9ba385a
- [7]: http://d.hatena.ne.jp/CortYuming/20121229/p1
+ [2]: https://www.emacswiki.org/cgi-bin/wiki/ruby-block.el
+ [3]: https://d.hatena.ne.jp/keyword/rcodetools
+ [4]: https://ka-zoo.net/2013/03/smartcompile-emacs%E3%81%8B%E3%82%89ruby%E3%82%92%E7%9B%B4%E6%8E%A5%E5%AE%9F%E8%A1%8C/
+ [5]: https://shibayu36.hatenablog.com/entry/2013/03/18/192651
+ [6]: https://qiita.com/items/f02ab0c38ad5e9ba385a
+ [7]: https://d.hatena.ne.jp/CortYuming/20121229/p1

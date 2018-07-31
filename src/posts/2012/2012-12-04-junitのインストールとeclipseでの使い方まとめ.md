@@ -50,12 +50,12 @@ JUnitとは、Java用の単体テストフレームワーク。
   
 Javaでのロジックテストが簡単にできる、お助けツール。
   
-(Wikipedia: <http://ja.wikipedia.org/wiki/JUnit>)
+(Wikipedia: <https://ja.wikipedia.org/wiki/JUnit>)
   
 この本がJUnitでは、一番有名。TDDのバイブル。
 
 <div id="scid:81867AAF-BB02-476b-AE5D-12BDAC2E750D:c1783384-3301-47da-a4d5-f01793c22edf" class="wlWriterEditableSmartContent" style="margin: 0px; display: inline; float: none; padding: 0px;">
-  <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4894717115/sleephacker-22/ref=nosim" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51G6YEDVRKL._SL160_.jpg" alt="テスト駆動開発入門" /><br /> テスト駆動開発入門<br /> ケント ベック </a>
+  <a href="https://www.amazon.co.jp/exec/obidos/ASIN/4894717115/sleephacker-22/ref=nosim" target="_blank"><img src="https://ecx.images-amazon.com/images/I/51G6YEDVRKL._SL160_.jpg" alt="テスト駆動開発入門" /><br /> テスト駆動開発入門<br /> ケント ベック </a>
 </div>
 
 &nbsp;
@@ -140,7 +140,7 @@ public class sampleTest {
 
 まだなにも期待値を書いていないので、テストは失敗する。
 
-[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb82.png" alt="image" width="312" height="221" border="0" />][1]
+[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb82.png" alt="image" width="312" height="221" border="0" />][1]
 
 #### テストの成功
 
@@ -149,7 +149,7 @@ fail(&#8220;まだ実装されていません&#8221;);の部分を置き換え�
 <pre>assertEquals(10, sample.num());
 </pre>
 
-[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb83.png" alt="image" width="319" height="211" border="0" />][2]
+[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb83.png" alt="image" width="319" height="211" border="0" />][2]
 
 assertEqualsは、期待値(10)と結果(sample.num() )を比較する関数。
 
@@ -168,5 +168,5 @@ assertEqualsだけ覚えれば、とりあえずどんなテストでも書け�
 
 <!--:-->
 
- [1]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image82.png
- [2]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image83.png
+ [1]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image82.png
+ [2]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image83.png

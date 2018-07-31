@@ -127,13 +127,13 @@ init.elに以下を追加
  [2]: https://github.com/Guake/guake/pull/141
  [3]: https://futurismo.biz/archives/2072
  [4]: https://github.com/erikw/tmux-powerline
- [5]: http://lh3.ggpht.com/-1yzuh3J8jxw/UtNoBcQq_CI/AAAAAAAAA9w/XN8LhMSkC9U/tmux-powerline_01.png
- [6]: http://lh6.ggpht.com/-tjt2_ywGdAs/UtNoFVV1aVI/AAAAAAAAA94/J9FaiC0JASo/tmux-powerline_02.png
- [7]: http://qiita.com/PSP_T/items/dc509f208b464838b948
- [8]: http://matsu.teraren.com/blog/2013/02/10/moteru-tmux-powerline/
- [9]: http://saku-na63.hatenablog.com/entry/2013/10/13/223010
+ [5]: https://lh3.ggpht.com/-1yzuh3J8jxw/UtNoBcQq_CI/AAAAAAAAA9w/XN8LhMSkC9U/tmux-powerline_01.png
+ [6]: https://lh6.ggpht.com/-tjt2_ywGdAs/UtNoFVV1aVI/AAAAAAAAA94/J9FaiC0JASo/tmux-powerline_02.png
+ [7]: https://qiita.com/PSP_T/items/dc509f208b464838b948
+ [8]: https://matsu.teraren.com/blog/2013/02/10/moteru-tmux-powerline/
+ [9]: https://saku-na63.hatenablog.com/entry/2013/10/13/223010
  [10]: https://code.google.com/p/gnuemacscolorthemetest/
- [11]: http://lh6.ggpht.com/-Q2ItmgIghe0/UtNpkDOiCnI/AAAAAAAAA-E/7PXVx7R2wBQ/molokai_01.png
+ [11]: https://lh6.ggpht.com/-Q2ItmgIghe0/UtNpkDOiCnI/AAAAAAAAA-E/7PXVx7R2wBQ/molokai_01.png
  [12]: https://github.com/hbin/molokai-theme
- [13]: http://www.emacswiki.org/emacs/powerline.el
- [14]: http://lh6.ggpht.com/-9MHvsvshvh8/UtN0RBjOaGI/AAAAAAAAA-g/VDChvbgH5JY/emacs-powerline.png
+ [13]: https://www.emacswiki.org/emacs/powerline.el
+ [14]: https://lh6.ggpht.com/-9MHvsvshvh8/UtN0RBjOaGI/AAAAAAAAA-g/VDChvbgH5JY/emacs-powerline.png

@@ -377,6 +377,6 @@ g++-3.exeだと、コンパイルエラーする。
 
 &nbsp;
 
- [1]: http://code.google.com/p/googlemock/
- [2]: http://opencv.jp/googlemockdocs/index.html
+ [1]: https://code.google.com/p/googlemock/
+ [2]: https://opencv.jp/googlemockdocs/index.html
  [3]: https://groups.google.com/forum/?fromgroups=#!searchin/googlemock/C$20language/googlemock/CVdeuQ0e6OI/HOYyoNA7uIAJ

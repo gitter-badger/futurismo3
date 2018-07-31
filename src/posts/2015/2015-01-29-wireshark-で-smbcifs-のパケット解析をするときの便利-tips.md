@@ -218,7 +218,7 @@ url: /archives/=2956
   <div class="outline-text-2" id="text-5">
     <ul class="org-ul">
       <li>
-        <a href="http://troushoo.blog.fc2.com/blog-entry-150.html">Wireshark を用いた SMB のトラブルシューティングに使える 5 つのテクニック</a>
+        <a href="https://troushoo.blog.fc2.com/blog-entry-150.html">Wireshark を用いた SMB のトラブルシューティングに使える 5 つのテクニック</a>
       </li>
     </ul>
   </div>

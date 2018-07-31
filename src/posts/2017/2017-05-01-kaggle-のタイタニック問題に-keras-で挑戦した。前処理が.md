@@ -94,13 +94,13 @@ Bach Norm や Dropout
 
 -   [Kaggle の「Titanic: Machine Learning from
     Disaster」にニューラルネットワークを適用する -
-    Qiita](http://qiita.com/ryouta0506/items/c5ffb704b5c20106b771)
+    Qiita](https://qiita.com/ryouta0506/items/c5ffb704b5c20106b771)
 
 本当は、以下のようなデータ分析をしてデータの傾向を見る必要があるのだけれども、
 そういうスキルが自分にはまだない。これから時間をかけて身につけていく。
 
 -   [Pandas でタイタニック号の乗客データを解析する -
-    Qiita](http://qiita.com/yudsuzuk/items/a13236a415f238da857e#%E5%89%8D%E6%BA%96%E5%82%99)
+    Qiita](https://qiita.com/yudsuzuk/items/a13236a415f238da857e#%E5%89%8D%E6%BA%96%E5%82%99)
 
 おそらくだけれども、この前処理の段階を改善することで、精度がグンと上がるのだと思う。
 Udemy

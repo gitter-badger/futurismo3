@@ -51,7 +51,7 @@ width="500">
 ケリー・マクゴナガル著『スタンフォードの自分を変える教室』の本で
 瞑想がやる気を引き出すことが解説されていたからでした.
 
-<div class='amazlink-box' style='text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;'><div class='amazlink-list' style='clear: both;'><div class='amazlink-image' style='float:left;margin:0px 12px 1px 0px;'><a href='http://www.amazon.co.jp/%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%E3%81%AE%E8%87%AA%E5%88%86%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B%E6%95%99%E5%AE%A4-%E3%82%B1%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%9E%E3%82%AF%E3%82%B4%E3%83%8B%E3%82%AC%E3%83%AB/dp/4479793631%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4479793631' target='_blank' rel='nofollow'><img src='http://ecx.images-amazon.com/images/I/41fOesLivPL._SL160_.jpg' style='border: none;' /></a></div><div class='amazlink-info' style='height:160; margin-bottom: 10px'><div class='amazlink-name' style='margin-bottom:10px;line-height:120%'><a href='http://www.amazon.co.jp/%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%E3%81%AE%E8%87%AA%E5%88%86%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B%E6%95%99%E5%AE%A4-%E3%82%B1%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%9E%E3%82%AF%E3%82%B4%E3%83%8B%E3%82%AC%E3%83%AB/dp/4479793631%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4479793631' rel='nofollow' target='_blank'>スタンフォードの自分を変える教室</a></div><div class='amazlink-powered' style='font-size:80%;margin-top:5px;line-height:120%'>posted with <a href='http://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 15.11.29</div><div class='amazlink-detail'>ケリー・マクゴニガル<br /></div><div class='amazlink-sub-info' style='float: left;'><div class='amazlink-link' style='margin-top: 5px'><img src='http://amazlink.fuyu.gs/icon_amazon.png' width='18'><a href='http://www.amazon.co.jp/%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%E3%81%AE%E8%87%AA%E5%88%86%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B%E6%95%99%E5%AE%A4-%E3%82%B1%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%9E%E3%82%AF%E3%82%B4%E3%83%8B%E3%82%AC%E3%83%AB/dp/4479793631%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4479793631' rel='nofollow' target='_blank'>Amazon</a></div></div></div></div></div>
+<div class='amazlink-box' style='text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;'><div class='amazlink-list' style='clear: both;'><div class='amazlink-image' style='float:left;margin:0px 12px 1px 0px;'><a href='https://www.amazon.co.jp/%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%E3%81%AE%E8%87%AA%E5%88%86%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B%E6%95%99%E5%AE%A4-%E3%82%B1%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%9E%E3%82%AF%E3%82%B4%E3%83%8B%E3%82%AC%E3%83%AB/dp/4479793631%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4479793631' target='_blank' rel='nofollow'><img src='https://ecx.images-amazon.com/images/I/41fOesLivPL._SL160_.jpg' style='border: none;' /></a></div><div class='amazlink-info' style='height:160; margin-bottom: 10px'><div class='amazlink-name' style='margin-bottom:10px;line-height:120%'><a href='https://www.amazon.co.jp/%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%E3%81%AE%E8%87%AA%E5%88%86%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B%E6%95%99%E5%AE%A4-%E3%82%B1%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%9E%E3%82%AF%E3%82%B4%E3%83%8B%E3%82%AC%E3%83%AB/dp/4479793631%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4479793631' rel='nofollow' target='_blank'>スタンフォードの自分を変える教室</a></div><div class='amazlink-powered' style='font-size:80%;margin-top:5px;line-height:120%'>posted with <a href='https://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 15.11.29</div><div class='amazlink-detail'>ケリー・マクゴニガル<br /></div><div class='amazlink-sub-info' style='float: left;'><div class='amazlink-link' style='margin-top: 5px'><img src='https://amazlink.fuyu.gs/icon_amazon.png' width='18'><a href='https://www.amazon.co.jp/%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%E3%81%AE%E8%87%AA%E5%88%86%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B%E6%95%99%E5%AE%A4-%E3%82%B1%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%9E%E3%82%AF%E3%82%B4%E3%83%8B%E3%82%AC%E3%83%AB/dp/4479793631%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4479793631' rel='nofollow' target='_blank'>Amazon</a></div></div></div></div></div>
 
 それまで、瞑想というと、仏教に結びついた宗教臭さを感じていたのですが、
 この本を読むことで、そんな胡散臭さが拭い去ら、瞑想に前向きな思いを持ちました.
@@ -66,18 +66,18 @@ width="500">
 > よって改善されるため、眠りやすくなることがわかりました。
 
 -   [1分で眠れると話題の478呼吸法！夜眠れないときは瞑想が効く！ |
-    睡眠・快眠情報ブログ](http://nurse-web.jp/suimin/meditate/)
+    睡眠・快眠情報ブログ](https://nurse-web.jp/suimin/meditate/)
 
 > 瞑想は宗教と一切関係ない。瞑想は、宗教が誕生する前から存在していたんだ。
 
 -   [【瞑想】一流企業が続々導入！脳の究極メンテナンス術を分析・実践しよう。 -
-    プロジェクトマネジメントの話とか](http://wiz7.hatenablog.com/entry/2015/01/12/074310)
+    プロジェクトマネジメントの話とか](https://wiz7.hatenablog.com/entry/2015/01/12/074310)
 
 > 瞑想中の脳は普段行っている「情報処理」が停止している状態であるとわかっています。
 > 瞑想時には、脳が情報処理を行っていることを示す「ベータ波」が減少するそうです
 
 -   [瞑想って本当にいいの？ 脳の中で何がおきているのか究明してみた ｜
-    ライフハッカー［日本版］](http://www.lifehacker.jp/2013/09/130904brain_meditate.html)
+    ライフハッカー［日本版］](https://www.lifehacker.jp/2013/09/130904brain_meditate.html)
 
 > スティーブ・ジョブズ、ビル・ゲイツ、イチロー、マドンナ、ビートルズ、ク
 > リント・イーストウッド、ヒラリー・クリントン、ビルフォード、リチャード・
@@ -85,7 +85,7 @@ width="500">
 > を実践している、あるいは実践していた人がたくさんいます。
 
 -   [成功者が瞑想を好む気持ちが分かる！誰でも簡単にできる瞑想のやり方 -
-    自分を変える、人生を変える！](http://change-life.hatenablog.com/entry/2013/01/28/111841)
+    自分を変える、人生を変える！](https://change-life.hatenablog.com/entry/2013/01/28/111841)
 
 mindwave mobile
 ===============
@@ -97,7 +97,7 @@ mindwave mobile
 そこで、そんな瞑想状態を可視化するためのツールか存在する！
 それが、これ、mindwave mobileだ.
 
-<div class='amazlink-box' style='text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;'><div class='amazlink-list' style='clear: both;'><div class='amazlink-image' style='float:left;margin:0px 12px 1px 0px;'><a href='http://www.amazon.co.jp/NeuroSky%E7%A4%BE%E8%A3%BD-%E8%84%B3%E6%B3%A2%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%AB-MindWave%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%98%E3%83%83%E3%83%89%E3%82%BB%E3%83%83%E3%83%88%E3%80%90Brainwave-Starter-Kit%E3%80%91%E3%80%9050Hz%E7%89%88%E3%80%91/dp/B00NN85HYA%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00NN85HYA' target='_blank' rel='nofollow'><img src='http://ecx.images-amazon.com/images/I/317Py5SZ%2BkL._SL160_.jpg' style='border: none;' /></a></div><div class='amazlink-info' style='height:125; margin-bottom: 10px'><div class='amazlink-name' style='margin-bottom:10px;line-height:120%'><a href='http://www.amazon.co.jp/NeuroSky%E7%A4%BE%E8%A3%BD-%E8%84%B3%E6%B3%A2%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%AB-MindWave%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%98%E3%83%83%E3%83%89%E3%82%BB%E3%83%83%E3%83%88%E3%80%90Brainwave-Starter-Kit%E3%80%91%E3%80%9050Hz%E7%89%88%E3%80%91/dp/B00NN85HYA%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00NN85HYA' rel='nofollow' target='_blank'>NeuroSky社製 脳波コントロール MindWaveモバイルヘッドセット【Brainwave Starter Kit】【50Hz版】</a></div><div class='amazlink-powered' style='font-size:80%;margin-top:5px;line-height:120%'>posted with <a href='http://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 15.11.29</div><div class='amazlink-detail'>NeuroSky<br /></div><div class='amazlink-sub-info' style='float: left;'><div class='amazlink-link' style='margin-top: 5px'><img src='http://amazlink.fuyu.gs/icon_amazon.png' width='18'><a href='http://www.amazon.co.jp/NeuroSky%E7%A4%BE%E8%A3%BD-%E8%84%B3%E6%B3%A2%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%AB-MindWave%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%98%E3%83%83%E3%83%89%E3%82%BB%E3%83%83%E3%83%88%E3%80%90Brainwave-Starter-Kit%E3%80%91%E3%80%9050Hz%E7%89%88%E3%80%91/dp/B00NN85HYA%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00NN85HYA' rel='nofollow' target='_blank'>Amazon</a></div></div></div></div></div>
+<div class='amazlink-box' style='text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;'><div class='amazlink-list' style='clear: both;'><div class='amazlink-image' style='float:left;margin:0px 12px 1px 0px;'><a href='https://www.amazon.co.jp/NeuroSky%E7%A4%BE%E8%A3%BD-%E8%84%B3%E6%B3%A2%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%AB-MindWave%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%98%E3%83%83%E3%83%89%E3%82%BB%E3%83%83%E3%83%88%E3%80%90Brainwave-Starter-Kit%E3%80%91%E3%80%9050Hz%E7%89%88%E3%80%91/dp/B00NN85HYA%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00NN85HYA' target='_blank' rel='nofollow'><img src='https://ecx.images-amazon.com/images/I/317Py5SZ%2BkL._SL160_.jpg' style='border: none;' /></a></div><div class='amazlink-info' style='height:125; margin-bottom: 10px'><div class='amazlink-name' style='margin-bottom:10px;line-height:120%'><a href='https://www.amazon.co.jp/NeuroSky%E7%A4%BE%E8%A3%BD-%E8%84%B3%E6%B3%A2%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%AB-MindWave%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%98%E3%83%83%E3%83%89%E3%82%BB%E3%83%83%E3%83%88%E3%80%90Brainwave-Starter-Kit%E3%80%91%E3%80%9050Hz%E7%89%88%E3%80%91/dp/B00NN85HYA%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00NN85HYA' rel='nofollow' target='_blank'>NeuroSky社製 脳波コントロール MindWaveモバイルヘッドセット【Brainwave Starter Kit】【50Hz版】</a></div><div class='amazlink-powered' style='font-size:80%;margin-top:5px;line-height:120%'>posted with <a href='https://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 15.11.29</div><div class='amazlink-detail'>NeuroSky<br /></div><div class='amazlink-sub-info' style='float: left;'><div class='amazlink-link' style='margin-top: 5px'><img src='https://amazlink.fuyu.gs/icon_amazon.png' width='18'><a href='https://www.amazon.co.jp/NeuroSky%E7%A4%BE%E8%A3%BD-%E8%84%B3%E6%B3%A2%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%AB-MindWave%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%98%E3%83%83%E3%83%89%E3%82%BB%E3%83%83%E3%83%88%E3%80%90Brainwave-Starter-Kit%E3%80%91%E3%80%9050Hz%E7%89%88%E3%80%91/dp/B00NN85HYA%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00NN85HYA' rel='nofollow' target='_blank'>Amazon</a></div></div></div></div></div>
 
 １万7000円するが、思い切って買ってしまいました!
 
@@ -126,7 +126,7 @@ mindwaveには、様々なAPPが無料・有料で公開されている.
 PC用有料アプリ.
 
 -   [Meditation
-    Journal](http://store.neurosky.com/products/meditation-journal)
+    Journal](https://store.neurosky.com/products/meditation-journal)
 
 日々の瞑想状態をカレンダに記録していくアプリ.
 一日の瞑想状態の平均値や分散値などの統計グラフを 見ることができる.

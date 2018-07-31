@@ -26,7 +26,7 @@ TA-LIBとは、経済データに対するテクニカル分析をするため�
 インストール
 ============
 
-<http://mrjbq7.github.io/ta-lib/install.html>
+<https://mrjbq7.github.io/ta-lib/install.html>
 
 tarをダウンロードして、ビルドする方法もあるけど、 easy\_install
 で入れることができる.

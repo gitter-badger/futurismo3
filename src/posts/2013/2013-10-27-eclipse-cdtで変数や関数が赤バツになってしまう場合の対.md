@@ -49,4 +49,4 @@ Eclipseに外部のソースをインポートすると、赤バツがたくさ�
 
   * [Eclipse Community Forums: C / C++ IDE (CDT) » C++11 standard library indexing fails, __cplusplus recognized with wrong value][1]
 
- [1]: http://www.eclipse.org/forums/index.php/fa/15559/0/
+ [1]: https://www.eclipse.org/forums/index.php/fa/15559/0/

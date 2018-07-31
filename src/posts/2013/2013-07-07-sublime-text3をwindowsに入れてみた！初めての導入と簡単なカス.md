@@ -161,19 +161,19 @@ MarkDown Previewを利用する。
 
 外見がクールなのがメチャクチャ気に入った！！ 秀丸やサクラエディタから乗り換えてしまおう。 もっと知りたい人は、ドットインストールが便利。
 
-  * <a href="http://dotinstall.com/lessons/basic_sublimetext" target="_blank" rel="noopener">Sublime Text 2入門 (全14回) &#8211; プログラミングならドットインストール</a>
+  * <a href="https://dotinstall.com/lessons/basic_sublimetext" target="_blank" rel="noopener">Sublime Text 2入門 (全14回) &#8211; プログラミングならドットインストール</a>
 
 #### 参考
 
-  * <a href="http://log.chocolateboard.net/sublime-text-setting/" target="_blank" rel="noopener">Sublime Text: 初期設定など（ST2 / ST3） :: log.chocolateboard</a>
+  * <a href="https://log.chocolateboard.net/sublime-text-setting/" target="_blank" rel="noopener">Sublime Text: 初期設定など（ST2 / ST3） :: log.chocolateboard</a>
 
 <!--:-->
 
 <div id="fastlookup_top" style="display: none;">
 </div>
 
- [1]: http://lh4.ggpht.com/-BCBrVAkBn2M/UdiGclrVEaI/AAAAAAAAAh0/vsAtzONQfmw/SnapCrab_2013-7-6_18-54-35_No-00.jpg
- [2]: http://www.sublimetext.com/3
- [3]: http://lh6.ggpht.com/-V41i06d1ZrI/UdgdaXl4ijI/AAAAAAAAAd4/KvHAxlGY7kI/SnapCrab_NoName_2013-7-6_18-49-4_No-00.jpg
+ [1]: https://lh4.ggpht.com/-BCBrVAkBn2M/UdiGclrVEaI/AAAAAAAAAh0/vsAtzONQfmw/SnapCrab_2013-7-6_18-54-35_No-00.jpg
+ [2]: https://www.sublimetext.com/3
+ [3]: https://lh6.ggpht.com/-V41i06d1ZrI/UdgdaXl4ijI/AAAAAAAAAd4/KvHAxlGY7kI/SnapCrab_NoName_2013-7-6_18-49-4_No-00.jpg
  [4]: https://github.com/chikatoike/IMESupport
  [5]: https://github.com/revolunet/sublimetext-markdown-preview

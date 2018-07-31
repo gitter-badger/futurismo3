@@ -100,7 +100,7 @@ url: /archives/=5537
     
     <ul class="org-ul">
       <li>
-        <a href="http://d.hatena.ne.jp/nanikaka/20120524/1337797626">grundy数を習得したかった &#8211; nanikakaのAOJ航海日誌</a>
+        <a href="https://d.hatena.ne.jp/nanikaka/20120524/1337797626">grundy数を習得したかった &#8211; nanikakaのAOJ航海日誌</a>
       </li>
       <li>
         <a href="https://www.topcoder.com/community/data-science/data-science-tutorials/algorithm-games/">https://www.topcoder.com/community/data-science/data-science-tutorials/algorithm-games/</a>

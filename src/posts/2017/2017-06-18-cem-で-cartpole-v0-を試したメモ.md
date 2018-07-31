@@ -71,7 +71,7 @@ Berkeley の John Schulman さん曰く、このアルゴリズムは、
 
 Schulman さんの講義スライドより引用。
 
--   <http://rl-gym-doc.s3-website-us-west-2.amazonaws.com/mlss/2016-MLSS-RL.pdf>
+-   <https://rl-gym-doc.s3-website-us-west-2.amazonaws.com/mlss/2016-MLSS-RL.pdf>
 
 ![](./../img/2017-06-19-203102_582x382_scrot.png)
 
@@ -96,7 +96,7 @@ Schulman さんの 2016 年 Deep Reinforcement Learning
 クロスエントロピーメソッドで cartpole
 を攻略するためのスターターコードがある。
 
--   [Lab1](http://rl-gym-doc.s3-website-us-west-2.amazonaws.com/mlss/lab1.html)
+-   [Lab1](https://rl-gym-doc.s3-website-us-west-2.amazonaws.com/mlss/lab1.html)
 
 Code
 ----
@@ -128,4 +128,4 @@ embarrassingly だ！
 -   Article about CEM for optimization -
     <https://people.smp.uq.edu.au/DirkKroese/ps/CEopt.pdf>
 -   Article about CEM in reinforcement learning -
-    <http://www.aaai.org/Papers/ICML/2003/ICML03-068.pdf>
+    <https://www.aaai.org/Papers/ICML/2003/ICML03-068.pdf>

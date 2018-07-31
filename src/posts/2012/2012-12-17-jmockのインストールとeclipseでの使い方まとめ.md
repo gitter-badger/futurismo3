@@ -33,7 +33,7 @@ JMockとは、JAVAでモックオブジェクトを簡単に作成するため�
 以下のサイトより、ダウンロード。   
 ここでは、最新安定版の 2.5.1 jmock-2.5.1-jars.zipを落とす。
 
-<a href="http://jmock.org/download.html" target="_blank"><img class="alignleft" border="0" alt="" align="left" src="http://capture.heartrails.com/150x130/shadow?http://jmock.org/download.html" width="150" height="130" /></a> <a style="color: #0070c5" href="http://jmock.org/download.html" target="_blank">jMock &#8211; Downloads</a>    <img border="0" alt="" src="http://b.hatena.ne.jp/entry/image/http://jmock.org/download.html" />  <br style="clear: both" />
+<a href="https://jmock.org/download.html" target="_blank"><img class="alignleft" border="0" alt="" align="left" src="https://capture.heartrails.com/150x130/shadow?https://jmock.org/download.html" width="150" height="130" /></a> <a style="color: #0070c5" href="https://jmock.org/download.html" target="_blank">jMock &#8211; Downloads</a>    <img border="0" alt="" src="https://b.hatena.ne.jp/entry/image/https://jmock.org/download.html" />  <br style="clear: both" />
 
 #### Eclipseでビルド・パスを通す
 

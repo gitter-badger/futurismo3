@@ -39,18 +39,18 @@ url: /archives/=1375
 
 LinuxライクなUIのkdiff3を試します。
 
-<a href="http://kdiff3.sourceforge.net/" target="_blank"><img class="alignleft" border="0" alt="" align="left" src="http://capture.heartrails.com/150x130/shadow?http://kdiff3.sourceforge.net/" width="150" height="130" /></a> <a style="color: #0070c5" href="http://kdiff3.sourceforge.net/" target="_blank">KDiff3 &#8211; Homepage</a>    <img border="0" alt="" src="http://b.hatena.ne.jp/entry/image/http://kdiff3.sourceforge.net/" />  <br style="clear: both" />
+<a href="https://kdiff3.sourceforge.net/" target="_blank"><img class="alignleft" border="0" alt="" align="left" src="https://capture.heartrails.com/150x130/shadow?https://kdiff3.sourceforge.net/" width="150" height="130" /></a> <a style="color: #0070c5" href="https://kdiff3.sourceforge.net/" target="_blank">KDiff3 &#8211; Homepage</a>    <img border="0" alt="" src="https://b.hatena.ne.jp/entry/image/https://kdiff3.sourceforge.net/" />  <br style="clear: both" />
 
 以下のリンクからダウンロード。マルチプラットフォームでWindows,Mac,Linuxといろんなインストーラがおいてある。
 
-  * [<font color="#0066cc">http://sourceforge.jp/projects/sfnet_kdiff3/</font>][3] 
+  * [<font color="#0066cc">https://sourceforge.jp/projects/sfnet_kdiff3/</font>][3] 
   * KDiff3-64bit-Setup_0.9.97.exe 
 
 #### P4Mergeのダウンロードとインストール
 
 P4Mergeは版数管理システム Perforce（パワーフォース）のマージツールです。Perforce自体は有料だけれども、そのマージツールは無料なので、嬉しい。
 
-<a href="http://www.perforce.com/product/components/perforce-visual-merge-and-diff-tools" target="_blank"><img class="alignleft" border="0" alt="" align="left" src="http://capture.heartrails.com/150x130/shadow?http://www.perforce.com/product/components/perforce-visual-merge-and-diff-tools" width="150" height="130" /></a> <a style="color: #0070c5" href="http://www.perforce.com/product/components/perforce-visual-merge-and-diff-tools" target="_blank">Visual Merge and Diff Tools | Perforce</a>  <img border="0" alt="" src="http://b.hatena.ne.jp/entry/image/http://www.perforce.com/product/components/perforce-visual-merge-and-diff-tools" />
+<a href="https://www.perforce.com/product/components/perforce-visual-merge-and-diff-tools" target="_blank"><img class="alignleft" border="0" alt="" align="left" src="https://capture.heartrails.com/150x130/shadow?https://www.perforce.com/product/components/perforce-visual-merge-and-diff-tools" width="150" height="130" /></a> <a style="color: #0070c5" href="https://www.perforce.com/product/components/perforce-visual-merge-and-diff-tools" target="_blank">Visual Merge and Diff Tools | Perforce</a>  <img border="0" alt="" src="https://b.hatena.ne.jp/entry/image/https://www.perforce.com/product/components/perforce-visual-merge-and-diff-tools" />
 
 &#160;
 
@@ -66,7 +66,7 @@ P4Mergeは版数管理システム Perforce（パワーフォース）のマー�
 インストール時にはいろいろと他のツールのインストールも求められますが、まずはP4Mergeだけを入れます。
 
 <div id="scid:887EC618-8FBE-49a5-A908-2339AF2EC531:54068544-028f-4823-915c-2506e9a80db7" class="wlWriterEditableSmartContent" style="float: none; padding-bottom: 0px; padding-top: 0px; padding-left: 10px; margin: 0px; display: inline; padding-right: 10px">
-  <a target="_blank" href="https://picasaweb.google.com/111104490436597119823/Futurismo?authkey=Gv1sRgCM-A3fCH6v_BOQ#5884281134850308370"><img style="border: none; padding: 0px; margin: 0px" alt="skitch.png" src="http://lh6.ggpht.com/-O7M1RdxpaQg/UakqhBFI-RI/AAAAAAAAAXk/zW3yHTyRasM/skitch.png" /></a>
+  <a target="_blank" href="https://picasaweb.google.com/111104490436597119823/Futurismo?authkey=Gv1sRgCM-A3fCH6v_BOQ#5884281134850308370"><img style="border: none; padding: 0px; margin: 0px" alt="skitch.png" src="https://lh6.ggpht.com/-O7M1RdxpaQg/UakqhBFI-RI/AAAAAAAAAXk/zW3yHTyRasM/skitch.png" /></a>
 </div>
 
 &#160;
@@ -78,13 +78,13 @@ P4Mergeは版数管理システム Perforce（パワーフォース）のマー�
 #### kdiff3
 
 <div id="scid:887EC618-8FBE-49a5-A908-2339AF2EC531:fd548b4a-2534-456f-bfbe-5610d7cd4bdc" class="wlWriterEditableSmartContent" style="float: none; padding-bottom: 0px; padding-top: 0px; padding-left: 10px; margin: 0px; display: inline; padding-right: 10px">
-  <a target="_blank" href="https://picasaweb.google.com/111104490436597119823/Futurismo?authkey=Gv1sRgCM-A3fCH6v_BOQ#5884281054305721746"><img style="border: none; padding: 0px; margin: 0px" alt="skitch.jpg" src="http://lh3.ggpht.com/-k3xFK-_HQcw/UakqcVB0HZI/AAAAAAAAAXU/74RwjCWfDYk/skitch.jpg" /></a>
+  <a target="_blank" href="https://picasaweb.google.com/111104490436597119823/Futurismo?authkey=Gv1sRgCM-A3fCH6v_BOQ#5884281054305721746"><img style="border: none; padding: 0px; margin: 0px" alt="skitch.jpg" src="https://lh3.ggpht.com/-k3xFK-_HQcw/UakqcVB0HZI/AAAAAAAAAXU/74RwjCWfDYk/skitch.jpg" /></a>
 </div>
 
 #### P4merge
 
 <div id="scid:887EC618-8FBE-49a5-A908-2339AF2EC531:699e82fe-440a-4af6-ab33-fd0062597ce3" class="wlWriterEditableSmartContent" style="float: none; padding-bottom: 0px; padding-top: 0px; padding-left: 10px; margin: 0px; display: inline; padding-right: 10px">
-  <a target="_blank" href="https://picasaweb.google.com/111104490436597119823/Futurismo?authkey=Gv1sRgCM-A3fCH6v_BOQ#5884281116685779778"><img style="border: none; padding: 0px; margin: 0px" alt="skitch.jpg" src="http://lh5.ggpht.com/-Mdt4z-uuCno/Uakqf9aYQ0I/AAAAAAAAAXc/_9FgtNDMeX8/skitch.jpg" /></a>
+  <a target="_blank" href="https://picasaweb.google.com/111104490436597119823/Futurismo?authkey=Gv1sRgCM-A3fCH6v_BOQ#5884281116685779778"><img style="border: none; padding: 0px; margin: 0px" alt="skitch.jpg" src="https://lh5.ggpht.com/-Mdt4z-uuCno/Uakqf9aYQ0I/AAAAAAAAAXc/_9FgtNDMeX8/skitch.jpg" /></a>
 </div>
 
 &#160;
@@ -100,7 +100,7 @@ P4Mergeは版数管理システム Perforce（パワーフォース）のマー�
 #### kdiff3
 
 <div id="scid:887EC618-8FBE-49a5-A908-2339AF2EC531:c5c8c2a7-3be0-4621-adaf-1a59b50b0fa7" class="wlWriterEditableSmartContent" style="float: none; padding-bottom: 0px; padding-top: 0px; padding-left: 10px; margin: 0px; display: inline; padding-right: 10px">
-  <a target="_blank" href="https://picasaweb.google.com/111104490436597119823/Futurismo?authkey=Gv1sRgCM-A3fCH6v_BOQ#5884281183734165026"><img style="border: none; padding: 0px; margin: 0px" alt="skitch.png" src="http://lh6.ggpht.com/-lTt8FynsfmU/Uakqj3L9biI/AAAAAAAAAX0/AMu535YYd6A/skitch.png" /></a>
+  <a target="_blank" href="https://picasaweb.google.com/111104490436597119823/Futurismo?authkey=Gv1sRgCM-A3fCH6v_BOQ#5884281183734165026"><img style="border: none; padding: 0px; margin: 0px" alt="skitch.png" src="https://lh6.ggpht.com/-lTt8FynsfmU/Uakqj3L9biI/AAAAAAAAAX0/AMu535YYd6A/skitch.png" /></a>
 </div>
 
 ツールバーから マージ -> 現在のファイルをマージを選択してマージします。
@@ -108,7 +108,7 @@ P4Mergeは版数管理システム Perforce（パワーフォース）のマー�
 #### P4Merge
 
 <div id="scid:887EC618-8FBE-49a5-A908-2339AF2EC531:1dba7515-0f81-4ecd-984f-3b460d441b90" class="wlWriterEditableSmartContent" style="float: none; padding-bottom: 0px; padding-top: 0px; padding-left: 10px; margin: 0px; display: inline; padding-right: 10px">
-  <a target="_blank" href="https://picasaweb.google.com/111104490436597119823/Futurismo?authkey=Gv1sRgCM-A3fCH6v_BOQ#5884281150911972354"><img style="border: none; padding: 0px; margin: 0px" alt="skitch.jpg" src="http://lh3.ggpht.com/-K_EePQ8GkdQ/Uakqh86ihAI/AAAAAAAAAXs/vUcFmadJ3Ng/skitch.jpg" /></a>
+  <a target="_blank" href="https://picasaweb.google.com/111104490436597119823/Futurismo?authkey=Gv1sRgCM-A3fCH6v_BOQ#5884281150911972354"><img style="border: none; padding: 0px; margin: 0px" alt="skitch.jpg" src="https://lh3.ggpht.com/-K_EePQ8GkdQ/Uakqh86ihAI/AAAAAAAAAXs/vUcFmadJ3Ng/skitch.jpg" /></a>
 </div>
 
 &#160;
@@ -147,7 +147,7 @@ Eclipseを開き、ツールバーの
 </div>
 
 <div id="scid:887EC618-8FBE-49a5-A908-2339AF2EC531:f74adc3e-d0d3-4f27-99aa-1625ec5bd11b" class="wlWriterEditableSmartContent" style="float: none; padding-bottom: 0px; padding-top: 0px; padding-left: 10px; margin: 0px; display: inline; padding-right: 10px">
-  <a target="_blank" href="https://picasaweb.google.com/111104490436597119823/Futurismo?authkey=Gv1sRgCM-A3fCH6v_BOQ#5884296032955295330"><img style="border: none; padding: 0px; margin: 0px" alt="skitch.png" src="http://lh4.ggpht.com/-7a6pgzsK3uI/Uak4EM2KZmI/AAAAAAAAAYU/G8fLFv6sDrY/skitch.png" /></a>
+  <a target="_blank" href="https://picasaweb.google.com/111104490436597119823/Futurismo?authkey=Gv1sRgCM-A3fCH6v_BOQ#5884296032955295330"><img style="border: none; padding: 0px; margin: 0px" alt="skitch.png" src="https://lh4.ggpht.com/-7a6pgzsK3uI/Uak4EM2KZmI/AAAAAAAAAYU/G8fLFv6sDrY/skitch.png" /></a>
 </div>
 
 &#160;
@@ -160,10 +160,10 @@ Eclipseを開き、ツールバーの
   * [Googleでも採用されているPerforce社製のマージツールPerforce Visual Merge Tool (P4Merge)を使ってみる &#8211; 大人になったら肺呼吸][8]
 
  [1]: https://futurismo.biz/archives/1374
- [2]: http://stackoverflow.com/questions/572237/whats-the-best-three-way-merge-tool
- [3]: http://sourceforge.jp/projects/sfnet_kdiff3/
- [4]: http://www.perforce.com/downloads/Perforce-Software-Version-Management/complete_list/Customer%20Downloads
- [5]: http://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%82%B8_(%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)#3.E3.82.A6.E3.82.A7.E3.82.A4.E3.83.9E.E3.83.BC.E3.82.B8
+ [2]: https://stackoverflow.com/questions/572237/whats-the-best-three-way-merge-tool
+ [3]: https://sourceforge.jp/projects/sfnet_kdiff3/
+ [4]: https://www.perforce.com/downloads/Perforce-Software-Version-Management/complete_list/Customer%20Downloads
+ [5]: https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%82%B8_(%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)#3.E3.82.A6.E3.82.A7.E3.82.A4.E3.83.9E.E3.83.BC.E3.82.B8
  [6]: https://futurismo.biz/archives/1256
- [7]: http://d.hatena.ne.jp/monjudoh/20090430/1241095338
- [8]: http://d.hatena.ne.jp/replication/20091221/1261351398
+ [7]: https://d.hatena.ne.jp/monjudoh/20090430/1241095338
+ [8]: https://d.hatena.ne.jp/replication/20091221/1261351398

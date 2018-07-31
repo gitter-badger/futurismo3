@@ -20,7 +20,7 @@ url: /archives/=2656
 
 <ul class="org-ul">
   <li>
-    <a href="http://en.wikipedia.org/wiki/Producer%E2%80%93consumer_problem">Producer – consumer problem &#8211; Wikipedia, the free encyclopedia</a>
+    <a href="https://en.wikipedia.org/wiki/Producer%E2%80%93consumer_problem">Producer – consumer problem &#8211; Wikipedia, the free encyclopedia</a>
   </li>
 </ul>
 
@@ -30,7 +30,7 @@ Publisher-Subscriber パターン, 生産者-消費者パターンともいう.
 
 <ul class="org-ul">
   <li>
-    <a href="http://e-class.center.yuge.ac.jp/jdk_docs/ja/api/java/util/concurrent/BlockingQueue.html">BlockingQueue (Java Platform SE 6)</a>
+    <a href="https://e-class.center.yuge.ac.jp/jdk_docs/ja/api/java/util/concurrent/BlockingQueue.html">BlockingQueue (Java Platform SE 6)</a>
   </li>
 </ul>
 
@@ -148,10 +148,10 @@ syncronised/wait/notify を利用してもできるが, BlockingQueue を利用�
       <li>
         BlockingQueue を利用している例: <ul class="org-ul">
           <li>
-            <a href="http://www.techscore.com/tech/Java/JavaSE/Utility/12/">12. 新たに追加されたコレクション 2 | TECHSCORE (テックスコア)</a>
+            <a href="https://www.techscore.com/tech/Java/JavaSE/Utility/12/">12. 新たに追加されたコレクション 2 | TECHSCORE (テックスコア)</a>
           </li>
           <li>
-            <a href="http://omiya6048.hatenablog.com/entry/2013/05/29/145253">Java で Producer-Consumer パターンを実践! &#8211; omiya6048&#8217;s blog</a>
+            <a href="https://omiya6048.hatenablog.com/entry/2013/05/29/145253">Java で Producer-Consumer パターンを実践! &#8211; omiya6048&#8217;s blog</a>
           </li>
         </ul>
       </li>
@@ -159,10 +159,10 @@ syncronised/wait/notify を利用してもできるが, BlockingQueue を利用�
       <li>
         wait/notify を利用している例: <ul class="org-ul">
           <li>
-            <a href="http://www.techscore.com/tech/Java/JavaSE/Thread/5-2/">5. スレッドの同期 (2) | TECHSCORE (テックスコア)</a>
+            <a href="https://www.techscore.com/tech/Java/JavaSE/Thread/5-2/">5. スレッドの同期 (2) | TECHSCORE (テックスコア)</a>
           </li>
           <li>
-            <a href="http://www.programjp.com/blog/MkDO2ADMwcTz.html">生産者と消費者例 java</a>
+            <a href="https://www.programjp.com/blog/MkDO2ADMwcTz.html">生産者と消費者例 java</a>
           </li>
         </ul>
       </li>

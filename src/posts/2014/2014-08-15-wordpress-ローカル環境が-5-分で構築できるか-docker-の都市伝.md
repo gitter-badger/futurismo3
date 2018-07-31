@@ -39,7 +39,7 @@ Docker とは, OSS の Linux コンテナエンジン.
 -   Official: [Docker - Build, Ship, and Run Any App,
     Anywhere](https://www.docker.com/)
 -   github: [docker/docker](https://github.com/docker/docker)
--   [Docker - Wikipedia](http://ja.wikipedia.org/wiki/Docker)
+-   [Docker - Wikipedia](https://ja.wikipedia.org/wiki/Docker)
 
 特徴
 ----
@@ -66,7 +66,7 @@ Linux コンテナとは
 
 From: [コラム - クラウド時代のオープンソース実践活用 | 第 41 回 Linux
 コンテナ (LXC) の基礎をまとめ直す|CTC 教育サービス 研修/
-トレーニング](http://www.school.ctc-g.co.jp/columns/nakai/nakai41.html)
+トレーニング](https://www.school.ctc-g.co.jp/columns/nakai/nakai41.html)
 
 -   コンテナ
     -   1 つの OS.
@@ -85,9 +85,9 @@ Bookmarks
 
 -   [今からでも間に合う Docker の基礎. コンテナとは何か, Dockerfile
     とは何か. Docker Meetup Tokyo \#2 -
-    Publickey](http://www.publickey1.jp/blog/14/dockerdockerfiledocker_meetup_tokyo_2.html)
+    Publickey](https://www.publickey1.jp/blog/14/dockerdockerfiledocker_meetup_tokyo_2.html)
 -   [Docker とは何か? どこで使うべきか? |
-    SOTA](http://deeeet.com/writing/2014/05/01/what-is-docker/)
+    SOTA](https://deeeet.com/writing/2014/05/01/what-is-docker/)
 
 Docker で Hello World
 =====================
@@ -190,21 +190,21 @@ $ sudo docker rmi $(sudo docker images -q)
 ```
 
 -   [私の Docker TIPS -
-    Qiita](http://qiita.com/mopemope/items/181cb6c6c6f7cf9bbaa9)
+    Qiita](https://qiita.com/mopemope/items/181cb6c6c6f7cf9bbaa9)
 
 ### Links
 
 秀逸なガイダンス.
 
 -   [Docker User Guide 日本語版 (仮) -
-    Qiita](http://qiita.com/zembutsu/items/444396b76e0db2c04c2b)
+    Qiita](https://qiita.com/zembutsu/items/444396b76e0db2c04c2b)
 -   [Docker 入門 (全 11 回) -
-    プログラミングならドットインストール](http://dotinstall.com/lessons/basic_docker)
+    プログラミングならドットインストール](https://dotinstall.com/lessons/basic_docker)
 
 Docker Architecture.
 
 -   [Docker を理解する - Docker User Guide -
-    Qiita](http://qiita.com/zembutsu/items/337c04a7003f3a5c4211)
+    Qiita](https://qiita.com/zembutsu/items/337c04a7003f3a5c4211)
 
 Docker で WordPress 環境を構築
 ==============================
@@ -226,7 +226,7 @@ wordpress image を取得
 $ sudo docker run -d -p 80:80 tutum/wordpress
 ```
 
-まつこと数分・・・ <http://localhost> にアクセスしてみると・・・
+まつこと数分・・・ <https://localhost> にアクセスしてみると・・・
 
 インストール完了!! 都市伝説は本当だった!
 
@@ -299,14 +299,14 @@ $ ssh root@172.17.42.1 -p 49157
 ```
 
 -   [docker のコンテナイメージに ssh でアクセスしてみる - ようへいの日々
-    精進 XP](http://inokara.hateblo.jp/entry/2013/09/29/090500)
+    精進 XP](https://inokara.hateblo.jp/entry/2013/09/29/090500)
 
 Links
 -----
 
 -   [Installing WordPress in a Docker Container on the CenturyLink Cloud
     | CenturyLink
-    Labs](http://www.centurylinklabs.com/tutorials/docker/wordpress-in-a-docker-container-on-the-centurylink-cloud/)
+    Labs](https://www.centurylinklabs.com/tutorials/docker/wordpress-in-a-docker-container-on-the-centurylink-cloud/)
 
 Docker 関連技術まとめ
 =====================
@@ -319,9 +319,9 @@ Docker コンテナをクラウドサービス上で共有できる.
 -   <https://hub.docker.com/>
 -   [Docker Hub 発表. ビルド, テスト, デプロイの自動化, Docker
     イメージの管理など
-    Publickey](http://www.publickey1.jp/blog/14/docker_hubdockerdocker.html)
+    Publickey](https://www.publickey1.jp/blog/14/docker_hubdockerdocker.html)
 -   [Docker Hub を始める - Docker User Guide -
-    Qiita](http://qiita.com/zembutsu/items/dd3fd778b92aacaa884b)
+    Qiita](https://qiita.com/zembutsu/items/dd3fd778b92aacaa884b)
 
 Boot2Docker
 -----------
@@ -339,11 +339,11 @@ Panamax
 
 Docker コンテナを GUI で利用することができる.Very Cool Feature.
 
--   [Panamax: Docker Management for Humans](http://panamax.io/)
+-   [Panamax: Docker Management for Humans](https://panamax.io/)
 -   [CenturyLink Labs](https://github.com/CenturyLinkLabs)
 -   [Docker コンテナを GUI で管理する「 Panamax 」を使って WordPress
     をセットアップしてみた話 | ブログ :: Web
-    notes.log](http://blog.wnotes.net/blog/article/tried-panamax-with-wordpress)
+    notes.log](https://blog.wnotes.net/blog/article/tried-panamax-with-wordpress)
 
 おわりに
 ========

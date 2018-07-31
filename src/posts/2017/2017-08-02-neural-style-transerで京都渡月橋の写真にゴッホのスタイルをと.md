@@ -102,7 +102,7 @@ Lesson8では、アート系のディープラーニングの先駆けになっ�
   </p>
 </blockquote>
 
- [1]: http://course.fast.ai/part2.html
+ [1]: https://course.fast.ai/part2.html
  [2]: https://arxiv.org/abs/1508.06576v2
  [3]: https://nbviewer.jupyter.org/github/tsu-nera/cutting-edge-dl-for-coders-part2/blob/master/style-transfer.ipynb
  [4]: https://elix-tech.github.io/ja/2016/08/22/art.html

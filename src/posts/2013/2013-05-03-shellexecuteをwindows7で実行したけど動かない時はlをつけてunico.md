@@ -81,9 +81,9 @@ ShellExecuteの定義である[ShellExecute 関数][1]を見て，LPCTSTR型で�
 
 すでに変数に格納した文字を変換するためには、mbstowcs_sを使います。これで、ピンポイントで文字列を変換できる。
 
-  * <a href="http://note.phyllo.net/?eid=1106043" target="_blank">VC++メモ：マルチバイト文字列(char*)とワイド文字列(WCHAR*)の変換 | フィロの村note</a>
+  * <a href="https://note.phyllo.net/?eid=1106043" target="_blank">VC++メモ：マルチバイト文字列(char*)とワイド文字列(WCHAR*)の変換 | フィロの村note</a>
 
- [1]: http://msdn.microsoft.com/ja-jp/library/cc422072.aspx
- [2]: http://zahyou.6.ql.bz/cgame/tchar.htm
- [3]: http://victreal.com/Junk/_T/
- [4]: http://www.usefullcode.net/2006/11/tcharlpctstrlptstr.html
+ [1]: https://msdn.microsoft.com/ja-jp/library/cc422072.aspx
+ [2]: https://zahyou.6.ql.bz/cgame/tchar.htm
+ [3]: https://victreal.com/Junk/_T/
+ [4]: https://www.usefullcode.net/2006/11/tcharlpctstrlptstr.html

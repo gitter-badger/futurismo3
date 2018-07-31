@@ -21,7 +21,7 @@ url: /archives/=39
 
 Outlookは VBAだけではなく、VC++でも制御できるらしい。
   
-<http://msdn.microsoft.com/ja-jp/library/ee941475.aspx>
+<https://msdn.microsoft.com/ja-jp/library/ee941475.aspx>
 
 今はC言語しかできないので、どちらかと言うとVBAよりもVC++を使いたい。
   
@@ -29,7 +29,7 @@ Microsoft Visual Studio Tools for Officeというツ－ルが必要。
   
 だが使用するにはVisual Studioを購入しないといけないようだ。
   
-<http://blogs.yahoo.co.jp/yangzh_jp/26698898.html>
+<https://blogs.yahoo.co.jp/yangzh_jp/26698898.html>
 
 軽く勉強してみるにはちょっと高いかな。
   

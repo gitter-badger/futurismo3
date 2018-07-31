@@ -167,9 +167,9 @@ quickrun は最近 Racket に対応したようだ。
 ========
 
 -   [Emacs for Programming Languages course on
-    Coursera](http://tuhdo.github.io/emacs-for-proglang.html)
+    Coursera](https://tuhdo.github.io/emacs-for-proglang.html)
 -   [SICP 読書ノート\#10 - SICP のためのプログラミング環境構築 - @uents
-    blog](http://uents.hatenablog.com/entry/sicp/010-prog-env.md)
+    blog](https://uents.hatenablog.com/entry/sicp/010-prog-env.md)
 -   [Question about Emacs tooling :
     Racket](https://www.reddit.com/r/Racket/comments/3ng6n3/question_about_emacs_tooling/)
 

@@ -150,7 +150,7 @@ url: /archives/=2700
                   
                   <ul class="org-ul">
                     <li>
-                      <a href="http://reaper.fm/">REAPER | Audio Production Without Limits</a>
+                      <a href="https://reaper.fm/">REAPER | Audio Production Without Limits</a>
                     </li>
                   </ul>
                   
@@ -204,7 +204,7 @@ url: /archives/=2700
                   
                   <ul class="org-ul">
                     <li>
-                      <a href="http://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E4%BD%9C%E6%9B%B2%E6%B3%95">アルゴリズム作曲法 &#8211; Wikipedia</a>
+                      <a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E4%BD%9C%E6%9B%B2%E6%B3%95">アルゴリズム作曲法 &#8211; Wikipedia</a>
                     </li>
                   </ul>
                   
@@ -251,10 +251,10 @@ url: /archives/=2700
                     
                     <ul class="org-ul">
                       <li>
-                        <a href="http://earsketch.gatech.edu/learning/earsketch-sample-library">Reference: EarSketch Sound Library « EarSketch</a>
+                        <a href="https://earsketch.gatech.edu/learning/earsketch-sample-library">Reference: EarSketch Sound Library « EarSketch</a>
                       </li>
                       <li>
-                        <a href="http://earsketch.gatech.edu/earsketch2/">http://earsketch.gatech.edu/earsketch2/</a>
+                        <a href="https://earsketch.gatech.edu/earsketch2/">https://earsketch.gatech.edu/earsketch2/</a>
                       </li>
                     </ul>
                     
@@ -264,7 +264,7 @@ url: /archives/=2700
                     
                     <ul class="org-ul">
                       <li>
-                        My Account: <a href="http://earsketch.gatech.edu/media/profiles/view/2626">http://earsketch.gatech.edu/media/profiles/view/2626</a>
+                        My Account: <a href="https://earsketch.gatech.edu/media/profiles/view/2626">https://earsketch.gatech.edu/media/profiles/view/2626</a>
                       </li>
                     </ul>
                   </div>
@@ -426,7 +426,7 @@ url: /archives/=2700
                   
                   <ul class="org-ul">
                     <li>
-                      <a href="http://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%97">サウンドスケープ &#8211; Wikipedia</a>
+                      <a href="https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%97">サウンドスケープ &#8211; Wikipedia</a>
                     </li>
                   </ul>
                   
@@ -445,7 +445,7 @@ url: /archives/=2700
                       <div class="outline-text-4" id="text-unnumbered-15">
                         <ul class="org-ul">
                           <li>
-                            <a href="http://www.ted.com/talks/bernie_krause_the_voice_of_the_natural_world?language=ja">バーニー・クラウス: 自然界からの声 | Talk Video | TED.com</a>
+                            <a href="https://www.ted.com/talks/bernie_krause_the_voice_of_the_natural_world?language=ja">バーニー・クラウス: 自然界からの声 | Talk Video | TED.com</a>
                           </li>
                         </ul>
                       </div>
@@ -605,7 +605,7 @@ url: /archives/=2700
                                                 
                                                 <ul class="org-ul">
                                                   <li>
-                                                    <a href="http://matome.naver.jp/odai/2137008940212203701">癒しの現代音楽 スティーブ・ライヒ &#8211; NAVER まとめ</a>
+                                                    <a href="https://matome.naver.jp/odai/2137008940212203701">癒しの現代音楽 スティーブ・ライヒ &#8211; NAVER まとめ</a>
                                                   </li>
                                                 </ul>
                                               </div>

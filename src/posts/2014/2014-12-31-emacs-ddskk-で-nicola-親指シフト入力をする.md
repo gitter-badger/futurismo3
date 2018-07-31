@@ -44,7 +44,7 @@ url: /archives/=2881
 Emacs の入力システムで SKK というものがある.
 
 -   [SKK Openlab -
-    ドキュメント](http://openlab.ring.gr.jp/skk/doc-ja.html)
+    ドキュメント](https://openlab.ring.gr.jp/skk/doc-ja.html)
 -   <https://github.com/skk-dev/ddskk>
 
 いままで利用していなかったのだけれども, 今朝調べてみたら,
@@ -53,7 +53,7 @@ Emacs の入力システムで SKK というものがある.
 方法:
 
 -   [SKK Manual:
-    ローマ字入力以外の入力方式](http://www.bookshelf.jp/texi/skk/skk_6.html#SEC155)
+    ローマ字入力以外の入力方式](https://www.bookshelf.jp/texi/skk/skk_6.html#SEC155)
 
 どんなものだか, ちょっと利用してみることにした.
 
@@ -68,7 +68,7 @@ SKK
 一般的な方法は以下.
 
 -   [SKK Manual:
-    インストール](http://www.bookshelf.jp/texi/skk/skk_2.html#SEC4)
+    インストール](https://www.bookshelf.jp/texi/skk/skk_2.html#SEC4)
 
 設定
 ----
@@ -85,7 +85,7 @@ SKK
 
 使いかたは以下にある
 
--   [SKK Manual:](http://www.bookshelf.jp/texi/skk/skk.html)
+-   [SKK Manual:](https://www.bookshelf.jp/texi/skk/skk.html)
 
 キーバインド
 ------------
@@ -104,7 +104,7 @@ SKK
 以下の意見に同感.引用します.
 
 -   [日本語入力 SKKIME 使ってみた (SKK はローマ字入力専用だね) -
-    itouhiro メモ](http://d.hatena.ne.jp/itouhiro/20080529)
+    itouhiro メモ](https://d.hatena.ne.jp/itouhiro/20080529)
 
 > ローマ字入力の SKK は, 普通のローマ字入力「 kyouhasibuyani
 > 」と体感上同じテンポで, 「 KyouHaSibuyaNi 」と入力できます.

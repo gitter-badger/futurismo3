@@ -84,7 +84,7 @@ next-multiframe-window
     
     <ul class="org-ul">
       <li>
-        <a href="http://emacsrocks.com/e10.html">Emacs Rocks!</a>
+        <a href="https://emacsrocks.com/e10.html">Emacs Rocks!</a>
       </li>
     </ul>
     

@@ -58,7 +58,7 @@ factoryMethod の中でオブジェクトの生成をすることで,
 生成を生成オブジェクト (メソッド) 内にカプセル化.
 
 -   [Factory Method パターン -
-    Wikipedia](http://ja.wikipedia.org/wiki/Factory_Method_%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3)
+    Wikipedia](https://ja.wikipedia.org/wiki/Factory_Method_%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3)
 
 Abstract Factory
 ----------------
@@ -67,7 +67,7 @@ Abstract Factory
 インタフェースを提供する.
 
 -   [Abstract Factory パターン -
-    Wikipedia](http://ja.wikipedia.org/wiki/Abstract_Factory_%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3)
+    Wikipedia](https://ja.wikipedia.org/wiki/Abstract_Factory_%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3)
 
 関連するインスタンス群を生成するための API を集約することによって,
 複数のモジュール群の再利用を効率化することを目的とする.

@@ -22,7 +22,7 @@ Cygwin上でファイルを開くとたまに文字化けしてて、ほぞを�
 
 Cygwin上でnkfコマンドを利用するには、ソースコードからコンパイルするしかない。まずは、nkfをSourceForgeから取得します。
 
-  * <http://sourceforge.jp/projects/nkf/>
+  * <https://sourceforge.jp/projects/nkf/>
   * nkf-2.1.2.tar.gz
 
 取得したら解凍してインストール。
@@ -48,4 +48,4 @@ nkfの使い方は以下を参照。
 
 [Linuxコマンド集 &#8211; 【 nkf 】 文字コードを変換する：ITpro][1]
 
- [1]: http://itpro.nikkeibp.co.jp/article/COLUMN/20060227/230849/
+ [1]: https://itpro.nikkeibp.co.jp/article/COLUMN/20060227/230849/

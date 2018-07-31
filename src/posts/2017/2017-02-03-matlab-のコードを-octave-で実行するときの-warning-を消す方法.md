@@ -55,6 +55,6 @@ warning('off', 'Octave:possible-matlab-short-circuit-operator');
 ```
 
 参考: [linux - How to suppress warnings in gnu octave - Stack
-Overflow](http://stackoverflow.com/questions/11384359/how-to-suppress-warnings-in-gnu-octave)
+Overflow](https://stackoverflow.com/questions/11384359/how-to-suppress-warnings-in-gnu-octave)
 
 これで Warning はひとまずでなくなる。

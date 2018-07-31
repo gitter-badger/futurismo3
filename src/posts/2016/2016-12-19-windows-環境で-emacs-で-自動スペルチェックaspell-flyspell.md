@@ -40,7 +40,7 @@ aspell をインストール
 aspell というツールをつかうと、スペルチェックが可能になる。
 ダウンロードは以下から。
 
--   [GNU Aspell (Win32 version)](http://aspell.net/win32/)
+-   [GNU Aspell (Win32 version)](https://aspell.net/win32/)
     -   aspell 本体 Latest（Aspell-0-50-3-3-Setup.exe）
     -   英語辞書(aspell-en-0.50-2-3.exe)
 
@@ -97,7 +97,7 @@ flyspell-mode
 
 -   [Aspell Windows](https://www.emacswiki.org/emacs/AspellWindows)
 -   [よしいずの雑記帳　 Windows における Aspell
-    のセットアップ作業のメモ](http://yoshiiz.blog129.fc2.com/blog-entry-766.html)
+    のセットアップ作業のメモ](https://yoshiiz.blog129.fc2.com/blog-entry-766.html)
 -   [Mac で flyspell-mode を使うための設定 - syohex ’ s
-    diary](http://syohex.hatenablog.com/entry/2015/08/20/005348)
+    diary](https://syohex.hatenablog.com/entry/2015/08/20/005348)
 

@@ -127,12 +127,12 @@ SDN allows network administrators to manage network services through
 abstraction of lower level functionality.
 
 -   [Software-defined networking - Wikipedia, the free
-    encyclopedia](http://en.wikipedia.org/wiki/Software-defined_networking)
+    encyclopedia](https://en.wikipedia.org/wiki/Software-defined_networking)
 
     コントロールプレーンとフォワーディングプレーンを分離し、ネットワークにプログラマビリティを持たせる
 
 -   [SDN時代のデータセンター・アーキテクチャ/Forwarding Plane J-Net
-    Community](http://forums.juniper.net/t5/%E3%83%96%E3%83%AD%E3%82%B0/SDN%E6%99%82%E4%BB%A3%E3%81%AE%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3-Forwarding-Plane-%E5%89%8D%E7%B7%A8/ba-p/204427)
+    Community](https://forums.juniper.net/t5/%E3%83%96%E3%83%AD%E3%82%B0/SDN%E6%99%82%E4%BB%A3%E3%81%AE%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3-Forwarding-Plane-%E5%89%8D%E7%B7%A8/ba-p/204427)
 
 ネットワーク全体で一つのOSとして見え、
 ソフトウェアから見れば個々のネットワーク機器が隠ぺいされています。
@@ -140,7 +140,7 @@ abstraction of lower level functionality.
 自由にネットワークを制御することが可能になります。
 
 -   [SDNへの潮流とOpenFlowの歴史 | Think
-    IT（シンクイット）](http://thinkit.co.jp/story/2012/02/02/3151)
+    IT（シンクイット）](https://thinkit.co.jp/story/2012/02/02/3151)
 
 SDNの歴史と基盤技術
 -------------------
@@ -158,14 +158,14 @@ The notion of instantiating many distinct logical networks on top of a
 single, shared physical network infrastructure.
 
 -   [ASCII.jp：なぜSDNは生まれたのか？ネットワーク仮想化との関係は？
-    (1/2)｜Q&A形式で学ぶOpenFlow/SDN](http://ascii.jp/elem/000/000/793/793504/)
+    (1/2)｜Q&A形式で学ぶOpenFlow/SDN](https://ascii.jp/elem/000/000/793/793504/)
 
 「ネットワーク仮想化」とも呼ばれ、厳密にはSDNの応用の一つであり、
 また、SDNによらず別の技術によって実現する手法もあるため、
 ネットワーク仮想化とSDNそのものとは区別する必要がある。
 
 -   [SDNとは 【 Software-Defined Networking 】 - 意味/解説/説明/定義 ：
-    IT用語辞典](http://e-words.jp/w/SDN.html)
+    IT用語辞典](https://e-words.jp/w/SDN.html)
 
 構成要素
 --------
@@ -181,7 +181,7 @@ is instantiated as a single, high-level software controller.
 フォワーディング・プレーン, Forwarding planeともいう。
 
 -   [Forwarding plane - Wikipedia, the free
-    encyclopedia](http://en.wikipedia.org/wiki/Forwarding_plane)
+    encyclopedia](https://en.wikipedia.org/wiki/Forwarding_plane)
 
 The functions in the network that are responsible for forwarding (or not
 forwarding) traffic. Typically, the data plane is instantiated as
@@ -211,7 +211,7 @@ Data plane design goals. 技術革新に素早く対応できること。
     -   統計情報
 
     [OpenFlowのアーキテクチャと仕様・機能 | Think
-    IT（シンクイット）](http://thinkit.co.jp/story/2012/02/09/3209)
+    IT（シンクイット）](https://thinkit.co.jp/story/2012/02/09/3209)
 
 ### NorthBound API
 
@@ -226,9 +226,9 @@ systems to program the network .Uses for Northbound API ,
 Northbound APIは、アプリケーションからSDNコントローラを制御できるAPIだ。
 
 -   [SDN/OpenFlowの新しい課題：Northbound APIとは何か？ −
-    Publickey](http://www.publickey1.jp/blog/12/sdnopenflownorthbound_api.html)
+    Publickey](https://www.publickey1.jp/blog/12/sdnopenflownorthbound_api.html)
 -   [Northdound APIは、Software-Defined Networkにとって重大な欠落だ −
-    Publickey](http://www.publickey1.jp/blog/12/northdound_apisoftware-defined_network.html)
+    Publickey](https://www.publickey1.jp/blog/12/northdound_apisoftware-defined_network.html)
 
 Northbound API can help,
 
@@ -300,12 +300,12 @@ OpenFlowは、スタンフォード大学が中心となっている
 
 SDNを実現するための代表的なフレームワーク。
 
--   [ASCII.jp：SDNを牽引するOpenFlowとは？業界へのインパクトは？](http://ascii.jp/elem/000/000/794/794744/)
+-   [ASCII.jp：SDNを牽引するOpenFlowとは？業界へのインパクトは？](https://ascii.jp/elem/000/000/794/794744/)
 -   [OpenFlowとは 〔 オープンフロー 〕 - 意味/解説/説明/定義 ：
-    IT用語辞典](http://e-words.jp/w/OpenFlow.html)
+    IT用語辞典](https://e-words.jp/w/OpenFlow.html)
 -   [OpenFlow/SDNはなぜ誕生したのか、OpenFlow以前にあった問題とは。生みの親カサド氏が壇上で語る。SDN
     Japan 2013 −
-    Publickey](http://www.publickey1.jp/blog/13/openflowsdnopenflowsdn_japan_2013.html)
+    Publickey](https://www.publickey1.jp/blog/13/openflowsdnopenflowsdn_japan_2013.html)
 
 ### OpenStack
 

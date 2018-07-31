@@ -59,7 +59,7 @@ AWS は公開鍵を利用して, アクセスする必要がある. tramp には
 以下を参考に, .ssh/config に設定を追記.
 
 -   [Tricotism - Using an Identity File in Emacs Tramp
-    Mode](http://danzorx.tumblr.com/post/11396993061/using-an-identity-file-in-emacs-tramp-mode)
+    Mode](https://danzorx.tumblr.com/post/11396993061/using-an-identity-file-in-emacs-tramp-mode)
 
 ``` {.bash}
 Host remote_box_alias
@@ -82,7 +82,7 @@ GUI 版 Emacs を利用する
 以下から, Putty のインストーラを落としてきて, putty をインストールする
 と, 付随で plink がついてくる.
 
--   <http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html>
+-   <https://www.chiark.greenend.org.uk/~sgtatham/putty/download.html>
 
 plink.exe があるフォルダに, 環境変数 PATH を通す.
 
@@ -102,7 +102,7 @@ putty の機能を使って, session を保存する. 保存の仕方は,
 形式の鍵に変換が必要なところに注意.
 
 -   [Public Key Authentication With
-    PuTTY](http://www.ualberta.ca/CNS/RESEARCH/LinuxClusters/pka-putty.html)
+    PuTTY](https://www.ualberta.ca/CNS/RESEARCH/LinuxClusters/pka-putty.html)
 
 作成した, session 名を指定して接続する.
 

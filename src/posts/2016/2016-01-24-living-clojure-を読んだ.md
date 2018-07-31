@@ -30,16 +30,16 @@ Living Clojure を読んだ。
 <div class='amazlink-box' style='text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;'>
   <div class='amazlink-list' style='clear: both;'>
     <div class='amazlink-image' style='float:left;margin:0px 12px 1px 0px;'>
-      <a href='http://www.amazon.co.jp/Living-Clojure-Carin-Meier/dp/1491909048%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1491909048' target='_blank' rel='nofollow'><img src='http://ecx.images-amazon.com/images/I/5122uV93jfL._SL160_.jpg' style='border: none;' /></a>
+      <a href='https://www.amazon.co.jp/Living-Clojure-Carin-Meier/dp/1491909048%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1491909048' target='_blank' rel='nofollow'><img src='https://ecx.images-amazon.com/images/I/5122uV93jfL._SL160_.jpg' style='border: none;' /></a>
     </div>
     
     <div class='amazlink-info' style='height:160; margin-bottom: 10px'>
       <div class='amazlink-name' style='margin-bottom:10px;line-height:120%'>
-        <a href='http://www.amazon.co.jp/Living-Clojure-Carin-Meier/dp/1491909048%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1491909048' rel='nofollow' target='_blank'>Living Clojure</a>
+        <a href='https://www.amazon.co.jp/Living-Clojure-Carin-Meier/dp/1491909048%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1491909048' rel='nofollow' target='_blank'>Living Clojure</a>
       </div>
       
       <div class='amazlink-powered' style='font-size:80%;margin-top:5px;line-height:120%'>
-        posted with <a href='http://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 16.01.24
+        posted with <a href='https://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 16.01.24
       </div>
       
       <div class='amazlink-detail'>
@@ -48,7 +48,7 @@ Living Clojure を読んだ。
       
       <div class='amazlink-sub-info' style='float: left;'>
         <div class='amazlink-link' style='margin-top: 5px'>
-          <img src='http://amazlink.fuyu.gs/icon_amazon.png' width='18' /><a href='http://www.amazon.co.jp/Living-Clojure-Carin-Meier/dp/1491909048%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1491909048' rel='nofollow' target='_blank'>Amazon</a>
+          <img src='https://amazlink.fuyu.gs/icon_amazon.png' width='18' /><a href='https://www.amazon.co.jp/Living-Clojure-Carin-Meier/dp/1491909048%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1491909048' rel='nofollow' target='_blank'>Amazon</a>
         </div>
       </div>
     </div>

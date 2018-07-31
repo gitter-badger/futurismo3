@@ -112,5 +112,5 @@ Path Planningや PID制御は LEGO Mindstormsで実際に試せそうだ。時�
  [1]: https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373
  [2]: https://www.udacity.com/robotics
  [3]: https://www.youtube.com/watch?v=Uqt_pRbR8rI&list=PLAwxTw4SYaPkCSYXw6-a_aAoXVKLDwnHK
- [4]: http://qiita.com/RyosukeH/items/822d11d2fb5c83e03786
- [5]: http://qiita.com/RyosukeH/items/4853e9a403fc760c25ea
+ [4]: https://qiita.com/RyosukeH/items/822d11d2fb5c83e03786
+ [5]: https://qiita.com/RyosukeH/items/4853e9a403fc760c25ea

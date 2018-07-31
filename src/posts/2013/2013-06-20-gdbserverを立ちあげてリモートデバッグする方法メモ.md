@@ -120,6 +120,6 @@ Eclipseには、高機能なGUIインタフェースのgdbが付いている。�
 
 #### 参考
 
-  * <a href="http://d.hatena.ne.jp/ponkme/20101117/1289966852" target="_blank">eclipseでqemu上の仮想マシンのデバッグ &#8211; 杜松の実 改め ponkmeの日記</a>
+  * <a href="https://d.hatena.ne.jp/ponkme/20101117/1289966852" target="_blank">eclipseでqemu上の仮想マシンのデバッグ &#8211; 杜松の実 改め ponkmeの日記</a>
 
   * <a href="https://code.google.com/p/myboards/wiki/RemoteDebuggingusingEclipseIDE" target="_blank">RemoteDebuggingusingEclipseIDE &#8211; myboards &#8211; Resources of all the boards available at EasyARM &#8211; Google Project Hosting</a>

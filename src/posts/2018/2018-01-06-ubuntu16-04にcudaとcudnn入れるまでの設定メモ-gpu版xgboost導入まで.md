@@ -76,9 +76,9 @@ dockerをつかうことのいいところは、ディープラーニング用�
       * Ubuntu
       * 16.04
       * deb(network) 
-            wget http://developer.download.nvidia.com/compute/cuda/repos/ubuntu1604/x86_64/cuda-repo-ubuntu1604_9.1.85-1_amd64.deb
+            wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1604/x86_64/cuda-repo-ubuntu1604_9.1.85-1_amd64.deb
             sudo dpkg -i cuda-repo-ubuntu1604_9.1.85-1_amd64.deb
-            sudo apt-key adv --fetch-keys http://developer.download.nvidia.com/compute/cuda/repos/ubuntu1604/x86_64/7fa2af80.pub`
+            sudo apt-key adv --fetch-keys https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1604/x86_64/7fa2af80.pub`
             sudo apt-get update
             `sudo apt-get install cuda
             
@@ -167,5 +167,5 @@ GPU版 xgboost めちゃくちゃハヤイ！！
 
  [1]: https://cloud.githubusercontent.com/assets/3028125/12213714/5b208976-b632-11e5-8406-38d379ec46aa.png
  [2]: https://developer.nvidia.com/cuda-toolkit-archive
- [3]: http://docs.nvidia.com/deeplearning/sdk/cudnn-install/index.html
- [4]: http://xgboost.readthedocs.io/en/latest/build.html
+ [3]: https://docs.nvidia.com/deeplearning/sdk/cudnn-install/index.html
+ [4]: https://xgboost.readthedocs.io/en/latest/build.html

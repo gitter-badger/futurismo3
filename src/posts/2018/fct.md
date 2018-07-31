@@ -18,7 +18,7 @@ date: 2018-06-16T22:33:56+09:00
   [技術] C言語, VxWorks, Clearcase
 ```
 
-- http://www.fujitsu.com/jp/products/computing/storage/eternus/lineup/diskarray/index.html
+- https://www.fujitsu.com/jp/products/computing/storage/eternus/lineup/diskarray/index.html
 
 富士通のストレージシステム ETERNUS の S2, S3シリーズについて、新卒から4年間携わってきた。
 
@@ -41,7 +41,7 @@ date: 2018-06-16T22:33:56+09:00
 
 遠隔地からのファイルアクセスを高速化するデータ転送技術を開発 : 富士通
 
-- http://pr.fujitsu.com/jp/news/2015/06/22.html
+- https://pr.fujitsu.com/jp/news/2015/06/22.html
 
 ```text
   Automotive Grade Linux(AGL)プロジェクト 研究開発 201503-201506
@@ -56,7 +56,7 @@ date: 2018-06-16T22:33:56+09:00
   [担当] 要件定義、基本設計
 ```
 
-- http://www.fujitsu.com/jp/products/software/infrastructure-software/infrastructure-software/serverviewism/
+- https://www.fujitsu.com/jp/products/software/infrastructure-software/infrastructure-software/serverviewism/
 
 ```text
   次世代ストレージシステム ミドルウェア開発 201708-201806
@@ -69,7 +69,7 @@ date: 2018-06-16T22:33:56+09:00
 ## 会社のこと
 うちの会社、ネット上に情報があまりないので、今後の就活生のみんなのために企業文化やらを書いてみる。機密情報に触れるようなことは書きません。
 
-- http://www.fujitsu.com/jp/group/fct/
+- https://www.fujitsu.com/jp/group/fct/
 
 組み込み開発の専門会社と名を売っているのだけれども、実は幅広く色んな業務をしていてそこまで組み込みに偏っているわけではない。組み込みソフト開発というと、C/C++なイメージが自分のなかではあるのだけれども、実際はC/C++の仕事ばっかりやっているかというとそうでもない。C#やJavaやRuby, Pythonなどなど。
 

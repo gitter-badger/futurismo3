@@ -22,21 +22,21 @@ url: /archives/=1948
 <div class="amazlink-box" style="text-align: left; padding-bottom: 20px; font-size: small; /zoom: 1; overflow: hidden;">
   <div class="amazlink-list" style="clear: both;">
     <div class="amazlink-image" style="float: left; margin: 0px 12px 1px 0px;">
-      <a href="http://www.amazon.co.jp/Modern-Programming-With-Test-Driven-Development/dp/1937785483%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1937785483" target="_blank" rel="nofollow"><img style="border: none;" alt="" src="http://ecx.images-amazon.com/images/I/41UOJBZ4qxL._SL160_.jpg" /></a>
+      <a href="https://www.amazon.co.jp/Modern-Programming-With-Test-Driven-Development/dp/1937785483%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1937785483" target="_blank" rel="nofollow"><img style="border: none;" alt="" src="https://ecx.images-amazon.com/images/I/41UOJBZ4qxL._SL160_.jpg" /></a>
     </div>
     
     <div class="amazlink-info" style="height: 160; margin-bottom: 10px;">
       <div class="amazlink-name" style="margin-bottom: 10px; line-height: 120%;">
-        <a href="http://www.amazon.co.jp/Modern-Programming-With-Test-Driven-Development/dp/1937785483%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1937785483" target="_blank" rel="nofollow">Modern C++ Programming With Test-Driven Development: Code Better, Sleep Better</a>
+        <a href="https://www.amazon.co.jp/Modern-Programming-With-Test-Driven-Development/dp/1937785483%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1937785483" target="_blank" rel="nofollow">Modern C++ Programming With Test-Driven Development: Code Better, Sleep Better</a>
       </div>
       
       <div class="amazlink-powered" style="font-size: 80%; margin-top: 5px; line-height: 120%;">
-        posted with <a title="アマゾンアフィリエイトリンク作成ツール" href="http://amazlink.keizoku.com/" target="_blank">amazlink</a> at 13.10.27
+        posted with <a title="アマゾンアフィリエイトリンク作成ツール" href="https://amazlink.keizoku.com/" target="_blank">amazlink</a> at 13.10.27
       </div>
       
       <p>
         <noscript>
-          <a href='http://bust-up.gob.jp'>xn--cck2b5as2b7b</a>
+          <a href='https://bust-up.gob.jp'>xn--cck2b5as2b7b</a>
         </noscript>
       </p>
       
@@ -46,7 +46,7 @@ url: /archives/=1948
       
       <div class="amazlink-sub-info" style="float: left;">
         <div class="amazlink-link" style="margin-top: 5px;">
-          <img alt="" src="http://amazlink.fuyu.gs/icon_amazon.png" width="18" /><a href="http://www.amazon.co.jp/Modern-Programming-With-Test-Driven-Development/dp/1937785483%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1937785483" target="_blank" rel="nofollow">Amazon</a>
+          <img alt="" src="https://amazlink.fuyu.gs/icon_amazon.png" width="18" /><a href="https://www.amazon.co.jp/Modern-Programming-With-Test-Driven-Development/dp/1937785483%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1937785483" target="_blank" rel="nofollow">Amazon</a>
         </div>
       </div>
     </div>

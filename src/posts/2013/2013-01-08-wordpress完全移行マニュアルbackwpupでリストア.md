@@ -20,8 +20,8 @@ url: /archives/=1165
 
 前回はロリポップサーバからバックアップしたので、これをさくらインターネットにリストアしてみます。つまり、WordPress移行作業をします。（移行しないけど）
 
-     <a href="http://px.a8.net/svt/ejp?a8mat=25GJVU+5CZJE+D8Y+61JSH" target="_blank"><br /><img border="0" alt="" src="http://www20.a8.net/svt/bgt?aid=130102698009&wid=004&eno=01&mid=s00000001717001015000&mc=1" width="468" height="60" /></a>   
-<img border="0" alt="" src="http://www15.a8.net/0.gif?a8mat=25GJVU+5CZJE+D8Y+61JSH" width="1" height="1" />
+     <a href="https://px.a8.net/svt/ejp?a8mat=25GJVU+5CZJE+D8Y+61JSH" target="_blank"><br /><img border="0" alt="" src="https://www20.a8.net/svt/bgt?aid=130102698009&wid=004&eno=01&mid=s00000001717001015000&mc=1" width="468" height="60" /></a>   
+<img border="0" alt="" src="https://www15.a8.net/0.gif?a8mat=25GJVU+5CZJE+D8Y+61JSH" width="1" height="1" />
 
 #### 移行手順
 

@@ -142,4 +142,4 @@ end
 </div>
 
  [1]: https://picasaweb.google.com/lh/photo/Tu2VEkVYqYsV04cIb3i5qTyD6hjDXGH6XyE6iLrzolo?feat=embedwebsite
- [2]: http://d.hatena.ne.jp/t-wada/20100228/p1
+ [2]: https://d.hatena.ne.jp/t-wada/20100228/p1

@@ -23,7 +23,7 @@ emacsでSphinxの編集をしているとき、rstファイルの見出しが白
 
 #### Before
 
-[<img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="skitch(1)" border="0" alt="skitch(1)" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/skitch1_thumb.png" width="325" height="282" />][1]
+[<img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="skitch(1)" border="0" alt="skitch(1)" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/skitch1_thumb.png" width="325" height="282" />][1]
 
 ### frame-background-mode を有効にする
 
@@ -39,12 +39,12 @@ emacsでSphinxの編集をしているとき、rstファイルの見出しが白
 
 #### after
 
-[<img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="skitch(2)" border="0" alt="skitch(2)" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/skitch2_thumb.png" width="345" height="291" />][2]
+[<img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="skitch(2)" border="0" alt="skitch(2)" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/skitch2_thumb.png" width="345" height="291" />][2]
 
 #### 参考
 
 [frame の色を由緒正しく (?) 設定する for frame-background-mode][3]
 
- [1]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/skitch1.png
- [2]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/skitch2.png
- [3]: http://kei10in.hatenablog.jp/entry/20091111/1257947383 "http://kei10in.hatenablog.jp/entry/20091111/1257947383"
+ [1]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/skitch1.png
+ [2]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/skitch2.png
+ [3]: https://kei10in.hatenablog.jp/entry/20091111/1257947383 "https://kei10in.hatenablog.jp/entry/20091111/1257947383"

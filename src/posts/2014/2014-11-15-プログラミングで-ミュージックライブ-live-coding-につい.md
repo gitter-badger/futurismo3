@@ -43,7 +43,7 @@ coursera の講義でライブコーディング (Live Coding) というもの�
 Live Coding とは
 ================
 
-TopLap のページから引用. ([About | TOPLAP](http://toplap.org/about/))
+TopLap のページから引用. ([About | TOPLAP](https://toplap.org/about/))
 
 > "Live coding is a new direction in electronic music and video, and is
 > starting to get somewhere interesting. Live coders expose and rewire
@@ -53,7 +53,7 @@ TopLap のページから引用. ([About | TOPLAP](http://toplap.org/about/))
 on-the-fly programming, just in time programming ともいう.
 
 -   [Live coding - Wikipedia, the free
-    encyclopedia](http://en.wikipedia.org/wiki/Live_coding)
+    encyclopedia](https://en.wikipedia.org/wiki/Live_coding)
 
 coursera からの表現を借りると,
 
@@ -66,14 +66,14 @@ TopLap
 
 Live Coding のためのコミュニティ.
 
--   <http://toplap.org/>
+-   <https://toplap.org/>
 
 アルゴリズム作曲用プログラミング言語
 ====================================
 
 TOPLAP のベージに情報がまとまっている.
 
--   [Software | TOPLAP](http://toplap.org/category/software/)
+-   [Software | TOPLAP](https://toplap.org/category/software/)
 
 coursera の講義を参考にまとめてみた.
 
@@ -82,32 +82,32 @@ Supercollider
 
 Smalltalk like な言語. OSS
 
--   [SuperCollider » SuperCollider](http://supercollider.github.io/)
+-   [SuperCollider » SuperCollider](https://supercollider.github.io/)
 -   [supercollider/supercollider ·
     GitHub](https://github.com/supercollider/supercollider)
 
 開発盛ん.
 
 -   [SuperCollider 基礎文法最速マスター - sc3onlinux
-    の日記](http://d.hatena.ne.jp/sc3onlinux/20100206/1265449076)
+    の日記](https://d.hatena.ne.jp/sc3onlinux/20100206/1265449076)
 -   [SuperCollider 自主練 – 基本編 | yoppa
-    org](http://yoppa.org/blog/4042.html)
+    org](https://yoppa.org/blog/4042.html)
 
 ChucK
 -----
 
 C - like な言語.
 
--   [ChucK : ](http://chuck.cs.princeton.edu/release/)
+-   [ChucK : ](https://chuck.cs.princeton.edu/release/)
 -   [Algorithmic Composition on ChucK on
-    Vimeo](http://vimeo.com/2994084)
+    Vimeo](https://vimeo.com/2994084)
 
 ChucK を学ぶ coursera のコース. [Introduction to Programming for
 Musicians and Digital Artists |
 Coursera](https://www.coursera.org/course/chuck101)
 
 ChucK を解説した本. [Manning: Programming for Musicians and Digital
-Artists](http://www.manning.com/kapur/)
+Artists](https://www.manning.com/kapur/)
 
 Csound
 ------
@@ -115,8 +115,8 @@ Csound
 C - like な言語. 開発は盛ん. (2014)
 
 -   [Csound: A C-Based Audio Programming
-    Language](http://www.csounds.com/)
--   [Csound github.io](http://csound.github.io/)
+    Language](https://www.csounds.com/)
+-   [Csound github.io](https://csound.github.io/)
 
 Impromptu
 ---------
@@ -124,9 +124,9 @@ Impromptu
 Mac OS のための live coding 言語. Lisp 系の言語. Andrew Sorensen
 さんがつくった.
 
--   [impromptu](http://impromptu.moso.com.au/)
+-   [impromptu](https://impromptu.moso.com.au/)
 -   [Impromptu (programming environment) - Wikipedia, the free
-    encyclopedia](http://en.wikipedia.org/wiki/Impromptu_(programming_environment))
+    encyclopedia](https://en.wikipedia.org/wiki/Impromptu_(programming_environment))
 
 Overtone
 --------
@@ -137,7 +137,7 @@ A Clojure API to the SuperCollider synthesis engine.
 
 -   [overtone/overtone](https://github.com/overtone/overtone)
 -   [Overtone - Collaborative Programmable
-    Music](http://overtone.github.io/)
+    Music](https://overtone.github.io/)
 
 MAX/MSP
 -------
@@ -145,7 +145,7 @@ MAX/MSP
 有料のソフト.
 
 -   [Max (ソフトウェア) -
-    Wikipedia](http://ja.wikipedia.org/wiki/Max_(%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2))
+    Wikipedia](https://ja.wikipedia.org/wiki/Max_(%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2))
 
 Pure Data
 ---------
@@ -153,7 +153,7 @@ Pure Data
 オリジナルの開発者ミラー・パケットによるフリーソフトウェアプログラム.
 Max/Msp の OSS 版. Pd と略す.
 
--   [Pure Data - Wikipedia](http://ja.wikipedia.org/wiki/Pure_Data)
+-   [Pure Data - Wikipedia](https://ja.wikipedia.org/wiki/Pure_Data)
 
 動画
 ====
@@ -162,7 +162,7 @@ Live Coding で検索して引っかかったやつで,気になるやつを集�
 
 TOPLAP のページに example がまとまっている.
 
--   [About | TOPLAP](http://toplap.org/about/)
+-   [About | TOPLAP](https://toplap.org/about/)
 
 Andrew Sorensen
 ---------------
@@ -201,7 +201,7 @@ Clojure でのライブ.
 
 Overtone を利用したミュージシャンデュオ
 
--   [Meta-eX - Live Coding Duo](http://meta-ex.com/)
+-   [Meta-eX - Live Coding Duo](https://meta-ex.com/)
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/bMP-7POtML0" frameborder="0" allowfullscreen></iframe>
 

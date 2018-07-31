@@ -123,7 +123,7 @@ Androidのアプリを作りたいので、Courseraでイリノイ大学のAndro
       </p>
       
       <p>
-        <img alt="" src="http://lh6.ggpht.com/-3OADb9oo8ew/Uu5IvqNp5rI/AAAAAAAABBA/9CjaGYSrPAs/b69dfd00754411e3a3a1412d6a21891f.png" />
+        <img alt="" src="https://lh6.ggpht.com/-3OADb9oo8ew/Uu5IvqNp5rI/AAAAAAAABBA/9CjaGYSrPAs/b69dfd00754411e3a3a1412d6a21891f.png" />
       </p>
     </div>
   </div>
@@ -139,7 +139,7 @@ Androidのアプリを作りたいので、Courseraでイリノイ大学のAndro
       </p>
       
       <p>
-        <img alt="" src="http://lh6.ggpht.com/-GYnTyQ-dydg/Uu5JEJ8ziRI/AAAAAAAABBI/87anf9TTpjE/7e37c85075cc11e3bdef9f148d21a5b9.png" />
+        <img alt="" src="https://lh6.ggpht.com/-GYnTyQ-dydg/Uu5JEJ8ziRI/AAAAAAAABBI/87anf9TTpjE/7e37c85075cc11e3bdef9f148d21a5b9.png" />
       </p>
     </div>
   </div>
@@ -155,7 +155,7 @@ Androidのアプリを作りたいので、Courseraでイリノイ大学のAndro
       </p>
       
       <p>
-        <img alt="" src="http://lh3.ggpht.com/-cVD572_tZ3g/Uu5JRYh7bBI/AAAAAAAABBQ/kQ3G5nozJ-g/4a68d210868611e3a7c56f69d855062b.png" />
+        <img alt="" src="https://lh3.ggpht.com/-cVD572_tZ3g/Uu5JRYh7bBI/AAAAAAAABBQ/kQ3G5nozJ-g/4a68d210868611e3a7c56f69d855062b.png" />
       </p>
     </div>
   </div>
@@ -171,7 +171,7 @@ Androidのアプリを作りたいので、Courseraでイリノイ大学のAndro
       </p>
       
       <p>
-        <img alt="" src="http://lh6.ggpht.com/-pULzIWGlVto/Uu5Jaie53nI/AAAAAAAABBg/6lWxVCgrKAA/18e27c90868711e3a36ccd7596303339.png" />
+        <img alt="" src="https://lh6.ggpht.com/-pULzIWGlVto/Uu5Jaie53nI/AAAAAAAABBg/6lWxVCgrKAA/18e27c90868711e3a36ccd7596303339.png" />
       </p>
     </div>
   </div>

@@ -57,4 +57,4 @@ task idを指定してコマンドを実行すると、Descriptionに c が追�
 
     $ taskcomments 20
 
- [1]: http://odiscode.blogspot.jp/2012/02/organizing-my-world-with-taskwarrior.html
+ [1]: https://odiscode.blogspot.jp/2012/02/organizing-my-world-with-taskwarrior.html

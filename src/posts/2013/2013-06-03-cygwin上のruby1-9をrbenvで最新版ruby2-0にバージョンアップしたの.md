@@ -175,8 +175,8 @@ rbenvは、いろんなRuby版数を簡単に切り替える機能もありま�
   * [rbenvで管理しているrubyのバージョンを2.0.0-p195にアップデートする手順 #rbenv #Ruby &#8211; Qiita [キータ]][6]
 
  [1]: https://github.com/sstephenson/rbenv
- [2]: http://d.hatena.ne.jp/takehikom/20130516/1363359600
- [3]: http://mukaer.com/archives/2012/03/12/rubyrbenv/
- [4]: http://www.mk-mode.com/octopress/2012/07/20/20002001/
- [5]: http://takuya-1st.hatenablog.jp/entry/20121104/1352015815
- [6]: http://qiita.com/items/5d000afa6571c71c2723
+ [2]: https://d.hatena.ne.jp/takehikom/20130516/1363359600
+ [3]: https://mukaer.com/archives/2012/03/12/rubyrbenv/
+ [4]: https://www.mk-mode.com/octopress/2012/07/20/20002001/
+ [5]: https://takuya-1st.hatenablog.jp/entry/20121104/1352015815
+ [6]: https://qiita.com/items/5d000afa6571c71c2723

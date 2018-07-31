@@ -28,7 +28,7 @@ Rest APIのことを調べていたら、Rest APIで 為替情報を取得でき
 おもしろいAPIを OANDA 証券が提供しているのを見つけたので、試してみた.
 
 -   [OANDA FX 外国為替取引 API のご紹介 | OANDA
-    Japan株式会社](http://www.oanda.jp/api/)
+    Japan株式会社](https://www.oanda.jp/api/)
 
 やってみる
 ==========
@@ -40,7 +40,7 @@ Rest APIのことを調べていたら、Rest APIで 為替情報を取得でき
 
 右上のデモ口座開設をクリックして、手順にしたがって口座開設.
 
--   <http://www.oanda.jp/>
+-   <https://www.oanda.jp/>
 
 デモ口座にログインして、APIアクセスの管理を選択し、 Personal Access
 Tokenを発行.
@@ -50,7 +50,7 @@ Tokenを発行.
 
 APIのドキュメントは以下にある. なんと日本語! 微妙な訳なので自動翻訳?!
 
--   <http://developer.oanda.com/docs/>
+-   <https://developer.oanda.com/docs/>
 
 Pythonで動かしてみよう. 為替レートを取得するサンプルは以下にある.
 
@@ -82,7 +82,7 @@ API Wrapperを利用すれば、rest の知識なしに 操作ができる.
 Mastering Python for Financeという本に、
 oandapyを利用したトレード方法が書いてある.
 
--   <http://www.amazon.co.jp/Mastering-Python-Finance-James-Ma/dp/1784394513>
+-   <https://www.amazon.co.jp/Mastering-Python-Finance-James-Ma/dp/1784394513>
 
 oandapyを利用した、為替レート取得.
 
@@ -113,7 +113,7 @@ while(True):
 また、このサイトの管理人さんは、OANDAを利用して実際にトレードしているようだ.
 
 -   [夢と、希望と、勇気と、トレード戦隊
-    バイセルマン！](http://ameblo.jp/wtpmjgdaxuqnkhebcfilorvy/)
+    バイセルマン！](https://ameblo.jp/wtpmjgdaxuqnkhebcfilorvy/)
 
 Metatrader は 古くからある売買方法だが、 OANDA
 APIを利用した方法を利用している人はほとんどいないので、
@@ -128,10 +128,10 @@ Special Thanks
 
 -   [OANDA fx Trade API
     を使って、リアルタイムな為替レートを取得してみる -
-    うなの日記](http://unageanu.hatenablog.com/entry/2015/05/12/104942)
+    うなの日記](https://unageanu.hatenablog.com/entry/2015/05/12/104942)
 -   [OANDAの REST APIを使ってphpから口座情報にアクセス | The Coherence
     World](https://nsplat.wordpress.com/2015/05/24/oanda%E3%81%AE-rest-api%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6php%E3%81%8B%E3%82%89%E5%8F%A3%E5%BA%A7%E6%83%85%E5%A0%B1%E3%81%AB%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9/)
 -   [Scala - リアルタイム為替レートをとってみた -
-    Qiita](http://qiita.com/takuan_v2/items/9c17ba43c8cf50872143)
+    Qiita](https://qiita.com/takuan_v2/items/9c17ba43c8cf50872143)
 
     <p style="font-size:32px">以上、Happy Hacking!!</p>

@@ -21,7 +21,7 @@ url: /archives/=2723
 のものを抜き出す場合などに利用する.
 
 -   [優先度つきキュー -
-    Wikipedia](http://ja.wikipedia.org/wiki/%E5%84%AA%E5%85%88%E5%BA%A6%E3%81%A4%E3%81%8D%E3%82%AD%E3%83%A5%E3%83%BC)
+    Wikipedia](https://ja.wikipedia.org/wiki/%E5%84%AA%E5%85%88%E5%BA%A6%E3%81%A4%E3%81%8D%E3%82%AD%E3%83%A5%E3%83%BC)
 
 1 年前は C++ で書いた
 ---------------------
@@ -198,7 +198,7 @@ Special Thanks
 ==============
 
 -   [11. 新たに追加されたコレクション | TECHSCORE
-    (テックスコア)](http://www.techscore.com/tech/Java/JavaSE/Utility/11/)
+    (テックスコア)](https://www.techscore.com/tech/Java/JavaSE/Utility/11/)
 -   [java.util.PriorityQueue で取り出したデータがソートされないケース -
-    日々の報告書](http://d.hatena.ne.jp/stakizawa/20070930/t1)
+    日々の報告書](https://d.hatena.ne.jp/stakizawa/20070930/t1)
 

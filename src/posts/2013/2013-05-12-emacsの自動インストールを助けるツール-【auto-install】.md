@@ -32,14 +32,14 @@ emacswikiなんかをURLに指定すると、そこからElispをダウンロー
 
 以下のコマンドでまずは、auto-installをインストール。-O は大文字のオーだ。
 
-$ curl -O <http://www.emacswiki.org/emacs/download/auto-install.el>
+$ curl -O <https://www.emacswiki.org/emacs/download/auto-install.el>
 
 次に、設定を.emacsに記入する。
 
 <div style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px" id="scid:812469c5-0cb0-4c63-8c15-c81123a09de7:ba2fe9fa-944f-4816-9834-e4b303d1e35b" class="wlWriterEditableSmartContent">
   <pre name="code" class="c">; ------------------------------------------------------------------------
 ; auto-install
-; http://www.emacswiki.org/emacs/download/auto-install.el
+; https://www.emacswiki.org/emacs/download/auto-install.el
 ; ------------------------------------------------------------------------
 (when(require 'auto-install nil t)
   ;;インストールディレクトリを設定。.emacs.d/elispに入れる。
@@ -73,12 +73,12 @@ Emacs再起動して設定を反映する。
 
 ここでは、xml-rpc.elを取得する。M-x install-elisp RETして、URLを入力。
 
-[<font color="#0066cc">http://launchpadlibrarian.net/40270196/xml-rpc.el</font>][1]
+[<font color="#0066cc">https://launchpadlibrarian.net/40270196/xml-rpc.el</font>][1]
 
 ダウンロードしたら、C-c, C-c でバイトコンパイルする。そうすることで、速くElispを読み込むことができるようになる。Emacsを再起動することなく、Elispが使用可能になっている。
 
 ダウンロードからバイトコンパイルまでが、スムーズにこなせるのがいいですね～。
 
-[http://www.youtube.com/embed/bYRAOaQYCWQ?rel=0]
+[https://www.youtube.com/embed/bYRAOaQYCWQ?rel=0]
 
- [1]: http://launchpadlibrarian.net/40270196/xml-rpc.el
+ [1]: https://launchpadlibrarian.net/40270196/xml-rpc.el

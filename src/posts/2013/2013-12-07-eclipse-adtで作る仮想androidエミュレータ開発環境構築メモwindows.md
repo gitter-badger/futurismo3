@@ -162,8 +162,8 @@ Intel CPUを利用しているならば、エミュレータを高速化でき�
 
  [1]: https://www.coursera.org/course/androidapps101
  [2]: https://developer.android.com/sdk/index.html
- [3]: http://mergedoc.sourceforge.jp/
- [4]: http://qiita.com/hidekuro/items/6a252c82132ed5d279a4
+ [3]: https://mergedoc.sourceforge.jp/
+ [4]: https://qiita.com/hidekuro/items/6a252c82132ed5d279a4
  [5]: https://futurismo.biz/archives/751
  [6]: https://picasaweb.google.com/lh/photo/DEMlwi2rgRacUtsESESOzTyD6hjDXGH6XyE6iLrzolo?feat=embedwebsite
  [7]: https://picasaweb.google.com/lh/photo/FhPmhzohzGI0lpOcI_W5LzyD6hjDXGH6XyE6iLrzolo?feat=embedwebsite

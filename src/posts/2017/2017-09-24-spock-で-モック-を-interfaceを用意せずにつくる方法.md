@@ -98,5 +98,5 @@ org.spockframework.mock.CannotCreateMockException:Cannot create mock for class s
 今日はここまで。
 
  [1]: https://futurismo.biz/archives/6786
- [2]: http://bytebuddy.net/#/
+ [2]: https://bytebuddy.net/#/
  [3]: https://github.com/tsu-nera/java_spock_playground

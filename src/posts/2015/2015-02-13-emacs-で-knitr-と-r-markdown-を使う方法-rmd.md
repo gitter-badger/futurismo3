@@ -50,9 +50,9 @@ polymode を利用すると, 複数のモードを共存させる. これを利�
 (ESS) と markdown-mode を共存.
 
 -   [Using ESS with .Rmd files | John
-    Stanton-Geddes](http://johnstantongeddes.org/open%20science/2014/03/26/Rmd-polymode.html)
+    Stanton-Geddes](https://johnstantongeddes.org/open%20science/2014/03/26/Rmd-polymode.html)
 -   [r - knitr Markdown highlighting in Emacs? - Stack
-    Overflow](http://stackoverflow.com/questions/16567348/knitr-markdown-highlighting-in-emacs)
+    Overflow](https://stackoverflow.com/questions/16567348/knitr-markdown-highlighting-in-emacs)
 -   <https://github.com/vspinu/polymode>
 
 ``` {.commonlisp}
@@ -73,7 +73,7 @@ markdown への変換
 ess-swv-knit で Rmd を md に変換できる.
 
 -   [R でレポートを作成するのに knitr が超便利 -
-    あらびき日記](http://d.hatena.ne.jp/a_bicky/20140221/1392941055#)
+    あらびき日記](https://d.hatena.ne.jp/a_bicky/20140221/1392941055#)
 
 HTLM への変換
 =============
@@ -82,7 +82,7 @@ html に変換するには, 以下の方法がある.
 
 -   <https://twitter.com/braingrasper/status/436689893624778752>
 -   [Using R Markdown in
-    Emacs](http://roughtheory.com/posts/ess-rmarkdown.html)
+    Emacs](https://roughtheory.com/posts/ess-rmarkdown.html)
 
 ``` {.commonlisp}
 (defun rmarkdown-to-html ()
@@ -99,7 +99,7 @@ html に変換するには, 以下の方法がある.
 (defun ess-rmarkdown ()
   (interactive)
   "Compile R markdown (.Rmd). Should work for any output type."
-  "http://roughtheory.com/posts/ess-rmarkdown.html"
+  "https://roughtheory.com/posts/ess-rmarkdown.html"
   ; Check if attached R-session
   (condition-case nil
       (ess-get-process)

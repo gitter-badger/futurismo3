@@ -69,7 +69,7 @@ public Result sayHello2() {
 ---------------
 
 ``` {.bash}
-curl -H "Content-Type: application/json" -d '{"name":"tsu-nera"}' http://localhost:9000/test/jsonreq
+curl -H "Content-Type: application/json" -d '{"name":"tsu-nera"}' https://localhost:9000/test/jsonreq
 ```
 
 Jsonデータを返す方法
@@ -106,7 +106,7 @@ public Result sayHello() {
 ---------------
 
 ``` {.bash}
- curl  http://localhost:9000/test/jsonresp
+ curl  https://localhost:9000/test/jsonresp
 
 {"exampleField1":"Hello world!","name":"tsu-nera","exampleField3":{"subField1":"foo","subField2":"bar"}}
 ```

@@ -23,7 +23,7 @@ url: /archives/=1236
 ネットでいろいろと調べてみると、eclipsecoderプラグインの不具合であることがわかった。   
 プラグインを0.3.10以降にすればいいらしい。
 
-<a href="https://code.google.com/p/eclipsecoder/issues/detail?id=40" target="_blank"><img class="alignleft" border="0" alt="" align="left" src="http://capture.heartrails.com/150x130/shadow?https://code.google.com/p/eclipsecoder/issues/detail?id=40" width="150" height="130" /></a> <a style="color: #0070c5" href="https://code.google.com/p/eclipsecoder/issues/detail?id=40" target="_blank">Issue 40 &#8211; eclipsecoder &#8211; Arena version downloaded by Eclipsecoder is too old and doesn&#8217;t work &#8211; An Eclipse plug-in for competing at the TopCoder online algorithm competition &#8211; Google Project Hosting</a>    <img border="0" alt="" src="http://b.hatena.ne.jp/entry/image/https://code.google.com/p/eclipsecoder/issues/detail?id=40" /><br style="clear: both" />
+<a href="https://code.google.com/p/eclipsecoder/issues/detail?id=40" target="_blank"><img class="alignleft" border="0" alt="" align="left" src="https://capture.heartrails.com/150x130/shadow?https://code.google.com/p/eclipsecoder/issues/detail?id=40" width="150" height="130" /></a> <a style="color: #0070c5" href="https://code.google.com/p/eclipsecoder/issues/detail?id=40" target="_blank">Issue 40 &#8211; eclipsecoder &#8211; Arena version downloaded by Eclipsecoder is too old and doesn&#8217;t work &#8211; An Eclipse plug-in for competing at the TopCoder online algorithm competition &#8211; Google Project Hosting</a>    <img border="0" alt="" src="https://b.hatena.ne.jp/entry/image/https://code.google.com/p/eclipsecoder/issues/detail?id=40" /><br style="clear: both" />
 
 早速、Eclipsecoder Coreを0.3.12にアップデートしようとしたころ、エラーしてできない。   
 こんなメッセージが表示された。
@@ -38,7 +38,7 @@ url: /archives/=1236
 
 さらに、ネットでいろいろと調べてみるとEclipse上にアップデートサーバの情報がキャッシュされていて、その情報が古いかららしい。キャッシュクリアのためには、以下の方法を試す。
 
-[ウィンドウ] > [設定] > [インストール/更新] > [利用可能なソフトウェア]で、今回ダウンロードしてくるサーバを選択(今回はEclipseCoder <http://fornwall.net/eclipsecoder/>)し、右の[再ロード]をおす。
+[ウィンドウ] > [設定] > [インストール/更新] > [利用可能なソフトウェア]で、今回ダウンロードしてくるサーバを選択(今回はEclipseCoder <https://fornwall.net/eclipsecoder/>)し、右の[再ロード]をおす。
 
 これで、解決するはずが・・・直らない！   
 EclipseCoderをアンインストールしたら、今度はインストールすらできない！

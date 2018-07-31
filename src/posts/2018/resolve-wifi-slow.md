@@ -11,7 +11,7 @@ title: ソフトバンク光でチャンネル競合を解消した
 ## バッファローの USB Wifi
 購入したものは、こちら。バッファローの USB Wifi. wi-u3-866ds
 
-- http://buffalo.jp/product/wireless-lan/client/wi-u3-866ds/
+- https://buffalo.jp/product/wireless-lan/client/wi-u3-866ds/
 
 これを使っていたのだけれども、とにかく回線が不安定。
 しょっちゅうブツブツ切れてしまう。
@@ -53,5 +53,5 @@ $ sudo iwlist (interface name) scan | grep Freq
 
 
 ### 参考情報
-- http://d.hatena.ne.jp/softcandy/20160801/1470003818
+- https://d.hatena.ne.jp/softcandy/20160801/1470003818
 - https://askubuntu.com/questions/309458/is-there-a-program-to-see-channels-used-by-wifi-networks-similar-to-vistumbler

@@ -31,7 +31,7 @@ SphinxとJenkinsを組み合わせたら、どんなことが可能なのか考�
 
 表記の揺れは、Yahoo の提供する校正支援APIを利用すれば、実現可能かも。
   
-<http://developer.yahoo.co.jp/webapi/jlp/kousei/v1/kousei.html>
+<https://developer.yahoo.co.jp/webapi/jlp/kousei/v1/kousei.html>
 
 というわけで、できることとして、文字列カウントの代わりに、ステップカウントを入れた。
   
@@ -59,7 +59,7 @@ Task Scan
 
 うーん、これではまだまだ使い物にはならないな。
 
-[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb79.png" alt="image" width="401" height="244" border="0" />][4]
+[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb79.png" alt="image" width="401" height="244" border="0" />][4]
 
 <div id="fastlookup_top">
 </div>
@@ -67,4 +67,4 @@ Task Scan
  [1]: https://futurismo.biz/archives/826
  [2]: https://futurismo.biz/archives/559
  [3]: https://futurismo.biz/archives/629
- [4]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image79.png
+ [4]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image79.png

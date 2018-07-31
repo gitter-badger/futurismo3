@@ -297,7 +297,7 @@ server {
     proxy_set_header Proxy "";
     proxy_pass_header Server;
 
-    proxy_pass http://web:3000;
+    proxy_pass https://web:3000;
     proxy_buffering off;
     proxy_redirect off;
     proxy_http_version 1.1;
@@ -314,7 +314,7 @@ server {
     proxy_set_header X-Forwarded-Proto https;
     proxy_set_header Proxy "";
 
-    proxy_pass http://web:4000;
+    proxy_pass https://web:4000;
     proxy_buffering off;
     proxy_redirect off;
     proxy_http_version 1.1;
@@ -472,7 +472,7 @@ server {
     proxy_set_header Proxy "";
     proxy_pass_header Server;
 
-    proxy_pass http://web:3001;
+    proxy_pass https://web:3001;
     proxy_buffering off;
     proxy_redirect off;
     proxy_http_version 1.1;
@@ -497,5 +497,5 @@ server {
 
 ## References
 
-- [複数のWebアプリを1サーバーのDockerを使ってSSL対応のサブドメインで簡単に運用する \| QUARTETCOM TECH BLOG](http://tech.quartetcom.co.jp/2017/04/11/multiple-ssl-apps-on-one-docker-host/)
+- [複数のWebアプリを1サーバーのDockerを使ってSSL対応のサブドメインで簡単に運用する \| QUARTETCOM TECH BLOG](https://tech.quartetcom.co.jp/2017/04/11/multiple-ssl-apps-on-one-docker-host/)
 - [Docker🐳でMastodon🐘のインスタンスを立てるドン \(リバースプロキシにnginx\-proxy \+ letsencrypt\-nginx\-proxy\-companionを使う\) \- Qiita](https://qiita.com/ryo_dg/items/e0cc93e6a8688e5116c8)

@@ -26,7 +26,7 @@ Akka とは
 Akka とは、Scala で Actor モデルベースの平行処理を書くときの、
 デファクトスタンダードなライブラリだ.
 
--   [Akka](http://akka.io/)
+-   [Akka](https://akka.io/)
 
 Hello Akka!!
 ============
@@ -73,7 +73,7 @@ version := "1.0"
 
 scalaVersion := "2.10.0"
 
-resolvers += "Typesafe Repository" at "http://repo.typesafe.com/typesafe/releases/"
+resolvers += "Typesafe Repository" at "https://repo.typesafe.com/typesafe/releases/"
 
 libraryDependencies += "com.typesafe.akka" % "akka-actor_2.10" % "2.2-M1"
 ```
@@ -131,8 +131,8 @@ object Main extends App {
 ====
 
 -   [Simple Scala Akka Actor examples (Hello, world examples) |
-    alvinalexander.com](http://alvinalexander.com/scala/simple-scala-akka-actor-examples-hello-world-actors#)
+    alvinalexander.com](https://alvinalexander.com/scala/simple-scala-akka-actor-examples-hello-world-actors#)
 -   [The Neophyte's Guide to Scala Part 14: The Actor approach to
     concurrency -
-    Da...](http://danielwestheide.com/blog/2013/02/27/the-neophytes-guide-to-scala-part-14-the-actor-approach-to-concurrency.html#)
+    Da...](https://danielwestheide.com/blog/2013/02/27/the-neophytes-guide-to-scala-part-14-the-actor-approach-to-concurrency.html#)
 

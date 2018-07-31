@@ -30,7 +30,7 @@ Delegation
 
 委譲.あるオブジェクトの操作を一部他のオブジェクトに代替させる手法.
 
--   [委譲 - Wikipedia](http://ja.wikipedia.org/wiki/%E5%A7%94%E8%AD%B2)
+-   [委譲 - Wikipedia](https://ja.wikipedia.org/wiki/%E5%A7%94%E8%AD%B2)
 
 特徴
 ----
@@ -48,7 +48,7 @@ Delegation
 参考:
 
 -   [コンポジションとデリゲーション -
-    とある技術メモブログ](http://d.hatena.ne.jp/earu/20100525/1274794979)
+    とある技術メモブログ](https://d.hatena.ne.jp/earu/20100525/1274794979)
 
 継承との比較
 ------------
@@ -79,13 +79,13 @@ Delegation
 -   eclipse では, 右クリック→ソース→委譲メソッドで簡単に作成できる.
 -   Ruby には delegation のライブラリがある. [Ruby で delegation (委譲)
     を簡単にする 2 つの方法 -
-    Qiita](http://qiita.com/w650/items/671cc9c49b2ebf60620d)
+    Qiita](https://qiita.com/w650/items/671cc9c49b2ebf60620d)
 
 参考:
 
 -   [オブジェクト指向で. 継承の他に, 委譲といのが出てきますが.
     これは具... - Yahoo!
-    知恵袋](http://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14103428069)
+    知恵袋](https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14103428069)
 
 関連する Design Pattern
 -----------------------
@@ -102,7 +102,7 @@ Strategy Pattern
 
 サンプルとして, Gof デザインパターンの Strategy パターンを書いた.
 参考:[Tricorn Labs » State パターンと Strategy
-パターンは何が違うのか考える](http://lab.tricorn.co.jp/toda/1088)
+パターンは何が違うのか考える](https://lab.tricorn.co.jp/toda/1088)
 
 ここでは, 戦略を別々のクラスに委譲することで, 次々に切り替えている.
 

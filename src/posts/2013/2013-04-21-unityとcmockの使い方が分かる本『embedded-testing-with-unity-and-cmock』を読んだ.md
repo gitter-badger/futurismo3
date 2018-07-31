@@ -25,7 +25,7 @@ UnityとCMockはC言語のためのxUnitとMockフレームワーク。UnityとC
 
 * * *
 
-<a href="http://www.lulu.com/shop/mark-vandervoord/embedded-testing-with-unity-and-cmock/ebook/product-17422227.html" target="_blank"><img class="alignleft" style="margin: 0px 7px 2px 0px;" alt="" src="http://capture.heartrails.com/150x130/shadow?http://www.lulu.com/shop/mark-vandervoord/embedded-testing-with-unity-and-cmock/ebook/product-17422227.html" width="150" height="130" align="left" border="0" /></a> <a style="color: #0070c5;" href="http://www.lulu.com/shop/mark-vandervoord/embedded-testing-with-unity-and-cmock/ebook/product-17422227.html" target="_blank">Embedded Testing with Unity and CMock by Mark VanderVoord (eBook) &#8211; Lulu</a> <img alt="" src="http://b.hatena.ne.jp/entry/image/http://www.lulu.com/shop/mark-vandervoord/embedded-testing-with-unity-and-cmock/ebook/product-17422227.html" border="0" />
+<a href="https://www.lulu.com/shop/mark-vandervoord/embedded-testing-with-unity-and-cmock/ebook/product-17422227.html" target="_blank"><img class="alignleft" style="margin: 0px 7px 2px 0px;" alt="" src="https://capture.heartrails.com/150x130/shadow?https://www.lulu.com/shop/mark-vandervoord/embedded-testing-with-unity-and-cmock/ebook/product-17422227.html" width="150" height="130" align="left" border="0" /></a> <a style="color: #0070c5;" href="https://www.lulu.com/shop/mark-vandervoord/embedded-testing-with-unity-and-cmock/ebook/product-17422227.html" target="_blank">Embedded Testing with Unity and CMock by Mark VanderVoord (eBook) &#8211; Lulu</a> <img alt="" src="https://b.hatena.ne.jp/entry/image/https://www.lulu.com/shop/mark-vandervoord/embedded-testing-with-unity-and-cmock/ebook/product-17422227.html" border="0" />
 
 * * *
 

@@ -185,6 +185,6 @@ iptablesを再起動して設定を適用すれば、telnetできるようにな
 
 <!--:-->
 
- [1]: http://www10.atwiki.jp/noel1008/pages/76.html
- [2]: http://blog.goo.ne.jp/j-watanuki/e/ad19bf558f373b46016115a581396617
- [3]: http://onoaff.blog28.fc2.com/blog-entry-41.html
+ [1]: https://www10.atwiki.jp/noel1008/pages/76.html
+ [2]: https://blog.goo.ne.jp/j-watanuki/e/ad19bf558f373b46016115a581396617
+ [3]: https://onoaff.blog28.fc2.com/blog-entry-41.html

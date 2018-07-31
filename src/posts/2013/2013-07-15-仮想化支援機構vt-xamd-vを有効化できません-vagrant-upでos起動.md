@@ -90,9 +90,9 @@ BIOSの種類によって、設定項目は異なりますが、どこかにあ�
 
 #### 参考
 
-  * <a href="http://d.hatena.ne.jp/yohei-a/20110124/1295887695" target="_blank">仮想化支援機能(VT-x/AMD-V)を有効化できません &#8211; ablog</a>
-  * <a href="http://shibayu36.hatenablog.com/entry/2013/03/17/175405" target="_blank">vagrant upの実行が終わらない話 &#8211; $shibayu36->blog;</a>
+  * <a href="https://d.hatena.ne.jp/yohei-a/20110124/1295887695" target="_blank">仮想化支援機能(VT-x/AMD-V)を有効化できません &#8211; ablog</a>
+  * <a href="https://shibayu36.hatenablog.com/entry/2013/03/17/175405" target="_blank">vagrant upの実行が終わらない話 &#8211; $shibayu36->blog;</a>
 
- [1]: http://lh4.ggpht.com/-CTNCW3tgK7g/UeMPiEOoy5I/AAAAAAAAAqM/TRIQ71ByBNs/SnapCrab_VirtualBox%252520-%252520%2525E3%252582%2525A8%2525E3%252583%2525A9%2525E3%252583%2525BC_2013-7-14_22-52-4_No-00.jpg
+ [1]: https://lh4.ggpht.com/-CTNCW3tgK7g/UeMPiEOoy5I/AAAAAAAAAqM/TRIQ71ByBNs/SnapCrab_VirtualBox%252520-%252520%2525E3%252582%2525A8%2525E3%252583%2525A9%2525E3%252583%2525BC_2013-7-14_22-52-4_No-00.jpg
  [2]: https://picasaweb.google.com/lh/photo/gY2l6PnOtYSXgRFirauHbjyD6hjDXGH6XyE6iLrzolo?feat=embedwebsite
- [3]: http://lh6.ggpht.com/--_dWdh0TkmY/UeMWqFa6UWI/AAAAAAAAAqs/sG3i-18UktM/vt-x_enable.jpg
+ [3]: https://lh6.ggpht.com/--_dWdh0TkmY/UeMWqFa6UWI/AAAAAAAAAqs/sG3i-18UktM/vt-x_enable.jpg

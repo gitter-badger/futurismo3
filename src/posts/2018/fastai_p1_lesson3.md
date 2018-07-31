@@ -8,7 +8,7 @@ date: 2018-05-04T09:48:32+09:00
 
 詳しくは、以下の参考記事を参照。
 
-- http://www.fast.ai/2018/04/29/categorical-embeddings/
+- https://www.fast.ai/2018/04/29/categorical-embeddings/
 - https://github.com/fastai/fastai/blob/master/courses/dl1/lesson3-rossman.ipynb
 
 この記事では、オリジナルのデータに対してこの技をどうやって適用するか、

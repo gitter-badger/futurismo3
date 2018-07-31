@@ -29,7 +29,7 @@ url: /archives/=2370
     
     <ul class="org-ul">
       <li>
-        <a href="http://ja.wikipedia.org/wiki/Squid_(%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2)">Suid (ソフトウェア) &#8211; Wikipedia</a>
+        <a href="https://ja.wikipedia.org/wiki/Squid_(%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2)">Suid (ソフトウェア) &#8211; Wikipedia</a>
       </li>
     </ul>
     
@@ -39,7 +39,7 @@ url: /archives/=2370
     
     <ul class="org-ul">
       <li>
-        <a href="http://www.acmeconsulting.it/SquidNT/">Acme Consulting -Società di Consulenza e Formazione Informatica &#8211; Torino</a>
+        <a href="https://www.acmeconsulting.it/SquidNT/">Acme Consulting -Società di Consulenza e Formazione Informatica &#8211; Torino</a>
       </li>
     </ul>
     
@@ -193,7 +193,7 @@ C:\squid\sbin>net start squid
     
     <ul class="org-ul">
       <li>
-        <a href="http://squid.acmeconsulting.it/index.html">Acme Consulting -Società di Consulenza e Formazione Informatica &#8211; Torino</a>
+        <a href="https://squid.acmeconsulting.it/index.html">Acme Consulting -Società di Consulenza e Formazione Informatica &#8211; Torino</a>
       </li>
     </ul>
     
@@ -213,7 +213,7 @@ Re-type new password:**************
     
     <ul class="org-ul">
       <li>
-        <a href="http://phpspot.net/php/pghtpasswd%E7%94%A8%E3%83%91%E3%82%B9%E4%BD%9C%E6%88%90%E3%83%84%E3%83%BC%E3%83%AB.html">htpasswd用パス作成ツール &#8211; phpspot</a>
+        <a href="https://phpspot.net/php/pghtpasswd%E7%94%A8%E3%83%91%E3%82%B9%E4%BD%9C%E6%88%90%E3%83%84%E3%83%BC%E3%83%AB.html">htpasswd用パス作成ツール &#8211; phpspot</a>
       </li>
     </ul>
     
@@ -257,22 +257,22 @@ http_access allow password
   <div class="outline-text-2" id="text-6">
     <ul class="org-ul">
       <li>
-        <a href="http://ganbarepc.blog32.fc2.com/blog-entry-325.html">簡単プロキシサーバー設定！【 Squid　（Windows版） 】</a>
+        <a href="https://ganbarepc.blog32.fc2.com/blog-entry-325.html">簡単プロキシサーバー設定！【 Squid　（Windows版） 】</a>
       </li>
       <li>
-        <a href="http://d.hatena.ne.jp/neyngedhoo/20121023/1350971792">WindowsでプロキシーサーバSquid &#8211; なにがしのそれがし。neyngedhooの日記</a>
+        <a href="https://d.hatena.ne.jp/neyngedhoo/20121023/1350971792">WindowsでプロキシーサーバSquid &#8211; なにがしのそれがし。neyngedhooの日記</a>
       </li>
       <li>
-        <a href="http://uguisu.skr.jp/Windows/squid_win_tips.html">プロキシ（Proxy）サーバをWindows上に立ててみる：Squidの使い方</a>
+        <a href="https://uguisu.skr.jp/Windows/squid_win_tips.html">プロキシ（Proxy）サーバをWindows上に立ててみる：Squidの使い方</a>
       </li>
       <li>
-        <a href="http://www32.atwiki.jp/lmes2/pages/192.html">おのれ鍋奉行が！ &#8211; Squid で BASIC認証</a>
+        <a href="https://www32.atwiki.jp/lmes2/pages/192.html">おのれ鍋奉行が！ &#8211; Squid で BASIC認証</a>
       </li>
       <li>
-        <a href="http://squid.robata.org/squid_nt.html">Windows NT 4.0/2000/XP/2003用のSquid</a>
+        <a href="https://squid.robata.org/squid_nt.html">Windows NT 4.0/2000/XP/2003用のSquid</a>
       </li>
       <li>
-        <a href="http://iceweasel.blog101.fc2.com/blog-entry-118.html">Windows Squid プロキシ 認証 &#8211; 電波素子は電気執事の夢を見るか？</a>
+        <a href="https://iceweasel.blog101.fc2.com/blog-entry-118.html">Windows Squid プロキシ 認証 &#8211; 電波素子は電気執事の夢を見るか？</a>
       </li>
     </ul>
   </div></p>

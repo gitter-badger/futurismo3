@@ -36,7 +36,7 @@ url: /archives/=6817
 
 そこで、データベースのテストを自動化するためのツール、dbUnitを調べてみた。
 
-  * <http://dbunit.sourceforge.net/>
+  * <https://dbunit.sourceforge.net/>
 
 dbUnitをつかうと以下のようなことができる。
 

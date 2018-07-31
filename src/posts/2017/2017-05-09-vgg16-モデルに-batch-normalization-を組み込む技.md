@@ -48,7 +48,7 @@ Batch Normalization は、overfitting
 は存在しなかったから。
 
 -   [Lesson 5 Notes - Deep Learning Course
-    Wiki](http://wiki.fast.ai/index.php/Lesson_5_Notes#Introducing_Batch_Normalization_into_a_Pre-Trained_Model_.3C00:01:55.3E)
+    Wiki](https://wiki.fast.ai/index.php/Lesson_5_Notes#Introducing_Batch_Normalization_into_a_Pre-Trained_Model_.3C00:01:55.3E)
 
 Fast AI での解決方法
 ====================
@@ -117,7 +117,7 @@ Keras では、オプション指定で可能
 Keras では、VGG16 がデフォルトで使うことが出来る。以下の記事が詳しい。
 
 -   [Keras で VGG16 を使う -
-    人工知能に関する断創録](http://aidiary.hatenablog.com/entry/20170104/1483535144)
+    人工知能に関する断創録](https://aidiary.hatenablog.com/entry/20170104/1483535144)
 
 VGG16 というクラスが用意されている。
 

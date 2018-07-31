@@ -38,10 +38,10 @@ Software Defined Storageという用語を知りました。 この用語に関�
     
     <ul class="org-ul">
       <li>
-        <a href="http://en.wikipedia.org/wiki/Software-defined_data_center">Software-defined data center &#8211; Wikipedia, the free encyclopedia</a>
+        <a href="https://en.wikipedia.org/wiki/Software-defined_data_center">Software-defined data center &#8211; Wikipedia, the free encyclopedia</a>
       </li>
       <li>
-        <a href="http://en.wikipedia.org/wiki/Software_Defined_Infrastructure">Software Defined Infrastructure &#8211; Wikipedia, the free encyclopedia</a>
+        <a href="https://en.wikipedia.org/wiki/Software_Defined_Infrastructure">Software Defined Infrastructure &#8211; Wikipedia, the free encyclopedia</a>
       </li>
     </ul>
     
@@ -53,10 +53,10 @@ Software Defined Storageという用語を知りました。 この用語に関�
     
     <ul class="org-ul">
       <li>
-        <a href="http://www.ctc-g.co.jp/report/column/it_sdi/index.html">よくわかるIT新発見　第1回　「Software Defined xx」の潮流を読み解く！｜伊藤忠テクノソリューションズ</a>
+        <a href="https://www.ctc-g.co.jp/report/column/it_sdi/index.html">よくわかるIT新発見　第1回　「Software Defined xx」の潮流を読み解く！｜伊藤忠テクノソリューションズ</a>
       </li>
       <li>
-        <a href="http://itpro.nikkeibp.co.jp/article/COLUMN/20131127/521113/">漆原茂の技術インパクト &#8211; 第10回　Software Defined Everything：ITpro</a>
+        <a href="https://itpro.nikkeibp.co.jp/article/COLUMN/20131127/521113/">漆原茂の技術インパクト &#8211; 第10回　Software Defined Everything：ITpro</a>
       </li>
     </ul>
   </div></p>
@@ -92,10 +92,10 @@ Software Defined Storageという用語を知りました。 この用語に関�
       
       <ul class="org-ul">
         <li>
-          <a href="http://itpro.nikkeibp.co.jp/article/NEWS/20130723/493463/">米インテルがSoftware Defined Infrastructureを発表、ストレージとネットワークで攻勢：ITpro</a>
+          <a href="https://itpro.nikkeibp.co.jp/article/NEWS/20130723/493463/">米インテルがSoftware Defined Infrastructureを発表、ストレージとネットワークで攻勢：ITpro</a>
         </li>
         <li>
-          <a href="http://cloud.watch.impress.co.jp/docs/column/virtual/20130730_609512.html">【仮想化道場】“やわらかいデータセンター”を作る、IntelのSoftware Defined Infrastructure &#8211; クラウド Watch</a>
+          <a href="https://cloud.watch.impress.co.jp/docs/column/virtual/20130730_609512.html">【仮想化道場】“やわらかいデータセンター”を作る、IntelのSoftware Defined Infrastructure &#8211; クラウド Watch</a>
         </li>
       </ul>
     </div></p>
@@ -119,7 +119,7 @@ Software Defined Storageという用語を知りました。 この用語に関�
       
       <ul class="org-ul">
         <li>
-          <a href="http://en.wikipedia.org/wiki/Software-defined_networking">Software-defined networking &#8211; Wikipedia, the free encyclopedia</a>
+          <a href="https://en.wikipedia.org/wiki/Software-defined_networking">Software-defined networking &#8211; Wikipedia, the free encyclopedia</a>
         </li>
       </ul>
       
@@ -131,7 +131,7 @@ Software Defined Storageという用語を知りました。 この用語に関�
       
       <ul class="org-ul">
         <li>
-          <a href="http://gblogs.cisco.com/jp/2014/02/open-source-controller-framework-opendaylight-1/">Cisco Japan Blog » オープンソース コントローラ フレームワーク ― OpenDaylight (1)</a>
+          <a href="https://gblogs.cisco.com/jp/2014/02/open-source-controller-framework-opendaylight-1/">Cisco Japan Blog » オープンソース コントローラ フレームワーク ― OpenDaylight (1)</a>
         </li>
       </ul>
       
@@ -165,7 +165,7 @@ Software Defined Storageという用語を知りました。 この用語に関�
       
       <ul class="org-ul">
         <li>
-          <a href="http://en.wikipedia.org/wiki/Software-defined_storage">Software-defined storage &#8211; Wikipedia, the free encyclopedia</a>
+          <a href="https://en.wikipedia.org/wiki/Software-defined_storage">Software-defined storage &#8211; Wikipedia, the free encyclopedia</a>
         </li>
       </ul>
       
@@ -175,7 +175,7 @@ Software Defined Storageという用語を知りました。 この用語に関�
       
       <ul class="org-ul">
         <li>
-          <a href="http://www.publickey1.jp/blog/14/software-defined_storage.html">Software-Defined Storage、これからのストレージ技術が実現する世界とはどのようなものか？ － Publickey</a>
+          <a href="https://www.publickey1.jp/blog/14/software-defined_storage.html">Software-Defined Storage、これからのストレージ技術が実現する世界とはどのようなものか？ － Publickey</a>
         </li>
       </ul>
     </div></p>
@@ -201,7 +201,7 @@ Software Defined Storageという用語を知りました。 この用語に関�
       </p>
       
       <p>
-        <a href="http://www.ctc-g.co.jp/report/column/it_sdi/index.html">よくわかるIT新発見　第1回　「Software Defined xx」の潮流を読み解く！｜伊藤忠テクノソリューションズ</a>
+        <a href="https://www.ctc-g.co.jp/report/column/it_sdi/index.html">よくわかるIT新発見　第1回　「Software Defined xx」の潮流を読み解く！｜伊藤忠テクノソリューションズ</a>
       </p>
       
       <p>
@@ -234,7 +234,7 @@ Software Defined Storageという用語を知りました。 この用語に関�
       
       <ul class="org-ul">
         <li>
-          <a href="http://news.mynavi.jp/news/2013/04/12/141/">ラックはサーバ集積からモジュール構造へ、Intel | マイナビニュース</a>
+          <a href="https://news.mynavi.jp/news/2013/04/12/141/">ラックはサーバ集積からモジュール構造へ、Intel | マイナビニュース</a>
         </li>
       </ul>
       
@@ -261,7 +261,7 @@ Software Defined Storageという用語を知りました。 この用語に関�
     <div class="outline-text-3" id="text-4-1">
       <ul class="org-ul">
         <li>
-          <a href="http://ja.wikipedia.org/wiki/OpenStack">OpenStack &#8211; Wikipedia</a>
+          <a href="https://ja.wikipedia.org/wiki/OpenStack">OpenStack &#8211; Wikipedia</a>
         </li>
       </ul>
       
@@ -277,10 +277,10 @@ Software Defined Storageという用語を知りました。 この用語に関�
       
       <ul class="org-ul">
         <li>
-          <a href="http://itpro.nikkeibp.co.jp/article/Keyword/20121029/433321/">Networkキーワード &#8211; OpenStack とは：ITpro</a>
+          <a href="https://itpro.nikkeibp.co.jp/article/Keyword/20121029/433321/">Networkキーワード &#8211; OpenStack とは：ITpro</a>
         </li>
         <li>
-          <a href="http://cloud.watch.impress.co.jp/docs/column/cloud/20140404_642748.html">【クラウド特捜部】プレーヤーがそろい表舞台に立つOpenStack &#8211; クラウド Watch</a>
+          <a href="https://cloud.watch.impress.co.jp/docs/column/cloud/20140404_642748.html">【クラウド特捜部】プレーヤーがそろい表舞台に立つOpenStack &#8211; クラウド Watch</a>
         </li>
       </ul>
     </div></p>
@@ -294,7 +294,7 @@ Software Defined Storageという用語を知りました。 この用語に関�
     <div class="outline-text-3" id="text-4-2">
       <ul class="org-ul">
         <li>
-          <a href="http://www.atmarkit.co.jp/ait/articles/1403/03/news019.html">プロダクトの差はわずか？ 活動評価視点で検証：OpenStackとCloudStack、違いは何？ (1/2) &#8211; ＠IT</a>
+          <a href="https://www.atmarkit.co.jp/ait/articles/1403/03/news019.html">プロダクトの差はわずか？ 活動評価視点で検証：OpenStackとCloudStack、違いは何？ (1/2) &#8211; ＠IT</a>
         </li>
       </ul>
     </div></p>
@@ -312,10 +312,10 @@ Software Defined Storageという用語を知りました。 この用語に関�
       
       <ul class="org-ul">
         <li>
-          <a href="http://e-words.jp/w/OpenFlow.html">OpenFlowとは 〔 オープンフロー 〕 &#8211; 意味/解説/説明/定義 ： IT用語辞典</a>
+          <a href="https://e-words.jp/w/OpenFlow.html">OpenFlowとは 〔 オープンフロー 〕 &#8211; 意味/解説/説明/定義 ： IT用語辞典</a>
         </li>
         <li>
-          <a href="http://www.publickey1.jp/blog/13/openflowsdnopenflowsdn_japan_2013.html">OpenFlow/SDNはなぜ誕生したのか、OpenFlow以前にあった問題とは。生みの親カサド氏が壇上で語る。SDN Japan 2013 － Publickey</a>
+          <a href="https://www.publickey1.jp/blog/13/openflowsdnopenflowsdn_japan_2013.html">OpenFlow/SDNはなぜ誕生したのか、OpenFlow以前にあった問題とは。生みの親カサド氏が壇上で語る。SDN Japan 2013 － Publickey</a>
         </li>
       </ul>
     </div></p>
@@ -339,7 +339,7 @@ Software Defined Storageという用語を知りました。 この用語に関�
       
       <ul class="org-ul">
         <li>
-          <a href="http://gblogs.cisco.com/jp/2014/02/open-source-controller-framework-opendaylight-1/">Cisco Japan Blog » オープンソース コントローラ フレームワーク ― OpenDaylight (1)</a>
+          <a href="https://gblogs.cisco.com/jp/2014/02/open-source-controller-framework-opendaylight-1/">Cisco Japan Blog » オープンソース コントローラ フレームワーク ― OpenDaylight (1)</a>
         </li>
       </ul>
       
@@ -349,13 +349,13 @@ Software Defined Storageという用語を知りました。 この用語に関�
       
       <ul class="org-ul">
         <li>
-          <a href="http://sourceforge.jp/magazine/14/02/06/144500">オープンソースSDNプロジェクトのOpenDaylightが初リリース、「Hydrogen」が登場</a>
+          <a href="https://sourceforge.jp/magazine/14/02/06/144500">オープンソースSDNプロジェクトのOpenDaylightが初リリース、「Hydrogen」が登場</a>
         </li>
         <li>
-          <a href="http://www.atmarkit.co.jp/ait/articles/1402/05/news050.html">SDNのオープンソースプロジェクト：OpenDaylight Project、最初のリリースHydrogenを発表 &#8211; ＠IT</a>
+          <a href="https://www.atmarkit.co.jp/ait/articles/1402/05/news050.html">SDNのオープンソースプロジェクト：OpenDaylight Project、最初のリリースHydrogenを発表 &#8211; ＠IT</a>
         </li>
         <li>
-          <a href="http://gihyo.jp/dev/serial/01/linuxcon2014/0003">#3　最終回はNeela Jacques氏にOpenDaylightについて伺いました：LinuxCon Japan 2014 Preview｜gihyo.jp … 技術評論社</a>
+          <a href="https://gihyo.jp/dev/serial/01/linuxcon2014/0003">#3　最終回はNeela Jacques氏にOpenDaylightについて伺いました：LinuxCon Japan 2014 Preview｜gihyo.jp … 技術評論社</a>
         </li>
       </ul>
     </div></p>

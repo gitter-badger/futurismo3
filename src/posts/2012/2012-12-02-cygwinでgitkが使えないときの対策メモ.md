@@ -30,8 +30,8 @@ Cygwinのターミナルでgitkを利用しようとすると、以下のメッ�
 
 #### 今回の情報源はココを参考。
 
-  * <http://stackoverflow.com/questions/9248034/cygwin-gitk-issue>
-  * <a href="http://d.hatena.ne.jp/taktos/20120223/1330011958" name="1330011958">Cygwinでgitkを実行するのにX serverが必要になった</a>
+  * <https://stackoverflow.com/questions/9248034/cygwin-gitk-issue>
+  * <a href="https://d.hatena.ne.jp/taktos/20120223/1330011958" name="1330011958">Cygwinでgitkを実行するのにX serverが必要になった</a>
 
 ### Xwin サーバを立ち上げて、Cygwinからgitkを使えるようにする
 
@@ -72,7 +72,7 @@ gitkを使おうするたびに、コマンドを叩くのは面倒なので、~
 
 > gitk
 
-[<img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="image" border="0" alt="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb78.png" width="453" height="326" />][1]
+[<img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="image" border="0" alt="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb78.png" width="453" height="326" />][1]
 
 #### 環境
 
@@ -85,4 +85,4 @@ gitkを使おうするたびに、コマンドを叩くのは面倒なので、~
 
 Windows7 64bit
 
- [1]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image78.png
+ [1]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image78.png

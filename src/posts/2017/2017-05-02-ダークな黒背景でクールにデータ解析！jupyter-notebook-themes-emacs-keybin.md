@@ -105,7 +105,7 @@ seaborn
 
 -   [Best way to display Seaborn/Matplotlib plots with a dark iPython
     Notebook profile - Stack
-    Overflow](http://stackoverflow.com/questions/25451294/best-way-to-display-seaborn-matplotlib-plots-with-a-dark-ipython-notebook-profil)
+    Overflow](https://stackoverflow.com/questions/25451294/best-way-to-display-seaborn-matplotlib-plots-with-a-dark-ipython-notebook-profil)
 
 ``` {.python}
 custom_style = {'axes.labelcolor': 'white',

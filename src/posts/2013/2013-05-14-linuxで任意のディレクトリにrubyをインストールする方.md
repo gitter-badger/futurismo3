@@ -28,7 +28,7 @@ Linuxだと、管理者しかツールをインストールできないとおも
 
 まずは、ソースを取得します。Rubyソースは、ここからダウンロードできます。ここでは現時点での最新版、<span style="text-align: left; text-transform: none; background-color: rgb(255,255,255); text-indent: 0px; letter-spacing: normal; display: inline !important; font: 13px/20px verdana, geneva, arial, helvetica, sans-serif; white-space: normal; float: none; color: rgb(0,0,0); word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"><font face="Verdana">2.0.0-p0</font></span>をダウンロードする。
 
-  * [<font color="#0066cc">http://www.ruby-lang.org/ja/downloads/</font>][1]
+  * [<font color="#0066cc">https://www.ruby-lang.org/ja/downloads/</font>][1]
   * ruby-2.0.0-p0.tar.gz
 
 ### Rubyのインストール
@@ -86,6 +86,6 @@ PATH=$PATH:$HOME/local/bin
   * [さくらインターネットサーバに Ruby 1.9 をインストール &#8211; vivid memo][2]
   * [さくらインターネットのレンタルサーバに Ruby 1.9.3 を入れた &#8211; ema log(2011-11-04)][3]
 
- [1]: http://www.ruby-lang.org/ja/downloads/
- [2]: http://d.hatena.ne.jp/vividcode/20100221/1266756694
- [3]: http://emaame.com/20111104.html
+ [1]: https://www.ruby-lang.org/ja/downloads/
+ [2]: https://d.hatena.ne.jp/vividcode/20100221/1266756694
+ [3]: https://emaame.com/20111104.html

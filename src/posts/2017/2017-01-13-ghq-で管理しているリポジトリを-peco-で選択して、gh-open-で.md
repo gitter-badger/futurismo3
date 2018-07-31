@@ -32,9 +32,9 @@ peco, ghq, gh-open の組み合わせが便利。
 ghq で管理しているリポジトリを peco で選択して、gh-open で開く。
 
 -   [peco、ghq、gh-open の組み合わせが捗る - Webtech
-    Walker](http://webtech-walker.com/archive/2014/06/peco-ghq-gh-open.html)
+    Walker](https://webtech-walker.com/archive/2014/06/peco-ghq-gh-open.html)
 -   [nyagos で ghq と gh-open を peco ってつかいたかった -
-    Qiita](http://qiita.com/JugnautOnishi/items/f55058c2f6669a18076a)
+    Qiita](https://qiita.com/JugnautOnishi/items/f55058c2f6669a18076a)
 
 これを、fish に移植した。リポジトリは以下。
 

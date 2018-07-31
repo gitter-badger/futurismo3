@@ -283,7 +283,7 @@ Clojure の勉強を始めました。
       
       <ul class="org-ul">
         <li>
-          <a href="http://ayato.hateblo.jp/entry/20150603/1433329200">Clojure の開発で gtags を使う &#8211; (define -ayalog &#8216;())</a>
+          <a href="https://ayato.hateblo.jp/entry/20150603/1433329200">Clojure の開発で gtags を使う &#8211; (define -ayalog &#8216;())</a>
         </li>
       </ul>
       

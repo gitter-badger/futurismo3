@@ -65,5 +65,5 @@ Warningエラーがたくさんでるので、対策が必要。これはgmail�
 
 スクリプトは以下のとおりです。
 
- [1]: http://d.hatena.ne.jp/meganii/20120419/1334787470
- [2]: http://stackoverflow.com/questions/8783400/warning-already-initialized-constant-after-installing-tlsmail-gem
+ [1]: https://d.hatena.ne.jp/meganii/20120419/1334787470
+ [2]: https://stackoverflow.com/questions/8783400/warning-already-initialized-constant-after-installing-tlsmail-gem

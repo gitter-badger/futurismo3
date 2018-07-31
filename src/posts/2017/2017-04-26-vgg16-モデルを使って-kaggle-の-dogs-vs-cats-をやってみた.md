@@ -35,7 +35,7 @@ url: /archives/=6281
 fast.ai の Practical Deep Learning for Coders の week2 の課題で、
 勉強の理解のために、スクラッチで教えた内容を自分で実装してみてねと書かれていたので、やってみた。
 
--   <http://wiki.fast.ai/index.php/Lesson_2>
+-   <https://wiki.fast.ai/index.php/Lesson_2>
 
 はじめに
 ========
@@ -52,9 +52,9 @@ fine-tuning
 による転移学習。これについては、以下の記事がとても参考になった。
 
 -   [VGG16 の Fine-tuning による犬猫認識 (1) -
-    人工知能に関する断創録](http://aidiary.hatenablog.com/entry/20170108/1483876657)
+    人工知能に関する断創録](https://aidiary.hatenablog.com/entry/20170108/1483876657)
 -   [VGG16 の Fine-tuning による犬猫認識 (2) -
-    人工知能に関する断創録](http://aidiary.hatenablog.com/entry/20170110/1484057655)
+    人工知能に関する断創録](https://aidiary.hatenablog.com/entry/20170110/1484057655)
 
 課題をスクラッチではなく（できないので）、与えられたコードコピペしまくりでなんとか実装してみた。元ネタこれ。
 
@@ -148,17 +148,17 @@ def get_batches(path, dirname, gen=image.ImageDataGenerator(), shuffle=True,
 
 そして、学習済みの重みを fast.ai のサーバから手に入れる。
 
--   <http://files.fast.ai/models/>
+-   <https://files.fast.ai/models/>
 
 ``` {.bash}
-wget http://files.fast.ai/models/vgg16.h5
+wget https://files.fast.ai/models/vgg16.h5
 ```
 
 [ここ](https://drive.google.com/file/d/0Bz7KyqmuGsilT0J5dmRCM0ROVHc/view)
 からもダウンロードできる。
 
 なお、keras1.2.0
-では、[ここ](http://aidiary.hatenablog.com/entry/20170104/1483535144)によると、
+では、[ここ](https://aidiary.hatenablog.com/entry/20170104/1483535144)によると、
 VGG16 モデルが keras.applications.vgg16
 モジュールに実装されているらしい。
 

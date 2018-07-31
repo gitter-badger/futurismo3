@@ -40,7 +40,7 @@ TopCoder参戦！今日は、定時退社をしようとおもったけれども
 
 * * *
 
-<a style="line-height: normal" href="https://www.coursera.org/course/algs4partI" target="_blank"><img class="alignleft" border="0" alt="" align="left" src="http://capture.heartrails.com/150x130/shadow?https://www.coursera.org/course/algs4partI" width="150" height="130" /></a><font color="#000000" face="ＭＳ Ｐゴシック"><font style="font-size: 12pt"> </font></font><font style="font-size: 12pt"><a style="color: ; line-height: normal" href="https://www.coursera.org/course/algs4partI" target="_blank"><font color="#0070c5" face="ＭＳ Ｐゴシック">Algorithms, Part I | Coursera</font></a></font><font face="ＭＳ Ｐゴシック"><font style="font-size: 12pt" color="#000000"> <img border="0" alt="" src="http://b.hatena.ne.jp/entry/image/https://www.coursera.org/course/algs4partI" /> </font></font>
+<a style="line-height: normal" href="https://www.coursera.org/course/algs4partI" target="_blank"><img class="alignleft" border="0" alt="" align="left" src="https://capture.heartrails.com/150x130/shadow?https://www.coursera.org/course/algs4partI" width="150" height="130" /></a><font color="#000000" face="ＭＳ Ｐゴシック"><font style="font-size: 12pt"> </font></font><font style="font-size: 12pt"><a style="color: ; line-height: normal" href="https://www.coursera.org/course/algs4partI" target="_blank"><font color="#0070c5" face="ＭＳ Ｐゴシック">Algorithms, Part I | Coursera</font></a></font><font face="ＭＳ Ｐゴシック"><font style="font-size: 12pt" color="#000000"> <img border="0" alt="" src="https://b.hatena.ne.jp/entry/image/https://www.coursera.org/course/algs4partI" /> </font></font>
 
 <br style="clear: both" />
 

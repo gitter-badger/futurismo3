@@ -104,5 +104,5 @@ end
 </div>
 
  [1]: https://futurismo.biz/archives/1272
- [2]: http://doc.ruby-lang.org/ja/1.9.3/class/Net=3a=3aTelnet.html
- [3]: http://doc.ruby-lang.org/ja/1.9.2/class/PTY.html
+ [2]: https://doc.ruby-lang.org/ja/1.9.3/class/Net=3a=3aTelnet.html
+ [3]: https://doc.ruby-lang.org/ja/1.9.2/class/PTY.html

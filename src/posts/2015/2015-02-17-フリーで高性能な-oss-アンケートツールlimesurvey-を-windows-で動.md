@@ -47,7 +47,7 @@ LimeSurvey について
     tool!](https://www.limesurvey.org/en/)
 -   [高機能なアンケートシステム | LimeSurvey とは | Web
     アンケートシステム
-    LimeSurvey](http://www.d-ip.jp/limesurvey/ls/ls1/)
+    LimeSurvey](https://www.d-ip.jp/limesurvey/ls/ls1/)
 
 ネットで調べてると, ほぼこのツール以外に見つからない.
 デファクトスタンダードっぽい.
@@ -85,7 +85,7 @@ XAMPP をイントラネット内に公開
 そのため, xampp のサイトを外部に公開するには, 一工夫必要.
 
 -   [XAMPP にイントラネット内 (LAN 内) の PC から接続する設定 |
-    ウェブル](http://weble.org/2009/11/28/xampp-intranet)
+    ウェブル](https://weble.org/2009/11/28/xampp-intranet)
 
 サンプルでアンケート作成
 ========================

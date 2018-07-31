@@ -53,7 +53,7 @@ url: /archives/=2542
         <a href="https://www.dokuwiki.org/ja:seo">ja:seo</a>
       </li>
       <li>
-        <a href="http://en.seowiki.info/best_practices/seo_optimized_dokuwiki">SEO Optimized DokuWiki</a>
+        <a href="https://en.seowiki.info/best_practices/seo_optimized_dokuwiki">SEO Optimized DokuWiki</a>
       </li>
     </ul>
   </div>
@@ -70,7 +70,7 @@ url: /archives/=2542
       
       <ul class="org-ul">
         <li>
-          <a href="http://en.seowiki.info/best_practices/seo_optimized_dokuwiki/basic_configuration">SEO Optimized DokuWiki: Basic Configuration</a>
+          <a href="https://en.seowiki.info/best_practices/seo_optimized_dokuwiki/basic_configuration">SEO Optimized DokuWiki: Basic Configuration</a>
         </li>
       </ul>
       
@@ -130,7 +130,7 @@ url: /archives/=2542
           
           <ul class="org-ul">
             <li>
-              <a href="http://hain.jp/index.php/tech-j/2007/11/12/p191">dokuwiki が検索エンジンに載りにくい理由 &#8211; ぎじゅっやさん</a>
+              <a href="https://hain.jp/index.php/tech-j/2007/11/12/p191">dokuwiki が検索エンジンに載りにくい理由 &#8211; ぎじゅっやさん</a>
             </li>
           </ul>
         </li>
@@ -192,7 +192,7 @@ url: /archives/=2542
       
       <ul class="org-ul">
         <li>
-          <a href="http://en.seowiki.info/best_practices/seo_optimized_dokuwiki/integration/google_analytics">SEO Optimized DokuWiki: Google Analytics Integration</a>
+          <a href="https://en.seowiki.info/best_practices/seo_optimized_dokuwiki/integration/google_analytics">SEO Optimized DokuWiki: Google Analytics Integration</a>
         </li>
       </ul>
       
@@ -254,7 +254,7 @@ url: /archives/=2542
       
       <ul class="org-ul">
         <li>
-          <a href="http://tsuyushiga.hatenablog.jp/entry/2014/03/02/000748">【その他】 Dokuwiki に GoogleAdSense の広告を表示する &#8211; tsuyushiga&#8217;s blog</a>
+          <a href="https://tsuyushiga.hatenablog.jp/entry/2014/03/02/000748">【その他】 Dokuwiki に GoogleAdSense の広告を表示する &#8211; tsuyushiga&#8217;s blog</a>
         </li>
       </ul>
     </div>

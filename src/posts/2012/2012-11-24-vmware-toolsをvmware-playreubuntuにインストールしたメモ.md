@@ -50,7 +50,7 @@ VMware ToolsをゲストOSに入れると、以下のことができる。
 上位のタブから、[Player] > [管理] > [VMware Toolのインストール]を選択。   
 ホームフォルダにVMware Toolが現れる。 
 
-[<img style="background-image: none; border-right-width: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image_thumb[23]" border="0" alt="image_thumb[23]" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb23_thumb.png" width="356" height="318" />][2]
+[<img style="background-image: none; border-right-width: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image_thumb[23]" border="0" alt="image_thumb[23]" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb23_thumb.png" width="356" height="318" />][2]
 
 右クリックして、展開を選択。   
 ローカルディレクトリに展開。   
@@ -90,20 +90,20 @@ VMware Playerの「仮想マシン設定の編集」をクリックし[オプシ
 「常に有効」にチェックし、その下のフォルダで[追加]を選択。   
 先ほど作成した共有フォルダを選択する。
 
-[<img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" border="0" alt="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb68.png" width="472" height="391" />][3] 
+[<img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" border="0" alt="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb68.png" width="472" height="391" />][3] 
 
 仮想マシンを再生する。   
 すると、「コンピュータ/ファイルシステム/mnt/hgfs」に共有フォルダがマウントされる。   
 （/mnt/hgfs/Ubuntu_shares）
 
-[<img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" border="0" alt="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb69.png" width="381" height="317" />][4]
+[<img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" border="0" alt="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb69.png" width="381" height="317" />][4]
 
 試しで、Windowsからファイルを入れてみると、リアルタイムでUbuntuから見れた。
 
-[<img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" border="0" alt="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb70.png" width="358" height="277" />][5]
+[<img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" border="0" alt="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb70.png" width="358" height="277" />][5]
 
- [1]: https://docs.google.com/viewer?url=http://www.vmware.com/files/jp/pdf/vmware-tools-installation-configuration_JA.pdf
- [2]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb231.png
- [3]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image68.png
- [4]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image69.png
- [5]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image70.png
+ [1]: https://docs.google.com/viewer?url=https://www.vmware.com/files/jp/pdf/vmware-tools-installation-configuration_JA.pdf
+ [2]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb231.png
+ [3]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image68.png
+ [4]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image69.png
+ [5]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image70.png

@@ -20,7 +20,7 @@ Eclipse CDTを使っていると、インクリメンタルサーチがけっこ
 
 そんなときには、「Glance」がけっこう良かった。
 
-<a href="http://code.google.com/p/eclipse-glance/" target="_blank"><img class="alignleft" border="0" alt="" align="left" src="http://capture.heartrails.com/150x130/shadow?http://code.google.com/p/eclipse-glance/" width="150" height="130" /></a> <a style="color: #0070c5" href="http://code.google.com/p/eclipse-glance/" target="_blank">eclipse-glance &#8211; Incremental Text Search and Highlight in Eclipse &#8211; Google Project Hosting</a>  <img border="0" alt="" src="http://b.hatena.ne.jp/entry/image/http://code.google.com/p/eclipse-glance/" />
+<a href="https://code.google.com/p/eclipse-glance/" target="_blank"><img class="alignleft" border="0" alt="" align="left" src="https://capture.heartrails.com/150x130/shadow?https://code.google.com/p/eclipse-glance/" width="150" height="130" /></a> <a style="color: #0070c5" href="https://code.google.com/p/eclipse-glance/" target="_blank">eclipse-glance &#8211; Incremental Text Search and Highlight in Eclipse &#8211; Google Project Hosting</a>  <img border="0" alt="" src="https://b.hatena.ne.jp/entry/image/https://code.google.com/p/eclipse-glance/" />
 
 &#160;
 

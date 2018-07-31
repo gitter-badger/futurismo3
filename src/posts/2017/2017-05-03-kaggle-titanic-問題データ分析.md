@@ -1219,7 +1219,7 @@ Name: Embarked, dtype: int64</pre>
       </p>
       
       <p>
-        <a href="http://www.youtube.com/watch?v=fCPC6-6n5Uo"><img src="http://img.youtube.com/vi/fCPC6-6n5Uo/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
+        <a href="https://www.youtube.com/watch?v=fCPC6-6n5Uo"><img src="https://img.youtube.com/vi/fCPC6-6n5Uo/0.jpg" alt="IMAGE ALT TEXT HERE" /></a>
       </p>
     </div>
   </div>
@@ -1270,7 +1270,7 @@ Name: Embarked, dtype: int64</pre>
           <pre>/home/tsu-nera/anaconda3/lib/python3.6/site-packages/pandas/core/indexing.py:141: SettingWithCopyWarning: 
 A value is trying to be set on a copy of a slice from a DataFrame
 
-See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
   self._setitem_with_indexer(indexer, value)
 </pre>
         </div>

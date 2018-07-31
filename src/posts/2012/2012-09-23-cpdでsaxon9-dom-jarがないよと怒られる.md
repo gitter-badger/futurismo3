@@ -31,7 +31,7 @@ JAVAすら知らないが、saxon9-dom.jarがないよといっているみた�
   
 pmd-bin-5.0-alpha\lib\配下にsaxon9-dom.jarをおいたらXML出力できた。
 
-<http://www.java2s.com/Code/Jar/s/Downloadsaxon9domjar.htm>
+<https://www.java2s.com/Code/Jar/s/Downloadsaxon9domjar.htm>
 
 <div id="fastlookup_top" style="display: none;">
 </div>

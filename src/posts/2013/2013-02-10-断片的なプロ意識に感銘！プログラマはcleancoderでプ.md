@@ -20,16 +20,16 @@ url: /archives/=1179
 <div style="text-align: left; padding-bottom: 20px; zoom: 1; font-size: small; overflow: hidden" class="amazlink-box">
   <div style="clear: both" class="amazlink-list">
     <div style="margin: 0px 12px 1px 0px; float: left" class="amazlink-image">
-      <a href="http://www.amazon.co.jp/Clean-Coder-%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%81%B8%E3%81%AE%E9%81%93-Robert-Martin/dp/4048860690%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4048860690" rel="nofollow" target="_blank"><img style="border-bottom-style: none; border-left-style: none; border-top-style: none; border-right-style: none" src="http://ecx.images-amazon.com/images/I/51dv8ZDoLBL._SL160_.jpg" /></a>
+      <a href="https://www.amazon.co.jp/Clean-Coder-%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%81%B8%E3%81%AE%E9%81%93-Robert-Martin/dp/4048860690%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4048860690" rel="nofollow" target="_blank"><img style="border-bottom-style: none; border-left-style: none; border-top-style: none; border-right-style: none" src="https://ecx.images-amazon.com/images/I/51dv8ZDoLBL._SL160_.jpg" /></a>
     </div>
     
     <div style="margin-bottom: 10px" class="amazlink-info">
       <div style="line-height: 120%; margin-bottom: 10px" class="amazlink-name">
-        <a href="http://www.amazon.co.jp/Clean-Coder-%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%81%B8%E3%81%AE%E9%81%93-Robert-Martin/dp/4048860690%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4048860690" rel="nofollow" target="_blank">Clean Coder プロフェッショナルプログラマへの道</a>
+        <a href="https://www.amazon.co.jp/Clean-Coder-%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%81%B8%E3%81%AE%E9%81%93-Robert-Martin/dp/4048860690%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4048860690" rel="nofollow" target="_blank">Clean Coder プロフェッショナルプログラマへの道</a>
       </div>
       
       <div style="line-height: 120%; margin-top: 5px; font-size: 80%" class="amazlink-powered">
-        posted with <a title="アマゾンアフィリエイトリンク作成ツール" href="http://amazlink.keizoku.com/" target="_blank">amazlink</a> at 13.02.09
+        posted with <a title="アマゾンアフィリエイトリンク作成ツール" href="https://amazlink.keizoku.com/" target="_blank">amazlink</a> at 13.02.09
       </div>
       
       <div class="amazlink-detail">
@@ -38,7 +38,7 @@ url: /archives/=1179
       
       <div style="float: left" class="amazlink-sub-info">
         <div style="margin-top: 5px" class="amazlink-link">
-          <img src="http://amazlink.fuyu.gs/icon_amazon.png" width="18" /><a href="http://www.amazon.co.jp/Clean-Coder-%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%81%B8%E3%81%AE%E9%81%93-Robert-Martin/dp/4048860690%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4048860690" rel="nofollow" target="_blank">Amazon</a> <img src="http://amazlink.fuyu.gs/icon_rakuten.gif" width="18" /><a href="http://hb.afl.rakuten.co.jp/hgc/g00q0724.n763w947.g00q0724.n763x2b4/archives/c=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F11529693%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frms%2Fmsv%2FItem%3Fn%3D11529693%26surl%3Dbook" rel="nofollow" target="_blank">楽天</a>
+          <img src="https://amazlink.fuyu.gs/icon_amazon.png" width="18" /><a href="https://www.amazon.co.jp/Clean-Coder-%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%81%B8%E3%81%AE%E9%81%93-Robert-Martin/dp/4048860690%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4048860690" rel="nofollow" target="_blank">Amazon</a> <img src="https://amazlink.fuyu.gs/icon_rakuten.gif" width="18" /><a href="https://hb.afl.rakuten.co.jp/hgc/g00q0724.n763w947.g00q0724.n763x2b4/archives/c=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F11529693%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frms%2Fmsv%2FItem%3Fn%3D11529693%26surl%3Dbook" rel="nofollow" target="_blank">楽天</a>
         </div></p>
       </div></p>
     </div></p>
@@ -92,7 +92,7 @@ TDDは規律で、どんなに追い詰められているときでも規律を�
 
 できないことに「ノー」ということについて、凄まじい体験談を引用しながら説明されている。
 
-<a href="http://raptureinvenice.com/is-good-code-impossible/" target="_blank"><img class="alignleft" border="0" alt="" align="left" src="http://capture.heartrails.com/150x130/shadow?http://raptureinvenice.com/is-good-code-impossible/" width="150" height="130" /></a> <a style="color: #0070c5" href="http://raptureinvenice.com/is-good-code-impossible/" target="_blank">Is Good Code Impossible? | Rapture In Venice: iOS, Android Mobile Development Shop</a>  <img border="0" alt="" src="http://b.hatena.ne.jp/entry/image/http://raptureinvenice.com/is-good-code-impossible/" />
+<a href="https://raptureinvenice.com/is-good-code-impossible/" target="_blank"><img class="alignleft" border="0" alt="" align="left" src="https://capture.heartrails.com/150x130/shadow?https://raptureinvenice.com/is-good-code-impossible/" width="150" height="130" /></a> <a style="color: #0070c5" href="https://raptureinvenice.com/is-good-code-impossible/" target="_blank">Is Good Code Impossible? | Rapture In Venice: iOS, Android Mobile Development Shop</a>  <img border="0" alt="" src="https://b.hatena.ne.jp/entry/image/https://raptureinvenice.com/is-good-code-impossible/" />
 
 &#160;
 
@@ -131,7 +131,7 @@ TDDは規律で、どんなに追い詰められているときでも規律を�
 
 個人的には、今年はTopCoderを頑張ろうと思っている。
 
-<a href="http://www.topcoder.com/" target="_blank"><img class="alignleft" border="0" alt="" align="left" src="http://capture.heartrails.com/150x130/shadow?http://www.topcoder.com/" width="150" height="130" /></a> <a style="color: #0070c5" href="http://www.topcoder.com/" target="_blank">TopCoder, Inc.TopCoder, Inc. | Home of the world&#8217;s largest development community</a>    <img border="0" alt="" src="http://b.hatena.ne.jp/entry/image/http://www.topcoder.com/" />  <br style="clear: both" />
+<a href="https://www.topcoder.com/" target="_blank"><img class="alignleft" border="0" alt="" align="left" src="https://capture.heartrails.com/150x130/shadow?https://www.topcoder.com/" width="150" height="130" /></a> <a style="color: #0070c5" href="https://www.topcoder.com/" target="_blank">TopCoder, Inc.TopCoder, Inc. | Home of the world&#8217;s largest development community</a>    <img border="0" alt="" src="https://b.hatena.ne.jp/entry/image/https://www.topcoder.com/" />  <br style="clear: both" />
 
 これは、<font color="#0000ff">アルゴリズム</font>の勉強が第一の目的だ。   
 別の目的としては解けなかった同じ問題を繰り返して練習することで、その問題で使われているアルゴリズムを息をすうようにコーディングできるようにすることがある。
@@ -144,11 +144,11 @@ TDDは規律で、どんなに追い詰められているときでも規律を�
   <div style="clear: both" class="amazlink-list">
     <div style="margin-bottom: 10px" class="amazlink-info">
       <div style="line-height: 120%; margin-bottom: 10px" class="amazlink-name">
-        <a href="http://www.amazon.co.jp/Clean-Coder-%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%81%B8%E3%81%AE%E9%81%93-Robert-Martin/dp/4048860690%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4048860690" rel="nofollow" target="_blank">Clean Coder プロフェッショナルプログラマへの道</a>
+        <a href="https://www.amazon.co.jp/Clean-Coder-%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%81%B8%E3%81%AE%E9%81%93-Robert-Martin/dp/4048860690%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4048860690" rel="nofollow" target="_blank">Clean Coder プロフェッショナルプログラマへの道</a>
       </div>
       
       <div style="line-height: 120%; margin-top: 5px; font-size: 80%" class="amazlink-powered">
-        posted with <a title="アマゾンアフィリエイトリンク作成ツール" href="http://amazlink.keizoku.com/" target="_blank">amazlink</a> at 13.02.09
+        posted with <a title="アマゾンアフィリエイトリンク作成ツール" href="https://amazlink.keizoku.com/" target="_blank">amazlink</a> at 13.02.09
       </div>
       
       <div class="amazlink-detail">
@@ -157,7 +157,7 @@ TDDは規律で、どんなに追い詰められているときでも規律を�
       
       <div style="float: left" class="amazlink-sub-info">
         <div style="margin-top: 5px" class="amazlink-link">
-          <img src="http://amazlink.fuyu.gs/icon_amazon.png" width="18" /><a href="http://www.amazon.co.jp/Clean-Coder-%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%81%B8%E3%81%AE%E9%81%93-Robert-Martin/dp/4048860690%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4048860690" rel="nofollow" target="_blank">Amazon</a> <img src="http://amazlink.fuyu.gs/icon_rakuten.gif" width="18" /><a href="http://hb.afl.rakuten.co.jp/hgc/g00q0724.n763w947.g00q0724.n763x2b4/archives/c=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F11529693%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frms%2Fmsv%2FItem%3Fn%3D11529693%26surl%3Dbook" rel="nofollow" target="_blank">楽天</a>
+          <img src="https://amazlink.fuyu.gs/icon_amazon.png" width="18" /><a href="https://www.amazon.co.jp/Clean-Coder-%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%81%B8%E3%81%AE%E9%81%93-Robert-Martin/dp/4048860690%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4048860690" rel="nofollow" target="_blank">Amazon</a> <img src="https://amazlink.fuyu.gs/icon_rakuten.gif" width="18" /><a href="https://hb.afl.rakuten.co.jp/hgc/g00q0724.n763w947.g00q0724.n763x2b4/archives/c=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F11529693%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frms%2Fmsv%2FItem%3Fn%3D11529693%26surl%3Dbook" rel="nofollow" target="_blank">楽天</a>
         </div></p>
       </div></p>
     </div></p>

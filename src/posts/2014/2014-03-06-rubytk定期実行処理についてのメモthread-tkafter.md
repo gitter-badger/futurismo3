@@ -47,7 +47,7 @@ RubyTkでなにかの監視処理を実施する方法を調べたことのメ�
       
       <ul class="org-ul">
         <li>
-          <a href="http://www.dumbo.ai.kyutech.ac.jp/nomura-ken/kajiyama/ruby_tk/after.html">http://www.dumbo.ai.kyutech.ac.jp/nomura-ken/kajiyama/ruby_tk/after.html</a>
+          <a href="https://www.dumbo.ai.kyutech.ac.jp/nomura-ken/kajiyama/ruby_tk/after.html">https://www.dumbo.ai.kyutech.ac.jp/nomura-ken/kajiyama/ruby_tk/after.html</a>
         </li>
       </ul>
       

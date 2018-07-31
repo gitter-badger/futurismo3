@@ -47,8 +47,8 @@ Linux環境を利用するにあたって最大の不安は、親指シフトが
 
 コマンドは以下。
 
-    $ wget -q http://linuxmint-jp.net/linuxmint-ja-archive-keyring.gpg -O- | sudo apt-key add -
-    $ sudo wget http://linuxmint-jp.net/sources.list.d/linuxmint-ja.list -O /etc/apt/sources.list.d/linuxmint-ja.list
+    $ wget -q https://linuxmint-jp.net/linuxmint-ja-archive-keyring.gpg -O- | sudo apt-key add -
+    $ sudo wget https://linuxmint-jp.net/sources.list.d/linuxmint-ja.list -O /etc/apt/sources.list.d/linuxmint-ja.list
     $ sudo apt-get update
     $ sudo apt-get dist-upgrade
     
@@ -121,8 +121,8 @@ iBusは評判が悪そうなので（[本の虫: iBus 1.5がクソすぎる][3])
 <!--:-->
 
  [1]: https://futurismo.biz/archives/548
- [2]: http://linuxmint-jp.net/download.html
- [3]: http://cpplover.blogspot.jp/2013/10/ibus-15.html
- [4]: http://gihyo.jp/admin/serial/01/ubuntu-recipe/0297
+ [2]: https://linuxmint-jp.net/download.html
+ [3]: https://cpplover.blogspot.jp/2013/10/ibus-15.html
+ [4]: https://gihyo.jp/admin/serial/01/ubuntu-recipe/0297
  [5]: https://picasaweb.google.com/lh/photo/_rov1uHf64ranenD-aGvKDyD6hjDXGH6XyE6iLrzolo?feat=embedwebsite
  [6]: https://picasaweb.google.com/lh/photo/B-94OW_TfbQF9iKQTf3WsTyD6hjDXGH6XyE6iLrzolo?feat=embedwebsite

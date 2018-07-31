@@ -24,7 +24,7 @@ Wordでも、Emacsのキーバインドができるらしいので、メモし�
 右側に表示されているコマンドに対して、   
 [割り当てるキーを押してください]からショートカットを入力。
 
-[<img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="image" border="0" alt="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb52.png" width="477" height="306" />][1]
+[<img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="image" border="0" alt="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb52.png" width="477" height="306" />][1]
 
 ### 基本的なコマンドとショートカットの対応表
 
@@ -186,4 +186,4 @@ Wordでも、Emacsのキーバインドができるらしいので、メモし�
 
 小さなライフハック。
 
- [1]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image52.png
+ [1]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image52.png

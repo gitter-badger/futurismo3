@@ -56,7 +56,7 @@ iPhone を CIFS サーバにすればよい
       
       <ul class="org-ul">
         <li>
-          <a href="http://samulife.com/iPhone/goodreader-webdav">iPhone GoodReader を PC のネットワークドライブに割り当てる方法!! ドラッグ&ドロップでファイル転送できる</a>
+          <a href="https://samulife.com/iPhone/goodreader-webdav">iPhone GoodReader を PC のネットワークドライブに割り当てる方法!! ドラッグ&ドロップでファイル転送できる</a>
         </li>
       </ul>
       
@@ -92,7 +92,7 @@ iPhone を CIFS サーバにすればよい
       
       <ul class="org-ul">
         <li>
-          <a href="http://www.visualitynq.com/?lang=jp">Visuality Systems &#8211; ホーム</a>
+          <a href="https://www.visualitynq.com/?lang=jp">Visuality Systems &#8211; ホーム</a>
         </li>
       </ul>
       

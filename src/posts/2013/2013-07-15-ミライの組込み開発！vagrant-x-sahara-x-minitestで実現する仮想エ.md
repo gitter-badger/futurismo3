@@ -67,21 +67,21 @@ GOOS本を読んでから、ウォーキングスケルトンを組込み開発�
 <div class='amazlink-box' style='text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;'>
   <div class='amazlink-list' style='clear: both;'>
     <div class='amazlink-image' style='float:left;margin:0px 12px 1px 0px;'>
-      <a href='http://www.amazon.co.jp/%E5%AE%9F%E8%B7%B5%E3%83%86%E3%82%B9%E3%83%88%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA-%E3%83%86%E3%82%B9%E3%83%88%E3%81%AB%E5%B0%8E%E3%81%8B%E3%82%8C%E3%81%A6%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%92%E8%82%B2%E3%81%A6%E3%82%8B-Object-Oriented-SELECTION/dp/4798124583%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4798124583' target='_blank' rel='nofollow'><img src='http://ecx.images-amazon.com/images/I/61vSRgWto0L._SL160_.jpg' style='border: none;' /></a>
+      <a href='https://www.amazon.co.jp/%E5%AE%9F%E8%B7%B5%E3%83%86%E3%82%B9%E3%83%88%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA-%E3%83%86%E3%82%B9%E3%83%88%E3%81%AB%E5%B0%8E%E3%81%8B%E3%82%8C%E3%81%A6%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%92%E8%82%B2%E3%81%A6%E3%82%8B-Object-Oriented-SELECTION/dp/4798124583%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4798124583' target='_blank' rel='nofollow'><img src='https://ecx.images-amazon.com/images/I/61vSRgWto0L._SL160_.jpg' style='border: none;' /></a>
     </div>
     
     <div class='amazlink-info' style='height:160; margin-bottom: 10px'>
       <div class='amazlink-name' style='margin-bottom:10px;line-height:120%'>
-        <a href='http://www.amazon.co.jp/%E5%AE%9F%E8%B7%B5%E3%83%86%E3%82%B9%E3%83%88%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA-%E3%83%86%E3%82%B9%E3%83%88%E3%81%AB%E5%B0%8E%E3%81%8B%E3%82%8C%E3%81%A6%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%92%E8%82%B2%E3%81%A6%E3%82%8B-Object-Oriented-SELECTION/dp/4798124583%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4798124583' rel='nofollow' target='_blank'>実践テスト駆動開発 テストに導かれてオブジェクト指向ソフトウェアを育てる (Object Oriented SELECTION)</a>
+        <a href='https://www.amazon.co.jp/%E5%AE%9F%E8%B7%B5%E3%83%86%E3%82%B9%E3%83%88%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA-%E3%83%86%E3%82%B9%E3%83%88%E3%81%AB%E5%B0%8E%E3%81%8B%E3%82%8C%E3%81%A6%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%92%E8%82%B2%E3%81%A6%E3%82%8B-Object-Oriented-SELECTION/dp/4798124583%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4798124583' rel='nofollow' target='_blank'>実践テスト駆動開発 テストに導かれてオブジェクト指向ソフトウェアを育てる (Object Oriented SELECTION)</a>
       </div>
       
       <div class='amazlink-powered' style='font-size:80%;margin-top:5px;line-height:120%'>
-        posted with <a href='http://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 13.07.15
+        posted with <a href='https://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 13.07.15
       </div>
       
       <p>
         <noscript>
-          <a href='http://bust-up.gob.jp'>xn--cck2b5as2b7b</a>
+          <a href='https://bust-up.gob.jp'>xn--cck2b5as2b7b</a>
         </noscript>
       </p>
       
@@ -91,7 +91,7 @@ GOOS本を読んでから、ウォーキングスケルトンを組込み開発�
       
       <div class='amazlink-sub-info' style='float: left;'>
         <div class='amazlink-link' style='margin-top: 5px'>
-          <img src='http://amazlink.fuyu.gs/icon_amazon.png' width='18' /><a href='http://www.amazon.co.jp/%E5%AE%9F%E8%B7%B5%E3%83%86%E3%82%B9%E3%83%88%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA-%E3%83%86%E3%82%B9%E3%83%88%E3%81%AB%E5%B0%8E%E3%81%8B%E3%82%8C%E3%81%A6%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%92%E8%82%B2%E3%81%A6%E3%82%8B-Object-Oriented-SELECTION/dp/4798124583%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4798124583' rel='nofollow' target='_blank'>Amazon</a> <img src='http://amazlink.fuyu.gs/icon_rakuten.gif' width='18' /><a href='http://hb.afl.rakuten.co.jp/hgc/g00q0724.n763w947.g00q0724.n763x2b4/archives/c=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F11891807%2F&#038;m=http%3A%2F%2Fm.rakuten.co.jp%2Frms%2Fmsv%2FItem%3Fn%3D11891807%26surl%3Dbook' rel='nofollow' target='_blank'>楽天</a>
+          <img src='https://amazlink.fuyu.gs/icon_amazon.png' width='18' /><a href='https://www.amazon.co.jp/%E5%AE%9F%E8%B7%B5%E3%83%86%E3%82%B9%E3%83%88%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA-%E3%83%86%E3%82%B9%E3%83%88%E3%81%AB%E5%B0%8E%E3%81%8B%E3%82%8C%E3%81%A6%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%92%E8%82%B2%E3%81%A6%E3%82%8B-Object-Oriented-SELECTION/dp/4798124583%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4798124583' rel='nofollow' target='_blank'>Amazon</a> <img src='https://amazlink.fuyu.gs/icon_rakuten.gif' width='18' /><a href='https://hb.afl.rakuten.co.jp/hgc/g00q0724.n763w947.g00q0724.n763x2b4/archives/c=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F11891807%2F&#038;m=http%3A%2F%2Fm.rakuten.co.jp%2Frms%2Fmsv%2FItem%3Fn%3D11891807%26surl%3Dbook' rel='nofollow' target='_blank'>楽天</a>
         </div>
       </div>
     </div>
@@ -111,6 +111,6 @@ githubのReadmeを読むと、Acceptance Tests用の追加機能もあるっぽ�
 これって、すごいことじゃないか？
 
  [1]: https://picasaweb.google.com/lh/photo/Dln_dMpNVkmDiwdXToQ2hTyD6hjDXGH6XyE6iLrzolo?feat=embedwebsite
- [2]: http://www.flickr.com/photos/donsolo/5567424914/
- [3]: http://photopin.com
- [4]: http://creativecommons.org/licenses/by-nc-sa/2.0/
+ [2]: https://www.flickr.com/photos/donsolo/5567424914/
+ [3]: https://photopin.com
+ [4]: https://creativecommons.org/licenses/by-nc-sa/2.0/

@@ -41,7 +41,7 @@ Selenium RCはServerとDriverの２つの部品からなる。
   
 まずは、サイトからSelenium Serverをダウンロード。（日本語サイトは古い）
   
-[<span style="color: #0066cc;">http://seleniumhq.org/download/</span>][1]
+[<span style="color: #0066cc;">https://seleniumhq.org/download/</span>][1]
 
 Selenium Serverは以下の形式で実行する
 
@@ -68,7 +68,7 @@ Selenium Serverは以下の形式で実行する
     </td>
     
     <td valign="top" width="308">
-      <a href="http://www.google.com">http://www.google.com</a>
+      <a href="https://www.google.com">https://www.google.com</a>
     </td>
   </tr>
   
@@ -97,8 +97,8 @@ Selenium Serverは以下の形式で実行する
 
 > java -jar selenium-server-standalone-2.25.0.jar -htmlSuite &#8220;*firefox&#8221;
   
-> &#8220;http://www.google.com&#8221; &#8220;C:\Selenium\1day\_post\_pure.html&#8221;
+> &#8220;https://www.google.com&#8221; &#8220;C:\Selenium\1day\_post\_pure.html&#8221;
   
 > &#8220;C:\Selenium\TestResult.html&#8221;
 
- [1]: http://seleniumhq.org/download/
+ [1]: https://seleniumhq.org/download/

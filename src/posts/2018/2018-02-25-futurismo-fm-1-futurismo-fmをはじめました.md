@@ -71,7 +71,7 @@ futurismo.fmをはじめたきっかけ、１月２月で散財したガジェ�
       <a href="https://futurismo.biz/archives/154">iRemoconでミクミクにしてやんよ。 | Futurismo</a>
     </li>
     <li>
-      <a href="http://illumy.jp/">illumy Sleep and Wake Mask | The Smart Sleep Mask</a>
+      <a href="https://illumy.jp/">illumy Sleep and Wake Mask | The Smart Sleep Mask</a>
     </li>
   </ul>
 </li>

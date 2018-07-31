@@ -35,7 +35,7 @@ Markdown記法というのがシンプルで強力ときいたため、これで
 
 WordPressの投稿エディタでMarkDownを利用するためのプラグイン、Markdown on Save Improvedを入れる。インストールは、プラグインの検索からいつもの方法で。
 
-<a href="http://wordpress.org/plugins/markdown-on-save-improved/" target="_blank"><img class="alignleft" border="0" alt="" align="left" src="http://capture.heartrails.com/150x130/shadow?http://wordpress.org/plugins/markdown-on-save-improved/" width="150" height="130" /></a> <a style="color: #0070c5" href="http://wordpress.org/plugins/markdown-on-save-improved/" target="_blank">WordPress › Markdown on Save Improved « WordPress Plugins</a>  <img border="0" alt="" src="http://b.hatena.ne.jp/entry/image/http://wordpress.org/plugins/markdown-on-save-improved/" /><br style="clear: both" />
+<a href="https://wordpress.org/plugins/markdown-on-save-improved/" target="_blank"><img class="alignleft" border="0" alt="" align="left" src="https://capture.heartrails.com/150x130/shadow?https://wordpress.org/plugins/markdown-on-save-improved/" width="150" height="130" /></a> <a style="color: #0070c5" href="https://wordpress.org/plugins/markdown-on-save-improved/" target="_blank">WordPress › Markdown on Save Improved « WordPress Plugins</a>  <img border="0" alt="" src="https://b.hatena.ne.jp/entry/image/https://wordpress.org/plugins/markdown-on-save-improved/" /><br style="clear: both" />
 
 プラグインを有効化して新規投稿をしようとすると、デフォルトのエディタがMarkdown用のエディタになる。
 
@@ -53,7 +53,7 @@ MarkDown中に、WordPressの機能のタグを利用したくなることがあ
 
 参考:
 
-  * <a href="http://zafiel.wingall.com/archives/4610" target="_blank">WordPressのMarkdownプラグインとSyntaxHighlighterを共存させる方法 | Azrael</a> 
+  * <a href="https://zafiel.wingall.com/archives/4610" target="_blank">WordPressのMarkdownプラグインとSyntaxHighlighterを共存させる方法 | Azrael</a> 
 
 #### 色やフォント、画像が使いたい時
 
@@ -65,13 +65,13 @@ MarkDown中に、HTMLを直接かける。なので、色を変えたい場所�
 
 まだMardDown記法自体に慣れていないため、頭のなかで完成された記事が描けない。そこで、MarkDownをリアルタイムプレビューしてくれるWindowsクライアントも探してみた。以下の記事が参考になった。
 
-<a href="http://www.diffshare.com/blog/archives/2218" target="_blank">Windows向けMarkdownエディタまとめ | ぶろゲ</a>
+<a href="https://www.diffshare.com/blog/archives/2218" target="_blank">Windows向けMarkdownエディタまとめ | ぶろゲ</a>
 
 世界で一番有名そうなWindows用MarkDownクライアントソフト「MarkDownPad2」を入れてみる。
 
 ダウンロードは以下のサイトから。
 
-<a href="http://markdownpad.com/" target="_blank"><img class="alignleft" border="0" alt="" align="left" src="http://capture.heartrails.com/150x130/shadow?http://markdownpad.com/" width="150" height="130" /></a> <a style="color: #0070c5" href="http://markdownpad.com/" target="_blank">MarkdownPad &#8211; The Markdown Editor for Windows</a>  <img border="0" alt="" src="http://b.hatena.ne.jp/entry/image/http://markdownpad.com/" /><br style="clear: both" />
+<a href="https://markdownpad.com/" target="_blank"><img class="alignleft" border="0" alt="" align="left" src="https://capture.heartrails.com/150x130/shadow?https://markdownpad.com/" width="150" height="130" /></a> <a style="color: #0070c5" href="https://markdownpad.com/" target="_blank">MarkdownPad &#8211; The Markdown Editor for Windows</a>  <img border="0" alt="" src="https://b.hatena.ne.jp/entry/image/https://markdownpad.com/" /><br style="clear: both" />
 
 起動するとこんな感じ。
 

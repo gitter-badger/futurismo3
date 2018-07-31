@@ -33,9 +33,9 @@ log4j とは
 
 Java で, ログを残すための便利で有名なライブラリ.
 
--   [log4j - Wikipedia](http://ja.wikipedia.org/wiki/Log4j)
+-   [log4j - Wikipedia](https://ja.wikipedia.org/wiki/Log4j)
 -   [Log4j 2 Guide - Apache Log4j
-    2](http://logging.apache.org/log4j/2.x/)
+    2](https://logging.apache.org/log4j/2.x/)
 
     log4j は バージョンが 1.x と 2.x がある. 新しい 2.x を試す.
 
@@ -45,7 +45,7 @@ install
 以下から最新版をダウンロード.
 
 -   [Download Apache Log4j 2 - Apache Log4j
-    2](http://logging.apache.org/log4j/2.x/download.html)
+    2](https://logging.apache.org/log4j/2.x/download.html)
 
 設定
 ----
@@ -80,7 +80,7 @@ log4j2.xml を作成.
 以下を参考に logger.xml を作成して, src 配下に配置.
 
 -   [Configuring Log4j 2 - Apache Log4j
-    2](http://logging.apache.org/log4j/2.x/manual/configuration.html)
+    2](https://logging.apache.org/log4j/2.x/manual/configuration.html)
 
 ``` {.xml}
 <?xml version="1.0" encoding="UTF-8"?>
@@ -154,7 +154,7 @@ Eclipse で log4j のログを表示させるプラグインはいくつかあ�
 
 -   <https://github.com/rdiachenko/JLV>
 -   [Eclipse Logfile Viewer |
-    SourceForge.net](http://sourceforge.net/projects/logfiletools/)
+    SourceForge.net](https://sourceforge.net/projects/logfiletools/)
 
 JLV
 ---
@@ -163,7 +163,7 @@ JLV を試す. ためそうと思ったらこれは, log4j 1.x 用だったの�
 を入れる.
 
 -   [Apache log4j 1.2 - Download Apache log4j
-    1.2](http://logging.apache.org/log4j/1.2/download.html)
+    1.2](https://logging.apache.org/log4j/1.2/download.html)
 
 以下にしたがって設定.
 
@@ -178,7 +178,7 @@ Emacs Lisp
 こんなのみつけた.
 
 -   [Log4j mode - view log files in
-    Emacs](http://log4j-mode.sourceforge.net/)
+    Emacs](https://log4j-mode.sourceforge.net/)
 -   <https://github.com/emacsmirror/log4j-mode>
 
 text におとした log をみるモード. 自動で更新されるのもよい.
@@ -186,7 +186,7 @@ text におとした log をみるモード. 自動で更新されるのもよ�
 ``` {.xml}
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE log4j:configuration SYSTEM "log4j.dtd">
-<log4j:configuration xmlns:log4j="http://jakarta.apache.org/log4j/" >
+<log4j:configuration xmlns:log4j="https://jakarta.apache.org/log4j/" >
 
   <appender name="file" class="org.apache.log4j.FileAppender">
      <param name="File" value="./sample.log" />
@@ -208,21 +208,21 @@ helm-swoop とかとくみあわせると, 抜群の検索効果.
 JTags と組み合わせると, なんと Log からソースへジャンプできる.
 
 -   [jtags - Emacs package for editing Java |
-    SourceForge.net](http://sourceforge.net/projects/jtags/)
+    SourceForge.net](https://sourceforge.net/projects/jtags/)
 -   [jtags - Emacs minor mode for editing and browsing Java source
-    code](http://jtags.sourceforge.net/)
+    code](https://jtags.sourceforge.net/)
 
 BookMark
 ========
 
 -   [1. Log4J の基本 | TECHSCORE
-    (テックスコア)](http://www.techscore.com/tech/Java/ApacheJakarta/Log4J/1/)
+    (テックスコア)](https://www.techscore.com/tech/Java/ApacheJakarta/Log4J/1/)
 -   <https://github.com/rdiachenko/JLV>
 -   [イマドキの IDE 事情 (147)
     グラフィカなログビューアでログを手軽に分析してみよう |
-    マイナビニュース](http://news.mynavi.jp/column/ide/147/)
+    マイナビニュース](https://news.mynavi.jp/column/ide/147/)
 -   [Java - log4j.xml 書き方メモ -
-    Qiita](http://qiita.com/opengl-8080/items/f7e1f1b7e2b928427cb5)
+    Qiita](https://qiita.com/opengl-8080/items/f7e1f1b7e2b928427cb5)
 -   [Configuring Log4j 2 - Apache Log4j
-    2](http://logging.apache.org/log4j/2.x/manual/configuration.html)
+    2](https://logging.apache.org/log4j/2.x/manual/configuration.html)
 

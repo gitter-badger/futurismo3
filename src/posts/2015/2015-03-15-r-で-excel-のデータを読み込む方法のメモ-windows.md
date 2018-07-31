@@ -63,7 +63,7 @@ url: /archives/=3045
     
     <ul class="org-ul">
       <li>
-        <a href="http://cran.r-project.org/bin/windows/base/">http://cran.r-project.org/bin/windows/base/</a>
+        <a href="https://cran.r-project.org/bin/windows/base/">https://cran.r-project.org/bin/windows/base/</a>
       </li>
     </ul>
     
@@ -97,7 +97,7 @@ url: /archives/=3045
     
     <ul class="org-ul">
       <li>
-        <a href="http://cran.r-project.org/web/packages/xlsx/">CRAN &#8211; Package xlsx</a>
+        <a href="https://cran.r-project.org/web/packages/xlsx/">CRAN &#8211; Package xlsx</a>
       </li>
     </ul>
     
@@ -115,7 +115,7 @@ url: /archives/=3045
     
     <ul class="org-ul">
       <li>
-        <a href="https://docs.google.com/viewer?url=http://cran.r-project.org/web/packages/xlsx/xlsx.pdf">xlsx.pdf</a>
+        <a href="https://docs.google.com/viewer?url=https://cran.r-project.org/web/packages/xlsx/xlsx.pdf">xlsx.pdf</a>
       </li>
     </ul>
   </div>
@@ -132,7 +132,7 @@ url: /archives/=3045
       
       <ul class="org-ul">
         <li>
-          <a href="http://www.lanlan.co.jp/mtuinfo/exceldata.html">Excel データサンプル</a>
+          <a href="https://www.lanlan.co.jp/mtuinfo/exceldata.html">Excel データサンプル</a>
         </li>
       </ul>
       
@@ -169,13 +169,13 @@ url: /archives/=3045
     
     <ul class="org-ul">
       <li>
-        <a href="http://www.okada.jp.org/RWiki/?RExcel">RExcel &#8211; RjpWiki</a>
+        <a href="https://www.okada.jp.org/RWiki/?RExcel">RExcel &#8211; RjpWiki</a>
       </li>
       <li>
-        <a href="http://cdn-ak.f.st-hatena.com/images/fotolife/R/Rion778/20091013/20091013004617.png">Excel 上で R を動かす RExcel &#8211; もうカツ丼でいいよな</a>
+        <a href="https://cdn-ak.f.st-hatena.com/images/fotolife/R/Rion778/20091013/20091013004617.png">Excel 上で R を動かす RExcel &#8211; もうカツ丼でいいよな</a>
       </li>
       <li>
-        <a href="http://shimana7.seesaa.net/article/372267775.html">RExcel のインストール方法が変わった: Memories of the Past by Takashi NAGAI</a>
+        <a href="https://shimana7.seesaa.net/article/372267775.html">RExcel のインストール方法が変わった: Memories of the Past by Takashi NAGAI</a>
       </li>
     </ul>
   </div>

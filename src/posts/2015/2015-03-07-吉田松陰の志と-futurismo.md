@@ -19,7 +19,7 @@ NHK の大河ドラマ **花燃ゆ** の 第 9 回を偶然みた. (というよ
 カフェのテレビで字幕放送を読んだ)
 
 -   [あらすじ | NHK
-    大河ドラマ「花燃ゆ」](http://www.nhk.or.jp/hanamoyu/story/story_09.html)
+    大河ドラマ「花燃ゆ」](https://www.nhk.or.jp/hanamoyu/story/story_09.html)
 
 世の中がつまらんという高杉晋作に対して,
 久坂玄瑞が以下のような台詞を言う.
@@ -41,7 +41,7 @@ NHK の大河ドラマ **花燃ゆ** の 第 9 回を偶然みた. (というよ
 おそらく, 今回の回の台詞はこの言葉への伏線になっているのだろう.
 
 -   [高杉晋作 -
-    Wikipedia](http://ja.wikipedia.org/wiki/%E9%AB%98%E6%9D%89%E6%99%8B%E4%BD%9C)
+    Wikipedia](https://ja.wikipedia.org/wiki/%E9%AB%98%E6%9D%89%E6%99%8B%E4%BD%9C)
 
 吉田松陰
 --------
@@ -52,7 +52,7 @@ NHK の大河ドラマ **花燃ゆ** の 第 9 回を偶然みた. (というよ
 Wikipedia から, 以下のような格言を引用.
 
 -   [吉田松陰 -
-    Wikipedia](http://ja.wikipedia.org/wiki/%E5%90%89%E7%94%B0%E6%9D%BE%E9%99%B0)
+    Wikipedia](https://ja.wikipedia.org/wiki/%E5%90%89%E7%94%B0%E6%9D%BE%E9%99%B0)
 
 > 志を立てて, 以って万事の源となす.
 
@@ -63,9 +63,9 @@ Wikipedia から, 以下のような格言を引用.
 > (君たちはどうかいたずらに時を過ごすことなかれ)
 
 -   [吉田松陰は, こう言っています. 「志を立てて,
-    以って万事の源となす」](http://senkyo-japan.seesaa.net/article/53749369.html)
+    以って万事の源となす」](https://senkyo-japan.seesaa.net/article/53749369.html)
 -   [吉田松陰の名言・格言
-    (吉田松陰.com)](http://www.yoshida-shoin.com/torajirou/goroku.html)
+    (吉田松陰.com)](https://www.yoshida-shoin.com/torajirou/goroku.html)
 
 志
 --
@@ -74,7 +74,7 @@ Wikipedia から, 以下のような格言を引用.
 
 これも Wikipedia にしたがうと, 目的, 目標. 信念.
 
--   [志 - Wikipedia](http://ja.wikipedia.org/wiki/%E5%BF%97)
+-   [志 - Wikipedia](https://ja.wikipedia.org/wiki/%E5%BF%97)
 
 感覚的には, とても大きな目標,
 生活や人生をかけるような目標につかうのがあっている.

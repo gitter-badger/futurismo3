@@ -37,7 +37,7 @@ url: /archives/=2449
     
     <ul class="org-ul">
       <li>
-        <a href="http://www.scala-lang.org/">The Scala Programming Language</a>
+        <a href="https://www.scala-lang.org/">The Scala Programming Language</a>
       </li>
     </ul>
     
@@ -100,7 +100,7 @@ url: /archives/=2449
       
       <ul class="org-ul">
         <li>
-          <a href="http://www.scala-sbt.org/release/docs/Getting-Started/Setup.html">Setup &#8211; sbt Documentation</a>
+          <a href="https://www.scala-sbt.org/release/docs/Getting-Started/Setup.html">Setup &#8211; sbt Documentation</a>
         </li>
       </ul>
       
@@ -110,10 +110,10 @@ url: /archives/=2449
       
       <ul class="org-ul">
         <li>
-          <a href="http://scalajp.github.io/sbt-getting-started-guide-ja/">始める sbt &#8211; ようこそ</a>
+          <a href="https://scalajp.github.io/sbt-getting-started-guide-ja/">始める sbt &#8211; ようこそ</a>
         </li>
         <li>
-          <a href="http://www.scala-sbt.org/">sbt &#8211; sbt Documentation</a>
+          <a href="https://www.scala-sbt.org/">sbt &#8211; sbt Documentation</a>
         </li>
       </ul>
     </div>
@@ -133,7 +133,7 @@ url: /archives/=2449
       
       <ul class="org-ul">
         <li>
-          <a href="http://www.scala-lang.org/download/">Download | The Scala Programming Language</a>
+          <a href="https://www.scala-lang.org/download/">Download | The Scala Programming Language</a>
         </li>
       </ul>
       
@@ -244,10 +244,10 @@ url: /archives/=2449
         
         <ul class="org-ul">
           <li>
-            <a href="http://d.hatena.ne.jp/masaaki1001/20121226/1356539103">ensime の設定方法 &#8211; masaaki1001 の日記</a>
+            <a href="https://d.hatena.ne.jp/masaaki1001/20121226/1356539103">ensime の設定方法 &#8211; masaaki1001 の日記</a>
           </li>
           <li>
-            <a href="http://d.hatena.ne.jp/lranran123/20130409/1365515128">Emacs での Scala 開発には Ensime というプラグインらしい -q 趣味プログラマがまれになんかしたことの記録</a>
+            <a href="https://d.hatena.ne.jp/lranran123/20130409/1365515128">Emacs での Scala 開発には Ensime というプラグインらしい -q 趣味プログラマがまれになんかしたことの記録</a>
           </li>
           <li>
             <a href="https://github.com/ensime/ensime-sbt-cmd">https://github.com/ensime/ensime-sbt-cmd</a>
@@ -313,22 +313,22 @@ url: /archives/=2449
         <a href="https://hirooka.pro/archives/=1611">Scala 2.10.1 | hirooka.pro</a>
       </li>
       <li>
-        <a href="http://tototoshi.hatenablog.com/entry/20100925/1285420294">Emacs でつくる Scala 開発環境 前編 (scala-mode) &#8211; tototoshi の日記</a>
+        <a href="https://tototoshi.hatenablog.com/entry/20100925/1285420294">Emacs でつくる Scala 開発環境 前編 (scala-mode) &#8211; tototoshi の日記</a>
       </li>
       <li>
-        <a href="http://tototoshi.hatenablog.com/entry/20100927/1285595939">Emacs でつくる Scala 開発環境 後編 (ENSIME) &#8211; tototoshi の日記</a>
+        <a href="https://tototoshi.hatenablog.com/entry/20100927/1285595939">Emacs でつくる Scala 開発環境 後編 (ENSIME) &#8211; tototoshi の日記</a>
       </li>
       <li>
-        <a href="http://tototoshi.hatenablog.com/entry/20101101/1288623548">Scala + Emacs + ctags &#8211; tototoshi の日記</a>
+        <a href="https://tototoshi.hatenablog.com/entry/20101101/1288623548">Scala + Emacs + ctags &#8211; tototoshi の日記</a>
       </li>
       <li>
-        <a href="http://sleepboy-zzz.blogspot.jp/2013/10/emacsscala.html">memo: Emacs での Scala 用の設定を公開してみる</a>
+        <a href="https://sleepboy-zzz.blogspot.jp/2013/10/emacsscala.html">memo: Emacs での Scala 用の設定を公開してみる</a>
       </li>
       <li>
-        <a href="http://d.hatena.ne.jp/lranran123/20130409/1365515128">Emacs での Scala 開発には Ensime というプラグインらしい &#8211; 趣味プログラマがまれになんかしたことの記録</a>
+        <a href="https://d.hatena.ne.jp/lranran123/20130409/1365515128">Emacs での Scala 開発には Ensime というプラグインらしい &#8211; 趣味プログラマがまれになんかしたことの記録</a>
       </li>
       <li>
-        <a href="http://d.hatena.ne.jp/papamitra/20100817/ensime">ensime で補完生活 &#8211; papamitra</a>
+        <a href="https://d.hatena.ne.jp/papamitra/20100817/ensime">ensime で補完生活 &#8211; papamitra</a>
       </li>
     </ul>
     
@@ -338,7 +338,7 @@ url: /archives/=2449
     
     <ul class="org-ul">
       <li>
-        <a href="http://jglobal.com/emacs-power-for-scala-development-setting-up/">Emacs Power for Scala Development: Setting Up &#8211; JGlobal Limited</a>
+        <a href="https://jglobal.com/emacs-power-for-scala-development-setting-up/">Emacs Power for Scala Development: Setting Up &#8211; JGlobal Limited</a>
       </li>
       <li>
         <a href="https://www.youtube.com/channel/UCPNbOY0HKvilrk6XucqiwYw">Michael Nash &#8211; YouTube</a>

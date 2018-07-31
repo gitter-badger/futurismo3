@@ -15,7 +15,7 @@ url: /archives/=1256
 
 Windowsで差分比較をするための有名なソフトとして、『WinMerge』があります。Eclipseでコードを比較するとき、『External diff Tool』というプラグインを入れることで、Eclipseから外部比較エディタとしてWinMergeを開くことができます。
 
-[<img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="image" border="0" alt="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb96.png" width="505" height="315" />][1]
+[<img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="image" border="0" alt="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb96.png" width="505" height="315" />][1]
 
 以下、導入をメモ。
 
@@ -43,7 +43,7 @@ WinMergeはフリーのWindows用差分比較ツール/マージツールです�
 
 EclipseからWinMergeを使うための設定をします。
 
-[<img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="image" border="0" alt="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb97.png" width="462" height="319" />][4]
+[<img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="image" border="0" alt="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb97.png" width="462" height="319" />][4]
 
   1. [ウインドウ] > [設定] > [一般] > [比較/外部ツール]を選択。
   2. 外部diff実行可能ファイルにWinMergePortable.exeを指定します。
@@ -52,7 +52,7 @@ EclipseからWinMergeを使うための設定をします。
 
 注意することは、Eclipseの現在のワークスペース配下に比較するファイルやフォルダがないと、正しくパスが入力されないこと。あとは、いちいち比較するファイルを選択するのもやや面倒ではあるな。。。
 
- [1]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image96.png
- [2]: http://externaldiff.sourceforge.net/
- [3]: http://www.geocities.co.jp/SiliconValley-SanJose/8165/winmerge.html
- [4]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image97.png
+ [1]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image96.png
+ [2]: https://externaldiff.sourceforge.net/
+ [3]: https://www.geocities.co.jp/SiliconValley-SanJose/8165/winmerge.html
+ [4]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image97.png

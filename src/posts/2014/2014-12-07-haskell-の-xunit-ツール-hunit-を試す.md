@@ -45,7 +45,7 @@ QuickCheck
 ランダムなテストデータによって関数の性質をテストする.
 
 -   [QuickCheck: Automatic testing of Haskell programs |
-    Hackage](http://hackage.haskell.org/package/QuickCheck)
+    Hackage](https://hackage.haskell.org/package/QuickCheck)
 
 xUnit とは異なるコンセプトをもつ.
 
@@ -59,7 +59,7 @@ xSpec ライクなテストツール.
 
 Ruby の RSpec にインスパイヤされたらしい.
 
--   [Hspec: A Testing Framework for Haskell](http://hspec.github.io/)
+-   [Hspec: A Testing Framework for Haskell](https://hspec.github.io/)
 
 記法が BDD 的.
 
@@ -71,9 +71,9 @@ xUnit ライクなテストツール. JUnit ライク.
 -   [HUnit: A unit testing framework for Haskell |
     Hackage](https://hackage.haskell.org/package/HUnit)
 -   [Haskell - HUnit 超入門 -
-    Qiita](http://qiita.com/7shi/items/9fb326a87de6c3083784)
+    Qiita](https://qiita.com/7shi/items/9fb326a87de6c3083784)
 -   [Haskell の UnitTest, HUnit について学ぶ -
-    エンジニアのソフトウェア的愛情](http://d.hatena.ne.jp/E_Mattsan/20121020/1350707524)
+    エンジニアのソフトウェア的愛情](https://d.hatena.ne.jp/E_Mattsan/20121020/1350707524)
 
 HUnit を試す
 ============
@@ -91,7 +91,7 @@ Usage
 -----
 
 -   [HUnit 1.0 User's
-    Guide](http://hunit.sourceforge.net/HUnit-1.0/Guide.html)
+    Guide](https://hunit.sourceforge.net/HUnit-1.0/Guide.html)
 
 Test.HUnit をインポート.
 

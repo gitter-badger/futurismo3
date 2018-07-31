@@ -75,19 +75,19 @@ WindowsサービスでJenkinsを立ち上げるのをやめるとよい。
 
 [ビルド後の処理] > [JUnitテスト結果の集計]を選択。テスト結果ファイル名を入力。
 
-[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb15.png" alt="image" width="389" height="144" border="0" />][2]
+[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb15.png" alt="image" width="389" height="144" border="0" />][2]
 
 ### テスト出力結果
 
 こんな感じで出力された。
 
-[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb16.png" alt="image" width="547" height="264" border="0" />][3]
+[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb16.png" alt="image" width="547" height="264" border="0" />][3]
 
 #### 参考リンク
 
 [GoogleTest &#8211; 上級ガイド &#8211; XMLレポート][4]
 
  [1]: https://futurismo.biz/archives/331 "WindowsバッチファイルをJenkinsで起動したらネットにアクセスできない"
- [2]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image15.png
- [3]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image16.png
- [4]: http://opencv.jp/googletestdocs/advancedguide.html
+ [2]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image15.png
+ [3]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image16.png
+ [4]: https://opencv.jp/googletestdocs/advancedguide.html

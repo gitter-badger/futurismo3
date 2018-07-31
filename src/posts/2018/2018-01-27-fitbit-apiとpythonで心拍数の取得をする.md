@@ -67,7 +67,7 @@ fitbit ionicを購入しました！ fitbit Charge, altaに続いて、3台目�
   * Organization 適当
   * Organization Website 適当
   * OAuth 2.0 Application Type Personalを選択
-  * Callback URL <http://127.0.0.1:8080/> と入力
+  * Callback URL <https://127.0.0.1:8080/> と入力
   * Default Access Type Read & Write を選択
 
 次に、Access Tokenを取得する。取得するために、Pythonのツール、python-fitbitを利用する。

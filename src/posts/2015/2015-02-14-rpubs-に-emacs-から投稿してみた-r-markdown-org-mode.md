@@ -35,7 +35,7 @@ rpubsUpload をつかう
 RPubs に投稿できる.
 
 -   [R Graphical
-    Manual](http://rgm3.lab.nig.ac.jp/RGM/R_rdfile?f=markdown/man/rpubsUpload.Rd&d=R_CC)
+    Manual](https://rgm3.lab.nig.ac.jp/RGM/R_rdfile?f=markdown/man/rpubsUpload.Rd&d=R_CC)
 
 ``` {.r}
 # Upload をする
@@ -66,7 +66,7 @@ Emacs で R Markdown を作成して, 投稿することができる.
 ```` {.text}
 # Upload Test
 
-see: [rpubsUpload - R Graphical Manual] (http://rgm3.lab.nig.ac.jp/RGM/R_rdfile?f=markdown/man/rpubsUpload.Rd&d=R_CC)
+see: [rpubsUpload - R Graphical Manual] (https://rgm3.lab.nig.ac.jp/RGM/R_rdfile?f=markdown/man/rpubsUpload.Rd&d=R_CC)
 
 # upload a document
 

@@ -81,7 +81,7 @@ Jenkinsを再起動。
     $ sudo service jenkins restart
     
 
-<http://localhost:12345> にアクセスして、画面が表示されることを確認。
+<https://localhost:12345> にアクセスして、画面が表示されることを確認。
 
 手順にしたがって、初期設定をする。オススメプラグインをインストールする。
 

@@ -25,7 +25,7 @@ url: /archives/=712
 ほぼパクリだけれども、自分でもEclipse CDT版で紹介動画を作ってみた。   
 ソースとかは思いつきなので、参考にならないけれども。
 
-[http://www.youtube.com/embed/huxHVMcMfR0] 
+[https://www.youtube.com/embed/huxHVMcMfR0] 
 
 &#160;
 
@@ -47,7 +47,7 @@ Eclipse CDTのリファクタリング機能はJDTに比べて、思ったより
   * 関数の抽出
   * Toggle Function
 
-開発元のサイト（[<font color="#0066cc">http://r2.ifs.hsr.ch/cdtrefactoring</font>][2])をのぞくと、今後機能追加がされそうな雰囲気。
+開発元のサイト（[<font color="#0066cc">https://r2.ifs.hsr.ch/cdtrefactoring</font>][2])をのぞくと、今後機能追加がされそうな雰囲気。
 
 ### CDT リファクタリング機能の簡単な紹介
 
@@ -58,7 +58,7 @@ Eclipse CDTのリファクタリング機能はJDTに比べて、思ったより
 [Refactoring C-code][3]
 
 <div style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px" id="scid:81867AAF-BB02-476b-AE5D-12BDAC2E750D:2a35f98d-dac2-4fe3-b1df-a10dafa61646" class="wlWriterEditableSmartContent">
-  <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4894712288/sleephacker-22/ref=nosim" target="_blank"><img alt="リファクタリング―プログラムの体質改善テクニック (Object Technology Series)" src="http://ecx.images-amazon.com/images/I/51885S48YPL._SL160_.jpg" /><br />リファクタリング―プログラムの体質改善テクニック (Object Technology Series)<br />マーチン ファウラー </a>
+  <a href="https://www.amazon.co.jp/exec/obidos/ASIN/4894712288/sleephacker-22/ref=nosim" target="_blank"><img alt="リファクタリング―プログラムの体質改善テクニック (Object Technology Series)" src="https://ecx.images-amazon.com/images/I/51885S48YPL._SL160_.jpg" /><br />リファクタリング―プログラムの体質改善テクニック (Object Technology Series)<br />マーチン ファウラー </a>
 </div>
 
 #### 名前変更(Alt + Shift + R)
@@ -102,10 +102,10 @@ Eclipse CDTのリファクタリング機能はJDTに比べて、思ったより
 
 #### 参考リンク
 
-  * <http://r2.ifs.hsr.ch/cdtrefactoring>
+  * <https://r2.ifs.hsr.ch/cdtrefactoring>
   * [C++ _Refactoring_ &#8211; Now for Real.pdf &#8211; EclipseCon][4]
 
- [1]: http://gihyo.jp/magazine/wdpress/information/2007/vol37-refactoring
- [2]: http://r2.ifs.hsr.ch/cdtrefactoring
- [3]: http://www.s34.co.jp/cpptechdoc/article/c_refactoring/
- [4]: http://docs.google.com/viewer?url=http://www.eclipsecon.org/2012/sites/eclipsecon.org.2012/files/C++%20Refactoring%20-%20Now%20for%20Real_0.pdf
+ [1]: https://gihyo.jp/magazine/wdpress/information/2007/vol37-refactoring
+ [2]: https://r2.ifs.hsr.ch/cdtrefactoring
+ [3]: https://www.s34.co.jp/cpptechdoc/article/c_refactoring/
+ [4]: https://docs.google.com/viewer?url=https://www.eclipsecon.org/2012/sites/eclipsecon.org.2012/files/C++%20Refactoring%20-%20Now%20for%20Real_0.pdf

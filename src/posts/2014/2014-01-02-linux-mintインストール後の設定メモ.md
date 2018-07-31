@@ -36,8 +36,8 @@ url: /archives/=2082
 
 日本国民ならば、パッケージを取得するための公式リポジトリは日本のミラーサイトに設定するべき。設定のソフトウェアソースを開き、公式リポジトリのミラーサイトを日本の国旗がかかれているものに変更。
 
-    http://ftp.jaist.ac.jp/pub/Linux/linuxmint/packages/ 
-    http://ftp.riken.jp/pub/Linux/ubuntu/
+    https://ftp.jaist.ac.jp/pub/Linux/linuxmint/packages/ 
+    https://ftp.riken.jp/pub/Linux/ubuntu/
     
 
 ソフトウェアを更新する。
@@ -204,7 +204,7 @@ Wineを利用して、Evernote for windowsをインストール！Winowsのホ�
  [7]: https://futurismo.biz/archives/1325
  [8]: https://futurismo.biz/archives/1383
  [9]: https://github.com/sstephenson/ruby-build/wiki
- [10]: http://www.kkaneko.com/rinkou/javaintro/linux_eclipse.html
- [11]: http://www.eclipse.org/
- [12]: http://mergedoc.sourceforge.jp/
+ [10]: https://www.kkaneko.com/rinkou/javaintro/linux_eclipse.html
+ [11]: https://www.eclipse.org/
+ [12]: https://mergedoc.sourceforge.jp/
  [13]: https://futurismo.biz/archives/1527

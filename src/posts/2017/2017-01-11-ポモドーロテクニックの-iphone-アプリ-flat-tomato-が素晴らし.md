@@ -121,7 +121,7 @@ iPhone カレンダーと連携できる。
 
 -   [Pomodoro Tracker](https://pomodoro-tracker.com/)
 
-Web サービスでは、[Tomatoes](http://www.tomato.es/)
+Web サービスでは、[Tomatoes](https://www.tomato.es/)
 が優秀だったけれども、 最近出てきた、Pomodoro Tracker は Tomatoes
 を抜いたかもしれない。
 

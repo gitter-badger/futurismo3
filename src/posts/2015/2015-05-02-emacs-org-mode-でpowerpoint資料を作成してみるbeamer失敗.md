@@ -54,7 +54,7 @@ ox-beamerパッケージを利用する.
 実行のためには、 `pdflatex` コマンドが必要.
 Latex環境をまるまるインストールしてしましった.
 
--   [簡単LaTeXインストールWindows編（2014年7月版）](http://did2memo.net/2014/03/06/easy-latex-install-windows-8-2014-03/)
+-   [簡単LaTeXインストールWindows編（2014年7月版）](https://did2memo.net/2014/03/06/easy-latex-install-windows-8-2014-03/)
 
 M-x org-beamer-export-to-pdf を実行すると、
 beamerをPDFに変換したものを出力できる.
@@ -79,9 +79,9 @@ PDFから PPTへうまい方法が見つからない..
 
 以下の方法がみつかったが、どうもうまくいかない.
 
--   [pdf2odp](http://www2.hyo-med.ac.jp/~tanimura/LaTeX/pdf2odp.html)
+-   [pdf2odp](https://www2.hyo-med.ac.jp/~tanimura/LaTeX/pdf2odp.html)
 -   [microsoft powerpoint - How to convert PDF to PPT or ODP? - Super
-    User](http://superuser.com/questions/268244/how-to-convert-pdf-to-ppt-or-odp)
+    User](https://superuser.com/questions/268244/how-to-convert-pdf-to-ppt-or-odp)
 
 Special Thanks
 ==============

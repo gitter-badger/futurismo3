@@ -197,8 +197,8 @@ a
 
 なんとか頑張れそう。
 
- [1]: http://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%82%B8_(%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)
- [2]: http://www.gnu.org/software/diffutils/
- [3]: http://linuxjm.sourceforge.jp/html/gnumaniak/man1/diff.1.html
- [4]: http://linuxjm.sourceforge.jp/html/gnumaniak/man1/sdiff.1.html
- [5]: http://linuxjm.sourceforge.jp/html/gnumaniak/man1/diff3.1.html
+ [1]: https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%82%B8_(%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)
+ [2]: https://www.gnu.org/software/diffutils/
+ [3]: https://linuxjm.sourceforge.jp/html/gnumaniak/man1/diff.1.html
+ [4]: https://linuxjm.sourceforge.jp/html/gnumaniak/man1/sdiff.1.html
+ [5]: https://linuxjm.sourceforge.jp/html/gnumaniak/man1/diff3.1.html

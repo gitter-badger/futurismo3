@@ -57,13 +57,13 @@ LoadError: cannot load such file -- tk
     <div class="outline-text-4" id="text-1-0-1">
       <ul class="org-ul">
         <li>
-          <a href="http://www.tcl.tk/">Tcl Developer Site</a>
+          <a href="https://www.tcl.tk/">Tcl Developer Site</a>
         </li>
         <li>
-          <a href="http://ronor.web.fc2.com/rubytk/">Ruby/Tk入門</a>
+          <a href="https://ronor.web.fc2.com/rubytk/">Ruby/Tk入門</a>
         </li>
         <li>
-          <a href="http://magazine.rubyist.net/?0003-RubyTkMovement">Rubyist Magazine &#8211; Ruby/Tk の動向</a>
+          <a href="https://magazine.rubyist.net/?0003-RubyTkMovement">Rubyist Magazine &#8211; Ruby/Tk の動向</a>
         </li>
       </ul>
     </div></p>
@@ -154,10 +154,10 @@ Failed to configure win32ole. It will not be installed.
     
     <ul class="org-ul">
       <li>
-        <a href="http://comments.gmane.org/gmane.comp.lang.ruby.japanese/8523">Japanese user list of the Ruby programming language ()</a>
+        <a href="https://comments.gmane.org/gmane.comp.lang.ruby.japanese/8523">Japanese user list of the Ruby programming language ()</a>
       </li>
       <li>
-        <a href="http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-core/55165">http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-core/55165</a>
+        <a href="https://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-core/55165">https://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-core/55165</a>
       </li>
     </ul>
     
@@ -171,7 +171,7 @@ Failed to configure win32ole. It will not be installed.
     
     <ul class="org-ul">
       <li>
-        <a href="http://qiita.com/Lio/items/1e6d74964282370d905c">Ruby &#8211; Ubuntu 13.04 + rbenv + tk がうまく使えなかった件 &#8211; Qiita</a>
+        <a href="https://qiita.com/Lio/items/1e6d74964282370d905c">Ruby &#8211; Ubuntu 13.04 + rbenv + tk がうまく使えなかった件 &#8211; Qiita</a>
       </li>
     </ul>
     
@@ -273,7 +273,7 @@ require "tkextlib/tkimg/jpeg"
     
     <ul class="org-ul">
       <li>
-        <a href="http://drx.rubyforge.org/ubuntu-new-tk.html">http://drx.rubyforge.org/ubuntu-new-tk.html</a>
+        <a href="https://drx.rubyforge.org/ubuntu-new-tk.html">https://drx.rubyforge.org/ubuntu-new-tk.html</a>
       </li>
     </ul>
     

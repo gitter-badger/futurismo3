@@ -52,7 +52,7 @@ Exception in thread "main" java.util.ConcurrentModificationException
 原因は, iterater で for 文を回している時に, 要素を削除しようとしたから.
 
 -   [ConcurrentModificationException (Java Platform
-    SE 6)](http://e-class.center.yuge.ac.jp/jdk_docs/ja/api/java/util/ConcurrentModificationException.html)
+    SE 6)](https://e-class.center.yuge.ac.jp/jdk_docs/ja/api/java/util/ConcurrentModificationException.html)
 
 回避方法
 ========
@@ -111,8 +111,8 @@ BookMark
 
 -   [How to Avoid ConcurrentModificationException when using an Iterator
     | Java Code
-    Geeks](http://www.javacodegeeks.com/2011/05/avoid-concurrentmodificationexception.html)
+    Geeks](https://www.javacodegeeks.com/2011/05/avoid-concurrentmodificationexception.html)
 -   [java - Why there is no ConcurrentHashSet against
     ConcurrentHashMap - Stack
-    Overflow](http://stackoverflow.com/questions/6992608/why-there-is-no-concurrenthashset-against-concurrenthashmap)
+    Overflow](https://stackoverflow.com/questions/6992608/why-there-is-no-concurrenthashset-against-concurrenthashmap)
 

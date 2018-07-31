@@ -19,7 +19,7 @@ type: post
 url: /archives/=564
 ---
 
-[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="IMG_1825" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/IMG_1825_thumb.png" alt="IMG_1825" width="164" height="244" border="0" />][1]
+[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="IMG_1825" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/IMG_1825_thumb.png" alt="IMG_1825" width="164" height="244" border="0" />][1]
 
 前回の記事で、自分が普段速聴のためにしていることを書きました。
   
@@ -34,10 +34,10 @@ url: /archives/=564
 を利用すると、もっと簡単に高速再生ができることがわかりました。
 
 <div class="sticky-itslink">
-  <a href="http://click.linksynergy.com/fs-bin/stat?id=SU3d78d7YDQ&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fpodcast%252Fid525463029%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30" rel="nofollow" target="_blank"><img style="margin: 5px; float: left; border-style: none;" title="Podcast" src="http://a1.mzstatic.com/us/r1000/120/Purple/v4/9f/47/59/9f4759ba-0b58-81e3-c86a-755b1244eda5/Icon-iPhone.png" alt="Podcast" /></a></p> 
+  <a href="https://click.linksynergy.com/fs-bin/stat?id=SU3d78d7YDQ&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fpodcast%252Fid525463029%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30" rel="nofollow" target="_blank"><img style="margin: 5px; float: left; border-style: none;" title="Podcast" src="https://a1.mzstatic.com/us/r1000/120/Purple/v4/9f/47/59/9f4759ba-0b58-81e3-c86a-755b1244eda5/Icon-iPhone.png" alt="Podcast" /></a></p> 
   
   <div class="sticky-itslinktext">
-    <a href="http://click.linksynergy.com/fs-bin/stat?id=SU3d78d7YDQ&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fpodcast%252Fid525463029%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30" rel="nofollow" target="_blank">Podcast</a><br /> Apple<br /> 価格： 0円 <a href="http://click.linksynergy.com/fs-bin/stat?id=SU3d78d7YDQ&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fpodcast%252Fid525463029%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30" rel="nofollow" target="_blank"><img style="border-style: none;" src="http://ax.phobos.apple.com.edgesuite.net/ja_jp/images/web/linkmaker/badge_appstore-sm.gif" alt="iTunesで見る" /></a><br /> <span style="font-size: xx-small;">posted with <a href="http://sticky.linclip.com/linkmaker/" target="_blank">sticky</a> on 2012.10.2</span>
+    <a href="https://click.linksynergy.com/fs-bin/stat?id=SU3d78d7YDQ&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fpodcast%252Fid525463029%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30" rel="nofollow" target="_blank">Podcast</a><br /> Apple<br /> 価格： 0円 <a href="https://click.linksynergy.com/fs-bin/stat?id=SU3d78d7YDQ&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fpodcast%252Fid525463029%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30" rel="nofollow" target="_blank"><img style="border-style: none;" src="https://ax.phobos.apple.com.edgesuite.net/ja_jp/images/web/linkmaker/badge_appstore-sm.gif" alt="iTunesで見る" /></a><br /> <span style="font-size: xx-small;">posted with <a href="https://sticky.linclip.com/linkmaker/" target="_blank">sticky</a> on 2012.10.2</span>
   </div>
   
   <div class="sticky-itslinktext">
@@ -58,7 +58,7 @@ iOS6になってから、Podcastを聴くためのアプリ『Podcast App』が�
   
 次に、[News & Politics]から[NHKラジオニュース]を選択します。
 
-[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="IMG_1823" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/IMG_1823_thumb.png" alt="IMG_1823" width="164" height="244" border="0" />][3]
+[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="IMG_1823" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/IMG_1823_thumb.png" alt="IMG_1823" width="164" height="244" border="0" />][3]
 
 すると、登録画面が開くので、番組を登録します。
 
@@ -66,7 +66,7 @@ iOS6になってから、Podcastを聴くためのアプリ『Podcast App』が�
   
 ダウンロードできる記事が一覧で表示されるので、早速ダウンロードです。
 
-[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="IMG_1822" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/IMG_1822_thumb.png" alt="IMG_1822" width="164" height="244" border="0" />][4]
+[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="IMG_1822" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/IMG_1822_thumb.png" alt="IMG_1822" width="164" height="244" border="0" />][4]
 
 ### iPhoneで音源を3倍速へ加速させる
 
@@ -80,7 +80,7 @@ iOS6になってから、Podcastを聴くためのアプリ『Podcast App』が�
   
 <span style="color: #0000ff;">３倍速にするためには3xを選択</span>します。
 
-[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="IMG_1824" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/IMG_1824_thumb.png" alt="IMG_1824" width="164" height="244" border="0" />][5]
+[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="IMG_1824" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/IMG_1824_thumb.png" alt="IMG_1824" width="164" height="244" border="0" />][5]
 
 これで、簡単にNHKラジオニュースを3倍速で聴くことが可能となります。(^-^)
 
@@ -107,7 +107,7 @@ NHKニュースの英語版、NHK World Englishも 同じアプリで楽しめ�
 最高の現実逃避用のグッズです。
 
 <div id="scid:81867AAF-BB02-476b-AE5D-12BDAC2E750D:5fe354f5-7cfc-4767-a230-743e922a7abf" class="wlWriterEditableSmartContent" style="margin: 0px; display: inline; float: none; padding: 0px;">
-  <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B002BH3GM4/sleephacker-22/ref=nosim" target="_blank"><img src="http://ecx.images-amazon.com/images/I/417L4Ei5eaL._SL160_.jpg" alt="SONY ノイズキャンセリングヘッドホン NC33 ブラック MDR-NC33/B" /><br /> SONY ノイズキャンセリングヘッドホン NC33 ブラック MDR-NC33/B<br /> </a>
+  <a href="https://www.amazon.co.jp/exec/obidos/ASIN/B002BH3GM4/sleephacker-22/ref=nosim" target="_blank"><img src="https://ecx.images-amazon.com/images/I/417L4Ei5eaL._SL160_.jpg" alt="SONY ノイズキャンセリングヘッドホン NC33 ブラック MDR-NC33/B" /><br /> SONY ノイズキャンセリングヘッドホン NC33 ブラック MDR-NC33/B<br /> </a>
 </div>
 
 (↑これを使ってます）
@@ -115,8 +115,8 @@ NHKニュースの英語版、NHK World Englishも 同じアプリで楽しめ�
 <div id="fastlookup_top" style="display: none;">
 </div>
 
- [1]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/IMG_1825.png
+ [1]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/IMG_1825.png
  [2]: https://futurismo.biz/archives/452 "クラウド速聴！フリーソフト『Lilith』でNHKニュースを3倍速で聴いてみる。"
- [3]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/IMG_1823.png
- [4]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/IMG_1822.png
- [5]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/IMG_1824.png
+ [3]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/IMG_1823.png
+ [4]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/IMG_1822.png
+ [5]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/IMG_1824.png

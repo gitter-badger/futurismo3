@@ -18,7 +18,7 @@ Clojureが学べるMOOC, Functional programming with Clojureをやってみま�
 
 <ul class="org-ul">
   <li>
-    <a href="http://mooc.fi/courses/2014/clojure/">Functional programming with Clojure</a>
+    <a href="https://mooc.fi/courses/2014/clojure/">Functional programming with Clojure</a>
   </li>
 </ul>
 

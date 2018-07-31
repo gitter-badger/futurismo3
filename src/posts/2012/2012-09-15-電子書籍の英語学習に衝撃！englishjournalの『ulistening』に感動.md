@@ -19,11 +19,11 @@ url: /archives/=412
 
 <font color="#ff0000">追記 2013年3月31日 : <br />なんとEnglishJournalの電子書籍は2013年3月で終わってしまったらしい。これからはEnglishJournalをわざわざ裁断してiPadに入れなければいけないかと思うと悲しい（泣）</font>
 
-> ※『ENGLISH JOURNAL』電子版は2013年3月号をもって、販売を停止させていただきます。ご愛読ありがとうございました。[http://www.alc.co.jp/elearning/app/ulis/][1]
+> ※『ENGLISH JOURNAL』電子版は2013年3月号をもって、販売を停止させていただきます。ご愛読ありがとうございました。[https://www.alc.co.jp/elearning/app/ulis/][1]
 
 アルク社の英語学習用の雑誌、EnglishJournal(EJ)を購読しはじめてから、3年目。
 
-おととしは、1000時間<a href="http://px.a8.net/svt/ejp?a8mat=1ZZMRF+28DLRE+2NA+1O3HSY" target="_blank">ヒアリングマラソン</a>に参加して、スタートで石につまずいた。   
+おととしは、1000時間<a href="https://px.a8.net/svt/ejp?a8mat=1ZZMRF+28DLRE+2NA+1O3HSY" target="_blank">ヒアリングマラソン</a>に参加して、スタートで石につまずいた。   
 この２年間でTOEICの点数が150点下がり、妹にも弟にも点数を抜かされて、   
 さらには会社のお昼休みにTOEICの勉強をしてたりすると、   
 『英語できるだーすごいねー』というパワーハラスメントを受けて、   
@@ -41,10 +41,10 @@ EnglishJournalの電子書籍は、iPhone/iPadアプリ 『uListening』から�
 口コミや評価はカスタマーレビューを。
 
 <div class="sticky-itslink">
-  <a href="http://click.linksynergy.com/fs-bin/stat?id=SU3d78d7YDQ&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fulistening-aruku%252Fid423181740%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30" rel="nofollow" target="_blank"><img style="border-bottom-style: none; margin: 5px; border-left-style: none; border-top-style: none; float: left; border-right-style: none" title="uListening （アルク）" alt="uListening （アルク）" src="http://a4.mzstatic.com/us/r1000/084/Purple/5b/66/0d/mzi.geothouk.png" /></a> </p> 
+  <a href="https://click.linksynergy.com/fs-bin/stat?id=SU3d78d7YDQ&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fulistening-aruku%252Fid423181740%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30" rel="nofollow" target="_blank"><img style="border-bottom-style: none; margin: 5px; border-left-style: none; border-top-style: none; float: left; border-right-style: none" title="uListening （アルク）" alt="uListening （アルク）" src="https://a4.mzstatic.com/us/r1000/084/Purple/5b/66/0d/mzi.geothouk.png" /></a> </p> 
   
   <div class="sticky-itslinktext">
-    <a href="http://click.linksynergy.com/fs-bin/stat?id=SU3d78d7YDQ&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fulistening-aruku%252Fid423181740%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30" rel="nofollow" target="_blank">uListening （アルク）</a> <br />ALC PRESS, INC. <br />価格： 0円 <a href="http://click.linksynergy.com/fs-bin/stat?id=SU3d78d7YDQ&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fulistening-aruku%252Fid423181740%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30" rel="nofollow" target="_blank"><img style="border-bottom-style: none; border-left-style: none; border-top-style: none; border-right-style: none" alt="iTunesで見る" src="http://ax.phobos.apple.com.edgesuite.net/ja_jp/images/web/linkmaker/badge_appstore-sm.gif" /></a> <br /><span style="font-size: xx-small">posted with <a href="http://sticky.linclip.com/linkmaker/" target="_blank">sticky</a> on 2012.9.21</span>
+    <a href="https://click.linksynergy.com/fs-bin/stat?id=SU3d78d7YDQ&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fulistening-aruku%252Fid423181740%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30" rel="nofollow" target="_blank">uListening （アルク）</a> <br />ALC PRESS, INC. <br />価格： 0円 <a href="https://click.linksynergy.com/fs-bin/stat?id=SU3d78d7YDQ&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fulistening-aruku%252Fid423181740%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30" rel="nofollow" target="_blank"><img style="border-bottom-style: none; border-left-style: none; border-top-style: none; border-right-style: none" alt="iTunesで見る" src="https://ax.phobos.apple.com.edgesuite.net/ja_jp/images/web/linkmaker/badge_appstore-sm.gif" /></a> <br /><span style="font-size: xx-small">posted with <a href="https://sticky.linclip.com/linkmaker/" target="_blank">sticky</a> on 2012.9.21</span>
   </div></p>
 </div>
 
@@ -88,7 +88,7 @@ iTsuneで購入するため、iPhone/iPadの両方でダウンロードが可能
 今までは、雑誌に付属していたCDをiPodに入れ直していたが、   
 その手間も省けて、とても効率的だ。
 
-[<img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="IMG_1770" border="0" alt="IMG_1770" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/IMG_1770_thumb.png" width="225" height="335" />][2]
+[<img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="IMG_1770" border="0" alt="IMG_1770" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/IMG_1770_thumb.png" width="225" height="335" />][2]
 
 ダウンロードすると、こんな感じで『リスニングツール』と『ブックビューア』の２種類が現れる。リスニングツールはリスニングに特化したテキスト。ブックビューアが、EJを電子書籍したものといった感じだ。
 
@@ -96,7 +96,7 @@ iPhoneでブックビューアを読もうとすると、字が小さくてな�
 
 #### テキストをクリックした場所からリスニング可能！
 
-[<img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="IMG_1773" border="0" alt="IMG_1773" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/IMG_1773_thumb.png" width="222" height="331" />][3]
+[<img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="IMG_1773" border="0" alt="IMG_1773" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/IMG_1773_thumb.png" width="222" height="331" />][3]
 
 リスニングツールで、リスニング用テキストをタッチすると、   
 タッチした場所からリスニングを開始することができる。
@@ -107,7 +107,7 @@ iPodをクルクル回して該当箇所に飛んでいたのだが、
 
 ### 調べたい単語は『英辞郎』で検索・単語帳登録可能！
 
-[<img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="IMG_1774" border="0" alt="IMG_1774" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/IMG_1774_thumb.png" width="218" height="325" />][4]
+[<img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="IMG_1774" border="0" alt="IMG_1774" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/IMG_1774_thumb.png" width="218" height="325" />][4]
 
 分からない単語が出てきた時、   
 iPhoneアプリ『英辞郎 on the WEB for iPhone』で調べることができる。
@@ -122,15 +122,15 @@ iPhoneアプリ『英辞郎 on the WEB for iPhone』で調べることができ�
 
 #### リスニング時間計測可能！
 
-[<img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="IMG_1771" border="0" alt="IMG_1771" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/IMG_1771_thumb.png" width="228" height="340" />][6]
+[<img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="IMG_1771" border="0" alt="IMG_1771" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/IMG_1771_thumb.png" width="228" height="340" />][6]
 
 リスニング時間を計測する機能もついている。   
 ヒアリングマラソンをしていたときは、一日のリスニング時間を別アプリで計測していたが、   
 これがなかなか面倒だった。一元管理できるのが嬉しい。   
 これと、ヒアリングマラソンのWeb画面が連携すれば便利なのに。
 
-     <a href="http://px.a8.net/svt/ejp?a8mat=1ZZMRF+28DLRE+2NA+1THGTT&a8ejpredirect=http%3A%2F%2Fshop.alc.co.jp%2Faffiliate%3Fcnom%3Da8net%26code%3Ds00000000343010%26afurl%3Dhttp%3A%2F%2Fshop.alc.co.jp%2Fcourse%2FH4%2F" target="_blank"><br /><img border="0" alt="" src="http://www25.a8.net/svt/bgt?aid=120915195135&wid=004&eno=01&mid=s00000000343010178000&mc=1" /></a>   
-<img border="0" alt="" src="http://www14.a8.net/0.gif?a8mat=1ZZMRF+28DLRE+2NA+1THGTT" width="1" height="1" />
+     <a href="https://px.a8.net/svt/ejp?a8mat=1ZZMRF+28DLRE+2NA+1THGTT&a8ejpredirect=http%3A%2F%2Fshop.alc.co.jp%2Faffiliate%3Fcnom%3Da8net%26code%3Ds00000000343010%26afurl%3Dhttp%3A%2F%2Fshop.alc.co.jp%2Fcourse%2FH4%2F" target="_blank"><br /><img border="0" alt="" src="https://www25.a8.net/svt/bgt?aid=120915195135&wid=004&eno=01&mid=s00000000343010178000&mc=1" /></a>   
+<img border="0" alt="" src="https://www14.a8.net/0.gif?a8mat=1ZZMRF+28DLRE+2NA+1THGTT" width="1" height="1" />
 
 #### リピート機能で聞き取りにくい単語を繰り返しチェック可能！
 
@@ -155,9 +155,9 @@ iPhoneアプリ『英辞郎 on the WEB for iPhone』で調べることができ�
 <div id="fastlookup_top">
 </div>
 
- [1]: http://www.alc.co.jp/elearning/app/ulis/ "http://www.alc.co.jp/elearning/app/ulis/"
- [2]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/IMG_1770.png
- [3]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/IMG_1773.png
- [4]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/IMG_1774.png
- [5]: http://itunes.apple.com/jp/app/id365874160?mt=8 "英辞郎 on the WEB for iPhone"
- [6]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/IMG_1771.png
+ [1]: https://www.alc.co.jp/elearning/app/ulis/ "https://www.alc.co.jp/elearning/app/ulis/"
+ [2]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/IMG_1770.png
+ [3]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/IMG_1773.png
+ [4]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/IMG_1774.png
+ [5]: https://itunes.apple.com/jp/app/id365874160?mt=8 "英辞郎 on the WEB for iPhone"
+ [6]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/IMG_1771.png

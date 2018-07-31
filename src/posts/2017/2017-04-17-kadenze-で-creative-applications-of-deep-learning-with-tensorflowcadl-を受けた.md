@@ -97,7 +97,7 @@ lecture では、tensorflow
 これは、Karphaty さんのデモサイトを真似たもの。
 
 -   [ConvNetJS demo: Image
-    Painting](http://cs.stanford.edu/people/karpathy/convnetjs/demo/image_regression.html)
+    Painting](https://cs.stanford.edu/people/karpathy/convnetjs/demo/image_regression.html)
 
 課題も、レクチャーの延長で、画像をニューラルネットワークに学習させることをした。
 はじめは、一つの画像を、次に１００枚の画像を、最後の Option 問題で 4

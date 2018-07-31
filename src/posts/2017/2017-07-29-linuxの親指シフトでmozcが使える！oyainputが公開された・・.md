@@ -89,5 +89,5 @@ xmodmap ~/.Xmodmap
 これで、立ち上がり時に自動起動するようになった。
 
  [1]: https://github.com/inwskatsube/oyainput
- [2]: http://qiita.com/inwskatsube/items/f0d4c4305202253d26e6
+ [2]: https://qiita.com/inwskatsube/items/f0d4c4305202253d26e6
  [3]: https://futurismo.biz/archives/2067

@@ -70,5 +70,5 @@ BookMarks
 =========
 
 -   [How To Style Github Gist Code Embeds in
-    WordPress](http://wpsites.net/tools/how-to-style-github-gist-code-embeds-in-wordpress/)
+    WordPress](https://wpsites.net/tools/how-to-style-github-gist-code-embeds-in-wordpress/)
 

@@ -103,7 +103,7 @@ url: /archives/=2482
       
       <ul class="org-ul">
         <li>
-          <a href="http://sourceforge.net/projects/usbwriter/">USBWriter | Free software downloads at SourceForge.net</a>
+          <a href="https://sourceforge.net/projects/usbwriter/">USBWriter | Free software downloads at SourceForge.net</a>
         </li>
       </ul>
     </div></p>
@@ -121,7 +121,7 @@ url: /archives/=2482
       
       <ul class="org-ul">
         <li>
-          <a href="http://www.eightforums.com/tutorials/6320-fast-startup-turn-off-windows-8-a.html">Fast Startup &#8211; Turn On or Off in Windows 8</a>
+          <a href="https://www.eightforums.com/tutorials/6320-fast-startup-turn-off-windows-8-a.html">Fast Startup &#8211; Turn On or Off in Windows 8</a>
         </li>
       </ul>
     </div></p>
@@ -674,7 +674,7 @@ grub-mkconfig -o /boot/grub/grub.cfg
       
       <ul class="org-ul">
         <li>
-          <a href="http://unix.stackexchange.com/questions/105389/arch-grub-asking-for-run-lvm-lvmetad-socket-on-a-non-lvm-disk">partition &#8211; Arch GRUB asking for /run/lvm/lvmetad.socket on a non lvm disk &#8211; Unix & Linux Stack Exchange</a>
+          <a href="https://unix.stackexchange.com/questions/105389/arch-grub-asking-for-run-lvm-lvmetad-socket-on-a-non-lvm-disk">partition &#8211; Arch GRUB asking for /run/lvm/lvmetad.socket on a non lvm disk &#8211; Unix & Linux Stack Exchange</a>
         </li>
       </ul>
       
@@ -760,13 +760,13 @@ grub-probe --target=hints_string /boot/efi/EFI/Microsoft/Boot/bootmgfw.efi
     <div class="outline-text-3" id="text-6-1">
       <ul class="org-ul">
         <li>
-          <a href="http://dic.nicovideo.jp/a/arch%20linux">Arch Linuxとは (アーチリナックスとは ) &#8211; ニコニコ大百科</a>
+          <a href="https://dic.nicovideo.jp/a/arch%20linux">Arch Linuxとは (アーチリナックスとは ) &#8211; ニコニコ大百科</a>
         </li>
         <li>
-          <a href="http://divide-et-impera.org/archives/1388">Ubuntuに飽きた俺達の楽園はArch Linuxにあった | Divide et impera</a>
+          <a href="https://divide-et-impera.org/archives/1388">Ubuntuに飽きた俺達の楽園はArch Linuxにあった | Divide et impera</a>
         </li>
         <li>
-          <a href="http://zaka-think.com/linux/archlinux/archlinux%E3%82%92%E3%82%84%E3%82%81%E3%81%9F%E7%90%86%E7%94%B1/">Archlinuxをやめた理由 | ざかしんく</a>
+          <a href="https://zaka-think.com/linux/archlinux/archlinux%E3%82%92%E3%82%84%E3%82%81%E3%81%9F%E7%90%86%E7%94%B1/">Archlinuxをやめた理由 | ざかしんく</a>
         </li>
       </ul>
     </div></p>
@@ -816,10 +816,10 @@ grub-probe --target=hints_string /boot/efi/EFI/Microsoft/Boot/bootmgfw.efi
             <a href="https://wiki.archlinux.org/index.php/Partitioning_(%E6%97%A5%E6%9C%AC%E8%AA%9E)#GPT_.E3.81.8B_MBR_.E3.81.AE.E9.81.B8.E6.8A.9E">Partitioning (日本語) &#8211; ArchWiki</a>
           </li>
           <li>
-            <a href="http://blog.volment.com/archives/=47">実は簡単Arch Linuxのインストール手順！ | volment</a>
+            <a href="https://blog.volment.com/archives/=47">実は簡単Arch Linuxのインストール手順！ | volment</a>
           </li>
           <li>
-            <a href="http://qiita.com/syui/items/1ffec0f12c253cda122b">awesome &#8211; ArchLinuxのGUI環境設を整える vol.1 &#8211; Qiita</a>
+            <a href="https://qiita.com/syui/items/1ffec0f12c253cda122b">awesome &#8211; ArchLinuxのGUI環境設を整える vol.1 &#8211; Qiita</a>
           </li>
         </ul>
       </div></p>
@@ -839,7 +839,7 @@ grub-probe --target=hints_string /boot/efi/EFI/Microsoft/Boot/bootmgfw.efi
             <a href="https://wiki.archlinux.org/index.php/GRUB_(%E6%97%A5%E6%9C%AC%E8%AA%9E)#UEFI-GPT_.E3.83.A2.E3.83.BC.E3.83.89.E3.81.A7.E3.82.A4.E3.83.B3.E3.82.B9.E3.83.88.E3.83.BC.E3.83.AB.E3.81.95.E3.82.8C.E3.81.9F_Windows_.E3.81.AE.E3.83.A1.E3.83.8B.E3.83.A5.E3.83.BC.E3.82.A8.E3.83.B3.E3.83.88.E3.83.AA">GRUB (日本語) &#8211; ArchWiki</a>
           </li>
           <li>
-            <a href="http://d.hatena.ne.jp/godai_0519/20140128/1390919028">ThinkPad X240をArch Linuxとのデュアルブートにするメモ &#8211; 堕(惰)プログラマ開発記録</a>
+            <a href="https://d.hatena.ne.jp/godai_0519/20140128/1390919028">ThinkPad X240をArch Linuxとのデュアルブートにするメモ &#8211; 堕(惰)プログラマ開発記録</a>
           </li>
           <li>
             <a href="https://spica.pw/blog/archives/=157">x240にArchとWindows8.1を共存させる | In the Spica</a>
@@ -860,7 +860,7 @@ grub-probe --target=hints_string /boot/efi/EFI/Microsoft/Boot/bootmgfw.efi
           <a href="https://qiita.com/tags/archlinux">archLinuxに関する32件の投稿 &#8211; Qiita</a>
         </li>
         <li>
-          <a href="http://qiita.com/xorphitus/items/3711895eb5d9f946c782">Arch Linux快適デスクトップ環境の構築 &#8211; Qiita</a>
+          <a href="https://qiita.com/xorphitus/items/3711895eb5d9f946c782">Arch Linux快適デスクトップ環境の構築 &#8211; Qiita</a>
         </li>
         <li>
           <a href="https://futurismo.biz/archives/2064">Windowsと Mint Linuxのデュアルブート環境をVAIOに構築した手順メモ | Futurismo</a>

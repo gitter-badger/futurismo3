@@ -35,7 +35,7 @@ iPhoneの対応を待ち望んでいます！！
 [グラモ][2]
 
 <div id="scid:81867AAF-BB02-476b-AE5D-12BDAC2E750D:8b101b01-fbf1-464b-a64c-b4cf67716f8c" class="wlWriterEditableSmartContent" style="margin: 0px; display: inline; float: none; padding: 0px;">
-  <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0053BXBVG/sleephacker-22/ref=nosim" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31NzUQPEL-L._SL160_.jpg" alt="Glamo 【自宅や外出先から、お使いの家電をコントロールできる学習リモコンの決定版! 】 iRemocon(アイリモコン) IRM-01L" /><br /> Glamo 【自宅や外出先から、お使いの家電をコントロールできる学習リモコンの決定版! 】 iRemocon(アイリモコン) IRM-01L<br /> </a>
+  <a href="https://www.amazon.co.jp/exec/obidos/ASIN/B0053BXBVG/sleephacker-22/ref=nosim" target="_blank"><img src="https://ecx.images-amazon.com/images/I/31NzUQPEL-L._SL160_.jpg" alt="Glamo 【自宅や外出先から、お使いの家電をコントロールできる学習リモコンの決定版! 】 iRemocon(アイリモコン) IRM-01L" /><br /> Glamo 【自宅や外出先から、お使いの家電をコントロールできる学習リモコンの決定版! 】 iRemocon(アイリモコン) IRM-01L<br /> </a>
 </div>
 
 &nbsp;
@@ -74,7 +74,7 @@ Teratermマクロは、iRemoconへ通信してコマンドを実行するドラ�
 
 #### iRemoconとMMDAgentでミクにいってらっしゃいしてもらう
 
-[http://www.youtube.com/embed/lpUV6RUzvFw]
+[https://www.youtube.com/embed/lpUV6RUzvFw]
 
 ##### TTLマクロ
 
@@ -249,7 +249,7 @@ include &#8220;C:\Users\Administrator\Dropbox\src\HAL1000\macro\com\end.ttl&#822
 余談だが一番の愛用曲は、究極の眠れるCD。これは本当にオススメ！ネれる！
 
 <div id="scid:81867AAF-BB02-476b-AE5D-12BDAC2E750D:40eab5fa-51f0-4f90-a9f0-ea72266445f3" class="wlWriterEditableSmartContent" style="margin: 0px; display: inline; float: none; padding: 0px;">
-  <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00006AM09/sleephacker-22/ref=nosim" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51Whx38xaLL._SL160_.jpg" alt="究極の眠れるCD" /><br /> 究極の眠れるCD<br /> メンタル・フィジック・シリーズ </a>
+  <a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00006AM09/sleephacker-22/ref=nosim" target="_blank"><img src="https://ecx.images-amazon.com/images/I/51Whx38xaLL._SL160_.jpg" alt="究極の眠れるCD" /><br /> 究極の眠れるCD<br /> メンタル・フィジック・シリーズ </a>
 </div>
 
 #### iRemoconとMMDAgentでミクにおはようしてもらう
@@ -334,7 +334,7 @@ MMDAgentの.fstでの定義はこんな感じにしてる。
 <div id="fastlookup_top" style="display: none;">
 </div>
 
- [1]: https://docs.google.com/viewer?url=http://glamo.co.jp/wp-content/uploads/2012/09/GLPR_2012091101.pdf
- [2]: http://glamo.co.jp/
+ [1]: https://docs.google.com/viewer?url=https://glamo.co.jp/wp-content/uploads/2012/09/GLPR_2012091101.pdf
+ [2]: https://glamo.co.jp/
  [3]: https://futurismo.biz/archives/154 "iRemoconでミクミクにしてやんよ。"
- [4]: http://homebrew.jp/showarchives/age=1262
+ [4]: https://homebrew.jp/showarchives/age=1262

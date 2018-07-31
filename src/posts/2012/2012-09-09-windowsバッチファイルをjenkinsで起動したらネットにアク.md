@@ -53,9 +53,9 @@ JenkinsはWindowsのサービスとして起動している。
   
 停滞している画面を見ることができる。
 
-[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb7.png" alt="image" width="372" height="341" border="0" />][1]
+[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb7.png" alt="image" width="372" height="341" border="0" />][1]
 
-[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb8.png" alt="image" width="372" height="234" border="0" />][2]
+[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb8.png" alt="image" width="372" height="234" border="0" />][2]
 
 メッセージの表示を選択すれば、Firefoxが停滞している様子が見える。
 
@@ -77,11 +77,11 @@ JenkinsはWindowsのサービスとして起動している。
   
 詳しくは参考ページを参照。
 
-<span style="color: #0066cc;"><a href="http://www50.atwiki.jp/mucho_note/pages/17.html">Jenkinsスレーブの作成と設定 －ムーチョのメモ帳</a><br /> <a href="https://wiki.jenkins-ci.org/display/JA/Step+by+step+guide+to+set+up+master+and+slave+machines">https://wiki.jenkins-ci.org/display/JA/Step+by+step+guide+to+set+up+master+and+slave+machines</a></span>
+<span style="color: #0066cc;"><a href="https://www50.atwiki.jp/mucho_note/pages/17.html">Jenkinsスレーブの作成と設定 －ムーチョのメモ帳</a><br /> <a href="https://wiki.jenkins-ci.org/display/JA/Step+by+step+guide+to+set+up+master+and+slave+machines">https://wiki.jenkins-ci.org/display/JA/Step+by+step+guide+to+set+up+master+and+slave+machines</a></span>
 
 作成したノードをブラウザ上から立ちあげると、こんな窓が出てくる。
 
-[<img style="background-image: none; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb9.png" alt="image" width="244" height="156" border="0" />][3]
+[<img style="background-image: none; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb9.png" alt="image" width="244" height="156" border="0" />][3]
 
 この状態で、Seleniumパッチを実行すると、問題なくネットへアクセスできた。
 
@@ -114,6 +114,6 @@ JenkinsがWindowsのスタートアップでサービスとして起動するこ
 <div id="fastlookup_top" style="display: none;">
 </div>
 
- [1]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image7.png
- [2]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image8.png
- [3]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image9.png
+ [1]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image7.png
+ [2]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image8.png
+ [3]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image9.png

@@ -126,7 +126,7 @@ net user tsune passoword /add /logonpasswordchg:yes
 ```
 
 -   [net user コマンドの LOGONPASSWORDCHG オプション - koi911's
-    Blog](http://koi9112.blog.shinobi.jp/%E6%9C%AA%E9%81%B8%E6%8A%9E/net%20user%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%81%AElogonpasswordchg%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3)
+    Blog](https://koi9112.blog.shinobi.jp/%E6%9C%AA%E9%81%B8%E6%8A%9E/net%20user%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%81%AElogonpasswordchg%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3)
 
 Windows Server 2003 では??
 
@@ -134,7 +134,7 @@ Windows Server 2003 では??
     2003](https://social.technet.microsoft.com/Forums/windowsserver/en-US/3e96c159-b4c1-4215-8b7a-370ea9590463/command-line-user-creation-in-server-2003?forum=winserverDS)
 -   [GUI
     以外の方法で「ユーザーは次回ログオン時にパスワードの変更が必要」のチェックを入れたい -
-    BIGLOBE なんでも相談室](http://soudan1.biglobe.ne.jp/qa1936302.html)
+    BIGLOBE なんでも相談室](https://soudan1.biglobe.ne.jp/qa1936302.html)
 
 WSH を利用すればできるぽい.
 
@@ -142,7 +142,7 @@ Bookmarks
 =========
 
 -   [Net User
-    コマンドの使用方法](http://support.microsoft.com/kb/251394/ja)
+    コマンドの使用方法](https://support.microsoft.com/kb/251394/ja)
 -   [Windows TIPS:net user コマンドの使い方 - ＠
-    IT](http://www.atmarkit.co.jp/ait/articles/0609/02/news014.html)
+    IT](https://www.atmarkit.co.jp/ait/articles/0609/02/news014.html)
 

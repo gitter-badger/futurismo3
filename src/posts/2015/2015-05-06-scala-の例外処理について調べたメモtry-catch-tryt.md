@@ -131,11 +131,11 @@ Special Thanks
 
 -   [Scala Standard Library 2.11.0-20140303-150720-b59c3f8641 - Try -
     Scala Standard Library 2.11.0-20140303-150720-b59c3f8641 -
-    scala.util.Try](http://www.scala-lang.org/files/archive/nightly/docs/library/index.html#scala.util.Try)
+    scala.util.Try](https://www.scala-lang.org/files/archive/nightly/docs/library/index.html#scala.util.Try)
 -   [scala.util.Try を使いこなそう -
-    Qiita](http://qiita.com/yharada/items/15f88e5bbf44833b5ed7)
+    Qiita](https://qiita.com/yharada/items/15f88e5bbf44833b5ed7)
 -   [Scala での例外処理 - Either,Option,util.control.Exception - (
     ꒪⌓꒪)
-    ゆるよろ日記](http://yuroyoro.hatenablog.com/entry/20100719/1279519961)
+    ゆるよろ日記](https://yuroyoro.hatenablog.com/entry/20100719/1279519961)
 -   [Scala
-    での例外処理](http://www.slideshare.net/TakashiKawachi/scala-16023052)
+    での例外処理](https://www.slideshare.net/TakashiKawachi/scala-16023052)

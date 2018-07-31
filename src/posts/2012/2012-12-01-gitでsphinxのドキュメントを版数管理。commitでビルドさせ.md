@@ -74,5 +74,5 @@ post-commtの内容は以下
 
  [1]: https://futurismo.biz/archives/813 "gitでSphinxのドキュメントを版数管理。commitでビルドさせた。"
  [2]: https://futurismo.biz/archives/811 "Sphinx-docxbuilderでWordドキュメントをテキストから生成(Windows)"
- [3]: http://note.sicafe.net/sphinx_memo/reSTandGit.html
- [4]: http://blog.kzfmix.com/entry/1309561912
+ [3]: https://note.sicafe.net/sphinx_memo/reSTandGit.html
+ [4]: https://blog.kzfmix.com/entry/1309561912

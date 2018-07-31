@@ -37,14 +37,14 @@ xcopy を利用.
 -   [Windows での コマンドラインからコピーするコマンドまとめ (xcopy,
     robocopy, copy) | Futurismo](https://futurismo.biz/archives/2735)
 -   [コマンドプロンプト xcopy -
-    ファイルをディレクトリ構造ごとコピーする](http://www.k-tanaka.net/cmd/xcopy.php)
+    ファイルをディレクトリ構造ごとコピーする](https://www.k-tanaka.net/cmd/xcopy.php)
 
 xcopy で ファイルですか, ディレクトリですかと質問されるので, echo F を
 先頭につけたいところだが, この方法だと, うまくいかない.
 
 -   [xcopy でフォルダコピー時に〓ファイル名ですか,
     またはディレクトリ名ですか〓と聞いてくる : 3
-    流プログラマのメモ書き](http://jehupc.exblog.jp/12286010/)
+    流プログラマのメモ書き](https://jehupc.exblog.jp/12286010/)
 
 ファイルならば, copy を利用する. フォルダならば, xcopy /i で OK.
 
@@ -56,9 +56,9 @@ processBuilder ライブラリを利用する.
 -   [ProcessBuilder (Java Platform
     SE 6)](https://docs.oracle.com/javase/jp/6/api/java/lang/ProcessBuilder.html)
 -   [J2SE 5.0 Tiger 虎の穴
-    ProcessBuilder](http://www.javainthebox.net/laboratory/J2SE1.5/TinyTips/ProcessBuilder/ProcessBuilder.html)
+    ProcessBuilder](https://www.javainthebox.net/laboratory/J2SE1.5/TinyTips/ProcessBuilder/ProcessBuilder.html)
 -   [Java 外部プロセス起動メモ (Hishidama's Java Process
-    Memo)](http://www.ne.jp/asahi/hishidama/home/tech/java/process.html)
+    Memo)](https://www.ne.jp/asahi/hishidama/home/tech/java/process.html)
 
 ``` {.java}
 import java.io.BufferedReader;

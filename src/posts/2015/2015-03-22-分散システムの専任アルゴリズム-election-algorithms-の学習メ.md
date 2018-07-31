@@ -69,9 +69,9 @@ Bully Algorithm
 Bully (ガキ大将) アルゴリズム. つよいものが勝つというもの.
 
 -   [CS 551: Synchronization, Bully Election Algorithm
-    Example](http://www.cs.colostate.edu/~cs551/CourseNotes/Synchronization/BullyExample.html)
+    Example](https://www.cs.colostate.edu/~cs551/CourseNotes/Synchronization/BullyExample.html)
 -   [Bully algorithm - Wikipedia, the free
-    encyclopedia](http://en.wikipedia.org/wiki/Bully_algorithm)
+    encyclopedia](https://en.wikipedia.org/wiki/Bully_algorithm)
 
 3 種類のメッセージがある. \* Election Message: Sent to announce faster
 election \* Answer Message: Respond to the election message \*
@@ -102,14 +102,14 @@ Ring Algorithm
 をもつノードが Master になる.
 
 -   [CS 551: Synchronization, Token Ring Election Algorithm
-    Example](http://www.cs.colostate.edu/~cs551/CourseNotes/Synchronization/RingElectExample.html)
+    Example](https://www.cs.colostate.edu/~cs551/CourseNotes/Synchronization/RingElectExample.html)
 
 Bookmarks
 ---------
 
 -   [Distributed
-    Algorithms](http://www2.cs.uregina.ca/~hamilton/courses/330/notes/distributed/distributed.html)
--   <http://www.hpcs.cs.tsukuba.ac.jp/~msato/lecture-note/dsys-2014/lecture-dist-mutex.pdf>
+    Algorithms](https://www2.cs.uregina.ca/~hamilton/courses/330/notes/distributed/distributed.html)
+-   <https://www.hpcs.cs.tsukuba.ac.jp/~msato/lecture-note/dsys-2014/lecture-dist-mutex.pdf>
 
 おわりに
 ========

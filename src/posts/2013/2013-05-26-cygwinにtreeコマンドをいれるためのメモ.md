@@ -23,7 +23,7 @@ Cygwinにはtreeコマンドがないようです。
 ### treeソースコードの入手
 
 <div id="scid:812469c5-0cb0-4c63-8c15-c81123a09de7:675f4e34-06e3-4f80-a582-f627cb1c45a1" class="wlWriterEditableSmartContent" style="float: none; padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px">
-  <pre name="code" class="c">curl -LO http://mama.indstate.edu/users/ice/tree/src/tree-1.6.0.tgz
+  <pre name="code" class="c">curl -LO https://mama.indstate.edu/users/ice/tree/src/tree-1.6.0.tgz
 tar xzfv tree-1.6.0.tgz
 cd tree-1.6.0.tgz</pre>
 </div>

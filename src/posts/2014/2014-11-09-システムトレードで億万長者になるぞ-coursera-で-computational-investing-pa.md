@@ -71,7 +71,7 @@ url: /archives/=2678
                 </p>
                 
                 <p>
-                  今, 投資の世界では, 1/3 の取引はコンピュータを介して実施されているら しい.それを, アルゴリズム取引という. <a href="http://en.wikipedia.org/wiki/Algorithmic_trading">Algorithmic trading &#8211; Wikipedia, the free encyclopedia</a>
+                  今, 投資の世界では, 1/3 の取引はコンピュータを介して実施されているら しい.それを, アルゴリズム取引という. <a href="https://en.wikipedia.org/wiki/Algorithmic_trading">Algorithmic trading &#8211; Wikipedia, the free encyclopedia</a>
                 </p>
                 
                 <p>
@@ -80,7 +80,7 @@ url: /archives/=2678
                 
                 <ul class="org-ul">
                   <li>
-                    <a href="http://www.amazon.co.jp/What-Hedge-Funds-Really-Introduction-ebook/dp/B00MYFT0TQ/ref=la_B00NR7UJ4A_1_1?s=books&#038;ie=UTF8&#038;qid=1414890856&#038;sr=1-1">Amazon.co.jp: What Hedge Funds Really Do: An Introduction to Portfolio Management 電子書籍: Philip J. Romero, Tucker Balch: 本</a>
+                    <a href="https://www.amazon.co.jp/What-Hedge-Funds-Really-Introduction-ebook/dp/B00MYFT0TQ/ref=la_B00NR7UJ4A_1_1?s=books&#038;ie=UTF8&#038;qid=1414890856&#038;sr=1-1">Amazon.co.jp: What Hedge Funds Really Do: An Introduction to Portfolio Management 電子書籍: Philip J. Romero, Tucker Balch: 本</a>
                   </li>
                 </ul>
               </div>
@@ -98,10 +98,10 @@ url: /archives/=2678
                 
                 <ul class="org-ul">
                   <li>
-                    <a href="http://www.amazon.co.jp/%E3%82%A2%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96%E3%83%BB%E3%83%9D%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%AA%E3%82%AA%E3%83%BB%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%E2%80%95%E9%81%8B%E7%94%A8%E6%88%A6%E7%95%A5%E3%81%AE%E8%A8%88%E9%87%8F%E7%9A%84%E7%90%86%E8%AB%96%E3%81%A8%E5%AE%9F%E8%B7%B5-%E3%83%AA%E3%83%81%E3%83%A3%E3%83%BC%E3%83%89%E3%83%BBC-%E3%82%B0%E3%83%AA%E3%83%8E%E3%83%AB%E3%83%89/dp/4492711252/ref=sr_1_1?s=books&#038;ie=UTF8&#038;qid=1414412296&#038;sr=1-1">Amazon.co.jp: アクティブ・ポートフォリオ・マネジメント-運用戦略の計量的理論と実践: リチャード・ C. グリノルド, ロナルド・ N. カーン, Richard C. Grinold, Ronald N. Kahn, 明治生命特別勘定運用部, 日興証券アセットマネジメント本部: 本</a>
+                    <a href="https://www.amazon.co.jp/%E3%82%A2%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96%E3%83%BB%E3%83%9D%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%AA%E3%82%AA%E3%83%BB%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%E2%80%95%E9%81%8B%E7%94%A8%E6%88%A6%E7%95%A5%E3%81%AE%E8%A8%88%E9%87%8F%E7%9A%84%E7%90%86%E8%AB%96%E3%81%A8%E5%AE%9F%E8%B7%B5-%E3%83%AA%E3%83%81%E3%83%A3%E3%83%BC%E3%83%89%E3%83%BBC-%E3%82%B0%E3%83%AA%E3%83%8E%E3%83%AB%E3%83%89/dp/4492711252/ref=sr_1_1?s=books&#038;ie=UTF8&#038;qid=1414412296&#038;sr=1-1">Amazon.co.jp: アクティブ・ポートフォリオ・マネジメント-運用戦略の計量的理論と実践: リチャード・ C. グリノルド, ロナルド・ N. カーン, Richard C. Grinold, Ronald N. Kahn, 明治生命特別勘定運用部, 日興証券アセットマネジメント本部: 本</a>
                   </li>
                   <li>
-                    <a href="http://www.amazon.co.jp/Active-Portfolio-Management-Quantitative-Controlling/dp/0070248826/ref=sr_1_1?s=english-books&#038;ie=UTF8&#038;qid=1414412270&#038;sr=1-1">Amazon.co.jp: Active Portfolio Management: A Quantitative Approach for Producing Superior Returns and Selecting Superior Returns and Controlling Risk (McGraw-Hill Library of Investment and Finance): Richard Grinold, Ronald Kahn: 洋書</a>
+                    <a href="https://www.amazon.co.jp/Active-Portfolio-Management-Quantitative-Controlling/dp/0070248826/ref=sr_1_1?s=english-books&#038;ie=UTF8&#038;qid=1414412270&#038;sr=1-1">Amazon.co.jp: Active Portfolio Management: A Quantitative Approach for Producing Superior Returns and Selecting Superior Returns and Controlling Risk (McGraw-Hill Library of Investment and Finance): Richard Grinold, Ronald Kahn: 洋書</a>
                   </li>
                 </ul>
                 
@@ -157,7 +157,7 @@ url: /archives/=2678
                 
                 <ul class="org-ul">
                   <li>
-                    <a href="http://wiki.quantsoftware.org/index.php?title=Computational_Investing_I#Assignments">http://wiki.quantsoftware.org/index.php?title=Computational_Investing_I#Assignments</a>
+                    <a href="https://wiki.quantsoftware.org/index.php?title=Computational_Investing_I#Assignments">https://wiki.quantsoftware.org/index.php?title=Computational_Investing_I#Assignments</a>
                   </li>
                 </ul>
               </div>
@@ -195,7 +195,7 @@ url: /archives/=2678
                   
                   <ul class="org-ul">
                     <li>
-                      <a href="http://www.amazon.co.jp/Python%E3%81%AB%E3%82%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90%E5%85%A5%E9%96%80-%E2%80%95NumPy%E3%80%81pandas%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%87%E3%83%BC%E3%82%BF%E5%87%A6%E7%90%86-Wes-McKinney/dp/4873116554/ref=pd_rhf_dp_s_cp_11_NKWA?ie=UTF8&#038;refRID=1RXNRYY640CBNJB4AVE8">Amazon.co.jp: Python によるデータ分析入門 -NumPy, pandas を使ったデータ処理: Wes McKinney, 小林 儀匡, 鈴木 宏尚, 瀬戸山 雅人, 滝口 開資, 野上 大介: 本</a>
+                      <a href="https://www.amazon.co.jp/Python%E3%81%AB%E3%82%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90%E5%85%A5%E9%96%80-%E2%80%95NumPy%E3%80%81pandas%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%87%E3%83%BC%E3%82%BF%E5%87%A6%E7%90%86-Wes-McKinney/dp/4873116554/ref=pd_rhf_dp_s_cp_11_NKWA?ie=UTF8&#038;refRID=1RXNRYY640CBNJB4AVE8">Amazon.co.jp: Python によるデータ分析入門 -NumPy, pandas を使ったデータ処理: Wes McKinney, 小林 儀匡, 鈴木 宏尚, 瀬戸山 雅人, 滝口 開資, 野上 大介: 本</a>
                     </li>
                   </ul>
                 </div>
@@ -217,7 +217,7 @@ url: /archives/=2678
                   
                   <ul class="org-ul">
                     <li>
-                      <a href="http://wiki.quantsoftware.org/index.php?title=QuantSoftware_ToolKit">Quantwiki</a>
+                      <a href="https://wiki.quantsoftware.org/index.php?title=QuantSoftware_ToolKit">Quantwiki</a>
                     </li>
                     <li>
                       <a href="https://github.com/tucker777/QSTK">https://github.com/tucker777/QSTK</a>
@@ -280,9 +280,9 @@ url: /archives/=2678
                 
                 <ul class="org-ul">
                   <li>
-                    <a href="http://www.amazon.co.jp/Ruby%E3%81%A7%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89-%E7%8F%BE%E4%BB%A3%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E5%9D%82%E6%9C%AC%E3%82%BF%E3%82%AF%E3%83%9E/dp/4775991280/ref=pd_sim_b_1?ie=UTF8&#038;refRID=1RXNRYY640CBNJB4AVE8">Amazon.co.jp: Ruby ではじめるシステムトレード (現代の錬金術師シリーズ): 坂本タクマ: 本</a> <ul class="org-ul">
+                    <a href="https://www.amazon.co.jp/Ruby%E3%81%A7%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89-%E7%8F%BE%E4%BB%A3%E3%81%AE%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E5%9D%82%E6%9C%AC%E3%82%BF%E3%82%AF%E3%83%9E/dp/4775991280/ref=pd_sim_b_1?ie=UTF8&#038;refRID=1RXNRYY640CBNJB4AVE8">Amazon.co.jp: Ruby ではじめるシステムトレード (現代の錬金術師シリーズ): 坂本タクマ: 本</a> <ul class="org-ul">
                       <li>
-                        <a href="http://moneyzine.jp/article/corner/7">坂本タクマの絶対システムトレード原論:株/FX ・投資と経済がよくわかる MONEYzine</a>
+                        <a href="https://moneyzine.jp/article/corner/7">坂本タクマの絶対システムトレード原論:株/FX ・投資と経済がよくわかる MONEYzine</a>
                       </li>
                     </ul>
                   </li>

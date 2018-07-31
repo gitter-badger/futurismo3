@@ -56,7 +56,7 @@ url: /archives/=6488
 詳しくは、他のサイトに説明は譲る。この記事がわかりやすかった。
 
 -   [遺伝的アルゴリズム - Python
-    と機械学習](http://darden.hatenablog.com/entry/2017/03/29/213948)
+    と機械学習](https://darden.hatenablog.com/entry/2017/03/29/213948)
 
 Python で遺伝的アルゴリズムやるなら Deap
 ----------------------------------------
@@ -77,14 +77,14 @@ Python で遺伝的アルゴリズムやるなら Deap というライブラリ�
 問題を扱っているものが多い。
 
 -   [Python の進化計算ライブラリ Deap -
-    Qiita](http://qiita.com/neka-nat@github/items/0cb8955bd85027d58c8e)
+    Qiita](https://qiita.com/neka-nat@github/items/0cb8955bd85027d58c8e)
 -   [DEAP - Python
-    と機械学習](http://darden.hatenablog.com/entry/2017/04/18/225459)
+    と機械学習](https://darden.hatenablog.com/entry/2017/04/18/225459)
 -   [遺伝的アルゴリズムに入門するときに参考になったスライドと OneMax
     問題の実装 -
-    もふもふ技術部](http://tech.mof-mof.co.jp/blog/ga-one-max-problem.html)
+    もふもふ技術部](https://tech.mof-mof.co.jp/blog/ga-one-max-problem.html)
 -   [Goodbye, World! Python の DEAP
-    が面白そう](http://3thefuture.blog.fc2.com/blog-entry-22.html)
+    が面白そう](https://3thefuture.blog.fc2.com/blog-entry-22.html)
 
 なので、OpenAI の FrozenLake-v0 を題材に Deap を使ってみた。
 

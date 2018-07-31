@@ -95,5 +95,5 @@ Linuxには、現在 Pythonが2種類デフォルトでインストールされ�
 <!--:-->
 
  [1]: https://picasaweb.google.com/lh/photo/hqaS9_Y7eoc3uuFsSAEAuDyD6hjDXGH6XyE6iLrzolo?feat=embedwebsite
- [2]: http://sourceforge.net/projects/retext/
+ [2]: https://sourceforge.net/projects/retext/
  [3]: https://futurismo.biz/archives/1456

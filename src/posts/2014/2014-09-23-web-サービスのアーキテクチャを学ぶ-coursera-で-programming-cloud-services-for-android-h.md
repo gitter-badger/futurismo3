@@ -91,7 +91,7 @@ url: /archives/=2623
       
       <ul class="org-ul">
         <li>
-          <a href="http://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%83%96%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3">ウェブアプリケーション &#8211; Wikipedia</a>
+          <a href="https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%83%96%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3">ウェブアプリケーション &#8211; Wikipedia</a>
         </li>
       </ul>
     </div>
@@ -108,10 +108,10 @@ url: /archives/=2623
         
         <ul class="org-ul">
           <li>
-            公式; <a href="http://projects.spring.io/spring-framework/">http://projects.spring.io/spring-framework/</a>
+            公式; <a href="https://projects.spring.io/spring-framework/">https://projects.spring.io/spring-framework/</a>
           </li>
           <li>
-            <a href="http://ja.wikipedia.org/wiki/Spring_Framework">Spring Framework &#8211; Wikipedia</a>
+            <a href="https://ja.wikipedia.org/wiki/Spring_Framework">Spring Framework &#8211; Wikipedia</a>
           </li>
         </ul>
       </div>
@@ -134,16 +134,16 @@ url: /archives/=2623
         <div class='amazlink-box' style='text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;'>
           <div class='amazlink-list' style='clear: both;'>
             <div class='amazlink-image' style='float:left;margin:0px 12px 1px 0px;'>
-              <a href='http://www.amazon.co.jp/%E3%80%8C%E3%83%97%E3%83%AD%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AEWeb%E6%8A%80%E8%A1%93%E5%85%A5%E9%96%80%E3%80%8D-%E2%80%95%E2%80%95%E3%81%AA%E3%81%9C%E3%80%81%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AFWeb%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%92%E9%96%8B%E7%99%BA%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E3%81%AE%E3%81%8B-%E5%B0%8F%E6%A3%AE-%E8%A3%95%E4%BB%8B/dp/4774142352%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4774142352' target='_blank' rel='nofollow'><img src='http://ecx.images-amazon.com/images/I/614GgCmIuPL._SL160_.jpg' style='border: none;' /></a>
+              <a href='https://www.amazon.co.jp/%E3%80%8C%E3%83%97%E3%83%AD%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AEWeb%E6%8A%80%E8%A1%93%E5%85%A5%E9%96%80%E3%80%8D-%E2%80%95%E2%80%95%E3%81%AA%E3%81%9C%E3%80%81%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AFWeb%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%92%E9%96%8B%E7%99%BA%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E3%81%AE%E3%81%8B-%E5%B0%8F%E6%A3%AE-%E8%A3%95%E4%BB%8B/dp/4774142352%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4774142352' target='_blank' rel='nofollow'><img src='https://ecx.images-amazon.com/images/I/614GgCmIuPL._SL160_.jpg' style='border: none;' /></a>
             </div>
             
             <div class='amazlink-info' style='height:160; margin-bottom: 10px'>
               <div class='amazlink-name' style='margin-bottom:10px;line-height:120%'>
-                <a href='http://www.amazon.co.jp/%E3%80%8C%E3%83%97%E3%83%AD%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AEWeb%E6%8A%80%E8%A1%93%E5%85%A5%E9%96%80%E3%80%8D-%E2%80%95%E2%80%95%E3%81%AA%E3%81%9C%E3%80%81%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AFWeb%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%92%E9%96%8B%E7%99%BA%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E3%81%AE%E3%81%8B-%E5%B0%8F%E6%A3%AE-%E8%A3%95%E4%BB%8B/dp/4774142352%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4774142352' rel='nofollow' target='_blank'>「プロになるための Web 技術入門」 &#8211;なぜ, あなたは Web システムを開発できないのか</a>
+                <a href='https://www.amazon.co.jp/%E3%80%8C%E3%83%97%E3%83%AD%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AEWeb%E6%8A%80%E8%A1%93%E5%85%A5%E9%96%80%E3%80%8D-%E2%80%95%E2%80%95%E3%81%AA%E3%81%9C%E3%80%81%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AFWeb%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%92%E9%96%8B%E7%99%BA%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E3%81%AE%E3%81%8B-%E5%B0%8F%E6%A3%AE-%E8%A3%95%E4%BB%8B/dp/4774142352%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4774142352' rel='nofollow' target='_blank'>「プロになるための Web 技術入門」 &#8211;なぜ, あなたは Web システムを開発できないのか</a>
               </div>
               
               <div class='amazlink-powered' style='font-size:80%;margin-top:5px;line-height:120%'>
-                posted with <a href='http://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 14.09.23
+                posted with <a href='https://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 14.09.23
               </div>
               
               <div class='amazlink-detail'>
@@ -152,7 +152,7 @@ url: /archives/=2623
               
               <div class='amazlink-sub-info' style='float: left;'>
                 <div class='amazlink-link' style='margin-top: 5px'>
-                  <img src='http://amazlink.fuyu.gs/icon_amazon.png' width='18' /><a href='http://www.amazon.co.jp/%E3%80%8C%E3%83%97%E3%83%AD%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AEWeb%E6%8A%80%E8%A1%93%E5%85%A5%E9%96%80%E3%80%8D-%E2%80%95%E2%80%95%E3%81%AA%E3%81%9C%E3%80%81%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AFWeb%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%92%E9%96%8B%E7%99%BA%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E3%81%AE%E3%81%8B-%E5%B0%8F%E6%A3%AE-%E8%A3%95%E4%BB%8B/dp/4774142352%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4774142352' rel='nofollow' target='_blank'>Amazon</a> <img src='http://amazlink.fuyu.gs/icon_rakuten.gif' width='18' /><a href='http://hb.afl.rakuten.co.jp/hgc/g00q0724.n763w947.g00q0724.n763x2b4/archives/c=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F6416565%2F&#038;m=http%3A%2F%2Fm.rakuten.co.jp%2Frms%2Fmsv%2FItem%3Fn%3D6416565%26surl%3Dbook' rel='nofollow' target='_blank'>楽天</a>
+                  <img src='https://amazlink.fuyu.gs/icon_amazon.png' width='18' /><a href='https://www.amazon.co.jp/%E3%80%8C%E3%83%97%E3%83%AD%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AEWeb%E6%8A%80%E8%A1%93%E5%85%A5%E9%96%80%E3%80%8D-%E2%80%95%E2%80%95%E3%81%AA%E3%81%9C%E3%80%81%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AFWeb%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%92%E9%96%8B%E7%99%BA%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E3%81%AE%E3%81%8B-%E5%B0%8F%E6%A3%AE-%E8%A3%95%E4%BB%8B/dp/4774142352%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4774142352' rel='nofollow' target='_blank'>Amazon</a> <img src='https://amazlink.fuyu.gs/icon_rakuten.gif' width='18' /><a href='https://hb.afl.rakuten.co.jp/hgc/g00q0724.n763w947.g00q0724.n763x2b4/archives/c=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F6416565%2F&#038;m=http%3A%2F%2Fm.rakuten.co.jp%2Frms%2Fmsv%2FItem%3Fn%3D6416565%26surl%3Dbook' rel='nofollow' target='_blank'>楽天</a>
                 </div>
               </div>
             </div>
@@ -168,16 +168,16 @@ url: /archives/=2623
         <div class='amazlink-box' style='text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;'>
           <div class='amazlink-list' style='clear: both;'>
             <div class='amazlink-image' style='float:left;margin:0px 12px 1px 0px;'>
-              <a href='http://www.amazon.co.jp/Spring3%E5%85%A5%E9%96%80-%E2%80%95%E2%80%95Java%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%88%E3%82%8A%E8%89%AF%E3%81%84%E8%A8%AD%E8%A8%88%E3%81%A8%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3-%E9%95%B7%E8%B0%B7%E5%B7%9D-%E8%A3%95%E4%B8%80/dp/477415380X%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D477415380X' target='_blank' rel='nofollow'><img src='http://ecx.images-amazon.com/images/I/51aJP0oNtkL._SL160_.jpg' style='border: none;' /></a>
+              <a href='https://www.amazon.co.jp/Spring3%E5%85%A5%E9%96%80-%E2%80%95%E2%80%95Java%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%88%E3%82%8A%E8%89%AF%E3%81%84%E8%A8%AD%E8%A8%88%E3%81%A8%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3-%E9%95%B7%E8%B0%B7%E5%B7%9D-%E8%A3%95%E4%B8%80/dp/477415380X%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D477415380X' target='_blank' rel='nofollow'><img src='https://ecx.images-amazon.com/images/I/51aJP0oNtkL._SL160_.jpg' style='border: none;' /></a>
             </div>
             
             <div class='amazlink-info' style='height:160; margin-bottom: 10px'>
               <div class='amazlink-name' style='margin-bottom:10px;line-height:120%'>
-                <a href='http://www.amazon.co.jp/Spring3%E5%85%A5%E9%96%80-%E2%80%95%E2%80%95Java%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%88%E3%82%8A%E8%89%AF%E3%81%84%E8%A8%AD%E8%A8%88%E3%81%A8%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3-%E9%95%B7%E8%B0%B7%E5%B7%9D-%E8%A3%95%E4%B8%80/dp/477415380X%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D477415380X' rel='nofollow' target='_blank'>Spring3 入門 &#8211;Java フレームワーク・より良い設計とアーキテクチャ</a>
+                <a href='https://www.amazon.co.jp/Spring3%E5%85%A5%E9%96%80-%E2%80%95%E2%80%95Java%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%88%E3%82%8A%E8%89%AF%E3%81%84%E8%A8%AD%E8%A8%88%E3%81%A8%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3-%E9%95%B7%E8%B0%B7%E5%B7%9D-%E8%A3%95%E4%B8%80/dp/477415380X%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D477415380X' rel='nofollow' target='_blank'>Spring3 入門 &#8211;Java フレームワーク・より良い設計とアーキテクチャ</a>
               </div>
               
               <div class='amazlink-powered' style='font-size:80%;margin-top:5px;line-height:120%'>
-                posted with <a href='http://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 14.09.23
+                posted with <a href='https://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 14.09.23
               </div>
               
               <div class='amazlink-detail'>
@@ -186,7 +186,7 @@ url: /archives/=2623
               
               <div class='amazlink-sub-info' style='float: left;'>
                 <div class='amazlink-link' style='margin-top: 5px'>
-                  <img src='http://amazlink.fuyu.gs/icon_amazon.png' width='18' /><a href='http://www.amazon.co.jp/Spring3%E5%85%A5%E9%96%80-%E2%80%95%E2%80%95Java%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%88%E3%82%8A%E8%89%AF%E3%81%84%E8%A8%AD%E8%A8%88%E3%81%A8%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3-%E9%95%B7%E8%B0%B7%E5%B7%9D-%E8%A3%95%E4%B8%80/dp/477415380X%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D477415380X' rel='nofollow' target='_blank'>Amazon</a> <img src='http://amazlink.fuyu.gs/icon_rakuten.gif' width='18' /><a href='http://hb.afl.rakuten.co.jp/hgc/g00q0724.n763w947.g00q0724.n763x2b4/archives/c=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F12055186%2F&#038;m=http%3A%2F%2Fm.rakuten.co.jp%2Frms%2Fmsv%2FItem%3Fn%3D12055186%26surl%3Dbook' rel='nofollow' target='_blank'>楽天</a>
+                  <img src='https://amazlink.fuyu.gs/icon_amazon.png' width='18' /><a href='https://www.amazon.co.jp/Spring3%E5%85%A5%E9%96%80-%E2%80%95%E2%80%95Java%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%88%E3%82%8A%E8%89%AF%E3%81%84%E8%A8%AD%E8%A8%88%E3%81%A8%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3-%E9%95%B7%E8%B0%B7%E5%B7%9D-%E8%A3%95%E4%B8%80/dp/477415380X%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D477415380X' rel='nofollow' target='_blank'>Amazon</a> <img src='https://amazlink.fuyu.gs/icon_rakuten.gif' width='18' /><a href='https://hb.afl.rakuten.co.jp/hgc/g00q0724.n763w947.g00q0724.n763x2b4/archives/c=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F12055186%2F&#038;m=http%3A%2F%2Fm.rakuten.co.jp%2Frms%2Fmsv%2FItem%3Fn%3D12055186%26surl%3Dbook' rel='nofollow' target='_blank'>楽天</a>
                 </div>
               </div>
             </div>
@@ -232,23 +232,23 @@ url: /archives/=2623
       
       <ul class="org-ul">
         <li>
-          <a href="http://www.cs.wustl.edu/~schmidt/ACE.html">The ADAPTIVE Communication Environment (ACE)</a>
+          <a href="https://www.cs.wustl.edu/~schmidt/ACE.html">The ADAPTIVE Communication Environment (ACE)</a>
         </li>
       </ul>
       
       <div class='amazlink-box' style='text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;'>
         <div class='amazlink-list' style='clear: both;'>
           <div class='amazlink-image' style='float:left;margin:0px 12px 1px 0px;'>
-            <a href='http://www.amazon.co.jp/Pattern-Oriented-Software-Architecture-Concurrent-Networked-ebook/dp/B00CHK5SIA%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00CHK5SIA' target='_blank' rel='nofollow'><img src='http://ecx.images-amazon.com/images/I/41JQiq8T4QL._SL160_.jpg' style='border: none;' /></a>
+            <a href='https://www.amazon.co.jp/Pattern-Oriented-Software-Architecture-Concurrent-Networked-ebook/dp/B00CHK5SIA%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00CHK5SIA' target='_blank' rel='nofollow'><img src='https://ecx.images-amazon.com/images/I/41JQiq8T4QL._SL160_.jpg' style='border: none;' /></a>
           </div>
           
           <div class='amazlink-info' style='height:160; margin-bottom: 10px'>
             <div class='amazlink-name' style='margin-bottom:10px;line-height:120%'>
-              <a href='http://www.amazon.co.jp/Pattern-Oriented-Software-Architecture-Concurrent-Networked-ebook/dp/B00CHK5SIA%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00CHK5SIA' rel='nofollow' target='_blank'>Pattern-Oriented Software Architecture, Patterns for Concurrent and Networked Objects: Volume 2 (Wiley Software Patterns Series)</a>
+              <a href='https://www.amazon.co.jp/Pattern-Oriented-Software-Architecture-Concurrent-Networked-ebook/dp/B00CHK5SIA%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00CHK5SIA' rel='nofollow' target='_blank'>Pattern-Oriented Software Architecture, Patterns for Concurrent and Networked Objects: Volume 2 (Wiley Software Patterns Series)</a>
             </div>
             
             <div class='amazlink-powered' style='font-size:80%;margin-top:5px;line-height:120%'>
-              posted with <a href='http://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 14.09.23
+              posted with <a href='https://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 14.09.23
             </div>
             
             <div class='amazlink-detail'>
@@ -257,7 +257,7 @@ url: /archives/=2623
             
             <div class='amazlink-sub-info' style='float: left;'>
               <div class='amazlink-link' style='margin-top: 5px'>
-                <img src='http://amazlink.fuyu.gs/icon_amazon.png' width='18' /><a href='http://www.amazon.co.jp/Pattern-Oriented-Software-Architecture-Concurrent-Networked-ebook/dp/B00CHK5SIA%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00CHK5SIA' rel='nofollow' target='_blank'>Amazon</a>
+                <img src='https://amazlink.fuyu.gs/icon_amazon.png' width='18' /><a href='https://www.amazon.co.jp/Pattern-Oriented-Software-Architecture-Concurrent-Networked-ebook/dp/B00CHK5SIA%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00CHK5SIA' rel='nofollow' target='_blank'>Amazon</a>
               </div>
             </div>
           </div>
@@ -270,7 +270,7 @@ url: /archives/=2623
       
       <blockquote class="twitter-tweet" data-cards="hidden" lang="ja">
         <p>
-          買った. Amazon Clowd Reader が便利だ:Douglas C. Schmidt 『 Pattern-Oriented Software&#8230; <a href="http://t.co/FPcev3N74p">http://t.co/FPcev3N74p</a>
+          買った. Amazon Clowd Reader が便利だ:Douglas C. Schmidt 『 Pattern-Oriented Software&#8230; <a href="https://t.co/FPcev3N74p">https://t.co/FPcev3N74p</a>
         </p>
         
         <p>
@@ -294,16 +294,16 @@ url: /archives/=2623
           <div class='amazlink-box' style='text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;'>
             <div class='amazlink-list' style='clear: both;'>
               <div class='amazlink-image' style='float:left;margin:0px 12px 1px 0px;'>
-                <a href='http://www.amazon.co.jp/Working-With-Sockets-Jesse-Storimer-ebook/dp/B00BPYT6PK%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00BPYT6PK' target='_blank' rel='nofollow'><img src='http://ecx.images-amazon.com/images/I/51uNC60Jm4L._SL160_.jpg' style='border: none;' /></a>
+                <a href='https://www.amazon.co.jp/Working-With-Sockets-Jesse-Storimer-ebook/dp/B00BPYT6PK%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00BPYT6PK' target='_blank' rel='nofollow'><img src='https://ecx.images-amazon.com/images/I/51uNC60Jm4L._SL160_.jpg' style='border: none;' /></a>
               </div>
               
               <div class='amazlink-info' style='height:124; margin-bottom: 10px'>
                 <div class='amazlink-name' style='margin-bottom:10px;line-height:120%'>
-                  <a href='http://www.amazon.co.jp/Working-With-Sockets-Jesse-Storimer-ebook/dp/B00BPYT6PK%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00BPYT6PK' rel='nofollow' target='_blank'>Working With TCP Sockets</a>
+                  <a href='https://www.amazon.co.jp/Working-With-Sockets-Jesse-Storimer-ebook/dp/B00BPYT6PK%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00BPYT6PK' rel='nofollow' target='_blank'>Working With TCP Sockets</a>
                 </div>
                 
                 <div class='amazlink-powered' style='font-size:80%;margin-top:5px;line-height:120%'>
-                  posted with <a href='http://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 14.09.23
+                  posted with <a href='https://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 14.09.23
                 </div>
                 
                 <div class='amazlink-detail'>
@@ -312,7 +312,7 @@ url: /archives/=2623
                 
                 <div class='amazlink-sub-info' style='float: left;'>
                   <div class='amazlink-link' style='margin-top: 5px'>
-                    <img src='http://amazlink.fuyu.gs/icon_amazon.png' width='18' /><a href='http://www.amazon.co.jp/Working-With-Sockets-Jesse-Storimer-ebook/dp/B00BPYT6PK%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00BPYT6PK' rel='nofollow' target='_blank'>Amazon</a>
+                    <img src='https://amazlink.fuyu.gs/icon_amazon.png' width='18' /><a href='https://www.amazon.co.jp/Working-With-Sockets-Jesse-Storimer-ebook/dp/B00BPYT6PK%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00BPYT6PK' rel='nofollow' target='_blank'>Amazon</a>
                   </div>
                 </div>
               </div>
@@ -353,7 +353,7 @@ url: /archives/=2623
         
         <ul class="org-ul">
           <li>
-            <a href="http://netty.io/">Netty: Home</a>
+            <a href="https://netty.io/">Netty: Home</a>
           </li>
         </ul>
       </div>
@@ -397,7 +397,7 @@ url: /archives/=2623
       
       <ul class="org-ul">
         <li>
-          <a href="http://www.ctc-g.co.jp/~ctcsp//sp/ostf_02.html">新たな潮流, オブジェクトストレージとは? 『オブジェクトストレージが求められる背景』</a>
+          <a href="https://www.ctc-g.co.jp/~ctcsp//sp/ostf_02.html">新たな潮流, オブジェクトストレージとは? 『オブジェクトストレージが求められる背景』</a>
         </li>
       </ul>
     </div>
@@ -461,7 +461,7 @@ url: /archives/=2623
       
       <ul class="org-ul">
         <li>
-          <a href="http://www.cs.wustl.edu/~schmidt/PDF/Acc-Con.pdf">http://www.cs.wustl.edu/~schmidt/PDF/Acc-Con.pdf</a>
+          <a href="https://www.cs.wustl.edu/~schmidt/PDF/Acc-Con.pdf">https://www.cs.wustl.edu/~schmidt/PDF/Acc-Con.pdf</a>
         </li>
       </ul>
       
@@ -553,7 +553,7 @@ url: /archives/=2623
       
       <ul class="org-ul">
         <li>
-          <a href="http://www.cs.wustl.edu/~schmidt/PDF/Act-Obj.pdf">http://www.cs.wustl.edu/~schmidt/PDF/Act-Obj.pdf</a>
+          <a href="https://www.cs.wustl.edu/~schmidt/PDF/Act-Obj.pdf">https://www.cs.wustl.edu/~schmidt/PDF/Act-Obj.pdf</a>
         </li>
       </ul>
       
@@ -606,7 +606,7 @@ url: /archives/=2623
         
         <ul class="org-ul">
           <li>
-            <a href="http://en.wikipedia.org/wiki/Active_object">Active object &#8211; Wikipedia, the free encyclopedia</a>
+            <a href="https://en.wikipedia.org/wiki/Active_object">Active object &#8211; Wikipedia, the free encyclopedia</a>
           </li>
         </ul>
         
@@ -616,10 +616,10 @@ url: /archives/=2623
         
         <ul class="org-ul">
           <li>
-            <a href="http://alpha-netzilla.blogspot.jp/2010/11/design-pattern.html">Blog Alpha Networking: マルチスレッド デザインパターン (Active Object パターン) Ruby 編</a>
+            <a href="https://alpha-netzilla.blogspot.jp/2010/11/design-pattern.html">Blog Alpha Networking: マルチスレッド デザインパターン (Active Object パターン) Ruby 編</a>
           </li>
           <li>
-            <a href="http://takuya-1st.hatenablog.jp/entry/20101124/1290573115">Ruby でマルチスレッド 14 #ActiveObject &#8211; それマグで!</a>
+            <a href="https://takuya-1st.hatenablog.jp/entry/20101124/1290573115">Ruby でマルチスレッド 14 #ActiveObject &#8211; それマグで!</a>
           </li>
         </ul>
       </div>

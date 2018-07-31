@@ -56,13 +56,13 @@ url: /archives/=3121
     
     <ul class="org-ul">
       <li>
-        <a href="http://mogproject.blogspot.jp/2014/10/scala-property-based-testing-with.html">mog project: Scala: Property-Based Testing with ScalaTest and ScalaCheck</a>
+        <a href="https://mogproject.blogspot.jp/2014/10/scala-property-based-testing-with.html">mog project: Scala: Property-Based Testing with ScalaTest and ScalaCheck</a>
       </li>
       <li>
-        <a href="http://blog.livedoor.jp/prjmng/archives/52322897.html">ソフトウェアの品質を学びまくる:Property-based Testing, そして Example-based testing, とは</a>
+        <a href="https://blog.livedoor.jp/prjmng/archives/52322897.html">ソフトウェアの品質を学びまくる:Property-based Testing, そして Example-based testing, とは</a>
       </li>
       <li>
-        <a href="http://arata.hatenadiary.com/entry/2015/02/12/000747">Scala の Test ツール ScalaTest を使ってみた. &#8211; 日頃の行い</a>
+        <a href="https://arata.hatenadiary.com/entry/2015/02/12/000747">Scala の Test ツール ScalaTest を使ってみた. &#8211; 日頃の行い</a>
       </li>
     </ul>
     
@@ -72,10 +72,10 @@ url: /archives/=3121
     
     <ul class="org-ul">
       <li>
-        <a href="http://blog.jessitron.com/2013/04/property-based-testing-what-is-it.html">Abstractivate: Property-based testing: what is it?</a>
+        <a href="https://blog.jessitron.com/2013/04/property-based-testing-what-is-it.html">Abstractivate: Property-based testing: what is it?</a>
       </li>
       <li>
-        <a href="http://natpryce.com/articles/000802.html">Mistaeks I Hav Made: Property Based TDD at SPA 2013</a>
+        <a href="https://natpryce.com/articles/000802.html">Mistaeks I Hav Made: Property Based TDD at SPA 2013</a>
       </li>
     </ul>
   </div>
@@ -93,7 +93,7 @@ url: /archives/=3121
     
     <ul class="org-ul">
       <li>
-        <a href="http://scalacheck.org/">http://scalacheck.org/</a>
+        <a href="https://scalacheck.org/">https://scalacheck.org/</a>
       </li>
     </ul>
     
@@ -139,7 +139,7 @@ url: /archives/=3121
     
     <ul class="org-ul">
       <li>
-        <a href="http://www.scala-sbt.org/">http://www.scala-sbt.org/</a>
+        <a href="https://www.scala-sbt.org/">https://www.scala-sbt.org/</a>
       </li>
     </ul>
     

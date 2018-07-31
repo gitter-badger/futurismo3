@@ -164,8 +164,8 @@ Googleカレンダーで見てみると・・・。
 
 #### 参考
 
-  * <a href="http://mba-hack.blogspot.jp/2012/07/googleclpicasa.html" target="_blank">MBA-HACK: GoogleCLを使って画像をPicasaに一括アップロードする方法</a>
-  * <a href="http://d.hatena.ne.jp/zebevogue/20100629/1277796535" target="_blank">GoogleCLをWindows上で使う &#8211; ZeBeVogue別館</a>
-  * <a href="http://nakanowa.0j0.jp/archives/=3014" target="_blank">【GoogleCL】Picasaコマンドメモ | なかのわ</a>
+  * <a href="https://mba-hack.blogspot.jp/2012/07/googleclpicasa.html" target="_blank">MBA-HACK: GoogleCLを使って画像をPicasaに一括アップロードする方法</a>
+  * <a href="https://d.hatena.ne.jp/zebevogue/20100629/1277796535" target="_blank">GoogleCLをWindows上で使う &#8211; ZeBeVogue別館</a>
+  * <a href="https://nakanowa.0j0.jp/archives/=3014" target="_blank">【GoogleCL】Picasaコマンドメモ | なかのわ</a>
 
- [1]: http://lh4.ggpht.com/-XIw8S78IApU/UdgSg5sszRI/AAAAAAAAAcM/KevCpEzdVj0/SnapCrab_NoName_2013-7-6_20-44-3_No-00.jpg
+ [1]: https://lh4.ggpht.com/-XIw8S78IApU/UdgSg5sszRI/AAAAAAAAAcM/KevCpEzdVj0/SnapCrab_NoName_2013-7-6_20-44-3_No-00.jpg

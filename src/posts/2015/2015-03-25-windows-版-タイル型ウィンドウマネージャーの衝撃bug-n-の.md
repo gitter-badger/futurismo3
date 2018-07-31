@@ -53,7 +53,7 @@ Install
 
 AutoHotKey を入れる. windows はインストーラがある.
 
--   [AutoHotkey Downloads](http://ahkscript.org/download/)
+-   [AutoHotkey Downloads](https://ahkscript.org/download/)
 
 次に bug.n のソースをダウンロード.
 
@@ -108,13 +108,13 @@ Autohotkey のマニュアル通りに sc070 に なにかを割り当てても�
 
 -   [ひらがなカタカナキーを F21 キーに変更 -
     情報科学屋さんを目指す人のメモ (FC2
-    ブログ版)](http://did2.blog64.fc2.com/blog-entry-374.html)
+    ブログ版)](https://did2.blog64.fc2.com/blog-entry-374.html)
 
 カタカナひらがなキーを F13 に割り当てるために, Change Key
 というソフトを利用した.
 
 -   [Change Key キーボードのキーを変更のダウンロード : Vector
-    ソフトを探す!](http://www.vector.co.jp/soft/dl/winnt/util/se214366.html)
+    ソフトを探す!](https://www.vector.co.jp/soft/dl/winnt/util/se214366.html)
 
 おわりに
 ========

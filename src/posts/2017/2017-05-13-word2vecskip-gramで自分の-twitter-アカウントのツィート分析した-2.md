@@ -56,9 +56,9 @@ Sampling)が意味わからなかった。
 この絵で説明する word2vec の解説ページがとてもわかりやすかった。感謝！
 
 -   [絵で理解する Word2vec の仕組み -
-    Qiita](http://qiita.com/Hironsan/items/11b388575a058dc8a46a)
+    Qiita](https://qiita.com/Hironsan/items/11b388575a058dc8a46a)
 
-演習では、[text8](http://mattmahoney.net/dc/textdata.html) という
+演習では、[text8](https://mattmahoney.net/dc/textdata.html) という
 Wikipedia のデータセットを用いるのだけれども、相変わらず英語で、
 日本人の自分にはピンとこない。というわけで、日本語のデータセットを自分で用意して試すことにした。
 
@@ -103,7 +103,7 @@ text = text[text.str.contains("おはようございます。今日は") == Fals
 を使う。
 
 -   [Python で余計な文字列を削除する方法 |
-    hacknote](http://hacknote.jp/archives/19937/)
+    hacknote](https://hacknote.jp/archives/19937/)
 
 ``` {.python}
 import Mecab

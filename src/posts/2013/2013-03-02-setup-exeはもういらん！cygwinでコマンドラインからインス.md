@@ -36,7 +36,7 @@ apt-cygとは、apt-getみたいにコマンドラインからツールのイン
   
 GoogleCodeで公開されている。
 
-<a href="https://code.google.com/p/apt-cyg/" target="_blank"><img class="alignleft" border="0" alt="" align="left" src="http://capture.heartrails.com/150x130/shadow?https://code.google.com/p/apt-cyg/" width="150" height="130" /></a> <a style="color: #0070c5" href="https://code.google.com/p/apt-cyg/" target="_blank">apt-cyg &#8211; A command-line software installer for Cygwin &#8211; Google Project Hosting</a>  <img border="0" alt="" src="http://b.hatena.ne.jp/entry/image/https://code.google.com/p/apt-cy]g/" />
+<a href="https://code.google.com/p/apt-cyg/" target="_blank"><img class="alignleft" border="0" alt="" align="left" src="https://capture.heartrails.com/150x130/shadow?https://code.google.com/p/apt-cyg/" width="150" height="130" /></a> <a style="color: #0070c5" href="https://code.google.com/p/apt-cyg/" target="_blank">apt-cyg &#8211; A command-line software installer for Cygwin &#8211; Google Project Hosting</a>  <img border="0" alt="" src="https://b.hatena.ne.jp/entry/image/https://code.google.com/p/apt-cy]g/" />
 
 &#160;
 
@@ -53,12 +53,12 @@ GoogleCodeで公開されている。
 
 wgetで取得。
 
-    $ wget http://apt-cyg.googlecode.com/svn/trunk/apt-cyg
+    $ wget https://apt-cyg.googlecode.com/svn/trunk/apt-cyg
     
 
 apt-cygは内部的にwgetを使っている。proxy環境でうまくいかない時は、wgetのプロキシ設定が必要。自分は以下の記事を参考にしました。
 
-  * <a href="http://d.hatena.ne.jp/taiyo/20080401/p2" target="_blank">wgetを認証必須のプロキシ経由で使いたい &#8211; spikelet days</a>
+  * <a href="https://d.hatena.ne.jp/taiyo/20080401/p2" target="_blank">wgetを認証必須のプロキシ経由で使いたい &#8211; spikelet days</a>
 
 実行権限を与えて、パスの通った場所に置く。
 
@@ -80,9 +80,9 @@ apt-cygは内部的にwgetを使っている。proxy環境でうまくいかな�
 cygwinの取得先を日本のサーバに指定しておく。
 
     // 32 bit
-    $ apt-cyg -m　http://ftp.iij.ad.jp/pub/cygwin/x86/ update
+    $ apt-cyg -m　https://ftp.iij.ad.jp/pub/cygwin/x86/ update
     // 64 bit
-    $ apt-cyg -m　http://ftp.iij.ad.jp/pub/cygwin/x86_64/ update
+    $ apt-cyg -m　https://ftp.iij.ad.jp/pub/cygwin/x86_64/ update
     
 
 ### apt-cygの使い方
@@ -140,14 +140,14 @@ Cygwinに大きな仕様変更があったようで、32bit版と、64bit版で�
 
     $ apt-cyg update
     Working directory is /setup
-    Mirror is http://ftp.iij.ad.jp/pub/cygwin/
-    --2013-08-12 23:12:06--  http://ftp.iij.ad.jp/pub/cygwin//setup.bz2
+    Mirror is https://ftp.iij.ad.jp/pub/cygwin/
+    --2013-08-12 23:12:06--  https://ftp.iij.ad.jp/pub/cygwin//setup.bz2
     ftp.iij.ad.jp (ftp.iij.ad.jp) をDNSに問いあわせています... 202.232.140.143, 202.232.140.144, 2001:240:bb8f::f:300, ...
     ftp.iij.ad.jp (ftp.iij.ad.jp)|202.232.140.143|:80 に接続しています... 接続しました。
     HTTP による接続要求を送信しました、応答を待っています... 404 Not Found
     2013-08-12 23:12:06 エラー 404: Not Found。
     
-    --2013-08-12 23:12:06--  http://ftp.iij.ad.jp/pub/cygwin//setup.ini
+    --2013-08-12 23:12:06--  https://ftp.iij.ad.jp/pub/cygwin//setup.ini
     ftp.iij.ad.jp (ftp.iij.ad.jp) をDNSに問いあわせています... 202.232.140.143, 202.232.140.144, 2001:240:bb8f::f:300, ...
     ftp.iij.ad.jp (ftp.iij.ad.jp)|202.232.140.143|:80 に接続しています... 接続しました。
     HTTP による接続要求を送信しました、応答を待っています... 404 Not Found
@@ -160,14 +160,14 @@ Cygwinに大きな仕様変更があったようで、32bit版と、64bit版で�
 
 原因は、setup.iniが 32bit番と64bit番でディレクトリが分けられるようになったからだった。
 
-http://ftp.iij.ad.jp/pub/cygwin/にアクセスすると、ディレクトリ構造が変更されていた。
+https://ftp.iij.ad.jp/pub/cygwin/にアクセスすると、ディレクトリ構造が変更されていた。
 
 ミラーサイトは以下のように、32bitと64bitで区別する必要がある。
 
     // 32 bit
-    $ apt-cyg -m　http://ftp.iij.ad.jp/pub/cygwin/x86/ update
+    $ apt-cyg -m　https://ftp.iij.ad.jp/pub/cygwin/x86/ update
     // 64 bit
-    $ apt-cyg -m　http://ftp.iij.ad.jp/pub/cygwin/x86_64/ update
+    $ apt-cyg -m　https://ftp.iij.ad.jp/pub/cygwin/x86_64/ update
     
 
 正式版のapt-cygはこの仕様変更には対応していないみたい。forkしたapt-cygをみつけたので、しばらくはこっちを使うのが良さそう。
@@ -192,7 +192,7 @@ apt-cygとは、apt-getみたいにコマンドラインからツールのイン
   
 GoogleCodeで公開されている。
 
-<a href="https://code.google.com/p/apt-cyg/" target="_blank"><img class="alignleft" border="0" alt="" align="left" src="http://capture.heartrails.com/150x130/shadow?https://code.google.com/p/apt-cyg/" width="150" height="130" /></a> <a style="color: #0070c5" href="https://code.google.com/p/apt-cyg/" target="_blank">apt-cyg &#8211; A command-line software installer for Cygwin &#8211; Google Project Hosting</a>  <img border="0" alt="" src="http://b.hatena.ne.jp/entry/image/https://code.google.com/p/apt-cy]g/" />
+<a href="https://code.google.com/p/apt-cyg/" target="_blank"><img class="alignleft" border="0" alt="" align="left" src="https://capture.heartrails.com/150x130/shadow?https://code.google.com/p/apt-cyg/" width="150" height="130" /></a> <a style="color: #0070c5" href="https://code.google.com/p/apt-cyg/" target="_blank">apt-cyg &#8211; A command-line software installer for Cygwin &#8211; Google Project Hosting</a>  <img border="0" alt="" src="https://b.hatena.ne.jp/entry/image/https://code.google.com/p/apt-cy]g/" />
 
 &#160;
 
@@ -209,12 +209,12 @@ GoogleCodeで公開されている。
 
 wgetで取得。
 
-    $ wget http://apt-cyg.googlecode.com/svn/trunk/apt-cyg
+    $ wget https://apt-cyg.googlecode.com/svn/trunk/apt-cyg
     
 
 apt-cygは内部的にwgetを使っている。proxy環境でうまくいかない時は、wgetのプロキシ設定が必要。自分は以下の記事を参考にしました。
 
-  * <a href="http://d.hatena.ne.jp/taiyo/20080401/p2" target="_blank">wgetを認証必須のプロキシ経由で使いたい &#8211; spikelet days</a>
+  * <a href="https://d.hatena.ne.jp/taiyo/20080401/p2" target="_blank">wgetを認証必須のプロキシ経由で使いたい &#8211; spikelet days</a>
 
 実行権限を与えて、パスの通った場所に置く。
 
@@ -236,9 +236,9 @@ apt-cygは内部的にwgetを使っている。proxy環境でうまくいかな�
 cygwinの取得先を日本のサーバに指定しておく。
 
     // 32 bit
-    $ apt-cyg -m　http://ftp.iij.ad.jp/pub/cygwin/x86/ update
+    $ apt-cyg -m　https://ftp.iij.ad.jp/pub/cygwin/x86/ update
     // 64 bit
-    $ apt-cyg -m　http://ftp.iij.ad.jp/pub/cygwin/x86_64/ update
+    $ apt-cyg -m　https://ftp.iij.ad.jp/pub/cygwin/x86_64/ update
     
 
 ### apt-cygの使い方
@@ -296,14 +296,14 @@ Cygwinに大きな仕様変更があったようで、32bit版と、64bit版で�
 
     $ apt-cyg update
     Working directory is /setup
-    Mirror is http://ftp.iij.ad.jp/pub/cygwin/
-    --2013-08-12 23:12:06--  http://ftp.iij.ad.jp/pub/cygwin//setup.bz2
+    Mirror is https://ftp.iij.ad.jp/pub/cygwin/
+    --2013-08-12 23:12:06--  https://ftp.iij.ad.jp/pub/cygwin//setup.bz2
     ftp.iij.ad.jp (ftp.iij.ad.jp) をDNSに問いあわせています... 202.232.140.143, 202.232.140.144, 2001:240:bb8f::f:300, ...
     ftp.iij.ad.jp (ftp.iij.ad.jp)|202.232.140.143|:80 に接続しています... 接続しました。
     HTTP による接続要求を送信しました、応答を待っています... 404 Not Found
     2013-08-12 23:12:06 エラー 404: Not Found。
     
-    --2013-08-12 23:12:06--  http://ftp.iij.ad.jp/pub/cygwin//setup.ini
+    --2013-08-12 23:12:06--  https://ftp.iij.ad.jp/pub/cygwin//setup.ini
     ftp.iij.ad.jp (ftp.iij.ad.jp) をDNSに問いあわせています... 202.232.140.143, 202.232.140.144, 2001:240:bb8f::f:300, ...
     ftp.iij.ad.jp (ftp.iij.ad.jp)|202.232.140.143|:80 に接続しています... 接続しました。
     HTTP による接続要求を送信しました、応答を待っています... 404 Not Found
@@ -316,14 +316,14 @@ Cygwinに大きな仕様変更があったようで、32bit版と、64bit版で�
 
 原因は、setup.iniが 32bit番と64bit番でディレクトリが分けられるようになったからだった。
 
-http://ftp.iij.ad.jp/pub/cygwin/にアクセスすると、ディレクトリ構造が変更されていた。
+https://ftp.iij.ad.jp/pub/cygwin/にアクセスすると、ディレクトリ構造が変更されていた。
 
 ミラーサイトは以下のように、32bitと64bitで区別する必要がある。
 
     // 32 bit
-    $ apt-cyg -m　http://ftp.iij.ad.jp/pub/cygwin/x86/ update
+    $ apt-cyg -m　https://ftp.iij.ad.jp/pub/cygwin/x86/ update
     // 64 bit
-    $ apt-cyg -m　http://ftp.iij.ad.jp/pub/cygwin/x86_64/ update
+    $ apt-cyg -m　https://ftp.iij.ad.jp/pub/cygwin/x86_64/ update
     
 
 正式版のapt-cygはこの仕様変更には対応していないみたい。forkしたapt-cygをみつけたので、しばらくはこっちを使うのが良さそう。

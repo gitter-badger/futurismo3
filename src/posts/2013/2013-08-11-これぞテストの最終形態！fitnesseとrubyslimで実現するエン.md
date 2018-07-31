@@ -94,4 +94,4 @@ FitnesseとRubySlimを使ってでエンドツーエンドを書いてみまし�
 
 テスト結果のログは、&#8217;Output Capture&#8217;というところをクリックすると見れる。障害調査も完璧。
 
- [1]: http://lh5.ggpht.com/-kisp2xg__ck/UgXaghxNd_I/AAAAAAAAAwM/tENCQ11ME_U/SnapCrab_NoName_2013-8-10_15-15-16_No-00.jpg
+ [1]: https://lh5.ggpht.com/-kisp2xg__ck/UgXaghxNd_I/AAAAAAAAAwM/tENCQ11ME_U/SnapCrab_NoName_2013-8-10_15-15-16_No-00.jpg

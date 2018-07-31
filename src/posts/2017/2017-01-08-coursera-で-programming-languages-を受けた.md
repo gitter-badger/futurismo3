@@ -164,7 +164,7 @@ week5
 Part B
 ======
 
--   言語は Racket を使う <http://racket-lang.org>
+-   言語は Racket を使う <https://racket-lang.org>
 -   開発環境は、DrRacket. <https://racket-lang.org/download/>
 
     が、指定されているのだが、Emacs でやりたいので、 Emacs

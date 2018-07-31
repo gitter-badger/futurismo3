@@ -145,7 +145,7 @@ CourseraでWeb Application Archtecturesを受講しました。
               </li>
               <li>
                 セマンティックウェブ ・・・ビックデータの統計解析から価値を生み出す。 <p>
-                  <a href="http://dmtc.jp/magazine/archives/=1461">迫り来るWeb3.0時代を生き抜くエンジニアが持たなければいけない3つの視点 | DMTC Magazine</a>
+                  <a href="https://dmtc.jp/magazine/archives/=1461">迫り来るWeb3.0時代を生き抜くエンジニアが持たなければいけない3つの視点 | DMTC Magazine</a>
                 </p>
               </li>
             </ul>
@@ -185,7 +185,7 @@ CourseraでWeb Application Archtecturesを受講しました。
         
         <ul class="org-ul">
           <li>
-            <a href="http://ja.wikipedia.org/wiki/Model_View_Controller">Model View Controller &#8211; Wikipedia</a>
+            <a href="https://ja.wikipedia.org/wiki/Model_View_Controller">Model View Controller &#8211; Wikipedia</a>
           </li>
         </ul>
       </div></p>
@@ -215,7 +215,7 @@ CourseraでWeb Application Archtecturesを受講しました。
         
         <ul class="org-ul">
           <li>
-            <a href="http://ja.wikipedia.org/wiki/%E9%96%A2%E4%BF%82%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9">関係データベース &#8211; Wikipedia</a>
+            <a href="https://ja.wikipedia.org/wiki/%E9%96%A2%E4%BF%82%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9">関係データベース &#8211; Wikipedia</a>
           </li>
         </ul>
         
@@ -254,7 +254,7 @@ CourseraでWeb Application Archtecturesを受講しました。
         
         <ul class="org-ul">
           <li>
-            HTTP, HTTPS(Request, Responce) <a href="http://ja.wikipedia.org/wiki/Hypertext_Transfer_Protocol">http://ja.wikipedia.org/wiki/Hypertext_Transfer_Protocol</a>
+            HTTP, HTTPS(Request, Responce) <a href="https://ja.wikipedia.org/wiki/Hypertext_Transfer_Protocol">https://ja.wikipedia.org/wiki/Hypertext_Transfer_Protocol</a>
           </li>
         </ul>
         
@@ -264,10 +264,10 @@ CourseraでWeb Application Archtecturesを受講しました。
         
         <ul class="org-ul">
           <li>
-            REST-based, Restful, <a href="http://ja.wikipedia.org/wiki/REST">http://ja.wikipedia.org/wiki/REST</a>
+            REST-based, Restful, <a href="https://ja.wikipedia.org/wiki/REST">https://ja.wikipedia.org/wiki/REST</a>
           </li>
           <li>
-            RPC-based, SOAP <a href="http://ja.wikipedia.org/wiki/SOAP_(%E3%83%97%E3%83%AD%E3%83%88%E3%82%B3%E3%83%AB)">SOAP (プロトコル) &#8211; Wikipedia</a>
+            RPC-based, SOAP <a href="https://ja.wikipedia.org/wiki/SOAP_(%E3%83%97%E3%83%AD%E3%83%88%E3%82%B3%E3%83%AB)">SOAP (プロトコル) &#8211; Wikipedia</a>
           </li>
         </ul>
       </div></p>
@@ -338,11 +338,11 @@ CourseraでWeb Application Archtecturesを受講しました。
       <div class='amazlink-list' style='clear: both;'>
         <div class='amazlink-info' style='height:; margin-bottom: 10px'>
           <div class='amazlink-name' style='margin-bottom:10px;line-height:120%'>
-            <a href='http://www.amazon.co.jp/%E3%80%8C%E3%83%97%E3%83%AD%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AEWeb%E6%8A%80%E8%A1%93%E5%85%A5%E9%96%80%E3%80%8D-%E2%80%95%E2%80%95%E3%81%AA%E3%81%9C%E3%80%81%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AFWeb%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%92%E9%96%8B%E7%99%BA%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E3%81%AE%E3%81%8B-%E5%B0%8F%E6%A3%AE-%E8%A3%95%E4%BB%8B/dp/4774142352%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4774142352' rel='nofollow' target='_blank'>「プロになるためのWeb技術入門」 ――なぜ、あなたはWebシステムを開発できないのか</a>
+            <a href='https://www.amazon.co.jp/%E3%80%8C%E3%83%97%E3%83%AD%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AEWeb%E6%8A%80%E8%A1%93%E5%85%A5%E9%96%80%E3%80%8D-%E2%80%95%E2%80%95%E3%81%AA%E3%81%9C%E3%80%81%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AFWeb%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%92%E9%96%8B%E7%99%BA%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E3%81%AE%E3%81%8B-%E5%B0%8F%E6%A3%AE-%E8%A3%95%E4%BB%8B/dp/4774142352%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4774142352' rel='nofollow' target='_blank'>「プロになるためのWeb技術入門」 ――なぜ、あなたはWebシステムを開発できないのか</a>
           </div>
           
           <div class='amazlink-powered' style='font-size:80%;margin-top:5px;line-height:120%'>
-            posted with <a href='http://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 14.05.02
+            posted with <a href='https://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 14.05.02
           </div>
           
           <div class='amazlink-detail'>
@@ -351,7 +351,7 @@ CourseraでWeb Application Archtecturesを受講しました。
           
           <div class='amazlink-sub-info' style='float: left;'>
             <div class='amazlink-link' style='margin-top: 5px'>
-              <img src='http://amazlink.fuyu.gs/icon_amazon.png' width='18' /><a href='http://www.amazon.co.jp/%E3%80%8C%E3%83%97%E3%83%AD%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AEWeb%E6%8A%80%E8%A1%93%E5%85%A5%E9%96%80%E3%80%8D-%E2%80%95%E2%80%95%E3%81%AA%E3%81%9C%E3%80%81%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AFWeb%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%92%E9%96%8B%E7%99%BA%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E3%81%AE%E3%81%8B-%E5%B0%8F%E6%A3%AE-%E8%A3%95%E4%BB%8B/dp/4774142352%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4774142352' rel='nofollow' target='_blank'>Amazon</a> <img src='http://amazlink.fuyu.gs/icon_rakuten.gif' width='18' /><a href='http://hb.afl.rakuten.co.jp/hgc/g00q0724.n763w947.g00q0724.n763x2b4/archives/c=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F6416565%2F&#038;m=http%3A%2F%2Fm.rakuten.co.jp%2Frms%2Fmsv%2FItem%3Fn%3D6416565%26surl%3Dbook' rel='nofollow' target='_blank'>楽天</a>
+              <img src='https://amazlink.fuyu.gs/icon_amazon.png' width='18' /><a href='https://www.amazon.co.jp/%E3%80%8C%E3%83%97%E3%83%AD%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AEWeb%E6%8A%80%E8%A1%93%E5%85%A5%E9%96%80%E3%80%8D-%E2%80%95%E2%80%95%E3%81%AA%E3%81%9C%E3%80%81%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AFWeb%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%92%E9%96%8B%E7%99%BA%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E3%81%AE%E3%81%8B-%E5%B0%8F%E6%A3%AE-%E8%A3%95%E4%BB%8B/dp/4774142352%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4774142352' rel='nofollow' target='_blank'>Amazon</a> <img src='https://amazlink.fuyu.gs/icon_rakuten.gif' width='18' /><a href='https://hb.afl.rakuten.co.jp/hgc/g00q0724.n763w947.g00q0724.n763x2b4/archives/c=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F6416565%2F&#038;m=http%3A%2F%2Fm.rakuten.co.jp%2Frms%2Fmsv%2FItem%3Fn%3D6416565%26surl%3Dbook' rel='nofollow' target='_blank'>楽天</a>
             </div>
           </div>
         </div>

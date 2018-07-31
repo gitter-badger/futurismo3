@@ -40,7 +40,7 @@ Windowsユーザなので、CygwinでEmacsを利用しています。
 
 インストール方法と使い方の日本語訳は、以下のサイトから見ることができる（感謝）
   
-[http://emacs-evernote-mode.googlecode.com/svn/branches/0\_21/doc/readme\_ja.html][2]
+[https://emacs-evernote-mode.googlecode.com/svn/branches/0\_21/doc/readme\_ja.html][2]
 
 解凍したら、適当な場所において、おいたディレクトリで以下のコマンドを実行。
 
@@ -68,7 +68,7 @@ cp evernote-mode.el (load-path)
   
 （load-pathってなんだよって人は以下のサイト参照）
   
-[<span style="color: #0066cc;">http://d.hatena.ne.jp/sandai/20120304/p2</span>][3]
+[<span style="color: #0066cc;">https://d.hatena.ne.jp/sandai/20120304/p2</span>][3]
 
 #### evernote-mode設定を.emacs に追記
 
@@ -102,7 +102,7 @@ cp evernote-mode.el (load-path)
 
 動画で説明。
   
-[http://www.youtube.com/embed/Z6yCFAcOyh0]
+[https://www.youtube.com/embed/Z6yCFAcOyh0]
 
 ### evernote-modeのバグを手動修正しよう
 
@@ -120,19 +120,19 @@ evernote-mode-0_41.zip では、Cygwin環境で使おうとすると、バグが
   
 > :1: Use RbConfig instead of obsolete and deprecated Config.
 
-<http://code.google.com/p/emacs-evernote-mode/source/detail?r=198>
+<https://code.google.com/p/emacs-evernote-mode/source/detail?r=198>
 
 #### バグ修正（その2)
 
 > SSL_connect SYSCALL returned=5 errno=0 state=SSLv2/v3 read server hello A
 
-<http://code.google.com/p/emacs-evernote-mode/issues/detail?id=16>
+<https://code.google.com/p/emacs-evernote-mode/issues/detail?id=16>
 
-<http://code.google.com/p/emacs-evernote-mode/issues/detail?id=17>
+<https://code.google.com/p/emacs-evernote-mode/issues/detail?id=17>
 
 <div id="fastlookup_top" style="display: none;">
 </div>
 
- [1]: http://code.google.com/p/emacs-evernote-mode/downloads/detail?name=evernote-mode-0_41.zip
- [2]: http://emacs-evernote-mode.googlecode.com/svn/branches/0_21/doc/readme_ja.html
- [3]: http://d.hatena.ne.jp/sandai/20120304/p2
+ [1]: https://code.google.com/p/emacs-evernote-mode/downloads/detail?name=evernote-mode-0_41.zip
+ [2]: https://emacs-evernote-mode.googlecode.com/svn/branches/0_21/doc/readme_ja.html
+ [3]: https://d.hatena.ne.jp/sandai/20120304/p2

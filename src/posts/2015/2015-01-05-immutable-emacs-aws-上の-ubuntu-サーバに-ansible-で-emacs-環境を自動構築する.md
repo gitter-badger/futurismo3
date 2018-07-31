@@ -216,7 +216,7 @@ url: /archives/=2910
         
         <ul class="org-ul">
           <li>
-            <a href="http://ja.wikipedia.org/wiki/Immutable_Infrastructure">Immutable Infrastructure &#8211; Wikipedia</a>
+            <a href="https://ja.wikipedia.org/wiki/Immutable_Infrastructure">Immutable Infrastructure &#8211; Wikipedia</a>
           </li>
         </ul>
         
@@ -226,7 +226,7 @@ url: /archives/=2910
         
         <ul class="org-ul">
           <li>
-            <a href="http://www.publickey1.jp/blog/14/immutable_infrastructure_1.html">Immutable Infrastructure はアプリケーションのアーキテクチャを変えていく Publickey</a>
+            <a href="https://www.publickey1.jp/blog/14/immutable_infrastructure_1.html">Immutable Infrastructure はアプリケーションのアーキテクチャを変えていく Publickey</a>
           </li>
         </ul>
         
@@ -392,7 +392,7 @@ url: /archives/=2910
     </p>
     
     <p>
-      [sourcecode language=&#8221;bash&#8221; title=&#8221;&#8221;]<br /> #!/bin/sh<br /> # -*- mode: shell-script -*-<br /> #<br /> # tangle files with org-mode<br /> # see: http://orgmode.org/manual/Batch-execution.html<br /> #<br /> DIR=`pwd`<br /> FILE=""
+      [sourcecode language=&#8221;bash&#8221; title=&#8221;&#8221;]<br /> #!/bin/sh<br /> # -*- mode: shell-script -*-<br /> #<br /> # tangle files with org-mode<br /> # see: https://orgmode.org/manual/Batch-execution.html<br /> #<br /> DIR=`pwd`<br /> FILE=""
     </p>
     
     <p>
@@ -459,10 +459,10 @@ url: /archives/=2910
       <div class="outline-text-4" id="text-unnumbered-14">
         <ul class="org-ul">
           <li>
-            <a href="http://gihyo.jp/admin/serial/01/ubuntu-recipe/0235">第 235 回 Ubuntu 12.04 で Emacs 24.1 を使う:Ubuntu Weekly Recipe|gihyo.jp … 技術評論社</a>
+            <a href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0235">第 235 回 Ubuntu 12.04 で Emacs 24.1 を使う:Ubuntu Weekly Recipe|gihyo.jp … 技術評論社</a>
           </li>
           <li>
-            <a href="http://emacs.tsutomuonoda.com/emacs24-1-ubuntu-install/">Emacs24.1 を Ubuntu にインストールする | Emacs の elisp インストール・設定・使い方</a>
+            <a href="https://emacs.tsutomuonoda.com/emacs24-1-ubuntu-install/">Emacs24.1 を Ubuntu にインストールする | Emacs の elisp インストール・設定・使い方</a>
           </li>
         </ul>
       </div>
@@ -478,7 +478,7 @@ url: /archives/=2910
       <ul class="org-ul">
         <li>
           <p>
-            <a href="http://qiita.com/seizans/items/f5f052aec1592c47767f">Ansible で git clone させる &#8211; Qiita</a>
+            <a href="https://qiita.com/seizans/items/f5f052aec1592c47767f">Ansible で git clone させる &#8211; Qiita</a>
           </p>
           
           <p>

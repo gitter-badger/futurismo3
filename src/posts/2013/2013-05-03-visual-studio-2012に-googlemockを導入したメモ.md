@@ -55,7 +55,7 @@ gmock\gtest\include\gtest\internal\gtest-port.h
 
 > \_VARIADIC\_MAX=10
 
-[<img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="image" border="0" alt="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb99.png" width="574" height="356" />][2]
+[<img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="image" border="0" alt="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb99.png" width="574" height="356" />][2]
 
 gmock\msvc\2010\Debug\gmock_test.exeができるので、とりあえず動かしてみて、テストが走ればコンパイル成功。以下のライブラリが作成されます。
 
@@ -111,10 +111,10 @@ int _tmain(int argc, _TCHAR* argv[])
   * [Sticky Bits ≫ Blog Archive ≫ Setting up googlemock with Visual C++ 2010 Express Edition][6] 
   * [Visual Studio で GoogleMock を使う &#8211; かおるんダイアリー][7]
 
- [1]: http://srz-zumix.blogspot.jp/2012/03/visual-studio-11-beta-google-test.html
- [2]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image99.png
- [3]: http://datsuns.hatenablog.com/entry/2013/02/13/215650
- [4]: http://hidari-lab.hatenablog.com/entry/vs_exp_2012_with_gtest
- [5]: http://d.hatena.ne.jp/replication/20111208/1323356303
- [6]: http://blog.feabhas.com/2012/03/setting-up-googlemock-with-visual-c-2010-express-edition/
- [7]: http://d.hatena.ne.jp/kaorun55/20100723/1279810738
+ [1]: https://srz-zumix.blogspot.jp/2012/03/visual-studio-11-beta-google-test.html
+ [2]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image99.png
+ [3]: https://datsuns.hatenablog.com/entry/2013/02/13/215650
+ [4]: https://hidari-lab.hatenablog.com/entry/vs_exp_2012_with_gtest
+ [5]: https://d.hatena.ne.jp/replication/20111208/1323356303
+ [6]: https://blog.feabhas.com/2012/03/setting-up-googlemock-with-visual-c-2010-express-edition/
+ [7]: https://d.hatena.ne.jp/kaorun55/20100723/1279810738

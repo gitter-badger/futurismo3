@@ -22,7 +22,7 @@ Coolは、Classroom object Oriented Languageの略。
 
 <ul class="org-ul">
   <li>
-    <a href="http://en.wikipedia.org/wiki/Cool_(programming_language)">Cool (programming language) &#8211; Wikipedia, the free encyclopedia</a>
+    <a href="https://en.wikipedia.org/wiki/Cool_(programming_language)">Cool (programming language) &#8211; Wikipedia, the free encyclopedia</a>
   </li>
 </ul>
 
@@ -74,7 +74,7 @@ sudo apt-get install flex bison build-essential csh openjdk-6-jdk libxaw7-dev
 sudo mkdir /usr/class
 sudo chown $USER /usr/class
 cd /usr/class
-wget http://spark-university.s3.amazonaws.com/stanford-compilers/vm/student-dist.tar.gz
+wget https://spark-university.s3.amazonaws.com/stanford-compilers/vm/student-dist.tar.gz
 tar -xf student-dist.tar.gz
 ln -s /usr/class/cs143/cool ~/cool
 </code></pre>

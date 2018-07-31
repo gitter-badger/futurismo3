@@ -20,16 +20,16 @@ url: /archives/=1363
 <div class="amazlink-box" style="overflow: hidden; font-size: small; zoom: 1; padding-bottom: 20px; text-align: left">
   <div class="amazlink-list" style="clear: both">
     <div class="amazlink-image" style="float: left; margin: 0px 12px 1px 0px">
-      <a href="http://www.amazon.co.jp/zsh%E6%9C%80%E5%BC%B7%E3%82%B7%E3%82%A7%E3%83%AB%E5%85%A5%E9%96%80-%E4%B8%AD%E5%B3%B6-%E8%83%BD%E5%92%8C/dp/479811815X%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D479811815X" rel="nofollow" target="_blank"><img style="border-top-style: none; border-left-style: none; border-bottom-style: none; border-right-style: none" src="http://ecx.images-amazon.com/images/I/41hfmaKyVgL._SL160_.jpg" /></a>
+      <a href="https://www.amazon.co.jp/zsh%E6%9C%80%E5%BC%B7%E3%82%B7%E3%82%A7%E3%83%AB%E5%85%A5%E9%96%80-%E4%B8%AD%E5%B3%B6-%E8%83%BD%E5%92%8C/dp/479811815X%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D479811815X" rel="nofollow" target="_blank"><img style="border-top-style: none; border-left-style: none; border-bottom-style: none; border-right-style: none" src="https://ecx.images-amazon.com/images/I/41hfmaKyVgL._SL160_.jpg" /></a>
     </div>
     
     <div class="amazlink-info" style="margin-bottom: 10px">
       <div class="amazlink-name" style="margin-bottom: 10px; line-height: 120%">
-        <a href="http://www.amazon.co.jp/zsh%E6%9C%80%E5%BC%B7%E3%82%B7%E3%82%A7%E3%83%AB%E5%85%A5%E9%96%80-%E4%B8%AD%E5%B3%B6-%E8%83%BD%E5%92%8C/dp/479811815X%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D479811815X" rel="nofollow" target="_blank">zsh最強シェル入門</a>
+        <a href="https://www.amazon.co.jp/zsh%E6%9C%80%E5%BC%B7%E3%82%B7%E3%82%A7%E3%83%AB%E5%85%A5%E9%96%80-%E4%B8%AD%E5%B3%B6-%E8%83%BD%E5%92%8C/dp/479811815X%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D479811815X" rel="nofollow" target="_blank">zsh最強シェル入門</a>
       </div>
       
       <div class="amazlink-powered" style="font-size: 80%; margin-top: 5px; line-height: 120%">
-        posted with <a title="アマゾンアフィリエイトリンク作成ツール" href="http://amazlink.keizoku.com/" target="_blank">amazlink</a> at 13.05.20
+        posted with <a title="アマゾンアフィリエイトリンク作成ツール" href="https://amazlink.keizoku.com/" target="_blank">amazlink</a> at 13.05.20
       </div>
       
       <div class="amazlink-detail">
@@ -38,7 +38,7 @@ url: /archives/=1363
       
       <div class="amazlink-sub-info" style="float: left">
         <div class="amazlink-link" style="margin-top: 5px">
-          <img src="http://amazlink.fuyu.gs/icon_amazon.png" width="18" /><a href="http://www.amazon.co.jp/zsh%E6%9C%80%E5%BC%B7%E3%82%B7%E3%82%A7%E3%83%AB%E5%85%A5%E9%96%80-%E4%B8%AD%E5%B3%B6-%E8%83%BD%E5%92%8C/dp/479811815X%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D479811815X" rel="nofollow" target="_blank">Amazon</a> <img src="http://amazlink.fuyu.gs/icon_rakuten.gif" width="18" /><a href="http://hb.afl.rakuten.co.jp/hgc/g00q0724.n763w947.g00q0724.n763x2b4/archives/c=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F5923834%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frms%2Fmsv%2FItem%3Fn%3D5923834%26surl%3Dbook" rel="nofollow" target="_blank">楽天</a>
+          <img src="https://amazlink.fuyu.gs/icon_amazon.png" width="18" /><a href="https://www.amazon.co.jp/zsh%E6%9C%80%E5%BC%B7%E3%82%B7%E3%82%A7%E3%83%AB%E5%85%A5%E9%96%80-%E4%B8%AD%E5%B3%B6-%E8%83%BD%E5%92%8C/dp/479811815X%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D479811815X" rel="nofollow" target="_blank">Amazon</a> <img src="https://amazlink.fuyu.gs/icon_rakuten.gif" width="18" /><a href="https://hb.afl.rakuten.co.jp/hgc/g00q0724.n763w947.g00q0724.n763x2b4/archives/c=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F5923834%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frms%2Fmsv%2FItem%3Fn%3D5923834%26surl%3Dbook" rel="nofollow" target="_blank">楽天</a>
         </div></p>
       </div></p>
     </div></p>
@@ -135,7 +135,7 @@ setopt share_history
 
 zshを利用すると、コンソール上にカレントディレクトリも表示することができる。もうpwdなんていらないのである。設定は以下。
 
-[<img title="SnapCrab_NoName_2013-5-24_17-47-24_No-00" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="SnapCrab_NoName_2013-5-24_17-47-24_No-00" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/SnapCrab_NoName_2013-5-24_17-47-24_No-00_thumb.png" width="488" height="58" />][3] 
+[<img title="SnapCrab_NoName_2013-5-24_17-47-24_No-00" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="SnapCrab_NoName_2013-5-24_17-47-24_No-00" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/SnapCrab_NoName_2013-5-24_17-47-24_No-00_thumb.png" width="488" height="58" />][3] 
 
 <div id="scid:812469c5-0cb0-4c63-8c15-c81123a09de7:fc5e64a2-a266-48c3-a917-88333f7f10e7" class="wlWriterEditableSmartContent" style="float: none; padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px">
   <pre name="code" class="c"># 色有効
@@ -182,7 +182,7 @@ zshでの操作の途中でこんなエラーが出る。
   Preferred POSIX equivalent is: ./.zshrc/~
   CYGWIN environment variable option "nodosfilewarning" turns off this warning.
   Consult the user's guide for more details about POSIX paths:
-    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+    https://cygwin.com/cygwin-ug-net/using.html#using-pathnames
 </pre>
 </div>
 
@@ -190,7 +190,7 @@ zshでの操作の途中でこんなエラーが出る。
 
 CYGWIN=nodosfilewarningというように、環境変数追加するとよい。
 
-[<img title="SnapCrab_環境変数_2013-5-22_8-21-18_No-00" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="SnapCrab_環境変数_2013-5-22_8-21-18_No-00" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/SnapCrab__2013-5-22_8-21-18_No-00_thumb.png" width="420" height="377" />][6]
+[<img title="SnapCrab_環境変数_2013-5-22_8-21-18_No-00" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="SnapCrab_環境変数_2013-5-22_8-21-18_No-00" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/SnapCrab__2013-5-22_8-21-18_No-00_thumb.png" width="420" height="377" />][6]
 
 [gnupack Users Guide &#8211; 技術情報][7]
 
@@ -199,9 +199,9 @@ CYGWIN=nodosfilewarningというように、環境変数追加するとよい。
 他にも便利そうな機能はたくさんあるけれども、とりあえずはこのへんでやめておく。
 
  [1]: https://ja.wikipedia.org/wiki/Z_Shell
- [2]: http://d.hatena.ne.jp/shepherdMaster/20110924/1316881131
- [3]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/SnapCrab_NoName_2013-5-24_17-47-24_No-00.png
- [4]: http://www.machu.jp/diary/20130114.html#p01
- [5]: http://www.machu.jp/diary/20040329.html#p01
- [6]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/SnapCrab__2013-5-22_8-21-18_No-00.png
- [7]: http://gnupack.sourceforge.jp/docs/current/UsersGuide_technical_info.html
+ [2]: https://d.hatena.ne.jp/shepherdMaster/20110924/1316881131
+ [3]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/SnapCrab_NoName_2013-5-24_17-47-24_No-00.png
+ [4]: https://www.machu.jp/diary/20130114.html#p01
+ [5]: https://www.machu.jp/diary/20040329.html#p01
+ [6]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/SnapCrab__2013-5-22_8-21-18_No-00.png
+ [7]: https://gnupack.sourceforge.jp/docs/current/UsersGuide_technical_info.html

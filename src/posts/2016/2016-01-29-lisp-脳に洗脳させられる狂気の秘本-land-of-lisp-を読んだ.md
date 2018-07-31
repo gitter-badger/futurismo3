@@ -37,16 +37,16 @@ url: /archives/=5811
     <div class='amazlink-box' style='text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;'>
       <div class='amazlink-list' style='clear: both;'>
         <div class='amazlink-image' style='float:left;margin:0px 12px 1px 0px;'>
-          <a href='http://www.amazon.co.jp/Land-Lisp-M-D-Conrad-Barski/dp/4873115876%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4873115876' target='_blank' rel='nofollow'><img src='http://ecx.images-amazon.com/images/I/41CAmbpToSL._SL160_.jpg' style='border: none;' /></a>
+          <a href='https://www.amazon.co.jp/Land-Lisp-M-D-Conrad-Barski/dp/4873115876%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4873115876' target='_blank' rel='nofollow'><img src='https://ecx.images-amazon.com/images/I/41CAmbpToSL._SL160_.jpg' style='border: none;' /></a>
         </div>
         
         <div class='amazlink-info' style='height:160; margin-bottom: 10px'>
           <div class='amazlink-name' style='margin-bottom:10px;line-height:120%'>
-            <a href='http://www.amazon.co.jp/Land-Lisp-M-D-Conrad-Barski/dp/4873115876%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4873115876' rel='nofollow' target='_blank'>Land of Lisp</a>
+            <a href='https://www.amazon.co.jp/Land-Lisp-M-D-Conrad-Barski/dp/4873115876%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4873115876' rel='nofollow' target='_blank'>Land of Lisp</a>
           </div>
           
           <div class='amazlink-powered' style='font-size:80%;margin-top:5px;line-height:120%'>
-            posted with <a href='http://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 16.01.29
+            posted with <a href='https://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 16.01.29
           </div>
           
           <div class='amazlink-detail'>
@@ -55,7 +55,7 @@ url: /archives/=5811
           
           <div class='amazlink-sub-info' style='float: left;'>
             <div class='amazlink-link' style='margin-top: 5px'>
-              <img src='http://amazlink.fuyu.gs/icon_amazon.png' width='18' /><a href='http://www.amazon.co.jp/Land-Lisp-M-D-Conrad-Barski/dp/4873115876%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4873115876' rel='nofollow' target='_blank'>Amazon</a>
+              <img src='https://amazlink.fuyu.gs/icon_amazon.png' width='18' /><a href='https://www.amazon.co.jp/Land-Lisp-M-D-Conrad-Barski/dp/4873115876%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4873115876' rel='nofollow' target='_blank'>Amazon</a>
             </div>
           </div>
         </div>
@@ -136,7 +136,7 @@ url: /archives/=5811
     </p>
     
     <p>
-      自分で悩んでコードを書くのではなくて書いてあるコードを写経するだけなので、 果たしてこれでコーディング力がついたかというと、ついていない。 （<a href="http://landoflisp.com/source.html">http://landoflisp.com/source.html</a> からコピペできる）
+      自分で悩んでコードを書くのではなくて書いてあるコードを写経するだけなので、 果たしてこれでコーディング力がついたかというと、ついていない。 （<a href="https://landoflisp.com/source.html">https://landoflisp.com/source.html</a> からコピペできる）
     </p>
     
     <p>

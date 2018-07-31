@@ -55,7 +55,7 @@ benel-loader は init-loder
 rubikitch さんが以下のような記事を年末に書きました。
 
 -   [init-loader:init.el を分割で得られる 7
-    つの恩恵](http://emacs.rubikitch.com/init-loader/)
+    つの恩恵](https://emacs.rubikitch.com/init-loader/)
 
 それにならって、org-mode で init.el
 を管理することの恩恵を考えて見たいと思います。
@@ -112,7 +112,7 @@ init.el: el-get
 (unless (require 'el-get nil 'noerror)
   (with-current-buffer
       (url-retrieve-synchronously
-       "http://raw.github.com/dimitri/el-get/master/el-get-install.el")
+       "https://raw.github.com/dimitri/el-get/master/el-get-install.el")
     (let (el-get-master-branch)
       (goto-char (point-max))
       (eval-print-last-sexp))))
@@ -180,7 +180,7 @@ el-get で babel-loader をインストール
 inits:00\_init.org フォルダを再帰的にロードパスに追加
 -----------------------------------------------------
 
--   <http://e-arrows.sakura.ne.jp/2010/03/macros-in-emacs-el.html>
+-   <https://e-arrows.sakura.ne.jp/2010/03/macros-in-emacs-el.html>
 
 ``` {.commonlisp}
 ;; @ load-path
@@ -289,14 +289,14 @@ Special Thanks
 ==============
 
 -   <https://github.com/takaishi/.emacs.d>
--   [平衡点(2011-12-13)](http://uwabami.junkhub.org/log/?date=20111213)
+-   [平衡点(2011-12-13)](https://uwabami.junkhub.org/log/?date=20111213)
     -   <https://github.com/uwabami/emacs>
 -   <https://github.com/r0man/.emacs.d>
 -   <https://github.com/eschulte/emacs-starter-kit/>
 -   [ORG-Babel + init.el = ??｜くらいまーず
-    はい](http://ameblo.jp/concello/entry-10786074455.html)
+    はい](https://ameblo.jp/concello/entry-10786074455.html)
 -   [俺、ちゃんと全部管理してます（org-mode で init.el を管理する） |
     lambda
-    consulting](http://blog.lambda-consulting.jp/2015/11/20/article/)
+    consulting](https://blog.lambda-consulting.jp/2015/11/20/article/)
 -   [Sacha Chua's Emacs
-    configuration](http://pages.sachachua.com/.emacs.d/Sacha.html)
+    configuration](https://pages.sachachua.com/.emacs.d/Sacha.html)

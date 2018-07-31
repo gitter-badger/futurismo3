@@ -34,7 +34,7 @@ Java SE8 Silver(Java SE 8 Programmer I 試験\[1Z0-808\]\]) に 3 日間
 で合格しました。
 
 -   [Java SE 8 認定資格 | オラクル認定資格制度 | Oracle
-    University](http://www.oracle.com/jp/education/certification/jse8-2489021-ja.html)
+    University](https://www.oracle.com/jp/education/certification/jse8-2489021-ja.html)
 -   [Java SE 8 Programmer I | Oracle Certification
     Exam](https://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=5001&get_params=p_exam_id:1Z0-808&p_org_id=70&lang=JA)
 

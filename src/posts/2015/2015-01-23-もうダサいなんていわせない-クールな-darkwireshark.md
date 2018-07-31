@@ -39,7 +39,7 @@ WireShark は GTK2 を UI として利用している. なので, GTK2
 テーマを以下からダウンロード
 
 -   [GTK2 Color Themes for
-    GIMP](http://dl.dropbox.com/u/36057148/Better%20GTK2%20Themes%20for%20GIMP%202.8.zip)
+    GIMP](https://dl.dropbox.com/u/36057148/Better%20GTK2%20Themes%20for%20GIMP%202.8.zip)
 
 なかにテーマいろいろある.
 
@@ -61,5 +61,5 @@ BookMarks
 ---------
 
 -   [GIMP2.8 のテーマを変更する方法【 GTK2 Themes for GIMP
-    】](http://samulife.com/iPhone/gtk2-themes-for-gimp)
+    】](https://samulife.com/iPhone/gtk2-themes-for-gimp)
 

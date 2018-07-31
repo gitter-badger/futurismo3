@@ -28,7 +28,7 @@ Windows上のCygwinからvmware上のUbuntuにSSHするまでを目指す。
 
 OpenSSHについてもまとめておく。OpneSSHとは、SSH通信をするためのフリーソフト/ツール。SSHとは、暗号技術を利用して安全に情報をやりとりするためのプロトコル。SSHのウレシイところは、パスワードなしで自由に他のコンピュータと通信ができるところだ。公式サイトはココ。
 
-<a href="http://www.openssh.org/" target="_blank"><img class="alignleft" border="0" alt="" align="left" src="http://capture.heartrails.com/150x130/shadow?http://www.openssh.org/" width="150" height="130" /></a> <a style="color: #0070c5" href="http://www.openssh.org/" target="_blank">OpenSSH</a>    <img border="0" alt="" src="http://b.hatena.ne.jp/entry/image/http://www.openssh.org/" />
+<a href="https://www.openssh.org/" target="_blank"><img class="alignleft" border="0" alt="" align="left" src="https://capture.heartrails.com/150x130/shadow?https://www.openssh.org/" width="150" height="130" /></a> <a style="color: #0070c5" href="https://www.openssh.org/" target="_blank">OpenSSH</a>    <img border="0" alt="" src="https://b.hatena.ne.jp/entry/image/https://www.openssh.org/" />
 
 ### OpenSSHに必要なもの
 
@@ -149,6 +149,6 @@ cygwin側にもSSHクライアントを導入します。setup.exeからopenssh�
 
 > $sudo /etc/init.d/ssh restart
 
-[http://www.youtube.com/embed/yaNiOf-7X_o?rel=0]
+[https://www.youtube.com/embed/yaNiOf-7X_o?rel=0]
 
  [1]: mailto:tsu-nera@192.168.118.129's

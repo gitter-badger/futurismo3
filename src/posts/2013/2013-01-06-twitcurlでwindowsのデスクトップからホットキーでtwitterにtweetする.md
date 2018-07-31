@@ -22,7 +22,7 @@ url: /archives/=1150
 
 デスクトップからショートカットでtwitterにつぶやきたいなと思い、いろいろと探してみたがいいフリーソフトがみつからなかったので、twitCurlというC++用のtwitterライブラリを利用して、作ってみました。
   
-[http://www.youtube.com/embed/2FhRoTXbpHM]
+[https://www.youtube.com/embed/2FhRoTXbpHM]
   
 &nbsp;
 
@@ -34,7 +34,7 @@ url: /archives/=1150
 
 ### twitcurlを使う
 
-<a href="http://code.google.com/p/twitcurl/" target="_blank"><img class="alignleft" alt="" src="http://capture.heartrails.com/150x130/shadow?http://code.google.com/p/twitcurl/" width="150" height="130" align="left" border="0" /></a> <a style="color: #0070c5;" href="http://code.google.com/p/twitcurl/" target="_blank">twitcurl &#8211; twitcurl is a pure C++ twitter API library based on cURL &#8211; Google Project Hosting</a> <img alt="" src="http://b.hatena.ne.jp/entry/image/http://code.google.com/p/twitcurl/" border="0" />
+<a href="https://code.google.com/p/twitcurl/" target="_blank"><img class="alignleft" alt="" src="https://capture.heartrails.com/150x130/shadow?https://code.google.com/p/twitcurl/" width="150" height="130" align="left" border="0" /></a> <a style="color: #0070c5;" href="https://code.google.com/p/twitcurl/" target="_blank">twitcurl &#8211; twitcurl is a pure C++ twitter API library based on cURL &#8211; Google Project Hosting</a> <img alt="" src="https://b.hatena.ne.jp/entry/image/https://code.google.com/p/twitcurl/" border="0" />
 
 twitcurlとは、twitter API用のC++ライブラリ。
   
@@ -54,7 +54,7 @@ Curlというのは、ファイル転送用プロトコルをサポートする�
 
 次に、libtwitcurlをsvnコマンドで取得。
 
-> svn co <http://twitcurl.googlecode.com/svn/trunk/libtwitcurl>
+> svn co <https://twitcurl.googlecode.com/svn/trunk/libtwitcurl>
 
 subversionがないと、ソースを取ってこれない。
 
@@ -70,7 +70,7 @@ libtwitcurl.so.1.0という共用ライブラリが作成されるのでこれ�
   
 サンプルコードは以下のように持ってこれる。
 
-> svn co http://twitcurl.googlecode.com/svn/trunk/twitterClient
+> svn co https://twitcurl.googlecode.com/svn/trunk/twitterClient
 
 こんな感じで改造（というよりも、いらない部分を削除したという方が正しい）
 
@@ -137,8 +137,8 @@ VBSをホットキーから実行できるようにする。
 <div id="fastlookup_top" style="display: none;">
 </div>
 
- [1]: http://code.google.com/p/twitcurl/wiki/WikiHowToUseTwitcurlLibrary
- [2]: http://dotinstall.com/lessons/twitter_bot_php
- [3]: http://www.postgresql.jp/document/8.0/html/install-post.html
+ [1]: https://code.google.com/p/twitcurl/wiki/WikiHowToUseTwitcurlLibrary
+ [2]: https://dotinstall.com/lessons/twitter_bot_php
+ [3]: https://www.postgresql.jp/document/8.0/html/install-post.html
  [4]: https://picasaweb.google.com/lh/photo/8jMlfdkUM5ib3lOesoNoSTyD6hjDXGH6XyE6iLrzolo?feat=embedwebsite
  [5]: https://picasaweb.google.com/lh/photo/FyFBH579BP6DoT2EL6GvYjyD6hjDXGH6XyE6iLrzolo?feat=embedwebsite

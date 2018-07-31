@@ -35,10 +35,10 @@ MVCについて勉強したので、実際にRubyTkに応用してみる。
     
     <ul class="org-ul">
       <li>
-        <a href="http://ja.wikipedia.org/wiki/Model_View_Controller">Model View Controller &#8211; Wikipedia</a>
+        <a href="https://ja.wikipedia.org/wiki/Model_View_Controller">Model View Controller &#8211; Wikipedia</a>
       </li>
       <li>
-        <a href="http://www7.ocn.ne.jp/~fishbone/mvc/">MVCモデル</a>
+        <a href="https://www7.ocn.ne.jp/~fishbone/mvc/">MVCモデル</a>
       </li>
     </ul>
     
@@ -141,7 +141,7 @@ MVCについて勉強したので、実際にRubyTkに応用してみる。
           <div class="outline-text-3" id="text-2-4">
             <ul class="org-ul">
               <li>
-                <a href="http://stackoverflow.com/questions/1677861/how-to-implement-a-callback-in-ruby">How to implement a &#8220;callback&#8221; in Ruby? &#8211; Stack Overflow</a>
+                <a href="https://stackoverflow.com/questions/1677861/how-to-implement-a-callback-in-ruby">How to implement a &#8220;callback&#8221; in Ruby? &#8211; Stack Overflow</a>
               </li>
             </ul>
           </div></p>

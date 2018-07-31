@@ -180,10 +180,10 @@ watchmedo shell-command --patterns="*.rst" --recursive --wait --command="make ht
               
               <ul>
                 <li>
-                  <a href="http://tell-k.hatenablog.com/entry/2012/01/04/022229">omakeもmakeも使わずに、Sphinxドキュメントの継続的ビルド &#8211; Study08.net 対シンバシ殲滅用人型機動兵器</a>
+                  <a href="https://tell-k.hatenablog.com/entry/2012/01/04/022229">omakeもmakeも使わずに、Sphinxドキュメントの継続的ビルド &#8211; Study08.net 対シンバシ殲滅用人型機動兵器</a>
                 </li>
                 <li>
-                  <a href="http://d.hatena.ne.jp/nullpobug/20120331/1333125058">watchdogモジュールのwatchmedoコマンドが便利</a>
+                  <a href="https://d.hatena.ne.jp/nullpobug/20120331/1333125058">watchdogモジュールのwatchmedoコマンドが便利</a>
                 </li>
               </ul>
 

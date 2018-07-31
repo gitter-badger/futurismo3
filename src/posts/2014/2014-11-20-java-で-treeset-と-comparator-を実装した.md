@@ -48,7 +48,7 @@ Comparator
 以下の記事が詳しい.
 
 -   [3. Set (2) | TECHSCORE
-    (テックスコア)](http://www.techscore.com/tech/Java/JavaSE/Utility/3-2/)
+    (テックスコア)](https://www.techscore.com/tech/Java/JavaSE/Utility/3-2/)
 
 具体例
 ======
@@ -200,5 +200,5 @@ Special Thanks
 ==============
 
 -   [3. Set (3) | TECHSCORE
-    (テックスコア)](http://www.techscore.com/tech/Java/JavaSE/Utility/3-3/)
+    (テックスコア)](https://www.techscore.com/tech/Java/JavaSE/Utility/3-3/)
 

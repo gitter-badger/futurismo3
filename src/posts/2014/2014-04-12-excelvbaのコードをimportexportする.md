@@ -43,10 +43,10 @@ Excel VBAの最大の課題が、保守性。 Excelの中にコードが縛ら�
 
 <ul class="org-ul">
   <li>
-    <a href="http://rsh.csh.sh/text-scripting-vba/">vi で書こう VBA — Text Scripting on VBA</a>
+    <a href="https://rsh.csh.sh/text-scripting-vba/">vi で書こう VBA — Text Scripting on VBA</a>
   </li>
   <li>
-    <a href="http://aki2o.hatenablog.jp/entry/2014/01/09/VBA%E3%81%AE%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E7%AE%A1%E7%90%86%E3%81%99%E3%82%8B%E3%81%AE%E3%82%92%E6%94%AF%E6%8F%B4">VBAのソースファイルをバージョン管理するのを支援するvba-porter.xlaを作りました &#8211; 死ぬまでの暇潰し</a>
+    <a href="https://aki2o.hatenablog.jp/entry/2014/01/09/VBA%E3%81%AE%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E7%AE%A1%E7%90%86%E3%81%99%E3%82%8B%E3%81%AE%E3%82%92%E6%94%AF%E6%8F%B4">VBAのソースファイルをバージョン管理するのを支援するvba-porter.xlaを作りました &#8211; 死ぬまでの暇潰し</a>
   </li>
 </ul>
 
@@ -149,7 +149,7 @@ End Sub
       
       <ul class="org-ul">
         <li>
-          <a href="http://rsh.csh.sh/text-scripting-vba/">vi で書こう VBA — Text Scripting on VBA</a>
+          <a href="https://rsh.csh.sh/text-scripting-vba/">vi で書こう VBA — Text Scripting on VBA</a>
         </li>
       </ul>
     </div></p>

@@ -40,7 +40,7 @@ coursera で受けている, POSA の講義で出てきた Reactor Pattern に�
     
     <ul class="org-ul">
       <li>
-        <a href="http://en.wikipedia.org/wiki/Reactor_pattern">Reactor pattern &#8211; Wikipedia, the free encyclopedia</a>
+        <a href="https://en.wikipedia.org/wiki/Reactor_pattern">Reactor pattern &#8211; Wikipedia, the free encyclopedia</a>
       </li>
     </ul>
   </div>
@@ -69,7 +69,7 @@ coursera で受けている, POSA の講義で出てきた Reactor Pattern に�
       
       <ul class="org-ul">
         <li>
-          <a href="http://keijinsonyaban.blogspot.jp/2010/12/eventmachine.html">見えないチカラ: 【翻訳】 EventMachine 入門</a>
+          <a href="https://keijinsonyaban.blogspot.jp/2010/12/eventmachine.html">見えないチカラ: 【翻訳】 EventMachine 入門</a>
         </li>
       </ul>
       
@@ -179,7 +179,7 @@ coursera で受けている, POSA の講義で出てきた Reactor Pattern に�
       
       <ul class="org-ul">
         <li>
-          <a href="http://gihyo.jp/dev/serial/01/ruby/0030archives/age=1">第 29 回 Reactor で非同期処理をやってみよう (1):Ruby Freaks Lounge|gihyo.jp … 技術評論社</a>
+          <a href="https://gihyo.jp/dev/serial/01/ruby/0030archives/age=1">第 29 回 Reactor で非同期処理をやってみよう (1):Ruby Freaks Lounge|gihyo.jp … 技術評論社</a>
         </li>
       </ul>
       

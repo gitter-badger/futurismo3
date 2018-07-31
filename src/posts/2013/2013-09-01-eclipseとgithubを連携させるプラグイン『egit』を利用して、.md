@@ -108,7 +108,7 @@ URIの欄に、HTTPSのURLを選択
 
 以下のサイトを参考に解決。
 
-  * <a href="http://sonoshou.hatenablog.jp/entry/20121111/1352655599" target="_blank">Eclipse と git の連携 &#8211; sonoshouのまじめなブログ</a>
+  * <a href="https://sonoshou.hatenablog.jp/entry/20121111/1352655599" target="_blank">Eclipse と git の連携 &#8211; sonoshouのまじめなブログ</a>
 
   * ウィンドウ -> 設定 -> チーム -> Git -> 構成を選択。
 
@@ -118,4 +118,4 @@ URIの欄に、HTTPSのURLを選択
 <!--:-->
 
  [1]: https://futurismo.biz/archives/1280
- [2]: http://www.eclipse.org/egit/download/
+ [2]: https://www.eclipse.org/egit/download/

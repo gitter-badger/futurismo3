@@ -44,7 +44,7 @@ url: /archives/=2465
     
     <ul class="org-ul">
       <li>
-        <a href="http://ftp.gnu.org/gnu/emacs/windows/">GNU Project Archives</a>
+        <a href="https://ftp.gnu.org/gnu/emacs/windows/">GNU Project Archives</a>
       </li>
       <li>
         emacs-24.3-bin-i386.zip
@@ -68,10 +68,10 @@ url: /archives/=2465
       
       <ul class="org-ul">
         <li>
-          <a href="http://sourceforge.net/projects/emacsbinw64/?source=typ_redirect">emacs-w64 | SourceForge.net</a>
+          <a href="https://sourceforge.net/projects/emacsbinw64/?source=typ_redirect">emacs-w64 | SourceForge.net</a>
         </li>
         <li>
-          <a href="http://emacsbinw64.sourceforge.net/">emacs-w64 | 64-Bit GNU Emacs for MS Windows with optimization</a>
+          <a href="https://emacsbinw64.sourceforge.net/">emacs-w64 | 64-Bit GNU Emacs for MS Windows with optimization</a>
         </li>
       </ul>
       
@@ -100,7 +100,7 @@ url: /archives/=2465
     
     <ul class="org-ul">
       <li>
-        <a href="http://www.gnu.org/software/emacs/manual/html_node/efaq-w32/Location-of-init-file.html#Location-of-init-file">Location of init file &#8211; GNU Emacs FAQ For MS Windows</a>
+        <a href="https://www.gnu.org/software/emacs/manual/html_node/efaq-w32/Location-of-init-file.html#Location-of-init-file">Location of init file &#8211; GNU Emacs FAQ For MS Windows</a>
       </li>
     </ul>
     
@@ -133,7 +133,7 @@ url: /archives/=2465
       
       <ul class="org-ul">
         <li>
-          <a href="http://www.gnu.org/software/emacs/manual/html_node/efaq-w32/index.html">GNU Emacs FAQ For MS Windows</a>
+          <a href="https://www.gnu.org/software/emacs/manual/html_node/efaq-w32/index.html">GNU Emacs FAQ For MS Windows</a>
         </li>
       </ul>
     </div>

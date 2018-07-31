@@ -81,9 +81,9 @@ freemind はよくわからない独自フォーマットだ.
 
 -   [Markdown - マインドマップから全てを紡ぎ出す - XMind+Pandoc
     のドキュメント作成術 - -
-    Qiita](http://qiita.com/sky_y/items/b92e9ce4b941545c8af5)
+    Qiita](https://qiita.com/sky_y/items/b92e9ce4b941545c8af5)
 -   [XMind の HTML ファイルを org-mode で編集したい -
-    雲行きそらゆきココロイキ](http://sky-y.hatenablog.jp/entry/20110925/1316951911)
+    雲行きそらゆきココロイキ](https://sky-y.hatenablog.jp/entry/20110925/1316951911)
 
 手段
 ----
@@ -96,7 +96,7 @@ export をサポートしているので, html から org-mode へ変換しよ�
 から org-mode への変換をサポートしていた.
 
 -   [vym - view your mind プロジェクト日本語トップページ -
-    SourceForge.JP](http://sourceforge.jp/projects/sfnet_vym/)
+    SourceForge.JP](https://sourceforge.jp/projects/sfnet_vym/)
 
 vym は freemind 0.9 version を開くことができる. なので,
 
@@ -138,7 +138,7 @@ freemind へ変換する手段がある.
 
 以下を評価して, M-x org-export すれば freemind が選択肢にでる.
 
--   [Freemind export](http://orgmode.org/worg/exporters/freemind.html)
+-   [Freemind export](https://orgmode.org/worg/exporters/freemind.html)
 -   M-x org-export-as-freemind
 
 おわりに

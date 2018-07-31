@@ -22,7 +22,7 @@ url: /archives/=520
 Jenkinsの日本での初めての入門書である、Jenkins実践入門を読んでみた。
 
 <div id="scid:81867AAF-BB02-476b-AE5D-12BDAC2E750D:4e8fb7e1-d85e-4feb-97db-6100a824e668" class="wlWriterEditableSmartContent" style="margin: 0px; display: inline; float: none; padding: 0px;">
-  <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4774148911/sleephacker-22/ref=nosim" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51bR%2Bvw-EvL._SL160_.jpg" alt="Jenkins実践入門　～ビルド・テスト・デプロイを自動化する技術 (WEB+DB PRESS plus)" /><br /> Jenkins実践入門　～ビルド・テスト・デプロイを自動化する技術 (WEB+DB PRESS plus)<br /> 佐藤 聖規 和田 貴久 河村 雅人 米沢 弘樹 山岸 啓 </a>
+  <a href="https://www.amazon.co.jp/exec/obidos/ASIN/4774148911/sleephacker-22/ref=nosim" target="_blank"><img src="https://ecx.images-amazon.com/images/I/51bR%2Bvw-EvL._SL160_.jpg" alt="Jenkins実践入門　～ビルド・テスト・デプロイを自動化する技術 (WEB+DB PRESS plus)" /><br /> Jenkins実践入門　～ビルド・テスト・デプロイを自動化する技術 (WEB+DB PRESS plus)<br /> 佐藤 聖規 和田 貴久 河村 雅人 米沢 弘樹 山岸 啓 </a>
 </div>
 
 内容はとても興味深いものの、残念、JAVA中心で述べられていた。．．．┌(´_｀)┐
@@ -63,7 +63,7 @@ CheckstyleとかSonerはもしかしたらC/C++でも使えるのかな？
 
 &nbsp;
 
-[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb28.png" alt="image" width="523" height="350" border="0" />][2]
+[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb28.png" alt="image" width="523" height="350" border="0" />][2]
 
 #### 参考リンク
 
@@ -72,6 +72,6 @@ CheckstyleとかSonerはもしかしたらC/C++でも使えるのかな？
 <div id="fastlookup_top" style="display: none;">
 </div>
 
- [1]: http://d.hatena.ne.jp/lino/20111015/1318672811 "Jenkins実践入門目次チラ見せしちゃいます"
- [2]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image28.png
- [3]: http://jenkins.361315.n4.nabble.com/Useful-plugins-for-C-C-builds-td3605795.html
+ [1]: https://d.hatena.ne.jp/lino/20111015/1318672811 "Jenkins実践入門目次チラ見せしちゃいます"
+ [2]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image28.png
+ [3]: https://jenkins.361315.n4.nabble.com/Useful-plugins-for-C-C-builds-td3605795.html

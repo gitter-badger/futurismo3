@@ -79,20 +79,20 @@ TFLearn とは
 
 TFLearn とは、Tensorflow のラッパーライブラリ。
 
--   <http://tflearn.org/>
+-   <https://tflearn.org/>
 
 scikit-learn のように TensorFlow が使えるらしい。
 
 -   [TensorFlow を scikit-learn のように使える TF Learn (旧
     skflow）が超便利です- datalove ’ s
-    diary](http://datalove.hatenadiary.jp/entry/introduction-to-an-amazing-tensorflow-wrapper-tflearn-skflow)
+    diary](https://datalove.hatenadiary.jp/entry/introduction-to-an-amazing-tensorflow-wrapper-tflearn-skflow)
 
 TFLearn インストール
 --------------------
 
 公式のやり方は以下。
 
--   <http://tflearn.org/installation/>
+-   <https://tflearn.org/installation/>
 
 DLND では、anaconda を利用してインストールする方法が紹介されていた。
 

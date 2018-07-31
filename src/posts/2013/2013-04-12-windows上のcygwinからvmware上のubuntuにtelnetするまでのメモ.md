@@ -78,7 +78,7 @@ telnetdとは、telnetを受信するためのサーバ(デーモン)だそう�
   * [妊娠、出産日記(夫の立場から) ubuntu (Linux) にtelnet接続するための設定][3]
   * [Ubuntu 11.10にtelnetを入れてみる。 | tkd55 blog][4]
 
- [1]: http://packages.ubuntu.com/ja/hardy/inetutils-inetd
- [2]: http://packages.ubuntu.com/ja/hardy/telnetd
- [3]: http://hatchaku.blog47.fc2.com/blog-entry-28.html
- [4]: http://www.tkd55.net/blog/archives/=132
+ [1]: https://packages.ubuntu.com/ja/hardy/inetutils-inetd
+ [2]: https://packages.ubuntu.com/ja/hardy/telnetd
+ [3]: https://hatchaku.blog47.fc2.com/blog-entry-28.html
+ [4]: https://www.tkd55.net/blog/archives/=132

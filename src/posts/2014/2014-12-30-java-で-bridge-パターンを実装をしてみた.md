@@ -30,7 +30,7 @@ Bridge パターンとは
 と実装クラスを分離して, それぞれを独立に変更できるようにする.
 
 -   [Bridge パターン -
-    Wikipedia](http://ja.wikipedia.org/wiki/Bridge_%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3)
+    Wikipedia](https://ja.wikipedia.org/wiki/Bridge_%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3)
 
 機能追加と機能実装の組み合わせ爆発を抑止することができる.
 

@@ -99,7 +99,7 @@ Replication の知識を補充することができたことは価値があっ�
 分散 Key-Value ストア. スケールアウト技術の基幹技術.
 
 -   [key-value
-    ストアの基礎知識](http://www.shudo.net/article/201002-Software-Design-KVS/#)
+    ストアの基礎知識](https://www.shudo.net/article/201002-Software-Design-KVS/#)
 
 同じデータを複数のコンピューターに複製して保存し,
 それぞれのコンピューター上のデータに変更が起きていないかどうかを
@@ -123,7 +123,7 @@ Key で担当サーバを分ける.
 
 -   [データ保全手法\~バックアップ, レプリケーション, アーカイブの相違点
     :
-    富士通](http://storage-system.fujitsu.com/jp/lib-f/tech/backup/features/?1503)
+    富士通](https://storage-system.fujitsu.com/jp/lib-f/tech/backup/features/?1503)
 
 コンテンツ配信する方法は二つある.
 

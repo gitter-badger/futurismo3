@@ -62,7 +62,7 @@ Can’t find a source file at : hogehoge…
 はった場所は、別のビューから確認できる。
 
 <div class="wlWriterEditableSmartContent" id="scid:887EC618-8FBE-49a5-A908-2339AF2EC531:3ad06a91-33cc-4fe5-aa5b-351bdc731c71" style="padding-bottom: 0px; margin: 0px; padding-left: 10px; padding-right: 10px; display: inline; float: none; padding-top: 0px;">
-  <a href="https://picasaweb.google.com/111104490436597119823/Futurismo?authkey=Gv1sRgCM-A3fCH6v_BOQ#5849257452933299746" target="_blank"><img style="border: none; padding: 0px; margin: 0px;" alt="2013_0226_gdb_0.png" src="http://lh3.ggpht.com/-hK-wybdNYsc/USy8qanlPiI/AAAAAAAAAIg/BmoOdgZhoqA/2013_0226_gdb_0.png" /></a>
+  <a href="https://picasaweb.google.com/111104490436597119823/Futurismo?authkey=Gv1sRgCM-A3fCH6v_BOQ#5849257452933299746" target="_blank"><img style="border: none; padding: 0px; margin: 0px;" alt="2013_0226_gdb_0.png" src="https://lh3.ggpht.com/-hK-wybdNYsc/USy8qanlPiI/AAAAAAAAAIg/BmoOdgZhoqA/2013_0226_gdb_0.png" /></a>
 </div>
 
 ### 構造体や変数のなかもスケスケ丸見え
@@ -80,7 +80,7 @@ gdbの恩恵は、変数や構造体の中身を見て、さらに値を書き�
 中身の値まで丸見えだ。なんなら、書き換えも同じビューで可能。
 
 <div class="wlWriterEditableSmartContent" id="scid:887EC618-8FBE-49a5-A908-2339AF2EC531:2ce6aac0-385a-4d23-9ed2-5127c8654143" style="padding-bottom: 0px; margin: 0px; padding-left: 10px; padding-right: 10px; display: inline; float: none; padding-top: 0px;">
-  <a href="https://picasaweb.google.com/111104490436597119823/Futurismo?authkey=Gv1sRgCM-A3fCH6v_BOQ#5849256532699596914" target="_blank"><img style="border: none; padding: 0px; margin: 0px;" alt="2013_0226_gdb_01.png" src="http://lh5.ggpht.com/-8Vq8OIrqCa8/USy702exSHI/AAAAAAAAAIA/gMVZr-CkLkw/2013_0226_gdb_01.png" /></a>
+  <a href="https://picasaweb.google.com/111104490436597119823/Futurismo?authkey=Gv1sRgCM-A3fCH6v_BOQ#5849256532699596914" target="_blank"><img style="border: none; padding: 0px; margin: 0px;" alt="2013_0226_gdb_01.png" src="https://lh5.ggpht.com/-8Vq8OIrqCa8/USy702exSHI/AAAAAAAAAIA/gMVZr-CkLkw/2013_0226_gdb_01.png" /></a>
 </div>
 
 また、ソース上で変数の上にカーソルを移動するだけでも確認できる。
@@ -196,4 +196,4 @@ gdbの恩恵は、変数や構造体の中身を見て、さらに値を書き�
 
  [1]: https://futurismo.biz/archives/1178
  [2]: https://futurismo.biz/archives/1176
- [3]: http://www.eclipse.org/forums/index.php/m/991796/
+ [3]: https://www.eclipse.org/forums/index.php/m/991796/

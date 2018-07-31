@@ -18,12 +18,12 @@ url: /archives/=965
 
 実践テスト駆動開発(Growing Object-Oriented Software, Guided by Tests略してGOOS本)を読んでいる。
 
-  * http://www.growing-object-oriented-software.com/
+  * https://www.growing-object-oriented-software.com/
 
 開発環境構築が少し難しかったので、備忘録としてまとめ。
 
 <div class="wlWriterEditableSmartContent" id="scid:81867AAF-BB02-476b-AE5D-12BDAC2E750D:987091f9-20f9-44b6-9b7e-02f521435380" style="margin: 0px; display: inline; float: none; padding: 0px;">
-  <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4798124583/sleephacker-22/ref=nosim" target="_blank"><img alt="実践テスト駆動開発 テストに導かれてオブジェクト指向ソフトウェアを育てる (Object Oriented SELECTION)" src="http://ecx.images-amazon.com/images/I/61IlUpc4QkL._SL160_.jpg" /><br /> 実践テスト駆動開発 テストに導かれてオブジェクト指向ソフトウェアを育てる (Object Oriented SELECTION)<br /> Steve Freeman Nat Pryce </a>
+  <a href="https://www.amazon.co.jp/exec/obidos/ASIN/4798124583/sleephacker-22/ref=nosim" target="_blank"><img alt="実践テスト駆動開発 テストに導かれてオブジェクト指向ソフトウェアを育てる (Object Oriented SELECTION)" src="https://ecx.images-amazon.com/images/I/61IlUpc4QkL._SL160_.jpg" /><br /> 実践テスト駆動開発 テストに導かれてオブジェクト指向ソフトウェアを育てる (Object Oriented SELECTION)<br /> Steve Freeman Nat Pryce </a>
 </div>
 
 &nbsp;
@@ -60,7 +60,7 @@ SmackはXMPPをJavaから利用するためのライブラリ。
   
 XMPP(eXtensible Messaging and Presence Protocol)とは、XMLベースのメッセージプロトコルのこと。以下のリンクから最新版を落とす。
 
-  * <http://www.igniterealtime.org/downloads/index.jsp> 
+  * <https://www.igniterealtime.org/downloads/index.jsp> 
       * smack\_3\_2_2.zip
 
 ダウンロードしたら、smack.jar,smackx.jarを追加する。
@@ -75,7 +75,7 @@ xmpp サーバであるOpenfireを入れる。
   
 各種プラットホームに対応したインストーラがある。
 
-  * [<span style="color: #0066cc;">http://www.igniterealtime.org/downloads/index.jsp</span>][2] 
+  * [<span style="color: #0066cc;">https://www.igniterealtime.org/downloads/index.jsp</span>][2] 
       * openfire\_3\_7_1.exe
 
 実行ファイルを起動するとインストーラが立ち上がるので、[次へ]を押して完了。
@@ -84,7 +84,7 @@ xmpp サーバであるOpenfireを入れる。
 
 [Launch Admin]を選択して、初期設定をする。
 
-[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="skitch(11)" alt="skitch(11)" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/skitch11_thumb.png" width="244" height="175" border="0" />][3]
+[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;" title="skitch(11)" alt="skitch(11)" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/skitch11_thumb.png" width="244" height="175" border="0" />][3]
 
   1. Language Settiing
   
@@ -126,7 +126,7 @@ Opnefireの初期設定ができたら、次はGOOS環境で使うための設�
 
 JAVA用のGUIテスティングフレームワークであるWindowLickerをいれる。
   
-<http://code.google.com/p/windowlicker/>
+<https://code.google.com/p/windowlicker/>
 
 バイナリやパッケージはないらしい。
   
@@ -147,7 +147,7 @@ JAVA用のGUIテスティングフレームワークであるWindowLickerをい�
 というわけで、svnコマンドでcheckoutして持ってくる。
 
 <div class="wlWriterEditableSmartContent" id="scid:812469c5-0cb0-4c63-8c15-c81123a09de7:78b9bc9c-4989-44a1-b489-c10588310125" style="margin: 0px; display: inline; float: none; padding: 0px;">
-  <pre name="code" class="c">svn checkout http://windowlicker.googlecode.com/svn/trunk/ windowlicker-read-only</pre>
+  <pre name="code" class="c">svn checkout https://windowlicker.googlecode.com/svn/trunk/ windowlicker-read-only</pre>
 </div>
 
 githubにもあるっぽい。
@@ -174,17 +174,17 @@ build/jarsにjarファイルが作成されるので、それをEclipseの外部
 
 #### 参考
 
-  * <http://d.hatena.ne.jp/ToMmY/20110913/1315898710>
+  * <https://d.hatena.ne.jp/ToMmY/20110913/1315898710>
   * [<span style="color: #0066cc;">https://github.com/sf105/goos-code</span>][6]
-  * [<span style="color: #0066cc;">http://t-kazu.hatenablog.com/</span>][7]
+  * [<span style="color: #0066cc;">https://t-kazu.hatenablog.com/</span>][7]
 
 <div id="fastlookup_top" style="display: none;">
 </div>
 
  [1]: https://futurismo.biz/archives/844
- [2]: http://www.igniterealtime.org/downloads/index.jsp
- [3]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/skitch11.png
+ [2]: https://www.igniterealtime.org/downloads/index.jsp
+ [3]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/skitch11.png
  [4]: https://groups.google.com/forum/?fromgroups=#!topic/growing-object-oriented-software/d5sdcR5wTkw "https://groups.google.com/forum/?fromgroups=#!topic/growing-object-oriented-software/d5sdcR5wTkw"
  [5]: https://github.com/petercoulton/windowlicker "https://github.com/petercoulton/windowlicker"
  [6]: https://github.com/sf105/goos-code
- [7]: http://t-kazu.hatenablog.com/
+ [7]: https://t-kazu.hatenablog.com/

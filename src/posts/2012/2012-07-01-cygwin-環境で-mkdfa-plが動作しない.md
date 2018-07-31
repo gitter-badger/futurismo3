@@ -31,7 +31,7 @@ no .dfa or .dict file generated
 
 コンパイルのためだけに tempフォルダに旧バージョンのJuliusを落としてきてコンパイル。  
 Julius 3.5.2:   
-[<u><font color="#0066cc">http://sourceforge.jp/projects/julius/downloads/21175/julius-3.5.2-win32bin.zip/</font></u>][1]
+[<u><font color="#0066cc">https://sourceforge.jp/projects/julius/downloads/21175/julius-3.5.2-win32bin.zip/</font></u>][1]
 
 実行結果:
 
@@ -70,7 +70,7 @@ generated: call.dfa call.term call.dict
 
 参考URL
 
-  * <http://julius.sourceforge.jp/cgi-bin/cbbs-temp/cbbs.cgiarchives/age=75&mode=alk&no=0&W=T> 
-      * <http://www.voxforge.org/home/dev/acousticmodels/linux/create/htkjulius/tutorial/data-prep/step-1/comments/mkdfa.pl-error></ul>
+  * <https://julius.sourceforge.jp/cgi-bin/cbbs-temp/cbbs.cgiarchives/age=75&mode=alk&no=0&W=T> 
+      * <https://www.voxforge.org/home/dev/acousticmodels/linux/create/htkjulius/tutorial/data-prep/step-1/comments/mkdfa.pl-error></ul>
 
- [1]: http://sourceforge.jp/projects/julius/downloads/21175/julius-3.5.2-win32bin.zip/
+ [1]: https://sourceforge.jp/projects/julius/downloads/21175/julius-3.5.2-win32bin.zip/

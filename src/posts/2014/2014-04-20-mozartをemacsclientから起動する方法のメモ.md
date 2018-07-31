@@ -59,7 +59,7 @@ wget https://raw.githubusercontent.com/mozart/mozart2/master/opi/emacs/mozart.el
     
     <ul class="org-ul">
       <li>
-        <a href="http://dream.inf.ed.ac.uk/computing/installed/mozart/doc/opi/index.html">http://dream.inf.ed.ac.uk/computing/installed/mozart/doc/opi/index.html</a>
+        <a href="https://dream.inf.ed.ac.uk/computing/installed/mozart/doc/opi/index.html">https://dream.inf.ed.ac.uk/computing/installed/mozart/doc/opi/index.html</a>
       </li>
     </ul>
   </div></p>
@@ -132,10 +132,10 @@ export PATH=/opt/mozart/bin:$PATH
     <div class="outline-text-3" id="text-2-2">
       <ul class="org-ul">
         <li>
-          <a href="http://dream.inf.ed.ac.uk/computing/installed/mozart/doc/opi/node2.html">2 Invoking the OPI</a>
+          <a href="https://dream.inf.ed.ac.uk/computing/installed/mozart/doc/opi/node2.html">2 Invoking the OPI</a>
         </li>
         <li>
-          <a href="http://www.eecs.ucf.edu/~leavens/ComS541Fall06/running_oz.shtml#">Running Oz</a>
+          <a href="https://www.eecs.ucf.edu/~leavens/ComS541Fall06/running_oz.shtml#">Running Oz</a>
         </li>
       </ul>
     </div></p>

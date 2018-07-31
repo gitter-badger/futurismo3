@@ -169,12 +169,12 @@ watch( 'lib/.*\.rb' ) { system("ripper-tags -e -R -f TAGS") }
     
     <blockquote class="wp-embedded-content" data-secret="KhlnB9XtWJ">
       <p>
-        <a href="http://emacs.rubikitch.com/ctags-update/">ctags-update.el : 【多言語対応関数定義ジャンプツール】Exuberant ctagsを賢く自動更新させる</a>
+        <a href="https://emacs.rubikitch.com/ctags-update/">ctags-update.el : 【多言語対応関数定義ジャンプツール】Exuberant ctagsを賢く自動更新させる</a>
       </p>
     </blockquote>
     
     <p>
-      <iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="http://emacs.rubikitch.com/ctags-update/embed/#?secret=KhlnB9XtWJ" data-secret="KhlnB9XtWJ" width="525" height="296" title="&#8220;ctags-update.el : 【多言語対応関数定義ジャンプツール】Exuberant ctagsを賢く自動更新させる&#8221; &#8212; るびきち「新生日刊Emacs」" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+      <iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://emacs.rubikitch.com/ctags-update/embed/#?secret=KhlnB9XtWJ" data-secret="KhlnB9XtWJ" width="525" height="296" title="&#8220;ctags-update.el : 【多言語対応関数定義ジャンプツール】Exuberant ctagsを賢く自動更新させる&#8221; &#8212; るびきち「新生日刊Emacs」" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
     </p>
     
     <p>

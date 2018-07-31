@@ -29,18 +29,18 @@ url: /archives/=798
 ReviewBoardをトライアルしてみることにした。   
 ReviewBoardとは、VMware社が開発したコードレビューツール。（無料）   
 Twitter社でもつかわれているらしい。   
-[<font color="#0066cc">http://www.reviewboard.org/ </font>][3]
+[<font color="#0066cc">https://www.reviewboard.org/ </font>][3]
 
 導入は、実はとても大変だった。   
 まず、Windows 7 64bit 環境で導入しようとしたが、挫折。   
 公式HPの注意事項にも書いてあるが、Windows 64bit環境では動くのだろうか？   
-[<font color="#0066cc">http://www.reviewboard.org/docs/manual/dev/admin/installation/windows/</font>][4]   
+[<font color="#0066cc">https://www.reviewboard.org/docs/manual/dev/admin/installation/windows/</font>][4]   
 インストールに必要なPythonモジュールのバージョンがなかったりした。
 
 自分の場合は、Linux(Ubuntu)で導入してみた。   
 LinuxはWinodowsに比べてとても導入が簡単だった（といっても、ハマったけど）。   
 以下、Ubuntuでの導入手順を公式HPにそって実施したまとめ。   
-<http://www.reviewboard.org/docs/manual/1.6/admin/installation/linux/>
+<https://www.reviewboard.org/docs/manual/1.6/admin/installation/linux/>
 
 #### 環境
 
@@ -66,7 +66,7 @@ LinuxはWinodowsに比べてとても導入が簡単だった（といっても�
 > $ sudo apt-get install mysql-server 
 
 パスワードをきかれるので、入れる。   
-[http://debianj.com/ubuntu/install/mysql.html][5]
+[https://debianj.com/ubuntu/install/mysql.html][5]
 
 MySQLインストール後、   
 共有ライブラリとして認識させるために「/etc/ld.so.conf」に以下の行を追記。
@@ -84,7 +84,7 @@ apache2の高速化のために、以下の3つのPython Moduleから一つを�
   * mod_python （非推奨）
 
 ここでは、推奨であるmod_wsgiを選択する。   
-以下のHPにしたがって設定。<a href="http://d.hatena.ne.jp/mizchi/20100701/1277985324" name="1277985324">Ubuntuにmod-wsgiいれたメモ</a>
+以下のHPにしたがって設定。<a href="https://d.hatena.ne.jp/mizchi/20100701/1277985324" name="1277985324">Ubuntuにmod-wsgiいれたメモ</a>
 
 > $ sudo apt-get install libapache2-mod-wsgi #インストール   
 > $ sudo a2enmod wsgi&#160; #有効化   
@@ -128,9 +128,9 @@ GNU patch とは、 差分ファイル (パッチファイル) を用いてソ�
 （ここがWindowsと違って感動した)
 
 flupが見つからなかったので、下記サイトを参考にインストール。   
-<http://kaigai-hosting.com/bluehost-django.php>
+<https://kaigai-hosting.com/bluehost-django.php>
 
-> wget <http://www.saddi.com/software/flup/dist/flup-1.0.2.tar.gz>   
+> wget <https://www.saddi.com/software/flup/dist/flup-1.0.2.tar.gz>   
 > tar xzvf flup-1.0.2.tar.gz   
 > cd flup-1.0.2   
 > sudo python setup.py install &#8211;user
@@ -165,9 +165,9 @@ apacheのエラーログをみると、mysql_config not foundらしい。
 
 127.0.1.1にアクセスしてみて、"It works!"が起動されていれば成功。
 
-[<img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" border="0" alt="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb71.png" width="343" height="123" />][6]
+[<img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" border="0" alt="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb71.png" width="343" height="123" />][6]
 
-[http://kazmax.zpp.jp/apache/apache2.html#ah_1][7]
+[https://kazmax.zpp.jp/apache/apache2.html#ah_1][7]
 
 #### MySQLデータベース作成
 
@@ -209,7 +209,7 @@ Something broke!
 
 GUIの設定画面が現れるので、順に回答していく。
 
-[<img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" border="0" alt="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb72.png" width="372" height="275" />][8]
+[<img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" border="0" alt="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb72.png" width="372" height="275" />][8]
 
 Domain Name: review   
 Root Path:/reviews/   
@@ -222,7 +222,7 @@ wsqi
 &#8230;. etc.
 
 （参考サイト)   
-[http://www.atmarkit.co.jp/fjava/rensai4/devtool19/devtool19_3.html][9]
+[https://www.atmarkit.co.jp/fjava/rensai4/devtool19/devtool19_3.html][9]
 
 #### パーミッションの変更
 
@@ -245,7 +245,7 @@ reviews.example.comディレクトリで自動生成された設定ファイル�
 自分の場合はUTF-8だったから問題はなかったけれども。
 
 最後に、/etc/apache2/sites-enabled/000-defaultを削除する。   
-<http://www.natswell.com/techcolumn/2011/10/06/review-board/>
+<https://www.natswell.com/techcolumn/2011/10/06/review-board/>
 
 Apache再起動。
 
@@ -254,7 +254,7 @@ Apache再起動。
 ついに設定完了か？、と思ったらいきなり以下のエラーがでた。
 
 (1146, "Table &#8216;reviewboard.django_site&#8217; doesn&#8217;t exist")   
-[<img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" border="0" alt="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb73.png" width="591" height="87" />][10]
+[<img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" border="0" alt="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb73.png" width="591" height="87" />][10]
 
 &#8216;reviewboard.django_site&#8217; が存在しない、とのこと。   
 djangoのコマンドで manage.py syncdbを叩かないといけないらしい。   
@@ -267,9 +267,9 @@ djangoのコマンドで manage.py syncdbを叩かないといけないらしい
 ### ReviewBoardインストール完了
 
 サイトにアクセスして、ログインできれば成功。   
-ここでは(<http://localhost/review/> ）にアクセス。
+ここでは(<https://localhost/review/> ）にアクセス。
 
-[<img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="image" border="0" alt="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb74.png" width="554" height="332" />][11]
+[<img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="image" border="0" alt="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb74.png" width="554" height="332" />][11]
 
 ### うまくインストール出来ない時の対処方法
 
@@ -292,14 +292,14 @@ DEBUG = True
 サイトにアクセスしてて、エラーすればメッセージがでる。   
 出たメッセージをもとにGoogle先生に相談する。
 
- [1]: http://hiroki.jp/2012/09/13/5626/
- [2]: http://daipresents.com/2011/%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%A4%E3%83%AB%E3%81%AA%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%82%92%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%81%99%E3%82%8B%E3%83%84%E3%83%BC%E3%83%AB%E3%82%925%E3%81%A4/
- [3]: http://www.reviewboard.org/ "http://www.reviewboard.org/ &#13;&#10;"
- [4]: http://www.reviewboard.org/docs/manual/dev/admin/installation/windows/ "http://www.reviewboard.org/docs/manual/dev/admin/installation/windows/"
- [5]: http://debianj.com/ubuntu/install/mysql.html "http://debianj.com/ubuntu/install/mysql.html"
- [6]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image71.png
- [7]: http://kazmax.zpp.jp/apache/apache2.html#ah_1 "http://kazmax.zpp.jp/apache/apache2.html#ah_1"
- [8]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image72.png
- [9]: http://www.atmarkit.co.jp/fjava/rensai4/devtool19/devtool19_3.html "http://www.atmarkit.co.jp/fjava/rensai4/devtool19/devtool19_3.html"
- [10]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image73.png
- [11]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image74.png
+ [1]: https://hiroki.jp/2012/09/13/5626/
+ [2]: https://daipresents.com/2011/%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%A4%E3%83%AB%E3%81%AA%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%82%92%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%81%99%E3%82%8B%E3%83%84%E3%83%BC%E3%83%AB%E3%82%925%E3%81%A4/
+ [3]: https://www.reviewboard.org/ "https://www.reviewboard.org/ &#13;&#10;"
+ [4]: https://www.reviewboard.org/docs/manual/dev/admin/installation/windows/ "https://www.reviewboard.org/docs/manual/dev/admin/installation/windows/"
+ [5]: https://debianj.com/ubuntu/install/mysql.html "https://debianj.com/ubuntu/install/mysql.html"
+ [6]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image71.png
+ [7]: https://kazmax.zpp.jp/apache/apache2.html#ah_1 "https://kazmax.zpp.jp/apache/apache2.html#ah_1"
+ [8]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image72.png
+ [9]: https://www.atmarkit.co.jp/fjava/rensai4/devtool19/devtool19_3.html "https://www.atmarkit.co.jp/fjava/rensai4/devtool19/devtool19_3.html"
+ [10]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image73.png
+ [11]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image74.png

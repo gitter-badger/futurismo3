@@ -25,7 +25,7 @@ Emacs の エラーチェッカーで flycheck がある.静的文法チェッ�
 
 -   [flycheck/flycheck](https://github.com/flycheck/flycheck)
 -   [Flycheck - Modern Emacs syntax checking
-    ](http://www.flycheck.org/en/latest/)
+    ](https://www.flycheck.org/en/latest/)
 
 C++ でつかってみると, どうも動かないので調べてみたメモ.
 

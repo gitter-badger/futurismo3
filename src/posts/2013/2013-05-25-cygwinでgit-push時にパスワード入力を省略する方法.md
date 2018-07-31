@@ -45,6 +45,6 @@ chmod 600 ~/.netrc
 
 [git clone https://ID@HOST/&#8230; できない場合の暫定対策 &#8211; iWA’s 雑記@はてな出張所][3]
 
- [1]: http://stackoverflow.com/questions/6903158/netrc-not-accepted-by-git
- [2]: http://stackoverflow.com/questions/6031214/git-how-to-use-netrc-file-on-windows-to-save-user-and-password/6031266#6031266
- [3]: http://d.hatena.ne.jp/vmi/20111025/p1
+ [1]: https://stackoverflow.com/questions/6903158/netrc-not-accepted-by-git
+ [2]: https://stackoverflow.com/questions/6031214/git-how-to-use-netrc-file-on-windows-to-save-user-and-password/6031266#6031266
+ [3]: https://d.hatena.ne.jp/vmi/20111025/p1

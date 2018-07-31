@@ -26,7 +26,7 @@ WordPressの固定ページとかで、記事一覧を取得して一覧表示�
 
 WordPressの編集画面でPHPを利用するために、Exec-PHPを入れる。
 
-<a href="http://wordpress.org/extend/plugins/exec-php/" target="_blank"><img class="alignleft" border="0" alt="" align="left" src="http://capture.heartrails.com/150x130/shadow?http://wordpress.org/extend/plugins/exec-php/" width="150" height="130" /></a> <a style="color: #0070c5" href="http://wordpress.org/extend/plugins/exec-php/" target="_blank">WordPress 窶ｺ Exec-PHP ≪ WordPress Plugins</a>    <img border="0" alt="" src="http://b.hatena.ne.jp/entry/image/http://wordpress.org/extend/plugins/exec-php/" />
+<a href="https://wordpress.org/extend/plugins/exec-php/" target="_blank"><img class="alignleft" border="0" alt="" align="left" src="https://capture.heartrails.com/150x130/shadow?https://wordpress.org/extend/plugins/exec-php/" width="150" height="130" /></a> <a style="color: #0070c5" href="https://wordpress.org/extend/plugins/exec-php/" target="_blank">WordPress 窶ｺ Exec-PHP ≪ WordPress Plugins</a>    <img border="0" alt="" src="https://b.hatena.ne.jp/entry/image/https://wordpress.org/extend/plugins/exec-php/" />
 
 #### ソースコード例
 
@@ -63,7 +63,7 @@ tag の引数で、タグに割りつけたスラングを指定(タグ名でな
 
 他にもオブションはたくさんある。詳しくは以下のページが参考になる。
 
-<a href="http://elearn.jp/wpman/column/c20110121_01.html" target="_blank"><img class="alignleft" border="0" alt="" align="left" src="http://capture.heartrails.com/150x130/shadow?http://elearn.jp/wpman/column/c20110121_01.html" width="150" height="130" /></a> <a style="color: #0070c5" href="http://elearn.jp/wpman/column/c20110121_01.html" target="_blank">get_postsとquery_postsを使い分け:WordPress私的マニュアル</a>  <img border="0" alt="" src="http://b.hatena.ne.jp/entry/image/http://elearn.jp/wpman/column/c20110121_01.html" />
+<a href="https://elearn.jp/wpman/column/c20110121_01.html" target="_blank"><img class="alignleft" border="0" alt="" align="left" src="https://capture.heartrails.com/150x130/shadow?https://elearn.jp/wpman/column/c20110121_01.html" width="150" height="130" /></a> <a style="color: #0070c5" href="https://elearn.jp/wpman/column/c20110121_01.html" target="_blank">get_postsとquery_postsを使い分け:WordPress私的マニュアル</a>  <img border="0" alt="" src="https://b.hatena.ne.jp/entry/image/https://elearn.jp/wpman/column/c20110121_01.html" />
 
 <br style="clear: both" />
 
@@ -73,4 +73,4 @@ tag の引数で、タグに割りつけたスラングを指定(タグ名でな
 
   * [WordPressでカテゴリ別の新着記事を表示する方法][1]
 
- [1]: http://www.seo-blogs.biz/2009/06/28/655/
+ [1]: https://www.seo-blogs.biz/2009/06/28/655/

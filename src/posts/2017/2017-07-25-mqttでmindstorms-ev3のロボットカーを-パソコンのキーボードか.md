@@ -100,7 +100,7 @@ Pythonで押されたキーボードのキーの取得をするために、punpu
 
 最後に、書いたコードが以下。これで、キーボードの十字キーを使ってロボットカーをリモコン代わりに操作することができた。
 
- [1]: http://www.ev3dev.org/docs/tutorials/sending-and-receiving-messages-with-mqtt/
+ [1]: https://www.ev3dev.org/docs/tutorials/sending-and-receiving-messages-with-mqtt/
  [2]: https://mosquitto.org/
- [3]: http://www.eclipse.org/paho/
- [4]: http://tohutokonsome.hatenablog.com/entry/2017/05/22/002531
+ [3]: https://www.eclipse.org/paho/
+ [4]: https://tohutokonsome.hatenablog.com/entry/2017/05/22/002531

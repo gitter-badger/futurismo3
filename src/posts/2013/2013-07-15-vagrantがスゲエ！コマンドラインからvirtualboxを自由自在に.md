@@ -43,28 +43,28 @@ url: /archives/=1651
 
 Vargrantとは、仮想環境をコマンドラインから操作することができる、オープンソースRubyスクリプトです。
 
-  * <a href="http://www.vagrantup.com/" target="_blank">Vagrant</a>
+  * <a href="https://www.vagrantup.com/" target="_blank">Vagrant</a>
 
 VirtualBoxやVMware Fusion/VMware WorkBench、EC2をコマンドラインから操作できます。VMware Fusionは有料(4000円くらい？）なので、無料のVirtualBoxで試してみます。
 
 <div class='amazlink-box' style='text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;'>
   <div class='amazlink-list' style='clear: both;'>
     <div class='amazlink-image' style='float:left;margin:0px 12px 1px 0px;'>
-      <a href='http://www.amazon.co.jp/%E3%82%A2%E3%82%AF%E3%83%88%E3%83%BB%E3%83%84%E3%83%BC-VMware-Fusion-5/dp/B009316BXW%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB009316BXW' target='_blank' rel='nofollow'><img src='http://ecx.images-amazon.com/images/I/51hrN%2BOGmPL._SL160_.jpg' style='border: none;' /></a>
+      <a href='https://www.amazon.co.jp/%E3%82%A2%E3%82%AF%E3%83%88%E3%83%BB%E3%83%84%E3%83%BC-VMware-Fusion-5/dp/B009316BXW%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB009316BXW' target='_blank' rel='nofollow'><img src='https://ecx.images-amazon.com/images/I/51hrN%2BOGmPL._SL160_.jpg' style='border: none;' /></a>
     </div>
     
     <div class='amazlink-info' style='height:160; margin-bottom: 10px'>
       <div class='amazlink-name' style='margin-bottom:10px;line-height:120%'>
-        <a href='http://www.amazon.co.jp/%E3%82%A2%E3%82%AF%E3%83%88%E3%83%BB%E3%83%84%E3%83%BC-VMware-Fusion-5/dp/B009316BXW%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB009316BXW' rel='nofollow' target='_blank'>VMware Fusion 5</a>
+        <a href='https://www.amazon.co.jp/%E3%82%A2%E3%82%AF%E3%83%88%E3%83%BB%E3%83%84%E3%83%BC-VMware-Fusion-5/dp/B009316BXW%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB009316BXW' rel='nofollow' target='_blank'>VMware Fusion 5</a>
       </div>
       
       <div class='amazlink-powered' style='font-size:80%;margin-top:5px;line-height:120%'>
-        posted with <a href='http://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 13.07.14
+        posted with <a href='https://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 13.07.14
       </div>
       
       <p>
         <noscript>
-          <a href='http://bust-up.gob.jp'>xn--cck2b5as2b7b</a>
+          <a href='https://bust-up.gob.jp'>xn--cck2b5as2b7b</a>
         </noscript>
       </p>
       
@@ -74,7 +74,7 @@ VirtualBoxやVMware Fusion/VMware WorkBench、EC2をコマンドラインから�
       
       <div class='amazlink-sub-info' style='float: left;'>
         <div class='amazlink-link' style='margin-top: 5px'>
-          <img src='http://amazlink.fuyu.gs/icon_amazon.png' width='18' /><a href='http://www.amazon.co.jp/%E3%82%A2%E3%82%AF%E3%83%88%E3%83%BB%E3%83%84%E3%83%BC-VMware-Fusion-5/dp/B009316BXW%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB009316BXW' rel='nofollow' target='_blank'>Amazon</a>
+          <img src='https://amazlink.fuyu.gs/icon_amazon.png' width='18' /><a href='https://www.amazon.co.jp/%E3%82%A2%E3%82%AF%E3%83%88%E3%83%BB%E3%83%84%E3%83%BC-VMware-Fusion-5/dp/B009316BXW%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB009316BXW' rel='nofollow' target='_blank'>Amazon</a>
         </div>
       </div>
     </div>
@@ -85,7 +85,7 @@ VirtualBoxやVMware Fusion/VMware WorkBench、EC2をコマンドラインから�
 
 最新版をサイトからとってきてインストールします。
 
-  * <a href="http://downloads.vagrantup.com/" target="_blank">Vagrant &#8211; Downloads</a> 
+  * <a href="https://downloads.vagrantup.com/" target="_blank">Vagrant &#8211; Downloads</a> 
       * Vagrant_1.2.3.msi
 
 Windows番だとMINGWやRubyがまとめて梱包されていました(重い）。
@@ -99,7 +99,7 @@ Cygwinから利用するためには、以下のおまじないが必要みた�
 
 詳しくはココ。
 
-  * <a href="http://russellcardullo.com/blog/2012/07/15/setting-up-chef-and-vagrant-on-windows-7-under-cygwin/" target="_blank">Setting up Chef and Vagrant on Windows 7 under Cygwin &#8211; russell.cardullo</a>
+  * <a href="https://russellcardullo.com/blog/2012/07/15/setting-up-chef-and-vagrant-on-windows-7-under-cygwin/" target="_blank">Setting up Chef and Vagrant on Windows 7 under Cygwin &#8211; russell.cardullo</a>
 
 ちなみに，このページだと、.VirtualBoxフォルダがCygwinで実行した場合には、Cygwinホーム配下に作成されて、Windowsホーム配下のものと二重管理になるので、リンクを作成するといいよとかいてある。
 
@@ -118,11 +118,11 @@ TSUNEMICHIの部分はユーザ名なので、適当に読み替えてくださ�
 
 ドキュメントはコチラ。
 
-  * <a href="http://docs.vagrantup.com/v2/getting-started/index.html" target="_blank">Vagrant Documentation</a>
+  * <a href="https://docs.vagrantup.com/v2/getting-started/index.html" target="_blank">Vagrant Documentation</a>
 
 環境構築には、３コマンドで行けます。
 
-    $ vagrant box add base http://files.vagrantup.com/lucid32.box
+    $ vagrant box add base https://files.vagrantup.com/lucid32.box
     $ vagrant init
     $ vagrant up
     
@@ -140,12 +140,12 @@ Vagrantを利用するためには、まずboxファイルというものを用�
 
 以下のサイトで、様々なOSのISOにvagrant利用環境を整えたboxが配布されている。例えば、CentOS 6.4 minimal(VartualBox)は以下。
 
-  * <a href="http://www.vagrantbox.es/" target="_blank">A list of base boxes for Vagrant &#8211; Vagrantbox.es</a> 
+  * <a href="https://www.vagrantbox.es/" target="_blank">A list of base boxes for Vagrant &#8211; Vagrantbox.es</a> 
       * CentOS 6.4 x86_64 Minimal (VirtualBox Guest Additions 4.2.12, Chef 11.4.4, Puppet 3.1.1)
 
 インストールは、以下のコマンドを実行。
 
-    vagrant box add base http://developer.nrel.gov/downloads/vagrant-boxes/CentOS-6.4-x86_64-v20130427.box
+    vagrant box add base https://developer.nrel.gov/downloads/vagrant-boxes/CentOS-6.4-x86_64-v20130427.box
     
 
 IOSイメージをダウンロードしてくるので、メチャクチャ時間がかかります。気長に待つこと。
@@ -274,21 +274,21 @@ Boxファイルは、以下にありました。
 <div class='amazlink-box' style='text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;'>
   <div class='amazlink-list' style='clear: both;'>
     <div class='amazlink-image' style='float:left;margin:0px 12px 1px 0px;'>
-      <a href='http://www.amazon.co.jp/Vagrant-Up-and-Running-ebook/dp/B00D3VH4IO%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00D3VH4IO' target='_blank' rel='nofollow'><img src='http://ecx.images-amazon.com/images/I/51MWELjJC4L._SL160_.jpg' style='border: none;' /></a>
+      <a href='https://www.amazon.co.jp/Vagrant-Up-and-Running-ebook/dp/B00D3VH4IO%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00D3VH4IO' target='_blank' rel='nofollow'><img src='https://ecx.images-amazon.com/images/I/51MWELjJC4L._SL160_.jpg' style='border: none;' /></a>
     </div>
     
     <div class='amazlink-info' style='height:160; margin-bottom: 10px'>
       <div class='amazlink-name' style='margin-bottom:10px;line-height:120%'>
-        <a href='http://www.amazon.co.jp/Vagrant-Up-and-Running-ebook/dp/B00D3VH4IO%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00D3VH4IO' rel='nofollow' target='_blank'>Vagrant: Up and Running</a>
+        <a href='https://www.amazon.co.jp/Vagrant-Up-and-Running-ebook/dp/B00D3VH4IO%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00D3VH4IO' rel='nofollow' target='_blank'>Vagrant: Up and Running</a>
       </div>
       
       <div class='amazlink-powered' style='font-size:80%;margin-top:5px;line-height:120%'>
-        posted with <a href='http://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 13.07.15
+        posted with <a href='https://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 13.07.15
       </div>
       
       <p>
         <noscript>
-          <a href='http://bust-up.gob.jp'>xn--cck2b5as2b7b</a>
+          <a href='https://bust-up.gob.jp'>xn--cck2b5as2b7b</a>
         </noscript>
       </p>
       
@@ -298,12 +298,12 @@ Boxファイルは、以下にありました。
       
       <div class='amazlink-sub-info' style='float: left;'>
         <div class='amazlink-link' style='margin-top: 5px'>
-          <img src='http://amazlink.fuyu.gs/icon_amazon.png' width='18' /><a href='http://www.amazon.co.jp/Vagrant-Up-and-Running-ebook/dp/B00D3VH4IO%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00D3VH4IO' rel='nofollow' target='_blank'>Amazon</a> <img src='http://amazlink.fuyu.gs/icon_rakuten.gif' width='18' /><a href='http://hb.afl.rakuten.co.jp/hgc/g00reb44.n763w26d.g00reb44.n763x91f/archives/c=http%3A%2F%2Fitem.rakuten.co.jp%2Frakutenkobo-ebooks%2F74cb2fff67524370abcb9b045d4c0361%2F&#038;m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutenkobo-ebooks%2Fi%2F11439066%2F' rel='nofollow' target='_blank'>楽天</a>
+          <img src='https://amazlink.fuyu.gs/icon_amazon.png' width='18' /><a href='https://www.amazon.co.jp/Vagrant-Up-and-Running-ebook/dp/B00D3VH4IO%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00D3VH4IO' rel='nofollow' target='_blank'>Amazon</a> <img src='https://amazlink.fuyu.gs/icon_rakuten.gif' width='18' /><a href='https://hb.afl.rakuten.co.jp/hgc/g00reb44.n763w26d.g00reb44.n763x91f/archives/c=http%3A%2F%2Fitem.rakuten.co.jp%2Frakutenkobo-ebooks%2F74cb2fff67524370abcb9b045d4c0361%2F&#038;m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutenkobo-ebooks%2Fi%2F11439066%2F' rel='nofollow' target='_blank'>楽天</a>
         </div>
       </div>
     </div>
   </div>
 </div>
 
- [1]: http://lh6.ggpht.com/-mgngaHujv20/UeJ8Oa7KhgI/AAAAAAAAAo8/BNLXQtvbkhI/SnapCrab_NoName_2013-7-14_19-23-34_No-00.jpg
+ [1]: https://lh6.ggpht.com/-mgngaHujv20/UeJ8Oa7KhgI/AAAAAAAAAo8/BNLXQtvbkhI/SnapCrab_NoName_2013-7-14_19-23-34_No-00.jpg
  [2]: https://picasaweb.google.com/lh/photo/qkPzyJ_ja3NOdqXbqodlQzyD6hjDXGH6XyE6iLrzolo?feat=embedwebsite

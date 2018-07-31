@@ -67,7 +67,7 @@ url: /archives/=6928
 まずは、digitally importedのstream urlをしらべる。
 
   * <https://gist.github.com/sim642/4f73e3e145fd1eac8c39> 
-      * [http://pub1.diforfree.org:8000/di\_techhouse\_hi][3]
+      * [https://pub1.diforfree.org:8000/di\_techhouse\_hi][3]
 
 次に以下のスクリプトを書いた。
 
@@ -85,12 +85,12 @@ chromecast_name = "Main"
 chromecasts = pychromecast.get_chromecasts()
 cast = next(cc for cc in chromecasts if cc.device.friendly_name == chromecast_name)
 
-play_mp4("http://pub2.diforfree.org:8000/di_techhouse_hi")
+play_mp4("https://pub2.diforfree.org:8000/di_techhouse_hi")
 ```
 
 これを実行すると、Tech Houseが流れた。いえい！あとは、[こことか][4]でやった方法を応用して、声のインタフェースを用意すれば完成！
 
  [1]: https://ausdroid.net/2016/01/02/digitally-imported-radio-supports-chromecast-and-somehow-i-didnt-know/
  [2]: https://www.androidpolice.com/2015/11/10/digitally-imported-radio-di-fm-gets-google-cast-support-in-latest-update/
- [3]: http://pub1.diforfree.org:8000/di_techhouse_hi
+ [3]: https://pub1.diforfree.org:8000/di_techhouse_hi
  [4]: https://futurismo.biz/archives/6921

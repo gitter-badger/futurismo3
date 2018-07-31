@@ -114,7 +114,7 @@ url: /archives/=2968
 基礎の先には広大な統計学の応用領域が広がっている.
 
 -   [社会人が統計学や機械学習を学ぶなら「落下傘方式」で -
-    銀座で働くデータサイエンティストのブログ](http://tjo.hatenablog.com/entry/2014/03/31/191907)
+    銀座で働くデータサイエンティストのブログ](https://tjo.hatenablog.com/entry/2014/03/31/191907)
 
 これから
 ========
@@ -129,7 +129,7 @@ url: /archives/=2968
 
 -   [次の 10 年,
     「統計分析」こそテクノロジー分野でいちばんホットな職業になる -
-    Publickey](http://www.publickey1.jp/blog/10/10_3.html)
+    Publickey](https://www.publickey1.jp/blog/10/10_3.html)
 
 必ず役に立つ, いや, 必ず役に立たせると信じることにする.
 

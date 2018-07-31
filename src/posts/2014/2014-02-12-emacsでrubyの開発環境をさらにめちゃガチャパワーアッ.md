@@ -105,7 +105,7 @@ enhanced-ruby-mode
 
 今は, enhanced-ruby-mode というものもあるらしい.
 
--   <http://qiita.com/vzvu3k6k/items/acec84d829a3dbe1427a>
+-   <https://qiita.com/vzvu3k6k/items/acec84d829a3dbe1427a>
 
 以下の機能を強化.
 
@@ -128,7 +128,7 @@ enh-rubu-mode という名前を探してインストールした.
 enh-ruby-mode-hock enh-ruby-mode-map で置換する.
 
 参考:[enhanced-ruby-mode の概説 -
-Qiita](http://qiita.com/vzvu3k6k/items/acec84d829a3dbe1427a)
+Qiita](https://qiita.com/vzvu3k6k/items/acec84d829a3dbe1427a)
 
 ruby-electric
 -------------
@@ -148,7 +148,7 @@ ruby-block
 
 ruby-block を導入すると, end に対応する行をハイライトしてくれる.
 
--   <http://www.emacswiki.org/cgi-bin/wiki/ruby-block.el>
+-   <https://www.emacswiki.org/cgi-bin/wiki/ruby-block.el>
 -   <https://github.com/adolfosousa/ruby-block.el>
 
 ``` {.commonlisp}
@@ -208,7 +208,7 @@ $ cp /usr/lib/ruby/gems/1.9.1/gems/rcodetools-0.8.5.0/rcodetools.el .
 最後に, rcodetools/bin にパスを通す (ここがハマりポイント!)
 このページに助けられた.
 
--   <http://d.hatena.ne.jp/tomitake_flash/20100220/1266662660>
+-   <https://d.hatena.ne.jp/tomitake_flash/20100220/1266662660>
 
 .zshenv とかに,
 
@@ -295,7 +295,7 @@ ctags/ripper-tags
 試してないけれども、GNU GLOBAL でもタグジャンプができるみたい。
 
 -   [Emacs での Rails 開発を GNU GLOBAL でだいぶ快適にする -
-    Qiita](http://qiita.com/5t111111/items/5e854f6047d187ea21c7)
+    Qiita](https://qiita.com/5t111111/items/5e854f6047d187ea21c7)
 
 コード補完
 ==========
@@ -308,7 +308,7 @@ Ruby 用の補完をする. 補完は auto-complete という有名な elisp が
 これは文法を解析して補完してくれる.
 
 -   [auto-complete + rsense の代わりに auto-complete + robe をつかう -
-    LGTM](http://codeout.hatenablog.com/entry/2014/02/04/210237)
+    LGTM](https://codeout.hatenablog.com/entry/2014/02/04/210237)
 
 el-get 経由で robe-mode を入れる.
 
@@ -390,8 +390,8 @@ flycheck のチェッカーとして ruby-lint と robocop を入れてみる.
 コーディングスタイルをチェックするために, rubocop を入れてみる.
 以下を参考にした.
 
--   <http://qiita.com/watson1978/items/debafdfc49511fb173e9>
--   <http://qiita.com/yaotti/items/4f69a145a22f9c8f8333>
+-   <https://qiita.com/watson1978/items/debafdfc49511fb173e9>
+-   <https://qiita.com/yaotti/items/4f69a145a22f9c8f8333>
 
 まずは, gem で robocop をインストール.
 
@@ -482,7 +482,7 @@ anzu
 
 置換や検索をおしゃれに実行する Elisp. 詳しくは, 以下.
 
--   <http://qiita.com/syohex/items/56cf3b7f7d9943f7a7ba>
+-   <https://qiita.com/syohex/items/56cf3b7f7d9943f7a7ba>
 
 ``` {.commonlisp}
 (require 'anzu)
@@ -612,7 +612,7 @@ Project Interaction Library for Emacs.
 それ以下のファイルを見つけたり色々できる.
 
 -   [最近の開発環境: mjolnir, projectile, peco -
-    blog.en30.net](http://blog.en30.net/2014/10/20/development-environment.html)
+    blog.en30.net](https://blog.en30.net/2014/10/20/development-environment.html)
 
 .projectile ファイルをマニュアルで作成することで, そのフォルダを Route
 Folder と認識出来る.(要 Emacs 再起動)

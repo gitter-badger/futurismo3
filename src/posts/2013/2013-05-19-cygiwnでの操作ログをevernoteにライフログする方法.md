@@ -29,7 +29,7 @@ Evernoteに自動転送するには、インポートフォルダの設定をす
   4. 追加を選択して、作成したWindows上のフォルダを指定する。 
   5. 「ノートブック」欄を選択して、Evernoteフォルダを選択する。 
 
-[<img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="evernote_mintty" border="0" alt="evernote_mintty" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/evernote_mintty_thumb.png" width="483" height="281" />][1]
+[<img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="evernote_mintty" border="0" alt="evernote_mintty" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/evernote_mintty_thumb.png" width="483" height="281" />][1]
 
 ### Cygwin上でログを記録をする
 
@@ -93,11 +93,11 @@ minttyでの出力結果をcygtermからtail -f で表示させるとか。ま�
 
 自動的にログ採取を開始するにチェックをいれると、Cygterm起動時にログが開始される。
 
-[<img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="SnapCrab_Tera Term その他の設定_2013-5-19_15-5-22_No-00" border="0" alt="SnapCrab_Tera Term その他の設定_2013-5-19_15-5-22_No-00" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/SnapCrab_Tera-Term-_2013-5-19_15-5-22_No-00_thumb.png" width="488" height="371" />][2]
+[<img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="SnapCrab_Tera Term その他の設定_2013-5-19_15-5-22_No-00" border="0" alt="SnapCrab_Tera Term その他の設定_2013-5-19_15-5-22_No-00" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/SnapCrab_Tera-Term-_2013-5-19_15-5-22_No-00_thumb.png" width="488" height="371" />][2]
 
 #### その他
 
 これを、ログインシェルとログアウトシェルに書いて自動的にログするかは検討中。そんなにログは必要かな？
 
- [1]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/evernote_mintty.png
- [2]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/SnapCrab_Tera-Term-_2013-5-19_15-5-22_No-00.png
+ [1]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/evernote_mintty.png
+ [2]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/SnapCrab_Tera-Term-_2013-5-19_15-5-22_No-00.png

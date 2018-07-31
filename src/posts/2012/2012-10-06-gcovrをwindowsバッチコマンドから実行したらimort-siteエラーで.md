@@ -41,4 +41,4 @@ Pythonを使ったことがないからよくわからないが、調べてみ�
 
 正しい方法がわかったら、またメモしよう。
 
- [1]: http://www.area51.gr.jp/~rin/diary/?date=20100204
+ [1]: https://www.area51.gr.jp/~rin/diary/?date=20100204

@@ -35,16 +35,16 @@ ESS
 
 Emacs を統計用 IDE にするツール. デファクトスタンダードと言えよう.
 
--   Official: [ESS - Emacs Speaks Statistics](http://ess.r-project.org/)
+-   Official: [ESS - Emacs Speaks Statistics](https://ess.r-project.org/)
 -   github: <https://github.com/emacs-ess/ESS>
 -   メチャクチャ詳しい: [ESS -
-    RjpWiki](http://www.okada.jp.org/RWiki/?ESS)
+    RjpWiki](https://www.okada.jp.org/RWiki/?ESS)
 -   [EmacsWiki: Emacs Speaks
-    Statistics](http://www.emacswiki.org/emacs/EmacsSpeaksStatistics)
+    Statistics](https://www.emacswiki.org/emacs/EmacsSpeaksStatistics)
 -   [ESS で快適 R ライフ \~設定編\~(2012 年度版) -
-    あらびき日記](http://d.hatena.ne.jp/a_bicky/20120415/1334490586)
+    あらびき日記](https://d.hatena.ne.jp/a_bicky/20120415/1334490586)
 -   [ESS で快適 R ライフ \~操作編\~(2012 年度版) -
-    あらびき日記](http://d.hatena.ne.jp/a_bicky/20120422/1335086814)
+    あらびき日記](https://d.hatena.ne.jp/a_bicky/20120422/1335086814)
 
 起動は M-x R.
 
@@ -68,15 +68,15 @@ ESS Auto-complete
 R 言語の入力自動補完をするために, auto-complete を利用する.
 
 -   [EmacsWiki:
-    ESSAuto-complete](http://www.emacswiki.org/emacs/ESSAuto-complete)
+    ESSAuto-complete](https://www.emacswiki.org/emacs/ESSAuto-complete)
 
     ac-R.el はふるいっぽい.
     -   [EmacsWiki: Auto Complete
-        Sources](http://www.emacswiki.org/emacs/AutoCompleteSources#toc2)
+        Sources](https://www.emacswiki.org/emacs/AutoCompleteSources#toc2)
     -   [Emacs autocomplete-mode extension for ESS and R - Stack
-        Overflow](http://stackoverflow.com/questions/4682459/emacs-autocomplete-mode-extension-for-ess-and-r)
+        Overflow](https://stackoverflow.com/questions/4682459/emacs-autocomplete-mode-extension-for-ess-and-r)
     -   [ESS の auto-complete を試す - kozo2's
-        blog](http://kozo2.hatenablog.com/entry/2012/04/14/050121)
+        blog](https://kozo2.hatenablog.com/entry/2012/04/14/050121)
 
 ``` {.commonlisp}
 (when (locate-library "ess-site")
@@ -91,7 +91,7 @@ ESS R Data View
 データの中身がみれる.
 
 -   [R のデータビューワ ess-R-data-view.el というのを作りました -
-    sheephead](http://sheephead.homelinux.org/2013/05/10/7019/)
+    sheephead](https://sheephead.homelinux.org/2013/05/10/7019/)
 -   <https://github.com/myuhe/ess-R-data-view.el>
 
 ``` {.commonlisp}
@@ -109,7 +109,7 @@ ess-R-object-popup
 -   <https://github.com/myuhe/ess-R-object-popup.el>
 -   [popup.el を使って R オブジェクトの情報を popup する
     ess-R-object-popup.el -
-    sheephead](http://sheephead.homelinux.org/2010/03/02/1807/)
+    sheephead](https://sheephead.homelinux.org/2010/03/02/1807/)
 
 ``` {.commonlisp}
 (when (locate-library "ess-site")
@@ -127,7 +127,7 @@ C-s を叩く.
 
 -   [r - ess-rdired: I get this error "no ESS process is associated with
     this buffer now" - Stack
-    Overflow](http://stackoverflow.com/questions/13930713/ess-rdired-i-get-this-error-no-ess-process-is-associated-with-this-buffer-now)
+    Overflow](https://stackoverflow.com/questions/13930713/ess-rdired-i-get-this-error-no-ess-process-is-associated-with-this-buffer-now)
 
 helm-R
 ======
@@ -135,7 +135,7 @@ helm-R
 helm インタフェースで 関数のヘルプをひくことができる.
 
 -   [R のための anything インターフェイス, anything-R.el を作った. -
-    sheephead](http://sheephead.homelinux.org/2010/05/24/1846/)
+    sheephead](https://sheephead.homelinux.org/2010/05/24/1846/)
 -   <https://github.com/emacs-helm/helm-R>
 
 ``` {.commonlisp}
@@ -152,11 +152,11 @@ org-babel-R
 org-mode で R を利用する.
 
 -   [Emacs org-mode を使ってみる: (40) org-babel-R を使う 1/2 -
-    屯遁のパズルとプログラミングの日記](http://d.hatena.ne.jp/tamura70/20100315/org)
+    屯遁のパズルとプログラミングの日記](https://d.hatena.ne.jp/tamura70/20100315/org)
 -   [Emacs org-mode を使ってみる: (41) org-babel-R を使う 2/2 -
-    屯遁のパズルとプログラミングの日記](http://d.hatena.ne.jp/tamura70/20100316/org)
+    屯遁のパズルとプログラミングの日記](https://d.hatena.ne.jp/tamura70/20100316/org)
 -   [R Source Code Blocks in Org
-    Mode](http://orgmode.org/worg/org-contrib/babel/languages/ob-doc-R.html)
+    Mode](https://orgmode.org/worg/org-contrib/babel/languages/ob-doc-R.html)
 
 ``` {.commonlisp}
 (when (locate-library "ess-site")

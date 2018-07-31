@@ -38,7 +38,7 @@ RubyTkにTkCompositeというなぞのライブラリがあるので、しらべ
     
     <ul class="org-ul">
       <li>
-        <a href="http://ja.wikipedia.org/wiki/Composite_%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3">Composite パターン &#8211; Wikipedia</a>
+        <a href="https://ja.wikipedia.org/wiki/Composite_%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3">Composite パターン &#8211; Wikipedia</a>
       </li>
     </ul>
     
@@ -120,7 +120,7 @@ end
     
     <ul class="org-ul">
       <li>
-        <a href="http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-list/5610">How to make Composite Widget (Re: megawidgets)</a>
+        <a href="https://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-list/5610">How to make Composite Widget (Re: megawidgets)</a>
       </li>
     </ul>
   </div></p>

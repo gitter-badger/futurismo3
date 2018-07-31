@@ -102,7 +102,7 @@ Decolator パターンを利用すると,
 粒粒の機能を動的に組み合わせることができる.
 
 -   [Decorator パターン -
-    Wikipedia](http://ja.wikipedia.org/wiki/Decorator_%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3)
+    Wikipedia](https://ja.wikipedia.org/wiki/Decorator_%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3)
 
 つまり, 以下のような機能を好きな順番で並び替えることができる.
 

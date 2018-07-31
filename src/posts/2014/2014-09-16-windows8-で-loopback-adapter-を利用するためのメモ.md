@@ -86,7 +86,7 @@ url: /archives/=2619
       </ul>
       
       <p>
-        <a href="http://e-words.jp/w/E383ABE383BCE38397E38390E38383E382AF.html">ループバックとは 〔 ローカルループバック 〕</a>
+        <a href="https://e-words.jp/w/E383ABE383BCE38397E38390E38383E382AF.html">ループバックとは 〔 ローカルループバック 〕</a>
       </p>
     </div>
   </div>
@@ -103,7 +103,7 @@ url: /archives/=2619
       
       <ul class="org-ul">
         <li>
-          <a href="http://support.microsoft.com/kb/236869/ja">Microsoft Loopback Adapter をインストールする方法</a>
+          <a href="https://support.microsoft.com/kb/236869/ja">Microsoft Loopback Adapter をインストールする方法</a>
         </li>
       </ul>
     </div>
@@ -122,7 +122,7 @@ url: /archives/=2619
     
     <ul class="org-ul">
       <li>
-        <a href="http://blogs.yahoo.co.jp/akio_myau/45048512.html">Windows 8 Loopback アダプターを設定する &#8211; みゃうのリカバリーをする前に &#8211; Yahoo! ブログ</a>
+        <a href="https://blogs.yahoo.co.jp/akio_myau/45048512.html">Windows 8 Loopback アダプターを設定する &#8211; みゃうのリカバリーをする前に &#8211; Yahoo! ブログ</a>
       </li>
     </ul>
     
@@ -144,7 +144,7 @@ url: /archives/=2619
     
     <ul class="org-ul">
       <li>
-        <a href="http://mizupc8.bio.mie-u.ac.jp/pukiwiki/index.php?TIPS/MS%20Windows/015">TIPS/MS Windows/015 &#8211; PukiWiki</a>
+        <a href="https://mizupc8.bio.mie-u.ac.jp/pukiwiki/index.php?TIPS/MS%20Windows/015">TIPS/MS Windows/015 &#8211; PukiWiki</a>
       </li>
     </ul>
     
@@ -192,7 +192,7 @@ url: /archives/=2619
     </ul>
     
     <p>
-      <a href="http://wiki.wireshark.org/CaptureSetup/Loopback">CaptureSetup/Loopback &#8211; The Wireshark Wiki</a>
+      <a href="https://wiki.wireshark.org/CaptureSetup/Loopback">CaptureSetup/Loopback &#8211; The Wireshark Wiki</a>
     </p>
     
     <p>
@@ -224,7 +224,7 @@ url: /archives/=2619
       
       <ul class="org-ul">
         <li>
-          <a href="http://stackoverflow.com/questions/5847168/wireshark-localhost-traffic-capture">Wireshark localhost traffic capture &#8211; Stack Overflow</a>
+          <a href="https://stackoverflow.com/questions/5847168/wireshark-localhost-traffic-capture">Wireshark localhost traffic capture &#8211; Stack Overflow</a>
         </li>
       </ul>
     </div>
@@ -242,7 +242,7 @@ url: /archives/=2619
       
       <ul class="org-ul">
         <li>
-          <a href="http://www.netresec.com/archives/age=Blog&#038;month=2011-01&#038;post=Proxocket---A-Winsock-Proxy-Sniffer">Proxocket &#8211; A Winsock Proxy Sniffer &#8211; NETRESEC Blog</a>
+          <a href="https://www.netresec.com/archives/age=Blog&#038;month=2011-01&#038;post=Proxocket---A-Winsock-Proxy-Sniffer">Proxocket &#8211; A Winsock Proxy Sniffer &#8211; NETRESEC Blog</a>
         </li>
       </ul>
     </div>
@@ -260,7 +260,7 @@ url: /archives/=2619
       
       <ul class="org-ul">
         <li>
-          <a href="http://www.netresec.com/archives/age=RawCap">RawCap &#8211; A raw socket sniffer for Windows</a>
+          <a href="https://www.netresec.com/archives/age=RawCap">RawCap &#8211; A raw socket sniffer for Windows</a>
         </li>
       </ul>
       

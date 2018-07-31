@@ -20,7 +20,7 @@ SphinxでPDF出力する方法は以下の2つがあるらしい。
   * Latex
 
 以下のページを参考にした。   
-<a href="http://sphinx-users.jp/cookbook/pdf/index.html" target="_blank"><img class="alignleft" border="0" alt="" align="left" src="http://capture.heartrails.com/150x130/shadow?http://sphinx-users.jp/cookbook/pdf/index.html" width="150" height="130" /></a> <a style="color: #0070c5" href="http://sphinx-users.jp/cookbook/pdf/index.html" target="_blank">SphinxでPDFファイル作成 :: ドキュメンテーションツール スフィンクス Sphinx-users.jp</a>      <img border="0" alt="" src="http://b.hatena.ne.jp/entry/image/http://sphinx-users.jp/cookbook/pdf/index.html" /><br style="clear: both" />今回はWindows環境で、rst2pdfを使う方法を試してみた。
+<a href="https://sphinx-users.jp/cookbook/pdf/index.html" target="_blank"><img class="alignleft" border="0" alt="" align="left" src="https://capture.heartrails.com/150x130/shadow?https://sphinx-users.jp/cookbook/pdf/index.html" width="150" height="130" /></a> <a style="color: #0070c5" href="https://sphinx-users.jp/cookbook/pdf/index.html" target="_blank">SphinxでPDFファイル作成 :: ドキュメンテーションツール スフィンクス Sphinx-users.jp</a>      <img border="0" alt="" src="https://b.hatena.ne.jp/entry/image/https://sphinx-users.jp/cookbook/pdf/index.html" /><br style="clear: both" />今回はWindows環境で、rst2pdfを使う方法を試してみた。
 
 #### 環境
 
@@ -47,7 +47,7 @@ Pythonモジュールである、PILやReportLabをインストールすると�
 
 Windows 64bitユーザはPILを以下のサイトから手に入れます。
 
-  * <http://www.lfd.uci.edu/~gohlke/pythonlibs/>
+  * <https://www.lfd.uci.edu/~gohlke/pythonlibs/>
 
 #### ReportLabの入手@Winodows64bit version
 
@@ -56,7 +56,7 @@ ReportLabのインストールは注意が必要です。version2.6ではなく�
   
 以下のサイトにありました。
 
-  * [http://www.reportlab.com/ftp/][1]
+  * [https://www.reportlab.com/ftp/][1]
   * reportlab-2.5.win-amd64-py2.6.exe
 
 2.6を入れると以下の様なエラーが発生して、PDF作成に失敗しました。
@@ -64,7 +64,7 @@ ReportLabのインストールは注意が必要です。version2.6ではなく�
   
 これは、既知障害っぽいです。
 
-[http://code.google.com/p/rst2pdf/issues/detail?id=474][2]
+[https://code.google.com/p/rst2pdf/issues/detail?id=474][2]
 
 > $ rst2pdf -s ja &#8211;font-path=C:\Windows\Fonts index.rst
       
@@ -100,8 +100,8 @@ PDF出力をするためには、日本語フォントを追加する必要が�
   
 以下の2つをそれぞれダウンロードします。
 
-  * IPAフォント([http://sourceforge.jp/projects/ipafonts/][3])
-  * VLゴシックフォント(<http://jaist.dl.sourceforge.jp/vlgothic/>)
+  * IPAフォント([https://sourceforge.jp/projects/ipafonts/][3])
+  * VLゴシックフォント(<https://jaist.dl.sourceforge.jp/vlgothic/>)
 
 それぞれ、拡張子がttfのファイルをWindowsのフォントフォルダにコピーします。
 
@@ -214,9 +214,9 @@ ja.jsonという名前で、以下の内容を追記します。
   <pre name="code" class="c">make pdf</pre>
 </div>
 
-[<img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="image" border="0" alt="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb87.png" width="434" height="332" />][4]
+[<img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="image" border="0" alt="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb87.png" width="434" height="332" />][4]
 
- [1]: http://www.reportlab.com/ftp/ "http://www.reportlab.com/ftp/"
- [2]: http://code.google.com/p/rst2pdf/issues/detail?id=474 "http://code.google.com/p/rst2pdf/issues/detail?id=474"
- [3]: http://sourceforge.jp/projects/ipafonts/ "http://sourceforge.jp/projects/ipafonts/"
- [4]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image87.png
+ [1]: https://www.reportlab.com/ftp/ "https://www.reportlab.com/ftp/"
+ [2]: https://code.google.com/p/rst2pdf/issues/detail?id=474 "https://code.google.com/p/rst2pdf/issues/detail?id=474"
+ [3]: https://sourceforge.jp/projects/ipafonts/ "https://sourceforge.jp/projects/ipafonts/"
+ [4]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image87.png

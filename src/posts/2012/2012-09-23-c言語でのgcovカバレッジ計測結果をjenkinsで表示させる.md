@@ -27,7 +27,7 @@ C言語でのカバレッジ計測結果をJenkinsで表示させる方法につ
 
   1. lcov + HTML Publisher plugin で出力
   
-    <a name="p1" href="http://d.hatena.ne.jp/nekozeoyaji/20100527/p1">Hudsonの使い方21 Hudsonでユニットテスト網羅率測定（C言語）</a>
+    <a name="p1" href="https://d.hatena.ne.jp/nekozeoyaji/20100527/p1">Hudsonの使い方21 Hudsonでユニットテスト網羅率測定（C言語）</a>
 
   2. gcovr + Coberturaプラグイン で
   
@@ -123,7 +123,7 @@ Cobertura XMLレポート パターンという項目に、xmlファイル名を
   
 （カスタムワークスペースを設定していない場合はパスも込で）
 
-[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb17.png" alt="image" width="437" height="145" border="0" />][6]
+[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb17.png" alt="image" width="437" height="145" border="0" />][6]
 
 これで、ビルドを実行すればカバレッジが表示される。
 
@@ -133,12 +133,12 @@ Cobertura XMLレポート パターンという項目に、xmlファイル名を
   
 カバレッジはここで見ることができる。
 
-[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb18.png" alt="image" width="558" height="258" border="0" />][7]
+[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb18.png" alt="image" width="558" height="258" border="0" />][7]
 
- [1]: http://safx-dev.blogspot.jp/2012/03/jenkins.html
- [2]: http://akisute.com/2012/01/jenkins-ios-gcov.html
- [3]: http://cobertura.sourceforge.net/
+ [1]: https://safx-dev.blogspot.jp/2012/03/jenkins.html
+ [2]: https://akisute.com/2012/01/jenkins-ios-gcov.html
+ [3]: https://cobertura.sourceforge.net/
  [4]: https://software.sandia.gov/trac/fast/wiki/gcovr
  [5]: https://software.sandia.gov/trac/fast/export/2799/gcovr/trunk/scripts/gcovr
- [6]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image17.png
- [7]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image18.png
+ [6]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image17.png
+ [7]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image18.png

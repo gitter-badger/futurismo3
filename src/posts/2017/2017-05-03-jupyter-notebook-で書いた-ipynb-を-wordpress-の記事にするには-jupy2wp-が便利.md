@@ -116,10 +116,10 @@ Jupyter Notebook で実行した結果や、matplotlib や seaborn で生成し�
     
     <ul class="org-ul">
       <li>
-        <a href="http://qiita.com/AmbientData/items/47a341b5d4e030909dac">Jupyter Notebook のドキュメントを WordPress に貼り込む &#8211; Qiita</a>
+        <a href="https://qiita.com/AmbientData/items/47a341b5d4e030909dac">Jupyter Notebook のドキュメントを WordPress に貼り込む &#8211; Qiita</a>
       </li>
       <li>
-        <a href="http://www.mianchen.com/wordpress-blogging-with-jupyter-notebook-in-five-simple-steps/">WordPress Blogging with Jupyter Notebook in Five Simple Steps | Mian Chen</a>
+        <a href="https://www.mianchen.com/wordpress-blogging-with-jupyter-notebook-in-five-simple-steps/">WordPress Blogging with Jupyter Notebook in Five Simple Steps | Mian Chen</a>
       </li>
     </ul>
     

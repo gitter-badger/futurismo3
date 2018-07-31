@@ -38,12 +38,12 @@ Python の統合開発環境 [PyCharm](https://www.jetbrains.com/pycharm/),
 Eclipse で有名な Pleiades が日本語化のプラグインを配布している。
 
 -   [Pleiades - 日本語化プラグイン Eclipse、Android
-    Studio、PhpStorm](http://mergedoc.osdn.jp/pleiades.html)
+    Studio、PhpStorm](https://mergedoc.osdn.jp/pleiades.html)
 
 PyCharm を日本語化する手順は、以下。
 
 -   [Android Studio / IntelliJ IDEA の日本語化と設定 -
-    Qiita](http://qiita.com/cypher256/items/a87179fbe8dd7f63ec4e)
+    Qiita](https://qiita.com/cypher256/items/a87179fbe8dd7f63ec4e)
 
 ところが、Linux の環境について描かれていなくて少し迷ったので、 Linux
 での PyCharm 日本語化設定を備忘録としてメモしておきます。
@@ -61,7 +61,7 @@ PyCharm を日本語化する手順は、以下。
 1. Pleiades の配置
 ------------------
 
-<http://mergedoc.osdn.jp/> から Pleiades プラグインの
+<https://mergedoc.osdn.jp/> から Pleiades プラグインの
 "最新版ダウンロード"をクリックしてダウンロード。
 
 (図を借ります)

@@ -30,7 +30,7 @@ CIFS を Java から利用するためのライブラリ JCIFS を試してみ�
     
     <ul class="org-ul">
       <li>
-        <a href="http://jcifs.samba.org/">http://jcifs.samba.org/</a>
+        <a href="https://jcifs.samba.org/">https://jcifs.samba.org/</a>
       </li>
       <li>
         github: <a href="https://github.com/kohsuke/jcifs">https://github.com/kohsuke/jcifs</a>
@@ -167,10 +167,10 @@ CIFS を Java から利用するためのライブラリ JCIFS を試してみ�
     
     <ul class="org-ul">
       <li>
-        <a href="http://stackoverflow.com/questions/14749434/how-to-copy-file-from-smb-share-to-local-drive-not-in-domain-with-jcifs">How to copy file from SMB share to local drive not in domain with JCIFS &#8211; Stack Overflow</a>
+        <a href="https://stackoverflow.com/questions/14749434/how-to-copy-file-from-smb-share-to-local-drive-not-in-domain-with-jcifs">How to copy file from SMB share to local drive not in domain with JCIFS &#8211; Stack Overflow</a>
       </li>
       <li>
-        <a href="http://stackoverflow.com/questions/13359164/how-to-copy-file-from-smb-share-to-local-drive-using-jcifs-in-java?rq=1">How to copy file from smb share to local drive using jcifs in Java? &#8211; Stack Overflow</a>
+        <a href="https://stackoverflow.com/questions/13359164/how-to-copy-file-from-smb-share-to-local-drive-using-jcifs-in-java?rq=1">How to copy file from smb share to local drive using jcifs in Java? &#8211; Stack Overflow</a>
       </li>
     </ul>
   </div>

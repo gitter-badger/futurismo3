@@ -171,7 +171,7 @@ GoogleMockはC++でHamcrestが利用できるxUnitなので、こういう方法
   * Mock・・・自分で検証機能をもつTest Double
   * Fake・・・本番用クラスを簡易版実装したTestDouble
 
-<iframe style="width: 120px; height: 240px;" src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=sleephacker-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=1937785483" height="240" width="320" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<iframe style="width: 120px; height: 240px;" src="https://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=sleephacker-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=1937785483" height="240" width="320" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 <div id="fastlookup_top" style="display: none;">
 </div>

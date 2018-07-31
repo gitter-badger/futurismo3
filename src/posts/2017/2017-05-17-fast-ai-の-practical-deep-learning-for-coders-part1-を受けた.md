@@ -38,7 +38,7 @@ fast.ai が提供する MOOC, "Practical Deep Learning for Coders Part1"
 を受けた。
 
 -   [Practical Deep Learning For Coders — 18 hours of lessons for
-    free](http://course.fast.ai/)
+    free](https://course.fast.ai/)
 
 特徴
 ====
@@ -98,7 +98,7 @@ TED の動画もある。
 しかし、GPU をつかうから AWS を借りてねと言われる。1 時間 90
 セントだから安いよと言われる。
 
--   <http://wiki.fast.ai/index.php/AWS_install>
+-   <https://wiki.fast.ai/index.php/AWS_install>
 
 p2 タイプというのが GPU 対応らしいのでそのインスタンスを借りる。
 
@@ -111,7 +111,7 @@ AWS の EC2 の自動セットアップスクリプトが提供されるのだ�
 floydhub が使えるという情報を見つけた。
 
 -   [Running Fast.ai Lesson 1 on Floyd - How To - FloydHub
-    Forum](http://forum.floydhub.com/t/running-fast-ai-lesson-1-on-floyd/40)
+    Forum](https://forum.floydhub.com/t/running-fast-ai-lesson-1-on-floyd/40)
 
 2 時間の動画と丁寧なレクチャーノート
 ------------------------------------
@@ -128,13 +128,13 @@ floydhub が使えるという情報を見つけた。
 Notebook が提供されている。
 
 -   [Deep Learning Course
-    Wiki](http://wiki.fast.ai/index.php/Main_Page#Lessons)
+    Wiki](https://wiki.fast.ai/index.php/Main_Page#Lessons)
 -   [fastai/courses: fast.ai Courses](https://github.com/fastai/courses)
 
 疑問点があるときは、Forum で同じことに困っている人がいるので、Forum
 を検索する。
 
--   [Deep Learning Course Forums](http://forums.fast.ai/)
+-   [Deep Learning Course Forums](https://forums.fast.ai/)
 
 なので、英語のリスニングに不安がある人でも大丈夫。
 
@@ -194,9 +194,9 @@ Kaggle](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition)
 fine-tuning については、この記事が詳しい。
 
 -   [Keras で VGG16 を使う -
-    人工知能に関する断創録](http://aidiary.hatenablog.com/entry/20170104/1483535144)
+    人工知能に関する断創録](https://aidiary.hatenablog.com/entry/20170104/1483535144)
 -   [VGG16 の Fine-tuning による犬猫認識 (1) -
-    人工知能に関する断創録](http://aidiary.hatenablog.com/entry/20170108/1483876657)
+    人工知能に関する断創録](https://aidiary.hatenablog.com/entry/20170108/1483876657)
 
 課題は、上記 kaggle のコンペティション（競技会）に参加してみること。
 自分が参加したときは、もう既にこのコンペが終了していた。
@@ -226,13 +226,13 @@ kaggle のコンペに適用可能なので、犬猫以外のコンペに参加�
 以下を読むこと。こんなに読めないよ！！と思ったので、読まなかったけど。
 
 -   [CS231n Convolutional Neural Networks for Visual
-    Recognition](http://cs231n.github.io/) - The following from module
+    Recognition](https://cs231n.github.io/) - The following from module
     1:
     -   Optimization: Stochastic Gradient Descent
     -   Backpropagation, Intuitions
     -   Neural Networks Part 1: Setting up the Architecture
 -   [Neural networks and deep
-    learning](http://neuralnetworksanddeeplearning.com/chap1.html) -
+    learning](https://neuralnetworksanddeeplearning.com/chap1.html) -
     chapters 1, 2, & 3
 
 てか、普通にこれだけ勉強するなんて、アメリカの学生勉強しすぎでしょ、偉いよ。
@@ -288,7 +288,7 @@ Psuedo-labeling で検索かけたら面白いスライド見つけた。10
 位だって、すごい。
 
 -   [Kaggle State Farm Distracted Driver Detection -
-    SSSSLIDE](http://sssslide.com/speakerdeck.com/iwiwi/kaggle-state-farm-distracted-driver-detection)
+    SSSSLIDE](https://sssslide.com/speakerdeck.com/iwiwi/kaggle-state-farm-distracted-driver-detection)
 
 State Farm の課題はサーバーのメモリエラーが発生したので Pesude-labeling
 の手法ができない！ 上位 50%は諦めた。

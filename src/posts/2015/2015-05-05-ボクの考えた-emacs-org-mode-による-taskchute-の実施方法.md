@@ -67,7 +67,7 @@ url: /archives/=3631
 一列に並べて処理していくツール. 詳しくは、以下.
 
 -   [タスク管理ツール・ TaskChute2（PayPal
-    決済）](http://shigotano.info/mbr/taskchute2/paypal.php)
+    決済）](https://shigotano.info/mbr/taskchute2/paypal.php)
 
 今回は、みんな大好き？Emacs org-mode でこれらをどう実現するかを考えた.
 
@@ -94,7 +94,7 @@ org-mode には、時間を見積もる機能があるので、これを利用�
       "Effort_ALL" . "00:05 00:10 00:15 00:30 01:00 01:30 02:00 02:30 03:00"))))
 ;; カラムビューで表示する項目
 ;; Column の書式は以下.
-;; [http://orgmode.org/manual/Column-attributes.html#Column-attributes
+;; [https://orgmode.org/manual/Column-attributes.html#Column-attributes
 (setq org-columns-default-format "%50ITEM(Task) %10Effort(Effort){:} %10CLOCKSUM_T(Clock)")
 ```
 

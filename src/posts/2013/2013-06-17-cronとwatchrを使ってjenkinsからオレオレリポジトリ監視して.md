@@ -55,7 +55,7 @@ cronの記述方法は
 
 詳しくは、以下を参照。
 
-<a href="http://www.server-memo.net/tips/crontab.html" target="_blank">crontabの書き方 — server-memo.net</a>
+<a href="https://www.server-memo.net/tips/crontab.html" target="_blank">crontabの書き方 — server-memo.net</a>
 
 「/」を利用すると、間隔を指定できる。たとえば、5分毎にコマンドを実行するには、以下のように書く。
 
@@ -96,7 +96,7 @@ wathcrコマンドに設定ファイルを渡して実行する。
 
 wgetでURLを指定すると、Jenkinsのジョブを実行することができる。
 
-    $ wget --http-user=<ユーザ名> --http-password=<パスワード> http://yourserver.com/job/<ジョブ>/build?token=＜トークン名＞
+    $ wget --http-user=<ユーザ名> --http-password=<パスワード> https://yourserver.com/job/<ジョブ>/build?token=＜トークン名＞
     
 
 以下の過去記事も参照。
@@ -105,10 +105,10 @@ wgetでURLを指定すると、Jenkinsのジョブを実行することができ
 
 今回はコレ。
 
-    wget --no-proxy --http-user=tsu-nera --http-password=*********** http://192.168.118.130:8080/job/vxUnit/build?token=vxunit_token
+    wget --no-proxy --http-user=tsu-nera --http-password=*********** https://192.168.118.130:8080/job/vxUnit/build?token=vxunit_token
     
 
 まとめると、watchrに渡す設定ファイルは以下のようになる。
 
-    watch( 'src/*.[ch]' )  {|md| system("wget --no-proxy --http-user=tsu-nera --http-password=********** http://localhost:8080/job/vxUnit/build?token=vxunit_token") }
-    watch( 'test/*.[ch]' )  {|md| system("wget --no-proxy --http-user=tsu-nera --http-password=********** http://localhost:8080/job/vxUnit/build?token=vxunit_token") }
+    watch( 'src/*.[ch]' )  {|md| system("wget --no-proxy --http-user=tsu-nera --http-password=********** https://localhost:8080/job/vxUnit/build?token=vxunit_token") }
+    watch( 'test/*.[ch]' )  {|md| system("wget --no-proxy --http-user=tsu-nera --http-password=********** https://localhost:8080/job/vxUnit/build?token=vxunit_token") }

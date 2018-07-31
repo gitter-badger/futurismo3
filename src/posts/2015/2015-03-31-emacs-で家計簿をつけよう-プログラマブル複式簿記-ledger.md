@@ -25,7 +25,7 @@ url: /archives/=3085
 コマンドラインから 家計簿をつけることができる ledger を試してました.
 
 -   [ledger, a powerful command-line accounting
-    system](http://ledger-cli.org/)
+    system](https://ledger-cli.org/)
 
     \[toc\]
 
@@ -43,7 +43,7 @@ Ledger は, \*nix システムのコマンドラインで動作する, 複式簿
 
 以下から, ダウンロードできる. マルチプラットフォーム.
 
--   [Download - Ledger](http://ledger-cli.org/download.html)
+-   [Download - Ledger](https://ledger-cli.org/download.html)
 
 つかいかた
 ==========
@@ -126,12 +126,12 @@ ledger のデータファイルを編集するときのメジャーモード. Em
 いろいろな情報を簡単にまとめることができる.
 
 -   [Ledger: Command-Line
-    Accounting](http://www.ledger-cli.org/3.0/doc/ledger-mode.html)
+    Accounting](https://www.ledger-cli.org/3.0/doc/ledger-mode.html)
 
 org-capture との連携
 
 -   [Emacs: Recording ledger entries with org-capture-templates - sacha
-    chua](http://sachachua.com/blog/2010/11/emacs-recording-ledger-entries-with-org-capture-templates/)
+    chua](https://sachachua.com/blog/2010/11/emacs-recording-ledger-entries-with-org-capture-templates/)
 
 ``` {.commonlisp}
 (require 'ledger-mode)
@@ -157,9 +157,9 @@ org-mode (org-babel) 連携
 legder -f xx org とかくと, org-table 形式で出力.
 
 -   [Using Ledger for Accounting in Org-mode with
-    Babel](http://orgmode.org/worg/org-contrib/babel/languages/ob-doc-ledger.html)
+    Babel](https://orgmode.org/worg/org-contrib/babel/languages/ob-doc-ledger.html)
 -   [Weaving a budget with Org &
-    ledger](http://orgmode.org/worg/org-tutorials/weaving-a-budget.html)
+    ledger](https://orgmode.org/worg/org-tutorials/weaving-a-budget.html)
 
 これをやると, コマンドラインから使えなくなってしまうのが欠点.
 

@@ -33,7 +33,7 @@ LEGO MindStorms EV3 を買ったので、まずは GyroBoy を組み立ててみ
 早速、動かしてみたい！
 
 倒立振子をするロポットの作り方は以下のチュートリアルに乗っている。
--   [Tutorial: Building BALANC3R - Robotsquare](http://robotsquare.com/2014/06/23/tutorial-building-balanc3r/)
+-   [Tutorial: Building BALANC3R - Robotsquare](https://robotsquare.com/2014/06/23/tutorial-building-balanc3r/)
 
 バランスをとりながら倒立するロポットは 2 種類あるみたい。
 -   BALANCE3R
@@ -45,7 +45,7 @@ BALANCE3R をつくれるのは、LEGO MindStorms Home Edition なので、
 
 組み立て方は以下のリンクから PDF がダウンロードできる。
 
--   <http://robotsquare.com/wp-content/uploads/2013/10/45544_gyroboy.pdf>
+-   <https://robotsquare.com/wp-content/uploads/2013/10/45544_gyroboy.pdf>
 
 出来上がったのは以下のロボット。かっこいい！組み立ての要領が悪く 5 時間かかった。
 

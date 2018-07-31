@@ -16,7 +16,7 @@ url: /archives/=1348
 ---
 
 <div style="padding-bottom: 0px; margin: 0px; padding-left: 10px; padding-right: 10px; display: inline; float: none; padding-top: 0px" id="scid:887EC618-8FBE-49a5-A908-2339AF2EC531:4af30c66-203a-401f-af3b-70569d6721b4" class="wlWriterEditableSmartContent">
-  <a target="_blank" href="https://picasaweb.google.com/111104490436597119823/Futurismo?authkey=Gv1sRgCM-A3fCH6v_BOQ#5879629917736079234"><img style="border: none; padding: 0px; margin: 0px" alt="SnapCrab_NoName_2013-5-19_19-6-4_No-00.png" src="http://lh6.ggpht.com/-QxDVT1YUB9I/UZikQjFrD4I/AAAAAAAAAVg/O5F4krz7bpc/SnapCrab_NoName_2013-5-19_19-6-4_No-00.png" /></a>
+  <a target="_blank" href="https://picasaweb.google.com/111104490436597119823/Futurismo?authkey=Gv1sRgCM-A3fCH6v_BOQ#5879629917736079234"><img style="border: none; padding: 0px; margin: 0px" alt="SnapCrab_NoName_2013-5-19_19-6-4_No-00.png" src="https://lh6.ggpht.com/-QxDVT1YUB9I/UZikQjFrD4I/AAAAAAAAAVg/O5F4krz7bpc/SnapCrab_NoName_2013-5-19_19-6-4_No-00.png" /></a>
 </div>
 
 CentOSにJenkinsサーバを導入する手順をまとました。この公式手順にしたがいます。
@@ -64,8 +64,8 @@ OpenJDK Client VM (build 23.7-b01, mixed mode, sharing)
 公式HPにそってコマンドを叩くだけの簡単なお仕事。wgetも入れておくこと。
 
 <div style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px" id="scid:812469c5-0cb0-4c63-8c15-c81123a09de7:956b5210-a976-46e6-a05f-a1adde153370" class="wlWriterEditableSmartContent">
-  <pre name="code" class="c">sudo wget -O /etc/yum.repos.d/jenkins.repo http://pkg.jenkins-ci.org/redhat/jenkins.repo
-sudo rpm --import http://pkg.jenkins-ci.org/redhat/jenkins-ci.org.key
+  <pre name="code" class="c">sudo wget -O /etc/yum.repos.d/jenkins.repo https://pkg.jenkins-ci.org/redhat/jenkins.repo
+sudo rpm --import https://pkg.jenkins-ci.org/redhat/jenkins-ci.org.key
 sudo yum -y install jenkins</pre>
 </div>
 
@@ -73,7 +73,7 @@ sudo yum -y install jenkins</pre>
 
 <div style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px" id="scid:812469c5-0cb0-4c63-8c15-c81123a09de7:a421778a-5bfc-410c-8274-c820888479eb" class="wlWriterEditableSmartContent">
   <pre name="code" class="c:nogutter:nocontrols"> Downloading Packages:
-http://pkg.jenkins-ci.org/redhat/jenkins-1.515-1.1.noarch.rpm: [Errno 14] PYCURL ERROR 22 - "The requested URL returned error: 404 Not Found"
+https://pkg.jenkins-ci.org/redhat/jenkins-1.515-1.1.noarch.rpm: [Errno 14] PYCURL ERROR 22 - "The requested URL returned error: 404 Not Found"
 Trying other mirror.
 
 
@@ -89,7 +89,7 @@ Error Downloading Packages:
 rpmで直接インストールします。これでOK.
 
 <div style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px" id="scid:812469c5-0cb0-4c63-8c15-c81123a09de7:40ecfe21-f09f-4420-80cf-0547aa0afdb0" class="wlWriterEditableSmartContent">
-  <pre name="code" class="c">wget http://pkg.jenkins-ci.org/redhat/jenkins-1.515-1.1.noarch.rpm
+  <pre name="code" class="c">wget https://pkg.jenkins-ci.org/redhat/jenkins-1.515-1.1.noarch.rpm
 sudo rpm -ivh jenkins-1.515-1.1.noarch.rpm
 </pre>
 </div>
@@ -106,7 +106,7 @@ sudo /sbin/chkconfig jenkins on</pre>
 
 Windows上のブラウザからアクセスしようとするが・・・アクセスできないお(´･ω･｀)
 
-[<font color="#0066cc">http://192.168.118.130:8080/</font>][5]
+[<font color="#0066cc">https://192.168.118.130:8080/</font>][5]
 
 ### Jenkinsの設定
 
@@ -136,7 +136,7 @@ iptables: ファイアウォールルールを適用中:                  [  OK 
 <tt>Jenkins氏、北朝鮮より、間違えた、CentOSより来訪。</tt>
 
 <div style="padding-bottom: 0px; margin: 0px; padding-left: 10px; padding-right: 10px; display: inline; float: none; padding-top: 0px" id="scid:887EC618-8FBE-49a5-A908-2339AF2EC531:a725a731-22dd-4ff9-98a2-df09d36da26d" class="wlWriterEditableSmartContent">
-  <a target="_blank" href="https://picasaweb.google.com/111104490436597119823/Futurismo?authkey=Gv1sRgCM-A3fCH6v_BOQ#5879629908911106162"><img style="border: 1px solid #ccc; background-color: white; padding: 6px; margin: 0px" alt="SnapCrab_NoName_2013-5-19_19-6-22_No-00.png" src="http://lh5.ggpht.com/-RqR1fJZxlt8/UZikQCNoqHI/AAAAAAAAAVc/EQv2kh6rNik/SnapCrab_NoName_2013-5-19_19-6-22_No-00.png" /></a>
+  <a target="_blank" href="https://picasaweb.google.com/111104490436597119823/Futurismo?authkey=Gv1sRgCM-A3fCH6v_BOQ#5879629908911106162"><img style="border: 1px solid #ccc; background-color: white; padding: 6px; margin: 0px" alt="SnapCrab_NoName_2013-5-19_19-6-22_No-00.png" src="https://lh5.ggpht.com/-RqR1fJZxlt8/UZikQCNoqHI/AAAAAAAAAVc/EQv2kh6rNik/SnapCrab_NoName_2013-5-19_19-6-22_No-00.png" /></a>
 </div>
 
 #### 参考
@@ -145,9 +145,9 @@ iptables: ファイアウォールルールを適用中:                  [  OK 
   * [Jenkins氏をさくらVPSに招聘する &#8211; 飲んだり寝たり][7]
 
  [1]: https://wiki.jenkins-ci.org/display/JENKINS/Installing+Jenkins+on+RedHat+distributions
- [2]: http://program.g.hatena.ne.jp/e_p_i/?word=*%5B%E3%83%84%E3%83%BC%E3%83%AB%5D
+ [2]: https://program.g.hatena.ne.jp/e_p_i/?word=*%5B%E3%83%84%E3%83%BC%E3%83%AB%5D
  [3]: https://futurismo.biz/archives/751
- [4]: http://mawatari.jp/archives/install-jenkins-to-centos6-2
- [5]: http://192.168.118.130:8080/
- [6]: http://kazuph.hateblo.jp/entry/2012/09/23/151623
- [7]: http://nomnel.net/blog/install-jenkins/
+ [4]: https://mawatari.jp/archives/install-jenkins-to-centos6-2
+ [5]: https://192.168.118.130:8080/
+ [6]: https://kazuph.hateblo.jp/entry/2012/09/23/151623
+ [7]: https://nomnel.net/blog/install-jenkins/

@@ -18,19 +18,19 @@ Googleの創業者の一人であり技術部門担当社長でもある、セ�
 
 ### Sergey Brin talks about Google Glass at TED 2013
 
-[http://www.youtube.com/embed/rie-hPVJ7Sw?rel=0]
+[https://www.youtube.com/embed/rie-hPVJ7Sw?rel=0]
 
 ### How It Feels [through Glass]
 
 これはGoogleから公開されている動画。TEDの冒頭で使用されている動画と同じもの。
 
-[http://www.youtube.com/embed/v1uyQZNg2vE?rel=0]
+[https://www.youtube.com/embed/v1uyQZNg2vE?rel=0]
 
 ### Amazing Google Glasses Demonstration by Sergey Brin
 
 別の動画でこんなのも見つけた。30分くらいかけたデモンストレーション動画。
 
-[http://www.youtube.com/embed/fDOfvIzvImQ?rel=0]
+[https://www.youtube.com/embed/fDOfvIzvImQ?rel=0]
 
 ### 想像以上にクールなデバイスだ
 

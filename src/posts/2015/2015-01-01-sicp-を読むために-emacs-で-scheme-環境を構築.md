@@ -24,7 +24,7 @@ url: /archives/=2888
 
 2015 年は SICP を読んでいく予定です.
 
-<div class='amazlink-box' style='text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;'><div class='amazlink-list' style='clear: both;'><div class='amazlink-image' style='float:left;margin:0px 12px 1px 0px;'><a href='http://www.amazon.co.jp/%E8%A8%88%E7%AE%97%E6%A9%9F%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%81%AE%E6%A7%8B%E9%80%A0%E3%81%A8%E8%A7%A3%E9%87%88-%E7%AC%AC2%E7%89%88-%E3%83%8F%E3%83%AD%E3%83%AB%E3%83%89-%E3%82%A8%E3%82%A4%E3%83%96%E3%83%AB%E3%82%BD%E3%83%B3/dp/4798135984%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4798135984' target='_blank' rel='nofollow'><img src='http://ecx.images-amazon.com/images/I/511qf4jdYjL._SL160_.jpg' style='border: none;' /></a></div><div class='amazlink-info' style='height:160; margin-bottom: 10px'><div class='amazlink-name' style='margin-bottom:10px;line-height:120%'><a href='http://www.amazon.co.jp/%E8%A8%88%E7%AE%97%E6%A9%9F%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%81%AE%E6%A7%8B%E9%80%A0%E3%81%A8%E8%A7%A3%E9%87%88-%E7%AC%AC2%E7%89%88-%E3%83%8F%E3%83%AD%E3%83%AB%E3%83%89-%E3%82%A8%E3%82%A4%E3%83%96%E3%83%AB%E3%82%BD%E3%83%B3/dp/4798135984%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4798135984' rel='nofollow' target='_blank'>計算機プログラムの構造と解釈 [第 2 版]</a></div><div class='amazlink-powered' style='font-size:80%;margin-top:5px;line-height:120%'>posted with <a href='http://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 15.01.01</div><div class='amazlink-detail'>ハロルド エイブルソン<br /></div><div class='amazlink-sub-info' style='float: left;'><div class='amazlink-link' style='margin-top: 5px'><img src='http://amazlink.fuyu.gs/icon_amazon.png' width='18'><a href='http://www.amazon.co.jp/%E8%A8%88%E7%AE%97%E6%A9%9F%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%81%AE%E6%A7%8B%E9%80%A0%E3%81%A8%E8%A7%A3%E9%87%88-%E7%AC%AC2%E7%89%88-%E3%83%8F%E3%83%AD%E3%83%AB%E3%83%89-%E3%82%A8%E3%82%A4%E3%83%96%E3%83%AB%E3%82%BD%E3%83%B3/dp/4798135984%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4798135984' rel='nofollow' target='_blank'>Amazon</a> <img src='http://amazlink.fuyu.gs/icon_rakuten.gif' width='18'><a href='http://hb.afl.rakuten.co.jp/hgc/g00q0724.n763w947.g00q0724.n763x2b4/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F12780410%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frms%2Fmsv%2FItem%3Fn%3D12780410%26surl%3Dbook' rel='nofollow' target='_blank'>楽天</a></div></div></div></div></div>
+<div class='amazlink-box' style='text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;'><div class='amazlink-list' style='clear: both;'><div class='amazlink-image' style='float:left;margin:0px 12px 1px 0px;'><a href='https://www.amazon.co.jp/%E8%A8%88%E7%AE%97%E6%A9%9F%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%81%AE%E6%A7%8B%E9%80%A0%E3%81%A8%E8%A7%A3%E9%87%88-%E7%AC%AC2%E7%89%88-%E3%83%8F%E3%83%AD%E3%83%AB%E3%83%89-%E3%82%A8%E3%82%A4%E3%83%96%E3%83%AB%E3%82%BD%E3%83%B3/dp/4798135984%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4798135984' target='_blank' rel='nofollow'><img src='https://ecx.images-amazon.com/images/I/511qf4jdYjL._SL160_.jpg' style='border: none;' /></a></div><div class='amazlink-info' style='height:160; margin-bottom: 10px'><div class='amazlink-name' style='margin-bottom:10px;line-height:120%'><a href='https://www.amazon.co.jp/%E8%A8%88%E7%AE%97%E6%A9%9F%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%81%AE%E6%A7%8B%E9%80%A0%E3%81%A8%E8%A7%A3%E9%87%88-%E7%AC%AC2%E7%89%88-%E3%83%8F%E3%83%AD%E3%83%AB%E3%83%89-%E3%82%A8%E3%82%A4%E3%83%96%E3%83%AB%E3%82%BD%E3%83%B3/dp/4798135984%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4798135984' rel='nofollow' target='_blank'>計算機プログラムの構造と解釈 [第 2 版]</a></div><div class='amazlink-powered' style='font-size:80%;margin-top:5px;line-height:120%'>posted with <a href='https://amazlink.keizoku.com/' title='アマゾンアフィリエイトリンク作成ツール' target='_blank'>amazlink</a> at 15.01.01</div><div class='amazlink-detail'>ハロルド エイブルソン<br /></div><div class='amazlink-sub-info' style='float: left;'><div class='amazlink-link' style='margin-top: 5px'><img src='https://amazlink.fuyu.gs/icon_amazon.png' width='18'><a href='https://www.amazon.co.jp/%E8%A8%88%E7%AE%97%E6%A9%9F%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%81%AE%E6%A7%8B%E9%80%A0%E3%81%A8%E8%A7%A3%E9%87%88-%E7%AC%AC2%E7%89%88-%E3%83%8F%E3%83%AD%E3%83%AB%E3%83%89-%E3%82%A8%E3%82%A4%E3%83%96%E3%83%AB%E3%82%BD%E3%83%B3/dp/4798135984%3FSubscriptionId%3DAKIAJDINZW45GEGLXQQQ%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4798135984' rel='nofollow' target='_blank'>Amazon</a> <img src='https://amazlink.fuyu.gs/icon_rakuten.gif' width='18'><a href='https://hb.afl.rakuten.co.jp/hgc/g00q0724.n763w947.g00q0724.n763x2b4/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F12780410%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frms%2Fmsv%2FItem%3Fn%3D12780410%26surl%3Dbook' rel='nofollow' target='_blank'>楽天</a></div></div></div></div></div>
 
 というわけで, Scheme の開発環境を Emacs で構築しました.
 
@@ -34,7 +34,7 @@ Scheme の処理系 Gauche
 まずは, Scheme 処理系をインストール.(ゴーシュ)
 
 -   [Gauche - A Scheme
-    Implementation](http://practical-scheme.net/gauche/index-j.html)
+    Implementation](https://practical-scheme.net/gauche/index-j.html)
 
 ``` {.bash}
 gosh -V
@@ -46,7 +46,7 @@ scheme-mode
 Default で Emacs にはいっている. 以下の設定を参考にした.
 
 -   [Emacs から Gauche を使う -
-    karetta.jp](http://karetta.jp/book-node/gauche-hacks/004640)
+    karetta.jp](https://karetta.jp/book-node/gauche-hacks/004640)
 -   [Windows + Emacs + Gauche の環境構築 |
     小さいモノは美しい](https://hayate2255.wordpress.com/2013/02/03/windows7-emacs-gauche-%E3%81%AE%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89/)
 
@@ -83,7 +83,7 @@ smartparens
 -   <https://github.com/Fuco1/smartparens>
 -   <https://github.com/Fuco1/smartparens/wiki>
 -   [smartparens.el での括弧処理 -
-    理系学生日記](http://kiririmode.hatenablog.jp/entry/20131231/p1)
+    理系学生日記](https://kiririmode.hatenablog.jp/entry/20131231/p1)
 
 ``` {.commonlisp}
 (require 'smartparens-config)
@@ -180,9 +180,9 @@ rainbow-delimiters
 かっこの強調をどきつくする. これはいいなぁ.
 
 -   [rainbow-delimiters.el の括弧色付けをデフォルトより強調する方法 -
-    会者定離で以降](http://d.hatena.ne.jp/murase_syuka/20140815/1408061850)
+    会者定離で以降](https://d.hatena.ne.jp/murase_syuka/20140815/1408061850)
 -   [Small rainbow-delimiters tutorial | Yoo
-    Box](http://yoo2080.wordpress.com/2013/12/21/small-rainbow-delimiters-tutorial/)
+    Box](https://yoo2080.wordpress.com/2013/12/21/small-rainbow-delimiters-tutorial/)
 
 **注意** テーマ読み込みのあとに配置すること.
 
@@ -220,18 +220,18 @@ SICP を info で読む
 
 -   [Emacs の info として SICP を読む - 大切なものは目に見えない -
     mahata の日記
-    (はてなブランチ)](http://d.hatena.ne.jp/mahata/20080921/1221958711)
+    (はてなブランチ)](https://d.hatena.ne.jp/mahata/20080921/1221958711)
 -   [SICP 読むための設定とか -
-    Clipboard](http://d.hatena.ne.jp/tequilasunset/20110220/p4)
+    Clipboard](https://d.hatena.ne.jp/tequilasunset/20110220/p4)
 -   [計算機プログラムの構造と解 -
-    とりあえず暇だったし何となく始めたブログ](http://d.hatena.ne.jp/khiker/20070406/sicp)
+    とりあえず暇だったし何となく始めたブログ](https://d.hatena.ne.jp/khiker/20070406/sicp)
 
 この方法のよいところは, テキストの文章をそのまま C-x C-e で評価して実
 行できるところ.
 
 ``` {.bash}
 # sicp.info 取得
-wget http://www.neilvandyke.org/sicp-texi/sicp.info.gz
+wget https://www.neilvandyke.org/sicp-texi/sicp.info.gz
 gunzip sicp.info.gz
 
 # /usr/local/info に sicp.info をコピー.
@@ -257,8 +257,8 @@ paredit
 Lisp コードで頻出する括弧類のバランスを維持することを目的としたもの.
 
 -   [ParEdit
-    チュートリアル](http://www.daregada.sakuraweb.com/paredit_tutorial_ja.html)
--   [Emacs Rocks!](http://emacsrocks.com/e14.html)
+    チュートリアル](https://www.daregada.sakuraweb.com/paredit_tutorial_ja.html)
+-   [Emacs Rocks!](https://emacsrocks.com/e14.html)
 -   <https://github.com/Fuco1/smartparens>
 
 smartparens に人気をとられてしまったかわいそうな子.
@@ -269,7 +269,7 @@ gosh-mode
 scheme-mode の拡張.
 
 -   [gosh-mode.el -
-    まにっき](http://d.hatena.ne.jp/mhayashi1120/20110103/1294013522)
+    まにっき](https://d.hatena.ne.jp/mhayashi1120/20110103/1294013522)
 -   <https://github.com/mhayashi1120/Emacs-gosh-mode>
 
 scheme-mode を継承しているので, 基本的な操作は変わらないそうだ.
@@ -303,7 +303,7 @@ scheme-complete というものもあるそうなので,気休め程度に導入
 の情報源を加える.
 
 -   [scheme-complete.el を auto-complete.el で使う -
-    ガットポンポコ](http://d.hatena.ne.jp/kobapan/20091205/1259972925)
+    ガットポンポコ](https://d.hatena.ne.jp/kobapan/20091205/1259972925)
 
 メンテされていないのと, auto-complete で何とかなるので削除.
 
@@ -333,9 +333,9 @@ eldoc
 
 -   [Emacs Lisp モードを便利にする機能 3 選 (auto-complete, eldoc,
     rainbow-delimiters) |
-    プログラマーズ雑記帳](http://yohshiy.blog.fc2.com/blog-entry-251.html)
+    プログラマーズ雑記帳](https://yohshiy.blog.fc2.com/blog-entry-251.html)
 -   [sicpstudygroup @ ウィキ -
-    環境設定例集](http://www29.atwiki.jp/sicpstudygroup/pages/45.html)
+    環境設定例集](https://www29.atwiki.jp/sicpstudygroup/pages/45.html)
 
 scheme の eldoc は scheme-complete と合わせて利用するらしいが, eldoc
 error void-function eldoc-current-symbol とでてエラーする.
@@ -362,7 +362,7 @@ flymake 設定
 glint というものがあるらしい. gauche 0.8.13
 でしか動作しないようなので試していない.
 
--   [glint](http://www.koguro.net/prog/codecheck/index-j.html)
+-   [glint](https://www.koguro.net/prog/codecheck/index-j.html)
 -   [小黒さんの Scheme における glint + Emacs + flymake を試してみた -
-    Higepon's blog](http://d.hatena.ne.jp/higepon/20080309/1205043148)
+    Higepon's blog](https://d.hatena.ne.jp/higepon/20080309/1205043148)
 

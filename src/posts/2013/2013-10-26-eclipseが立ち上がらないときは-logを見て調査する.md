@@ -62,5 +62,5 @@ eclipse.exeが置いてあるフォルダのeclipsec.exeを実行すると、コ
   * [android &#8211; Eclipse JUNO doesn&#8217;t start &#8211; Stack Overflow][1]
   * [Eclipse起動時エラーの傾向と対策 | android manifest configChanges][2]
 
- [1]: http://stackoverflow.com/questions/11310970/eclipse-juno-doesnt-start
- [2]: http://www.andr0o0id.com/archives/=854
+ [1]: https://stackoverflow.com/questions/11310970/eclipse-juno-doesnt-start
+ [2]: https://www.andr0o0id.com/archives/=854

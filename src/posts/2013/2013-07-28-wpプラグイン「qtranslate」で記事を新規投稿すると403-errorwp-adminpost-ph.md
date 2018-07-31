@@ -21,7 +21,7 @@ wp-admin/post.phpにはアクセス権がないと怒られます。
 
 ロリポップサーバで動作している、WAFが原因でした。
 
-<a href="http://www.sophia-it.com/content/WAF" target="_blank">WAFとは 「Webアプリケーションファイヤーウォール」 ワフ： &#8211; IT用語辞典バイナリ</a>
+<a href="https://www.sophia-it.com/content/WAF" target="_blank">WAFとは 「Webアプリケーションファイヤーウォール」 ワフ： &#8211; IT用語辞典バイナリ</a>
 
 > WAFとは、外部ネットワークからの不正アクセスを防ぐためのソフトウェア（あるいはハードウェア）であるファイアーウォールの中でも、Webアプリケーションのやり取りを把握・管理することによって不正侵入を防御することのできるファイアウォールのことである。
 
@@ -35,4 +35,4 @@ WAF設定が有効になっているので、無効に設定。
 
 #### Reference
 
-  * <a href="http://rensaba-karuma.net/paperboy/lolipop/1208/" target="_blank">ロリポップ！のWordPressで記事投稿時に403エラーが出た場合の対処方法（wp-admin/post.php） &#8211; レンタルサーバー比較のカルマ</a>
+  * <a href="https://rensaba-karuma.net/paperboy/lolipop/1208/" target="_blank">ロリポップ！のWordPressで記事投稿時に403エラーが出た場合の対処方法（wp-admin/post.php） &#8211; レンタルサーバー比較のカルマ</a>

@@ -101,6 +101,6 @@ DropboxはLinux起動時に自動起動しないので、自動起動するよ�
 
 <!--:-->
 
- [1]: http://www.freebsd.org/doc/ja/books/handbook/mount-unmount.html
+ [1]: https://www.freebsd.org/doc/ja/books/handbook/mount-unmount.html
  [2]: https://www.dropbox.com/install?os=lnx
- [3]: http://www.dropboxwiki.com/tips-and-tricks/install-dropbox-in-an-entirely-text-based-linux-environment#debianubuntu
+ [3]: https://www.dropboxwiki.com/tips-and-tricks/install-dropbox-in-an-entirely-text-based-linux-environment#debianubuntu

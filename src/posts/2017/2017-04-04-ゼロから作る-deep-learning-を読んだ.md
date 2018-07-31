@@ -42,7 +42,7 @@ Deep Learning の初歩（ニューラルネットワーク）を学ぶために
 人が読んでいる。
 
 -   [IT
-    エンジニアの人口推移と予測](http://www.petitmonte.com/politics_economy_life/it_engineer_population.html)
+    エンジニアの人口推移と予測](https://www.petitmonte.com/politics_economy_life/it_engineer_population.html)
 
 みんな読んでいるので自分も読んでおこうというのが動機。 coursera の
 Machine Learning の講座で

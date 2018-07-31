@@ -29,7 +29,7 @@ Eclipse 3.7(Indigo)までは CDT gcov pluginが動いたけど、Eclipse4.2 (Jun
 
 以下のサイトからダウンロード。
 
-<http://sourceforge.jp/projects/ginkgo/>
+<https://sourceforge.jp/projects/ginkgo/>
 
 ダウンロードファイルを解凍すると featuresとpluginというファイルがある。
 
@@ -43,7 +43,7 @@ Eclipse 3.7(Indigo)までは CDT gcov pluginが動いたけど、Eclipse4.2 (Jun
 
 C Coverageという項目があるので、Activate natureを有効にする。
 
-[<img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" border="0" alt="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb44.png" width="244" height="108" />][1]
+[<img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" border="0" alt="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb44.png" width="244" height="108" />][1]
 
 #### gcovを実行して、出力用データを作成する
 
@@ -81,10 +81,10 @@ Eclipseでカバレッジを得るには、もう一工夫必要。
 
 
 以下からダウンロード。   
-[<font color="#0066cc">http://wiki.eclipse.org/Linux_Tools_Project/GCov/User_Guide</font>][2]
+[<font color="#0066cc">https://wiki.eclipse.org/Linux_Tools_Project/GCov/User_Guide</font>][2]
 
 ちなみに、Pleades日本語プロジェクトからEclipse 4.2 CDTを落としてきたら、Defaultでついていた。   
-<http://mergedoc.sourceforge.jp/index.html#/pleiades.html>
+<https://mergedoc.sourceforge.jp/index.html#/pleiades.html>
 
 #### hogehoge.gcdaを作る
 
@@ -92,22 +92,22 @@ Eclipseでカバレッジを得るには、もう一工夫必要。
 作成したら、プロジェクトビューから、作成したhogehoge.gcdaを開く。   
 実行バイナリファイルに含まれるすべてのカバレッジデータを出力するか、ファイル単位で出力するかを選択する。
 
-[<img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="image" border="0" alt="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb45.png" width="443" height="260" />][3]
+[<img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="image" border="0" alt="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb45.png" width="443" height="260" />][3]
 
 ファイル単位で開いてみると、カラー表示されたカバレッジ出力結果が表示される。
 
-[<img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="image" border="0" alt="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb46.png" width="475" height="243" />][4]
+[<img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="image" border="0" alt="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb46.png" width="475" height="243" />][4]
 
 実行バイナリファイル単位で表示すると、gcovビューにカバレッジの集計が見える。   
 （開くまで時間がかかる）
 
-[<img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="image" border="0" alt="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb47.png" width="511" height="147" />][5]
+[<img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="image" border="0" alt="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb47.png" width="511" height="147" />][5]
 
-（GCovユーザガイド）[http://wiki.eclipse.org/Linux\_Tools\_Project/GCov/User\_Guide#Installation\_and_Set-Up][6]
+（GCovユーザガイド）[https://wiki.eclipse.org/Linux\_Tools\_Project/GCov/User\_Guide#Installation\_and_Set-Up][6]
 
- [1]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image44.png
- [2]: http://wiki.eclipse.org/Linux_Tools_Project/GCov/User_Guide
- [3]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image45.png
- [4]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image46.png
- [5]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image47.png
- [6]: http://wiki.eclipse.org/Linux_Tools_Project/GCov/User_Guide#Installation_and_Set-Up
+ [1]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image44.png
+ [2]: https://wiki.eclipse.org/Linux_Tools_Project/GCov/User_Guide
+ [3]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image45.png
+ [4]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image46.png
+ [5]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image47.png
+ [6]: https://wiki.eclipse.org/Linux_Tools_Project/GCov/User_Guide#Installation_and_Set-Up

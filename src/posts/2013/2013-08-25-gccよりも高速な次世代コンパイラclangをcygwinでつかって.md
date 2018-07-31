@@ -29,15 +29,15 @@ url: /archives/=1803
 
 Clangとは、gcc,iccのような、コンパイラの一種です。プログラミング言語C、C++、Objective-C、Objective-C++用。
 
-  * <a href="http://ja.wikipedia.org/wiki/Clang" target="_blank">Clang &#8211; Wikipedia</a>
+  * <a href="https://ja.wikipedia.org/wiki/Clang" target="_blank">Clang &#8211; Wikipedia</a>
 
 Clangの最終目標は、GNU gccの置き換えらしい。
 
-  * <a href="http://clang.llvm.org/" target="_blank">"clang" C Language Family Frontend for LLVM</a>
+  * <a href="https://clang.llvm.org/" target="_blank">"clang" C Language Family Frontend for LLVM</a>
 
 静的解析能力やリファクタリング機能などももつため、IDEとの結合も目標らしい。
 
-  * <a href="http://clang-analyzer.llvm.org/" target="_blank">Clang Static Analyzer</a>
+  * <a href="https://clang-analyzer.llvm.org/" target="_blank">Clang Static Analyzer</a>
 
 以下は、setreduceという、Googleのエンジニアが開発しているリファクタリングツールのデモ動画。
 
@@ -45,7 +45,7 @@ Clangの最終目標は、GNU gccの置き換えらしい。
 
 Clangを利用すると、コンパイラ時間がgccに比べて短くなるらしい。今回の目的は、それを確かめるためです。Clangのパフォーマンスがgccよりも良かったら乗り換えてみる。
 
-  * <a href="http://news.mynavi.jp/news/2013/05/27/140/index.html" target="_blank">GCC 4.8とClang 3.3性能比較 | マイナビニュース</a>
+  * <a href="https://news.mynavi.jp/news/2013/05/27/140/index.html" target="_blank">GCC 4.8とClang 3.3性能比較 | マイナビニュース</a>
 
 ### Cygwinへのインストール
 
@@ -67,7 +67,7 @@ C言語でかかれたプロジェクトをベンチマークとしてコンパ�
 
 #### tree project
 
-    curl -LO http://mama.indstate.edu/users/ice/tree/src/tree-1.6.0.tgz
+    curl -LO https://mama.indstate.edu/users/ice/tree/src/tree-1.6.0.tgz
     
 
   * gcc 7.8s
@@ -112,4 +112,4 @@ LLVM Tool Chain for Eclipse CDTプラグインをインストールする。</p>
 
 これで、EclipseからClangでコンパイルできた。
 
- [1]: http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png
+ [1]: https://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png

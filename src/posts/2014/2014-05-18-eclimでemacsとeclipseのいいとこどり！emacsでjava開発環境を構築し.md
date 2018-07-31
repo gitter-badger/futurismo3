@@ -105,13 +105,13 @@ url: /archives/=2462
       
       <ul class="org-ul">
         <li>
-          <a href="http://mikio.github.io/article/2012/12/23_emacsjdeejava.html">Emacs 中毒者に贈る JDEE による Java 開発環境の構築|ざる魂</a>
+          <a href="https://mikio.github.io/article/2012/12/23_emacsjdeejava.html">Emacs 中毒者に贈る JDEE による Java 開発環境の構築|ざる魂</a>
         </li>
         <li>
-          <a href="http://epian-wiki.appspot.com/wiki/Emacs/JDEEEmacs/JDEE%20-%20epian-wiki">http://epian-wiki.appspot.com/wiki/Emacs/JDEEEmacs/JDEE%20-%20epian-wiki</a>
+          <a href="https://epian-wiki.appspot.com/wiki/Emacs/JDEEEmacs/JDEE%20-%20epian-wiki">https://epian-wiki.appspot.com/wiki/Emacs/JDEEEmacs/JDEE%20-%20epian-wiki</a>
         </li>
         <li>
-          <a href="http://www.emacswiki.org/emacs/JavaDevelopmentEnvironment">EmacsWiki: Java Development Environment</a>
+          <a href="https://www.emacswiki.org/emacs/JavaDevelopmentEnvironment">EmacsWiki: Java Development Environment</a>
         </li>
       </ul>
     </div>
@@ -127,10 +127,10 @@ url: /archives/=2462
       
       <ul class="org-ul">
         <li>
-          <a href="http://d.hatena.ne.jp/nekop/20101215/1292380225">Emacs で Java を書く &#8211; nekop の日記</a>
+          <a href="https://d.hatena.ne.jp/nekop/20101215/1292380225">Emacs で Java を書く &#8211; nekop の日記</a>
         </li>
         <li>
-          <a href="http://d.hatena.ne.jp/lranran123/20130404/1365088550">Emacs で Java の環境構築, CEDET と yasnippet と malabar-mode &#8211; 趣味プログラマがまれになんかしたことの記録</a>
+          <a href="https://d.hatena.ne.jp/lranran123/20130404/1365088550">Emacs で Java の環境構築, CEDET と yasnippet と malabar-mode &#8211; 趣味プログラマがまれになんかしたことの記録</a>
         </li>
       </ul>
     </div>
@@ -146,10 +146,10 @@ url: /archives/=2462
       
       <ul class="org-ul">
         <li>
-          <a href="http://sleepboy-zzz.blogspot.jp/2014/02/emacsjava_22.html">memo: Emacs で Java の設定</a>
+          <a href="https://sleepboy-zzz.blogspot.jp/2014/02/emacsjava_22.html">memo: Emacs で Java の設定</a>
         </li>
         <li>
-          <a href="http://d.hatena.ne.jp/clairvy/20100630/1277854580">Emacs-Eclim を試す &#8211; クラなんとか or くらなんとか or cla なんとかの日記</a>
+          <a href="https://d.hatena.ne.jp/clairvy/20100630/1277854580">Emacs-Eclim を試す &#8211; クラなんとか or くらなんとか or cla なんとかの日記</a>
         </li>
       </ul>
     </div>
@@ -209,7 +209,7 @@ url: /archives/=2462
       
       <ul class="org-ul">
         <li>
-          <a href="http://eclim.org/install.html">Download / Install &#8211; eclim (eclipse + vim)</a>
+          <a href="https://eclim.org/install.html">Download / Install &#8211; eclim (eclipse + vim)</a>
         </li>
       </ul>
     </div>
@@ -272,7 +272,7 @@ url: /archives/=2462
     
     <dl class="org-dl">
       <dt>
-        [[<a href="http://www.skybert.net/emacs/java/">http://www.skybert.net/emacs/java/</a>][.:: skybert.net :: emacs
+        [[<a href="https://www.skybert.net/emacs/java/">https://www.skybert.net/emacs/java/</a>][.:: skybert.net :: emacs
       </dt>
       
       <dd>
@@ -329,13 +329,13 @@ url: /archives/=2462
       
       <ul class="org-ul">
         <li>
-          <a href="http://eclim.org/vim/java/java.html">Java / Jps &#8211; eclim (eclipse + vim)</a>
+          <a href="https://eclim.org/vim/java/java.html">Java / Jps &#8211; eclim (eclipse + vim)</a>
         </li>
         <li>
-          <a href="http://eclim.org/vim/settings.html">Settings &#8211; eclim (eclipse + vim)</a>
+          <a href="https://eclim.org/vim/settings.html">Settings &#8211; eclim (eclipse + vim)</a>
         </li>
         <li>
-          <a href="http://stackoverflow.com/questions/7394811/eclim-what-to-set-org-eclim-java-run-mainclass-to">vim &#8211; Eclim &#8211; What to set org.eclim.java.run.mainclass to? &#8211; Stack Overflow</a>
+          <a href="https://stackoverflow.com/questions/7394811/eclim-what-to-set-org-eclim-java-run-mainclass-to">vim &#8211; Eclim &#8211; What to set org.eclim.java.run.mainclass to? &#8211; Stack Overflow</a>
         </li>
       </ul>
       

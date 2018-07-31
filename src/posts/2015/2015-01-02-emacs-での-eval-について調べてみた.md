@@ -46,9 +46,9 @@ Elisp を評価 (eval) する方法について調べてみました.
 参考:
 
 -   [emacs-lisp を反映するときのコマンド一覧 - Bye Bye
-    Moore](http://shuzo-kino.hateblo.jp/entry/2013/10/27/153038)
+    Moore](https://shuzo-kino.hateblo.jp/entry/2013/10/27/153038)
 -   [Lisp Eval - GNU Emacs
-    Manual](http://www.gnu.org/software/emacs/manual/html_node/emacs/Lisp-Eval.html)
+    Manual](https://www.gnu.org/software/emacs/manual/html_node/emacs/Lisp-Eval.html)
 
 インタラクティブに評価
 ======================
@@ -58,7 +58,7 @@ Elisp を評価 (eval) する方法について調べてみました.
 -   [Windows + Emacs + Gauche の環境構築 |
     小さいモノは美しい](https://hayate2255.wordpress.com/2013/02/03/windows7-emacs-gauche-%E3%81%AE%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89/)
 -   [inferior-haskell-mode で設定すると便利なこと - プログラムとかのの
-    blog](http://d.hatena.ne.jp/pogin/20140121/1390299797)
+    blog](https://d.hatena.ne.jp/pogin/20140121/1390299797)
 
 片方のウィンドウで評価したら別のウィンドウで動作させたいので,
 以下の関数を書いてみた.

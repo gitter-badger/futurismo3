@@ -51,7 +51,7 @@ Kaggle
 
 -   [Google がデータサイエンスと機械学習のコンペ主催プラットホーム
     Kaggle を買収 | TechCrunch
-    Japan](http://jp.techcrunch.com/2017/03/09/20170307google-is-acquiring-data-science-community-kaggle/)
+    Japan](https://jp.techcrunch.com/2017/03/09/20170307google-is-acquiring-data-science-community-kaggle/)
 
 Kaggle 入門の Motivation
 ========================
@@ -85,9 +85,9 @@ Kaggle には大量のデータが集められている。
 登録方法や使い方は他のサイトの記事に譲る。以下、リンク集。
 
 -   [Kaggle 事始め -
-    Qiita](http://qiita.com/taka4sato/items/802c494fdebeaa7f43b7)
+    Qiita](https://qiita.com/taka4sato/items/802c494fdebeaa7f43b7)
 -   [Kaggle を始めてみる -
-    サイバースイッチ](http://spitta8823.hatenablog.com/entry/2016/03/07/025359)
+    サイバースイッチ](https://spitta8823.hatenablog.com/entry/2016/03/07/025359)
 -   [できない英語を駆使して Kaggle
     に挑戦してみた](https://www.slideshare.net/KeisukeTokuda/kaggle-39911398)
 

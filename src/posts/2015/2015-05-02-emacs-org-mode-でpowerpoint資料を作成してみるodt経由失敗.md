@@ -51,10 +51,10 @@ org-modeで PowerPointの資料がつくれないものか調べてみた.
     -   [Re: export presentations: org to ppt or
         odp](https://lists.gnu.org/archive/html/emacs-orgmode/2013-03/msg01712.html)
     -   [How to Convert a PDF to a PPT with Open Source |
-        Chron.com](http://smallbusiness.chron.com/convert-pdf-ppt-open-source-48940.html)
+        Chron.com](https://smallbusiness.chron.com/convert-pdf-ppt-open-source-48940.html)
 -   org-mode形式 -&gt; beamer形式 -&gt; PDF形式 -&gt; ODP形式 -&gt;
     PPT形式
-    -   [pdf2odp](http://www2.hyo-med.ac.jp/~tanimura/LaTeX/pdf2odp.html)
+    -   [pdf2odp](https://www2.hyo-med.ac.jp/~tanimura/LaTeX/pdf2odp.html)
 
     今回は、１つめのODT経由の方法を試す.
 
@@ -66,7 +66,7 @@ org-modeで PowerPointの資料がつくれないものか調べてみた.
 
 実は、PowerPointを自宅に持っていないので、評価版を利用.
 
--   <http://www.microsoft.com/ja-jp/office/2013/trial/default.aspx>
+-   <https://www.microsoft.com/ja-jp/office/2013/trial/default.aspx>
 
 org-mode形式 -&gt; ODT形式 -&gt; ODP形式 -&gt; PPT形式
 ======================================================
@@ -104,7 +104,7 @@ LibreOffice Writer からODTファイルを開く.
 を選択.ODP形式でパワーポイントに出力される. それを PPTとして保存.
 
 -   [Home | LibreOffice - Free Office Suite - Fun Project - Fantastic
-    People](http://www.libreoffice.org/)
+    People](https://www.libreoffice.org/)
 
 これでいけた！と思いきや... アウトラインしか出力されず、中身空っぽ..
 これでは使えない(\#゜Д゜)y-\~\~

@@ -36,7 +36,7 @@ AutoHotKey_Lとは、Windowsのキーバインドを自由自在に設定でき�
 
 以下のサイトからダウンロードする。
 
-<a href="http://l.autohotkey.net/" target="_blank"><img class="alignleft" border="0" alt="" align="left" src="http://capture.heartrails.com/150x130/shadow?http://l.autohotkey.net/" width="150" height="130" /></a> <a style="color: #0070c5" href="http://l.autohotkey.net/" target="_blank">AutoHotkey_L</a>    <img border="0" alt="" src="http://b.hatena.ne.jp/entry/image/http://l.autohotkey.net/" />  <br style="clear: both" />
+<a href="https://l.autohotkey.net/" target="_blank"><img class="alignleft" border="0" alt="" align="left" src="https://capture.heartrails.com/150x130/shadow?https://l.autohotkey.net/" width="150" height="130" /></a> <a style="color: #0070c5" href="https://l.autohotkey.net/" target="_blank">AutoHotkey_L</a>    <img border="0" alt="" src="https://b.hatena.ne.jp/entry/image/https://l.autohotkey.net/" />  <br style="clear: both" />
 
 インストールは実行ファイル(AutoHotkey\_L\_Install.exe)を実行すればよい。手順どおりに進めばインストール完了。
 
@@ -85,7 +85,7 @@ Chromeに適応すると既存のキーバインドが使えなくなるため�
     Return 1 </pre>
 </div>
 
-参考:[http://www.autohotkey.com/docs/commands/IfWinActive.htm][1]
+参考:[https://www.autohotkey.com/docs/commands/IfWinActive.htm][1]
 
 Windowsクラス名を調べるためには、AutoHotKeyを右クリックして、[Winodw Spy]を起動する。アクティブなウィンドウの情報が得られるのでここからWindowクラス名が分かる。
 
@@ -93,5 +93,5 @@ Windowsクラス名を調べるためには、AutoHotKeyを右クリックして
 
 [<img src="https://lh4.googleusercontent.com/-i0vSwhwIg-8/UOWsjA5qDAI/AAAAAAAAADo/t1PJfaH0Bfs/s400/chrome_20130104_01.png" width="268" height="400" />][2]
 
- [1]: http://www.autohotkey.com/docs/commands/IfWinActive.htm "http://www.autohotkey.com/docs/commands/IfWinActive.htm"
+ [1]: https://www.autohotkey.com/docs/commands/IfWinActive.htm "https://www.autohotkey.com/docs/commands/IfWinActive.htm"
  [2]: https://picasaweb.google.com/lh/photo/eEFKz3VSsthiCUY_TjJsgDyD6hjDXGH6XyE6iLrzolo?feat=embedwebsite

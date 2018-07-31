@@ -31,7 +31,7 @@ jQueryを使って、Googleカスタム検索をカスタマイズしました�
 
 デフォルトのコードはこんな感じで取得できるると思います。
 
-    <form action="http://www.google.co.jp/cse" id="cse-search-box">
+    <form action="https://www.google.co.jp/cse" id="cse-search-box">
       <div>
         <input type="hidden" name="cx" value="*****" />
         <input type="hidden" name="ie" value="UTF-8" />
@@ -40,7 +40,7 @@ jQueryを使って、Googleカスタム検索をカスタマイズしました�
       </div>
     </form>
     
-    <script type="text/javascript" src="http://www.google.co.jp/coop/cse/brand?form=cse-search-box&amp;lang=ja"></script>
+    <script type="text/javascript" src="https://www.google.co.jp/coop/cse/brand?form=cse-search-box&amp;lang=ja"></script>
     
 
 ここで、type="text"に操作するためのclass を追加します。

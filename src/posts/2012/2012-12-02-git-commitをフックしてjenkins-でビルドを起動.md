@@ -55,14 +55,14 @@ gitでリボジトリへコミットすると、それをJenkinsが検出して�
 
 これで、JENKINS\_URL/job/vxUnit/build?token=TOKEN\_NAMEというURLでリモートからキックすることができるようになる。Jobの実行をアカウントを持つユーザのみにしている場合は、&#8211;http-user/&#8211;http-passworオプションをつける。まとめると、
 
-    wget --http-user=<ユーザ名> --http-password=<パスワード> http://yourserver.com/job/<ジョブ>/build?token=＜token名＞ 
+    wget --http-user=<ユーザ名> --http-password=<パスワード> https://yourserver.com/job/<ジョブ>/build?token=＜token名＞ 
     
 
 #### git post-commmitの設定
 
-.git/hooks/配下にあるpost-comitファイルに以下の行を追加。 http://localhost:8080の部分は、自分の環境に読み替えてください。
+.git/hooks/配下にあるpost-comitファイルに以下の行を追加。 https://localhost:8080の部分は、自分の環境に読み替えてください。
 
-    wget --no-proxy http://localhost:8080/job/(ジョブの名前）/build?delay=5sec
+    wget --no-proxy https://localhost:8080/job/(ジョブの名前）/build?delay=5sec
     
 
 post-commitがなければ、新規作成して、実行権限を与える。
@@ -75,7 +75,7 @@ post-commit例
 
     #!/bin/sh    
     echo "Hook post-commit start"
-    wget --no-proxy <a href="http://localhost:8080/job/4th_ginnan/build?delay=5sec">http://localhost:8080/job/4th_ginnan/build?delay=5sec</a> || echo "wget failed"
+    wget --no-proxy <a href="https://localhost:8080/job/4th_ginnan/build?delay=5sec">https://localhost:8080/job/4th_ginnan/build?delay=5sec</a> || echo "wget failed"
     echo "Hook post-commit end"
     
 
@@ -85,4 +85,4 @@ post-commit例
   
 [コマンドラインからJenkinsのジョブを実行する &#8211; azuki note][1]
 
- [1]: http://d.hatena.ne.jp/w650/20110419/1303183753
+ [1]: https://d.hatena.ne.jp/w650/20110419/1303183753

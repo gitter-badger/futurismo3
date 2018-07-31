@@ -36,7 +36,7 @@ Playの実行ファイルactivator へ環境変数PATHを設定.
 $ activator ui
 ```
 
-<http://localhost:8888>
+<https://localhost:8888>
 にアクセスしてドキュメントが見えればインストール完了.
 
 Hello Play !!
@@ -59,7 +59,7 @@ $ cd my-first-app
 $ activator run
 ```
 
-これで <http://localhost:9000> にアクセスすると、Welcome ページが見える.
+これで <https://localhost:9000> にアクセスすると、Welcome ページが見える.
 
 view で hello world
 -------------------
@@ -98,7 +98,7 @@ public class Application extends Controller {
 }
 ```
 
-再度, <http://localhost:9000> にアクセスしてみると、 コンソール画面に.
+再度, <https://localhost:9000> にアクセスしてみると、 コンソール画面に.
 Hello, Playの文字が (**´∇｀**)
 
 ここでの感動ポイントは、\*リコンパイル不要\* ということ. Javaだろ？！
@@ -134,7 +134,7 @@ public class MySample extends Controller {
 }
 ```
 
-これで、たとえば、http://localhost:9000/test/200 にアクセスすると、
+これで、たとえば、https://localhost:9000/test/200 にアクセスすると、
 "number is 200" という文字がコンソールに出力される.
 
 おわりに
@@ -145,10 +145,10 @@ Special Thanks
 
 -   [NewApplication](https://www.playframework.com/documentation/ja/2.3.x/NewApplication)
 -   [Play Framework(Java)の開発環境を構築する - hidemium's
-    blog](http://hidemium.hatenablog.com/entry/2014/11/24/175303)
+    blog](https://hidemium.hatenablog.com/entry/2014/11/24/175303)
 -   [Play Framework で「Hello World!!」 -
-    hirahiro56のブログ](http://hirahiro56.hatenablog.com/entry/2015/01/03/023902)
+    hirahiro56のブログ](https://hirahiro56.hatenablog.com/entry/2015/01/03/023902)
 -   [PlayFramework - Play framework開発セットアップ（Java） -
-    Qiita](http://qiita.com/yu_naka0607/items/c48f01c4bd7e605bdfbf)
+    Qiita](https://qiita.com/yu_naka0607/items/c48f01c4bd7e605bdfbf)
 
 <p style="font-size:32px">以上、Happy Hacking!!</p>

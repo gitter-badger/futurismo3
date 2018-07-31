@@ -47,11 +47,11 @@ HSE と Yandex SDA
 教材は、オンラインで強化学習をするためのリソースのいいとこどりをしている。
 
 -   [David Silver's Reinforcement Learning Course
-    (UCL, 2015)](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+    (UCL, 2015)](https://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 -   [CS 294 Deep Reinforcement Learning,
-    (Berkeley,Spring 2017)](http://rll.berkeley.edu/deeprlcourse/)
+    (Berkeley,Spring 2017)](https://rll.berkeley.edu/deeprlcourse/)
 -   [Sutton & Barto Book: Reinforcement Learning: An
-    Introduction](http://incompleteideas.net/sutton/book/the-book-2nd.html)(2nd
+    Introduction](https://incompleteideas.net/sutton/book/the-book-2nd.html)(2nd
     Edition Draft!!)
 -   その他もろもろ...
 
@@ -116,7 +116,7 @@ Learning Reinforcement Learning - WildML
 
 -   [Learning Reinforcement Learning (with Code, Exercises and
     Solutions) –
-    WildML](http://www.wildml.com/2016/10/learning-reinforcement-learning/)
+    WildML](https://www.wildml.com/2016/10/learning-reinforcement-learning/)
 -   <https://github.com/dennybritz/reinforcement-learning>
 
 強化学習の主要な話題が Jupyter Notebook
@@ -134,7 +134,7 @@ UCL Course on RL
 ユニバーシティ・カレッジ・ロンドンの強化学習の講義資料
 
 -   [David Silver's Reinforcement Learning Course
-    (UCL, 2015)](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+    (UCL, 2015)](https://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 
 この動画は、Practical RL
 の中で何度も引用されていてみることが進められている。
@@ -153,7 +153,7 @@ CS 294: Deep Reinforcement Learning, Spring 2017
 UC Barkeley の Deep Learning と強化学習を学ぶ講義資料。
 
 -   [CS 294 Deep Reinforcement Learning,
-    (Berkeley,Spring 2017)](http://rll.berkeley.edu/deeprlcourse/)
+    (Berkeley,Spring 2017)](https://rll.berkeley.edu/deeprlcourse/)
 
 強化学習に Deep Learning を使う。ライブラリは Tensorflow.
 
@@ -180,7 +180,7 @@ UC Barkeley の Deep Learning と強化学習を学ぶ講義資料。
 2015 年の Barkeley の Deep Reinforcement Learning
 
 -   [CS 294 Deep Reinforcement Learning, Fall
-    2015](http://rll.berkeley.edu/deeprlcourse-fa15/)
+    2015](https://rll.berkeley.edu/deeprlcourse-fa15/)
 
 2017 年版の元になったコースだ。内容は、短くまとまっている（４つ？？）
 
@@ -188,7 +188,7 @@ UC Barkeley の Deep Learning と強化学習を学ぶ講義資料。
 
 2014 年の Berkeley の AI コース。
 
--   [UC Berkeley CS188 Intro to AI](http://ai.berkeley.edu/home.html)
+-   [UC Berkeley CS188 Intro to AI](https://ai.berkeley.edu/home.html)
 
 レクチャー動画や課題はしっかりしている。Project もおもしろそうだ。
 
@@ -228,9 +228,9 @@ Reinforcement Learning: An Introduction - Richard S. Sutton and Andrew G. Barto
 言わずと知れた、強化学習のバイブル。これを腰を据えて読むのがいいのかも。
 
 -   第 1 版 HTML:
-    <http://incompleteideas.net/sutton/book/ebook/the-book.html>
+    <https://incompleteideas.net/sutton/book/ebook/the-book.html>
 -   第 2 版 Draft: [Sutton & Barto Book: Reinforcement Learning: An
-    Introduction](http://incompleteideas.net/sutton/book/the-book-2nd.html)
+    Introduction](https://incompleteideas.net/sutton/book/the-book-2nd.html)
 
 第２版には、サンプルコードが提供されているようだ。ただし、解答はなし。
 

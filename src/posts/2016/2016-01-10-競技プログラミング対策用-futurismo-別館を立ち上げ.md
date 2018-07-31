@@ -28,7 +28,7 @@ Futurismo 競技プログラミング対策用 別館を立ち上げました。
 
 <ul class="org-ul">
   <li>
-    <a href="http://hmi-me.ciao.jp/futurismo-kyopro/">http://hmi-me.ciao.jp/futurismo-kyopro/</a>
+    <a href="https://hmi-me.ciao.jp/futurismo-kyopro/">https://hmi-me.ciao.jp/futurismo-kyopro/</a>
   </li>
 </ul>
 

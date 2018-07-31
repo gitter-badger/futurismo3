@@ -97,13 +97,13 @@ coursera の Machine Learning は、受講者が過去に大勢いて、
 
 -   [数学の苦手なバイオの学生が Coursera
     の機械学習コースを修了して気づいたこと -
-    Qiita](http://qiita.com/katsu1110/items/423fc9ac567710a1bd9b)
+    Qiita](https://qiita.com/katsu1110/items/423fc9ac567710a1bd9b)
 -   [機械学習をゼロから 1 ヵ月間勉強し続けた結果 -
-    Qiita](http://qiita.com/junichiro/items/3457e33e502086a200f1)
+    Qiita](https://qiita.com/junichiro/items/3457e33e502086a200f1)
 -   [新米エンジニア４人が機械学習の勉強会を行った話&記事まとめ -
-    Qiita](http://qiita.com/Hironsan/items/9daf27f1e2586cc610f4)
+    Qiita](https://qiita.com/Hironsan/items/9daf27f1e2586cc610f4)
 -   [「機械学習 By スタンフォード大学」勉強会
-    2015.09.11](http://www.slideshare.net/minoruchikamune/by-20150911172207)
+    2015.09.11](https://www.slideshare.net/minoruchikamune/by-20150911172207)
 
 講義の内容
 ==========
@@ -138,7 +138,7 @@ coursera の Machine Learning は、受講者が過去に大勢いて、
 網羅するには、このシリーズを読破すればよい（そんな人いるのか？）
 
 -   [機械学習プロフェッショナルシリーズ | 書籍情報 | 株式会社
-    講談社サイエンティフィク](http://www.kspub.co.jp/book/series/S043.html)
+    講談社サイエンティフィク](https://www.kspub.co.jp/book/series/S043.html)
 
 そしてこれから先の学習プラン
 ============================
@@ -152,7 +152,7 @@ coursera の Machine Learning
 さて、これから何をするべきか？以下の記事が参考になった。
 
 -   [Coursera の Machine Learning コースを終えました -
-    機械学習・深層学習を学ぶ](http://mict.hatenablog.com/entry/2016/02/23/111600)
+    機械学習・深層学習を学ぶ](https://mict.hatenablog.com/entry/2016/02/23/111600)
 -   [I have completed Andrew Ng's Coursera class on Machine Learning.
     What should I do next? What **can** I do next? -
     Quora](https://www.quora.com/I-have-completed-Andrew-Ngs-Coursera-class-on-Machine-Learning-What-should-I-do-next-What-*can*-I-do-next)
@@ -175,7 +175,7 @@ coursera の Machine Learning
 を受講してみるのもよいかもしれない。よきロールモデルを見つけた。
 
 -   [E-Learning 受講履歴 - ズッキーニのプログラミング実験場
-    ズッキーニのプログラミング実験場](http://zuqqhi2.com/e-learning-history)
+    ズッキーニのプログラミング実験場](https://zuqqhi2.com/e-learning-history)
 
 この人のように片端から MOOC を受けてみるのはよいかもしれない。
 
@@ -217,13 +217,13 @@ python で課題をやり直す
 簡単な書籍から入って深いところまで、勉強していくというルートもある。
 
 -   [機械学習のレベル別学習法 | コンピュータサイエンス |
-    POSTD](http://postd.cc/level-up-your-machine-learning/)g
+    POSTD](https://postd.cc/level-up-your-machine-learning/)g
 -   [機械学習を学ぶ際のおすすめの本 5
     つ｜入門書籍から専門性高い書籍まで｜\#mayonez](https://mayonez.jp/1640)
 -   [機械学習を初めて勉強する人におすすめの入門書 - old school
-    magic](http://breakbee.hatenablog.jp/entry/2014/08/16/090556)
+    magic](https://breakbee.hatenablog.jp/entry/2014/08/16/090556)
 -   [機械学習の学習法・オススメ本のまとめのまとめ - bohemia
-    日記](http://bohemia.hatenablog.com/entry/2016/01/01/152852)
+    日記](https://bohemia.hatenablog.com/entry/2016/01/01/152852)
 
 なにしろ、変化が早い分野なので、矢継ぎ早に今年も良書が出版されるだろう。
 

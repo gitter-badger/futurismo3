@@ -25,10 +25,10 @@ MQLとは、MetaTrader上で プログラミングをするための専用言語
 文法は，C言語に近いという.
 
 -   公式: [MQL4 Reference - MQL4
-    Documentation](http://docs.mql4.com/index)
+    Documentation](https://docs.mql4.com/index)
 -   日本語:
     [MQL言語リファレンス日本語翻訳マニュアル｜メタトレーダーMQLプログラミング自動売買システム作成サイト
-    メタシス・シーカー](http://www.metasys-seeker.net/MQL4_Reference_ver1/MQL4_Reference_Contents.html)
+    メタシス・シーカー](https://www.metasys-seeker.net/MQL4_Reference_ver1/MQL4_Reference_Contents.html)
 
 環境の準備
 ==========
@@ -38,7 +38,7 @@ MQLとは、MetaTrader上で プログラミングをするための専用言語
 検索すると、たくさんのアフィリサイトが引っかかりる.
 
 -   [１章２　今すぐＭＴ４をインストールしてみよう！｜ザイFX！が作ったメタトレーダー（MT4）入門 -
-    ザイFX！×メタトレーダー（MT4）](http://zai.diamond.jp/articles/-/125971)
+    ザイFX！×メタトレーダー（MT4）](https://zai.diamond.jp/articles/-/125971)
 
 windows 8.1にインストール(Linuxへのインストールは文字化けしたので諦め)
 
@@ -48,7 +48,7 @@ Hello World
 以下のページそのままなのだけれども、Hello Wolldをやってみる.
 
 -   [MQL4プログラミングの扉を開けよう |
-    FX自動売買システム開発部](http://autofx100.com/2014/07/21/152907/)
+    FX自動売買システム開発部](https://autofx100.com/2014/07/21/152907/)
 
 新規作成 &gt; エキストパートアドバイザ
 あとは、ナビにしたがってコードを生成.
@@ -108,7 +108,7 @@ Worldとかかれたポップアップがでてくる.
 この記事に触発されました...
 
 -   [プログラミングでマネタイズしたいならシステムトレードどうよ？ -
-    UXエンジニアになりたい人のブログ](http://uxlayman.hatenablog.com/entry/2014/09/04/071120)
+    UXエンジニアになりたい人のブログ](https://uxlayman.hatenablog.com/entry/2014/09/04/071120)
 
 これから頑張ります. 新しい趣味になればいいな.
 今回の記事で終わりになりませんように.

@@ -60,8 +60,8 @@ Linux Mintでは、パッケージマネージャからインストールでき�
 
 [<img src="https://futurismo.biz/wp-content/uploads/Screenshot_from_2014-01-11-142839-300x190.png" alt="Screenshot_from_2014-01-11 14:28:39" width="300" height="190" class="aligncenter size-medium wp-image-2133" />][5]
 
- [1]: http://www.koikikukan.com/archives/2011/09/17-035555.php
- [2]: http://netafull.net/iphone/038593.html
+ [1]: https://www.koikikukan.com/archives/2011/09/17-035555.php
+ [2]: https://netafull.net/iphone/038593.html
  [3]: https://code.google.com/p/namebench/
- [4]: http://www.moongift.jp/2009/10/namebench/
+ [4]: https://www.moongift.jp/2009/10/namebench/
  [5]: https://futurismo.biz/wp-content/uploads/Screenshot_from_2014-01-11-142839.png

@@ -84,7 +84,7 @@ Defaultではmainでbreakするように設定されているので、[再開]F8
   
 ソースを表示してくれる。
 
-[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="image" alt="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb89.png" width="562" height="357" border="0" />][1]
+[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="image" alt="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb89.png" width="562" height="357" border="0" />][1]
 
 ### まとめ
 
@@ -165,7 +165,7 @@ Defaultではmainでbreakするように設定されているので、[再開]F8
   
 ソースを表示してくれる。
 
-[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="image" alt="image" src="http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb89.png" width="562" height="357" border="0" />][1]
+[<img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="image" alt="image" src="https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image_thumb89.png" width="562" height="357" border="0" />][1]
 
 ### まとめ
 
@@ -175,4 +175,4 @@ Defaultではmainでbreakするように設定されているので、[再開]F8
 
 xUnitでテストするようになってから、さすがにもう手動でのテストをする気にはなれないが、こんな組み合わせもいいかもしれない。<!--:-->
 
- [1]: http://hmi-me.ciao.jp/wordpress/wp-content/uploads/image89.png
+ [1]: https://hmi-me.ciao.jp/wordpress/wp-content/uploads/image89.png

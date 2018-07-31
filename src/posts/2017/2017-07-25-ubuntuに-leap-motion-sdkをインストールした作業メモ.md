@@ -151,6 +151,6 @@ LeapControlPanelを起動する。ツールバーにLeap Motionのアイコン�
 
 ![][3]
 
- [1]: http://developer.leapmotion.com/sdk/v2/
+ [1]: https://developer.leapmotion.com/sdk/v2/
  [2]: https://community.leapmotion.com/t/leap-motion-sdk-fails-to-install-properly-on-ubuntu-15-04/2973
  [3]: https://lh3.googleusercontent.com/8CU4vo0NiqLJbB5BvYrP6vMbzuxbplybgA98BF1uFVGjzl-qSw0VrxqzTNkWu7GL_v5_4tBXdVKHa3Uf7-gWaz9_mdg9yh_fz_-EEKs31oK8yVL31Ylr6T0jvrh5F_V4D1ILRtjc8vCR26ML46nrrS4eKSDk82uymAh0W5pa9eINPohSOPO-N88hR8TcXzWy6OYa-II2qblh4srOAh6rYk2shfbq-lt4A8bxqQIZLK-ruGnzGb6_Pm2HxzbIOJVQFsMY5DfM4uVbV9RVHgkfIRSniO3RqInOMSvZyU5k4JKSKuoqYkEf4OSVjmo3UaYcW2p31kiA0lfEX4YWeu1gWG-f32Oio7-oFaQgPrhm5aGJdLqF23_DXCLg12p4WVcxceVgo2cadPLQ89WVbzKPjlbP_MpPlDAzIL8YDIUQIg_iXWTuKyBnwgsKlvQZN9RgBqh-FyyoPaJwCb6fskwM9DifD0a596sr_EqsawFkLRxc0rq3l_VEvy0A9jfedMxwmZqqvem4Ldn7iHj6solWF4WdGwrsZRy4AQmDWrpEg-Lk-Uunl30sr2wzoC1kLmoylM_DZ9AKBqYWZm3hYECB4g70h2qiCRMzYtoXADrb4tRELLZXpjzm5BBp=w451-h252-no

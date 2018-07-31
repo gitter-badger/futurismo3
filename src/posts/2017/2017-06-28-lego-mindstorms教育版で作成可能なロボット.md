@@ -70,8 +70,8 @@ LEGO Mindstormsの教育版(#45544)を購入したので、ネットで手に入
 
 頑張ったらつくれた。
 
-  * HTWay &#8230; <http://www.hitechnic.com/blog/gyro-sensor/htway/>
-  * GenBot &#8230; http://rookieelectronics.com/genbot-building-instructions/
+  * HTWay &#8230; <https://www.hitechnic.com/blog/gyro-sensor/htway/>
+  * GenBot &#8230; https://rookieelectronics.com/genbot-building-instructions/
 
 ## 自分でつくるには・・・ {#-}
 
@@ -85,14 +85,14 @@ LEGO Mindstormsの教育版(#45544)を購入したので、ネットで手に入
 
 ### 追記分
 
-  * <http://www.semia.com/hk/ev3/BuildMore.html>
+  * <https://www.semia.com/hk/ev3/BuildMore.html>
 
-LEGO Design Builder(http://ldd.lego.com/ja-jp/) というソフトウェアがすごそう。
+LEGO Design Builder(https://ldd.lego.com/ja-jp/) というソフトウェアがすごそう。
 
   * [https://books.google.co.jp/books?id=cCABBQAAQBAJ&pg=PA13&lpg=PA13&dq=tribot+mindstorms+build&source=bl&ots=AS663BSMdq&sig=2Ir\_jSx2jRmEHd8wXQwCK65cg18&hl=ja&sa=X&ved=0ahUKEwikpdOR7qHVAhXMvbwKHQ6pA\_kQ6AEIcDAK#v=onepage&q=tribot%20mindstorms%20build&f=false][5]
 
  [1]: https://education.lego.com/en-us/support/mindstorms-ev3/building-instructions
- [2]: http://robotsquare.com/2013/10/01/education-ev3-45544-instruction/
- [3]: http://robotsquare.com/2013/10/01/lego-mindstorms-ev3-education-expansion-set-45560-instructions/
- [4]: http://afrel-shop.com/shopdetail/010002000003/
+ [2]: https://robotsquare.com/2013/10/01/education-ev3-45544-instruction/
+ [3]: https://robotsquare.com/2013/10/01/lego-mindstorms-ev3-education-expansion-set-45560-instructions/
+ [4]: https://afrel-shop.com/shopdetail/010002000003/
  [5]: https://books.google.co.jp/books?id=cCABBQAAQBAJ&pg=PA13&lpg=PA13&dq=tribot+mindstorms+build&source=bl&ots=AS663BSMdq&sig=2Ir_jSx2jRmEHd8wXQwCK65cg18&hl=ja&sa=X&ved=0ahUKEwikpdOR7qHVAhXMvbwKHQ6pA_kQ6AEIcDAK#v=onepage&q=tribot%20mindstorms%20build&f=false

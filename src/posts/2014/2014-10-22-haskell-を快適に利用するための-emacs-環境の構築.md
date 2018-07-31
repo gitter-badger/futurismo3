@@ -46,7 +46,7 @@ Haskell のマイナーモード.
 モードの設定.以下のリンクが詳しい.
 
 -   [Haskell Mode
-    13.07](http://haskell.github.io/haskell-mode/manual/latest/)
+    13.07](https://haskell.github.io/haskell-mode/manual/latest/)
 
 ``` {.commonlisp}
  ;; indent の有効.
@@ -96,7 +96,7 @@ ghci の起動とファイルの読み込みを一緒に行う設定.
 ```
 
 -[ inferior-haskell-mode で設定すると便利なこと - プログラムとかのの
-blog](http://d.hatena.ne.jp/pogin/20140121/1390299797)
+blog](https://d.hatena.ne.jp/pogin/20140121/1390299797)
 
 gcd-mod
 =======
@@ -104,14 +104,14 @@ gcd-mod
 Haskell 開発を助ける機能がそろったツール.
 
 -   [Happy Haskell
-    Programming](http://www.mew.org/%7Ekazu/proj/ghc-mod/en/)
+    Programming](https://www.mew.org/%7Ekazu/proj/ghc-mod/en/)
 -   [kazu-yamamoto/ghc-mod](https://github.com/kazu-yamamoto/ghc-mod)
 
 Install
 -------
 
 -   [Installing
-    "ghc-mod"](http://www.mew.org/~kazu/proj/ghc-mod/en/install.html)
+    "ghc-mod"](https://www.mew.org/~kazu/proj/ghc-mod/en/install.html)
 
 ``` {.bash}
 % cabal update
@@ -122,7 +122,7 @@ Settings
 --------
 
 -   [Preparing Emacs
-    front-end](http://www.mew.org/~kazu/proj/ghc-mod/en/preparation.html)
+    front-end](https://www.mew.org/~kazu/proj/ghc-mod/en/preparation.html)
 
 ``` {.commonlisp}
 (autoload 'ghc-init "ghc" nil t)
@@ -133,7 +133,7 @@ Settings
 Emacs での使い方は以下のページに書いてある.
 
 -   [Usage of Emacs
-    front-end](http://www.mew.org/~kazu/proj/ghc-mod/en/emacs.html)
+    front-end](https://www.mew.org/~kazu/proj/ghc-mod/en/emacs.html)
 
 エラーチェック
 ==============
@@ -171,13 +171,13 @@ hlint
 Links
 =====
 
--   [Emacs - HaskellWiki](http://www.haskell.org/haskellwiki/Emacs)
+-   [Emacs - HaskellWiki](https://www.haskell.org/haskellwiki/Emacs)
 -   [Emacs/Inferior Haskell processes -
-    HaskellWiki](http://www.haskell.org/haskellwiki/Emacs/Inferior_Haskell_processes)
+    HaskellWiki](https://www.haskell.org/haskellwiki/Emacs/Inferior_Haskell_processes)
 -   [静岡の Haskeller は Emacs
-    を使う](http://www.slideshare.net/KazufumiOhkawa/haskelleremacs)
+    を使う](https://www.slideshare.net/KazufumiOhkawa/haskelleremacs)
 -   [karky7 のブログ: Gentoo で emacs+haskell
-    環境を作る](http://blog.karky7.com/2012/12/gentooemacshaskell.html)
+    環境を作る](https://blog.karky7.com/2012/12/gentooemacshaskell.html)
 -   [Haskell 用の emacs カスタマイズ例 -
-    わからん](http://d.hatena.ne.jp/kitokitoki/20111217/p1)
+    わからん](https://d.hatena.ne.jp/kitokitoki/20111217/p1)
 

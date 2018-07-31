@@ -91,6 +91,6 @@ twitterでつぶやくには、updateを使う。他にも豊富すぎる機能�
 
 > $ twitter.rb &#8220;さすがにそろそろ寝よう&#8221; &
 
- [1]: http://route477.net/w/?RubyTwitterJa
- [2]: http://qiita.com/items/1b61e1fe4841f81baaf9
+ [1]: https://route477.net/w/?RubyTwitterJa
+ [2]: https://qiita.com/items/1b61e1fe4841f81baaf9
  [3]: https://futurismo.biz/archives/1150

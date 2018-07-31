@@ -144,7 +144,7 @@ rakefileについて、順に解説。
 
 ちなみに、一番網羅的でわかりやすいのは、Ruby公式リファレンス。
 
-[<span style="color: #0066cc;">http://doc.ruby-lang.org/ja/1.9.3/library/rake.html</span>][3]
+[<span style="color: #0066cc;">https://doc.ruby-lang.org/ja/1.9.3/library/rake.html</span>][3]
 
 #### Rake Tasks
 
@@ -340,16 +340,16 @@ end</pre>
 <div class="amazlink-box" style="overflow: hidden; font-size: small; zoom: 1; padding-bottom: 20px; text-align: left;">
   <div class="amazlink-list" style="clear: both;">
     <div class="amazlink-image" style="float: left; margin: 0px 12px 1px 0px;">
-      <a href="http://www.amazon.co.jp/%E3%81%9F%E3%81%AE%E3%81%97%E3%81%84Ruby-%E7%AC%AC3%E7%89%88-%E9%AB%98%E6%A9%8B-%E5%BE%81%E7%BE%A9/dp/4797357401%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4797357401" target="_blank" rel="nofollow"><img style="border-style: none;" alt="" src="http://ecx.images-amazon.com/images/I/41t7GQ3peRL._SL160_.jpg" /></a>
+      <a href="https://www.amazon.co.jp/%E3%81%9F%E3%81%AE%E3%81%97%E3%81%84Ruby-%E7%AC%AC3%E7%89%88-%E9%AB%98%E6%A9%8B-%E5%BE%81%E7%BE%A9/dp/4797357401%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4797357401" target="_blank" rel="nofollow"><img style="border-style: none;" alt="" src="https://ecx.images-amazon.com/images/I/41t7GQ3peRL._SL160_.jpg" /></a>
     </div>
     
     <div class="amazlink-info" style="margin-bottom: 10px;">
       <div class="amazlink-name" style="margin-bottom: 10px; line-height: 120%;">
-        <a href="http://www.amazon.co.jp/%E3%81%9F%E3%81%AE%E3%81%97%E3%81%84Ruby-%E7%AC%AC3%E7%89%88-%E9%AB%98%E6%A9%8B-%E5%BE%81%E7%BE%A9/dp/4797357401%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4797357401" target="_blank" rel="nofollow">たのしいRuby 第3版</a>
+        <a href="https://www.amazon.co.jp/%E3%81%9F%E3%81%AE%E3%81%97%E3%81%84Ruby-%E7%AC%AC3%E7%89%88-%E9%AB%98%E6%A9%8B-%E5%BE%81%E7%BE%A9/dp/4797357401%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4797357401" target="_blank" rel="nofollow">たのしいRuby 第3版</a>
       </div>
       
       <div class="amazlink-powered" style="font-size: 80%; margin-top: 5px; line-height: 120%;">
-        posted with <a title="アマゾンアフィリエイトリンク作成ツール" href="http://amazlink.keizoku.com/" target="_blank">amazlink</a> at 13.05.26
+        posted with <a title="アマゾンアフィリエイトリンク作成ツール" href="https://amazlink.keizoku.com/" target="_blank">amazlink</a> at 13.05.26
       </div>
       
       <div class="amazlink-detail">
@@ -358,7 +358,7 @@ end</pre>
       
       <div class="amazlink-sub-info" style="float: left;">
         <div class="amazlink-link" style="margin-top: 5px;">
-          <img alt="" src="http://amazlink.fuyu.gs/icon_amazon.png" width="18" /><a href="http://www.amazon.co.jp/%E3%81%9F%E3%81%AE%E3%81%97%E3%81%84Ruby-%E7%AC%AC3%E7%89%88-%E9%AB%98%E6%A9%8B-%E5%BE%81%E7%BE%A9/dp/4797357401%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4797357401" target="_blank" rel="nofollow">Amazon</a> <img alt="" src="http://amazlink.fuyu.gs/icon_rakuten.gif" width="18" /><a href="http://hb.afl.rakuten.co.jp/hgc/g00q0724.n763w947.g00q0724.n763x2b4/archives/c=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F6412245%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frms%2Fmsv%2FItem%3Fn%3D6412245%26surl%3Dbook" target="_blank" rel="nofollow">楽天</a>
+          <img alt="" src="https://amazlink.fuyu.gs/icon_amazon.png" width="18" /><a href="https://www.amazon.co.jp/%E3%81%9F%E3%81%AE%E3%81%97%E3%81%84Ruby-%E7%AC%AC3%E7%89%88-%E9%AB%98%E6%A9%8B-%E5%BE%81%E7%BE%A9/dp/4797357401%3FSubscriptionId%3DAKIAJBCXQ4WQGJ7WU3WA%26tag%3Dsleephacker-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4797357401" target="_blank" rel="nofollow">Amazon</a> <img alt="" src="https://amazlink.fuyu.gs/icon_rakuten.gif" width="18" /><a href="https://hb.afl.rakuten.co.jp/hgc/g00q0724.n763w947.g00q0724.n763x2b4/archives/c=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F6412245%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frms%2Fmsv%2FItem%3Fn%3D6412245%26surl%3Dbook" target="_blank" rel="nofollow">楽天</a>
         </div>
       </div>
     </div>
@@ -368,16 +368,16 @@ end</pre>
 <div id="fastlookup_top">
 </div>
 
- [1]: http://chart.googleapis.com/chart?cht=bhg&chs=400x200&chxt=y%2Cx&chxl=0%3A%7Cmakefile%7Crakefile&chdlp=r&chco=ffbf67&chxr=1%2C0%2C899000&chbh=a&chd=t%3A41000%2C899000&chtt=Google%20%E6%A4%9C%E7%B4%A2%E7%B5%90%E6%9E%9C%E6%95%B0%E3%81%AE%E6%AF%94%E8%BC%83&chds=0%2C899000&chm=N**%2C666666%2C0%2C-1%2C12%2C0&chl
- [2]: http://konisimple.net/tool/google_graph/#rakefile
- [3]: http://doc.ruby-lang.org/ja/1.9.3/library/rake.html
- [4]: http://doc.ruby-lang.org/ja/1.9.3/class/Rake=3a=3aTask.html
- [5]: http://doc.ruby-lang.org/ja/1.9.3/library/rake=2fclean.html
- [6]: http://doc.ruby-lang.org/ja/1.9.3/class/Rake=3a=3aFileList.html
- [7]: http://www2s.biglobe.ne.jp/~idesaku/sss/tech/rake/
- [8]: http://d.hatena.ne.jp/unageanu/20100829/1283069269
- [9]: http://www.jitu.org/~tko/doc-jp/rake/rake.html
- [10]: http://docs.rubyrake.org/index.html
- [11]: http://rake.rubyforge.org/
- [12]: http://qiita.com/items/c588c96b9ecf38021312
- [13]: http://www.kyobashi.org/hf/RakeUserGuide/?AboutRakeUserGuide
+ [1]: https://chart.googleapis.com/chart?cht=bhg&chs=400x200&chxt=y%2Cx&chxl=0%3A%7Cmakefile%7Crakefile&chdlp=r&chco=ffbf67&chxr=1%2C0%2C899000&chbh=a&chd=t%3A41000%2C899000&chtt=Google%20%E6%A4%9C%E7%B4%A2%E7%B5%90%E6%9E%9C%E6%95%B0%E3%81%AE%E6%AF%94%E8%BC%83&chds=0%2C899000&chm=N**%2C666666%2C0%2C-1%2C12%2C0&chl
+ [2]: https://konisimple.net/tool/google_graph/#rakefile
+ [3]: https://doc.ruby-lang.org/ja/1.9.3/library/rake.html
+ [4]: https://doc.ruby-lang.org/ja/1.9.3/class/Rake=3a=3aTask.html
+ [5]: https://doc.ruby-lang.org/ja/1.9.3/library/rake=2fclean.html
+ [6]: https://doc.ruby-lang.org/ja/1.9.3/class/Rake=3a=3aFileList.html
+ [7]: https://www2s.biglobe.ne.jp/~idesaku/sss/tech/rake/
+ [8]: https://d.hatena.ne.jp/unageanu/20100829/1283069269
+ [9]: https://www.jitu.org/~tko/doc-jp/rake/rake.html
+ [10]: https://docs.rubyrake.org/index.html
+ [11]: https://rake.rubyforge.org/
+ [12]: https://qiita.com/items/c588c96b9ecf38021312
+ [13]: https://www.kyobashi.org/hf/RakeUserGuide/?AboutRakeUserGuide

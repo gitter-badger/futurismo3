@@ -22,7 +22,7 @@ url: /archives/=1533
 
 
   
-<a href="http://www.seo-keni.jp/" onClick="return clickCount(248685, 2058);"><img src="http://www.infotop.jp/img/banner4_2058.gif" border="0" /></a>
+<a href="https://www.seo-keni.jp/" onClick="return clickCount(248685, 2058);"><img src="https://www.infotop.jp/img/banner4_2058.gif" border="0" /></a>
 
 [toc]
 
@@ -120,7 +120,7 @@ PV数を表示するためには、「WordPress Popular Posts」　Pluginを利�
 
 参考:
   
-<a href="http://did2memo.net/2013/02/19/wordpress-how-to-display-pv/" target="_blank">WordPress：全記事にPV数を表示する方法メモ | 情報科学屋さんを目指す人のメモ</a>
+<a href="https://did2memo.net/2013/02/19/wordpress-how-to-display-pv/" target="_blank">WordPress：全記事にPV数を表示する方法メモ | 情報科学屋さんを目指す人のメモ</a>
 
 ### トップページ(index.php)
 

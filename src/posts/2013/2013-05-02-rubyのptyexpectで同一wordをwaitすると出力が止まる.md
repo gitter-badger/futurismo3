@@ -77,7 +77,7 @@ telnetした結果を表示するためには、waitforを以下の形式で書�
 
 多段telnetをするとき、telnet.cmd("hogehoge")で実行すると、"hogehoge"コマンドの出力を待ち続けるために、エラーする。telnet.cmdではなくtelnet.putsを利用することで、出力を待つことがなくなる。
 
-  * <a href="http://ruby.11.x6.nabble.com/ruby-list-44531-telnet-td3545797.html" target="_blank">ruby-list jp &#8211; [ruby-list:44531] 多段telnetするプログラムの作り方</a>
+  * <a href="https://ruby.11.x6.nabble.com/ruby-list-44531-telnet-td3545797.html" target="_blank">ruby-list jp &#8211; [ruby-list:44531] 多段telnetするプログラムの作り方</a>
 
 #### STDOUT.sync = true
 

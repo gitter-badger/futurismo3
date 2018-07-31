@@ -61,7 +61,7 @@ clocking時間を表示する
 ```
 
 -   参考:
-    <http://lists.gnu.org/archive/html/emacs-orgmode/2010-04/msg00457.html>
+    <https://lists.gnu.org/archive/html/emacs-orgmode/2010-04/msg00457.html>
 
 .xmobarrcの設定
 ===============

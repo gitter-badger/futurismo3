@@ -41,4 +41,4 @@ encoding system utf8
   * [[debian-users:36161] Re: sjis 環境でexpectを使うと文字化け][2]
 
  [1]: https://futurismo.biz/archives/1272
- [2]: http://lists.debian.or.jp/debian-users/200302/msg00029.html
+ [2]: https://lists.debian.or.jp/debian-users/200302/msg00029.html

@@ -66,10 +66,10 @@ url: /archives/=2498
       
       <ul class="org-ul">
         <li>
-          <a href="http://hazi.jp/2012-12/2203/">邪道Jenkins（スライド） | Hazi.log</a>
+          <a href="https://hazi.jp/2012-12/2203/">邪道Jenkins（スライド） | Hazi.log</a>
         </li>
         <li>
-          <a href="http://image.slidesharecdn.com/jenkins-130706091448-phpapp02/95/slide-1-638.jpg?cb=1373120272">すごい cron ? &#8211; Jenkins 試した</a>
+          <a href="https://image.slidesharecdn.com/jenkins-130706091448-phpapp02/95/slide-1-638.jpg?cb=1373120272">すごい cron ? &#8211; Jenkins 試した</a>
         </li>
       </ul>
     </div></p>
@@ -137,7 +137,7 @@ url: /archives/=2498
       
       <ul class="org-ul">
         <li>
-          <a href="http://jenkins-ci.org/">http://jenkins-ci.org/</a> <ul class="org-ul">
+          <a href="https://jenkins-ci.org/">https://jenkins-ci.org/</a> <ul class="org-ul">
             <li>
               jenkins.war
             </li>
@@ -168,7 +168,7 @@ url: /archives/=2498
       
       <ul class="org-ul">
         <li>
-          <a href="http://localhost:8080/">http://localhost:8080/</a>
+          <a href="https://localhost:8080/">https://localhost:8080/</a>
         </li>
       </ul>
       
@@ -273,7 +273,7 @@ Finished: SUCCESS
       
       <ul class="org-ul">
         <li>
-          <a href="http://sue445.hatenablog.com/entry/2013/03/17/015836">Jenkinsにスローテストのグラフを表示する &#8211; くりにっき</a>
+          <a href="https://sue445.hatenablog.com/entry/2013/03/17/015836">Jenkinsにスローテストのグラフを表示する &#8211; くりにっき</a>
         </li>
       </ul>
     </div></p>
@@ -304,10 +304,10 @@ Finished: SUCCESS
       
       <ul class="org-ul">
         <li>
-          <a href="http://gosyujin.github.io/2013/03/18/selenium-firefox-loaderror/">Selenium WebDriverでFirefoxがロードできなくなった &#8211; kk_Atakaの日記＠GitHub Pages</a>
+          <a href="https://gosyujin.github.io/2013/03/18/selenium-firefox-loaderror/">Selenium WebDriverでFirefoxがロードできなくなった &#8211; kk_Atakaの日記＠GitHub Pages</a>
         </li>
         <li>
-          <a href="http://seesaawiki.jp/w/kou1okada/d/Cygwin%20-%20Ruby-1.9.3p327%20-%20win32/registry">Cygwin &#8211; Ruby-1.9.3p327 &#8211; win32/registry &#8211; PIB</a>
+          <a href="https://seesaawiki.jp/w/kou1okada/d/Cygwin%20-%20Ruby-1.9.3p327%20-%20win32/registry">Cygwin &#8211; Ruby-1.9.3p327 &#8211; win32/registry &#8211; PIB</a>
         </li>
       </ul>
     </div></p>
@@ -321,10 +321,10 @@ Finished: SUCCESS
     <div class="outline-text-3" id="text-4-2">
       <ul class="org-ul">
         <li>
-          <a href="http://codezine.jp/article/detail/7505">「Selenium2」テスト徹底活用！ Jenkinsによる自動実行とSelenium Grid2による複数環境でのテスト （1/6）：CodeZine</a>
+          <a href="https://codezine.jp/article/detail/7505">「Selenium2」テスト徹底活用！ Jenkinsによる自動実行とSelenium Grid2による複数環境でのテスト （1/6）：CodeZine</a>
         </li>
         <li>
-          <a href="http://ozzy2010.blogspot.jp/2012/05/5web-jenkins-x-selenium.html">ソフトウェアテスト: 5分でできるWebテスト自動化 &#8211; Jenkins x Selenium</a>
+          <a href="https://ozzy2010.blogspot.jp/2012/05/5web-jenkins-x-selenium.html">ソフトウェアテスト: 5分でできるWebテスト自動化 &#8211; Jenkins x Selenium</a>
         </li>
       </ul>
     </div></p>

@@ -32,7 +32,7 @@ url: /archives/=1273
 
 以下の記事が参考になった。
 
-<a href="http://www.mazn.net/blog/2010/10/31/324.html" target="_blank"><img class="alignleft" border="0" alt="" align="left" src="http://capture.heartrails.com/150x130/shadow?http://www.mazn.net/blog/2010/10/31/324.html" width="150" height="130" /></a> <a style="color: #0070c5" href="http://www.mazn.net/blog/2010/10/31/324.html" target="_blank">Cygwin 1.7 の起動が遅い@ Windows 7 x64 | Mazn.net</a>    <img border="0" alt="" src="http://b.hatena.ne.jp/entry/image/http://www.mazn.net/blog/2010/10/31/324.html" />  <br style="clear: both" />
+<a href="https://www.mazn.net/blog/2010/10/31/324.html" target="_blank"><img class="alignleft" border="0" alt="" align="left" src="https://capture.heartrails.com/150x130/shadow?https://www.mazn.net/blog/2010/10/31/324.html" width="150" height="130" /></a> <a style="color: #0070c5" href="https://www.mazn.net/blog/2010/10/31/324.html" target="_blank">Cygwin 1.7 の起動が遅い@ Windows 7 x64 | Mazn.net</a>    <img border="0" alt="" src="https://b.hatena.ne.jp/entry/image/https://www.mazn.net/blog/2010/10/31/324.html" />  <br style="clear: both" />
 
 \# この項は今後も調べたら追加するかも。。
 
@@ -99,4 +99,4 @@ $&#160; emacsclient -e &#8216;(kill-emacs)&#8217;
 
 これで、ストレスにつぶれてこの世を呪うことなく生きることができる。
 
- [1]: http://d.hatena.ne.jp/syohex/20101224/1293206906
+ [1]: https://d.hatena.ne.jp/syohex/20101224/1293206906

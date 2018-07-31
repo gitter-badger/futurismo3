@@ -25,7 +25,7 @@ Emacsのミニバッファから twitterにメッセージを投稿する小技.
 
 Emacsから twittering-modeを利用してつぶやいている.
 
--   <http://emacswiki.org/emacs/TwitteringMode-ja>
+-   <https://emacswiki.org/emacs/TwitteringMode-ja>
 
 しかし、たまには？表の公開アカウントでつぶやきたくなるときもある.
 
