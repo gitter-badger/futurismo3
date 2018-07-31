@@ -48,7 +48,7 @@ type: page
 
 **ハッキングは創造だ！ ハッカ－は芸術家なのである！**
 
-<img src="http://upload.wikimedia.org/wikipedia/commons/archive/f/f6/20100509094304%21Duchamp_Fountaine.jpg" alt="" width="227" height="311" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/archive/f/f6/20100509094304%21Duchamp_Fountaine.jpg" alt="" width="227" height="311" />
 
 ## 2.イっちゃった人のように、エクスタシ－の快楽にトリップしたように、一心不乱に没入すること、これが幸せだ。
 
@@ -58,7 +58,7 @@ Devid Alenはいみじくもいった。『働くだけの幸せバカ』これ�
   
 圧倒的な生産性とはその結果でしかない。
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/hggTOIDPkKA/0.jpg)](http://www.youtube.com/watch?v=hggTOIDPkKA)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/hggTOIDPkKA/0.jpg)](https://www.youtube.com/watch?v=hggTOIDPkKA)
 
 ## 3.与えられた仕事は、いつだって退屈で眠いものばかりだった。
 
@@ -72,7 +72,7 @@ Devid Alenはいみじくもいった。『働くだけの幸せバカ』これ�
 
 **虚無と倦怠からの人間性の解放なのだ！**
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/6x1GkgbVP1I/0.jpg)](http://www.youtube.com/watch?v=6x1GkgbVP1I)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/6x1GkgbVP1I/0.jpg)](https://www.youtube.com/watch?v=6x1GkgbVP1I)
 
 ## 4.スピード狂を賛美せよ！
 ハッカ－はマウスを使わない。
@@ -83,7 +83,7 @@ Devid Alenはいみじくもいった。『働くだけの幸せバカ』これ�
   
 **機関銃のように疾走するに疾走するタイピングはサモトラケのニケよりも美しい**
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/odOzMz-fOOw/0.jpg)](http://www.youtube.com/watch?v=odOzMz-fOOw)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/odOzMz-fOOw/0.jpg)](https://www.youtube.com/watch?v=odOzMz-fOOw)
 
 ## 5.我らは原初の情熱を燃やす技術を紡ぐため、あらゆる手段を講じるべきだ。
 スクリプト、テキスト、メ－ル、スマ－トフォン・・・
@@ -100,7 +100,7 @@ Devid Alenはいみじくもいった。『働くだけの幸せバカ』これ�
 
 コ－ドで世界を変えると信じる愚か者が世界を変える。コ－ドで宇宙を感動させると信じる楽天家が宇宙を感動させる。
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/ASkis57blsc/0.jpg)](http://www.youtube.com/watch?v=ASkis57blsc)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ASkis57blsc/0.jpg)](https://www.youtube.com/watch?v=ASkis57blsc)
 
 ## 7.安住の地なんて爆破してしまえ！
 
@@ -140,7 +140,7 @@ Devid Alenはいみじくもいった。『働くだけの幸せバカ』これ�
   
 頭脳は常にシンプルであれ、クリアであれ。Getting Things Done。
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/XxROntSPPUI/0.jpg)](http://www.youtube.com/watch?v=XxROntSPPUI)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/XxROntSPPUI/0.jpg)](https://www.youtube.com/watch?v=XxROntSPPUI)
 
 ## 11.世紀の最前線にいる我らよ！ 神秘的な不可能の壁を破るべく、常に前を向け。
 
@@ -158,9 +158,9 @@ Devid Alenはいみじくもいった。『働くだけの幸せバカ』これ�
   
 行動の全てを見ているスマ－トハウス、……そんなすべてを、さぁ謳いあげろ！
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/SBT7W7uJ3ds/0.jpg)](http://www.youtube.com/watch?v=SBT7W7uJ3ds)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/SBT7W7uJ3ds/0.jpg)](https://www.youtube.com/watch?v=SBT7W7uJ3ds)
 
 参考:[マリネッティによる未来派宣言][2]
 
-[1]: http://ja.wikipedia.org/wiki/%E6%9C%AA%E6%9D%A5%E6%B4%BE%E5%AE%A3%E8%A8%80
-[2]: http://homepage3.nifty.com/arteangelico/sakusaku/2_1.htm
+[1]: https://ja.wikipedia.org/wiki/%E6%9C%AA%E6%9D%A5%E6%B4%BE%E5%AE%A3%E8%A8%80
+[2]: https://homepage3.nifty.com/arteangelico/sakusaku/2_1.htm
