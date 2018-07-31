@@ -63,6 +63,7 @@ module.exports = {
     `gatsby-plugin-feed`,
     `gatsby-plugin-sitemap`,
     `gatsby-plugin-remove-trailing-slashes`,
+    'gatsby-plugin-robots-txt',
 
     /* Netlify */
     `gatsby-plugin-netlify-cache`,
