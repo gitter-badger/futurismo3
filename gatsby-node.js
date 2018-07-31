@@ -14,9 +14,7 @@ exports.createPages = ({ graphql, actions }) => {
           {
             posts: allMarkdownRemark(
               sort: { fields: [frontmatter___date], order: DESC }
-              filter: {
-                frontmatter: { draft: { ne: true }, type: { ne: "page" } }
-              }
+              filter: { frontmatter: { type: { ne: "page" } } }
             ) {
               edges {
                 node {
@@ -26,6 +24,7 @@ exports.createPages = ({ graphql, actions }) => {
                   frontmatter {
                     title
                     date(formatString: "DD MMMM, YYYY")
+                    draft
                   }
                   excerpt
                   html
@@ -71,7 +70,14 @@ exports.createPages = ({ graphql, actions }) => {
           })
         })
 
-        _.each(posts, (post, index) => {
+        let allowedPosts = posts
+        if (process.env.NODE_ENV === 'development') {
+          allowedPosts = posts.filter(post => post.node.frontmatter.draft)
+        } else {
+          allowedPosts = posts.filter(post => !post.node.frontmatter.draft)
+        }
+
+        _.each(allowedPosts, (post, index) => {
           const prev = index === posts.length - 1 ? null : posts[index + 1].node
           const next = index === 0 ? null : posts[index - 1].node
 
@@ -86,7 +92,7 @@ exports.createPages = ({ graphql, actions }) => {
           })
 
           createPaginatedPages({
-            edges: posts,
+            edges: allowedPosts,
             createPage,
             pageTemplate: 'src/templates/index.js',
             pageLength: 15,

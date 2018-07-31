@@ -1,6 +1,6 @@
 import React from 'react'
 // import Img from 'gatsby-image'
-import { graphql } from 'gatsby'
+// import { graphql } from 'gatsby'
 
 export default () => (
   <div>
@@ -9,7 +9,9 @@ export default () => (
   </div>
 )
 
+/*
 export const query = graphql`
   query {
   }
 `
+*/
