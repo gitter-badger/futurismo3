@@ -1,3 +1,6 @@
 import React from 'react'
+import '../../css/profile.css'
 
-export default ({ children }) => <div className="app-wrapper">{children}</div>
+export default ({ children }) => (
+  <div className="profile-wrapper">{children}</div>
+)

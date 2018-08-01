@@ -1,29 +1,29 @@
 import React from 'react'
-import Img from 'gatsby-image'
-import { graphql } from 'gatsby'
-import '../css/profile.css'
+import Layout from '../components/profile/layout'
 
 /*
-<Img
-fluid={props.data.file.childImageSharp.fluid}
-style={{
-  position: 'absolute',
-  left: 0,
-  top: 0,
-  width: '100%',
-  height: '100%',
-}}
-/>
+import Top from '../components/profile/Top'
+import About from '../components/profile/About'
+import Works from '../components/profile/Works'
+import Skills from '../components/profile/Skills'
+import Projects from '../components/profile/Projects'
+import Contact from '../components/profile/Contact'
+import ProfilePage from './profile';
 
-export const query = graphql`
-  query GatsbyImageSampleQuery {
-    file(relativePath: { regex: "/bg.jpg/" }) {
-      childImageSharp {
-        fluid(maxWidth: 1240) {
-          ...GatsbyImageSharpFluid
-        }
-      }
-    }
-  }
-`
+const ProfilePage = () => (
+  <div>
+    <Layout>
+      <Top />
+      <About />
+      <Works />
+      <Skills />
+      <Projects />
+      <Contact />
+    </Layout>
+  </div>
+)
 */
+
+const ProfilePage = () => <div />
+
+export default ProfilePage
