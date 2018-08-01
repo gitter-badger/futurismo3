@@ -1,7 +1,7 @@
 import React from 'react'
 import { Helmet } from 'react-helmet'
 import Link from 'gatsby-link'
-import Layout from '../components/layout'
+import Layout from '../components/blog/layout'
 
 const RelatedPost = ({ type, slug, title, date }) => (
   <li>
