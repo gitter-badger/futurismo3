@@ -8,14 +8,14 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `img`,
+        // name: `static`,
         path: `${__dirname}/static/img/`,
       },
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `image`,
+        // name: `images`,
         path: `${__dirname}/src/images/`,
       },
     },
@@ -44,8 +44,7 @@ module.exports = {
       },
     },
 
-    /* imgage */
-    `gatsby-image`,
+    /* image */
     `gatsby-plugin-styled-components`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,

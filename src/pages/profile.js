@@ -1,17 +1,23 @@
 import React from 'react'
-// import Img from 'gatsby-image'
-// import { graphql } from 'gatsby'
+import Img from 'gatsby-image'
+import { graphql } from 'gatsby'
 
-export default () => (
+const ProjectImage = props => (
   <div>
-    <h1>Hello gatsby-image</h1>
-    {/* <Img fixed={data.file.childImageSharp.fixed} /> */}
+    <Img fluid={props.data.file.childImageSharp.fluid} />
   </div>
 )
 
-/*
 export const query = graphql`
-  query {
+  query GatsbyImageSampleQuery {
+    file(relativePath: { regex: "/bg.jpg/" }) {
+      childImageSharp {
+        fluid(maxWidth: 1240, maxHeight: 960) {
+          ...GatsbyImageSharpFluid
+        }
+      }
+    }
   }
 `
-*/
+
+export default ProjectImage
