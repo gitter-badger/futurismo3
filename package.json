@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
+    "@fullpage/react-fullpage": "^0.0.5",
     "babel-plugin-styled-components": "^1.5.1",
     "bluebird": "^3.5.1",
     "gatsby": "2.0.0-beta.59",

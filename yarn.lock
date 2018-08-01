@@ -721,6 +721,12 @@
     lodash "^4.17.5"
     to-fast-properties "^2.0.0"
 
+"@fullpage/react-fullpage@^0.0.5":
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/@fullpage/react-fullpage/-/react-fullpage-0.0.5.tgz#917fa6324956c1e43a345713910f1828420823d6"
+  dependencies:
+    fullpage.js "^3.0.1"
+
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/@mrmlnc/readdir-enhanced/-/readdir-enhanced-2.2.1.tgz#524af240d1a360527b730475ecfa1344aa540dde"
@@ -4651,6 +4657,10 @@ fsevents@^1.0.0, fsevents@^1.0.14, fsevents@^1.2.2:
   dependencies:
     nan "^2.9.2"
     node-pre-gyp "^0.10.0"
+
+fullpage.js@^3.0.1:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/fullpage.js/-/fullpage.js-3.0.2.tgz#4a38e8ac5be5ebf2d9631dc462468255adaa110e"
 
 function-bind@^1.1.0, function-bind@^1.1.1:
   version "1.1.1"
