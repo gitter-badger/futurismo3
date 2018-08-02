@@ -7,18 +7,27 @@ import About from '../components/profile/About'
 const ProfilePage = props => (
   <div>
     <Layout>
-      <Top fluid={props.data.file.childImageSharp.fluid} />
-      <About />
+      <Top fluid={props.data.background.childImageSharp.fluid} />
+      <div className="content-wrapper content">
+        <About fixed={props.data.me.childImageSharp.fixed} />
+      </div>
     </Layout>
   </div>
 )
 
 export const query = graphql`
   query TopPageQuery {
-    file(relativePath: { regex: "/bg.png/" }) {
+    background: file(relativePath: { regex: "/bg.png/" }) {
       childImageSharp {
         fluid(maxWidth: 1240) {
           ...GatsbyImageSharpFluid
+        }
+      }
+    }
+    me: file(relativePath: { regex: "/me-round.jpg/" }) {
+      childImageSharp {
+        fixed(width: 150) {
+          ...GatsbyImageSharpFixed
         }
       }
     }

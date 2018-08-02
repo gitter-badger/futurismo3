@@ -43,9 +43,11 @@ module.exports = {
         ],
       },
     },
+    /* CSS */
+    // `gatsby-plugin-purify-css`,
+    `gatsby-plugin-styled-components`,
 
     /* image */
-    `gatsby-plugin-styled-components`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
 
