@@ -1,9 +1,28 @@
-.bg {
-  position: fixed; 
-  top: 0; 
-  left: 0; 
-	
-  /* Preserve aspet ratio */
-  min-width: 100%;
-  min-height: 100%;
+.toppage {
+  position: relative;
+}
+
+.toppage p {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%,-50%);
+  -webkit-transform: translate(-50%,-50%);
+  transform: translate(-50%,-50%);
+  margin:0;
+  padding:0;
+  text-align:center;
+  color: white;
+}
+
+.toppage span {
+  line-height: 1em;
+  font-weight: bold; 
+  font-size: 3em;
+}
+
+.toppage-bg {
+  position: relative;
+  width: 100%;
+  height: auto;
 }

@@ -1,18 +1,19 @@
 import React from 'react'
-import { graphql } from 'gatsby'
 import Img from 'gatsby-image'
 
 const TopPage = ({ fluid }) => (
-  <Img
-    fluid={fluid}
-    style={{
-      position: 'absolute',
-      left: 0,
-      top: 0,
-      width: '100%',
-      height: '100%',
-    }}
-  />
+  <div className="toppage">
+    <Img className="toppage-bg" fluid={fluid} />
+    <p>
+      You're visiting:<br />
+      <span>
+        Create a future<br />
+        with <br />
+        Tsunemichi Harada<br />
+      </span>
+      A enthusiastic technology hacker
+    </p>
+  </div>
 )
 
 export default TopPage
