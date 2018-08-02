@@ -1,19 +1,25 @@
 import React from 'react'
-import Img from 'gatsby-image'
 
-const TopPage = ({ fluid }) => (
-  <div className="toppage">
-    <Img className="toppage-bg" fluid={fluid} />
-    <p>
-      You're visiting:<br />
-      <span>
+const TopPage = () => (
+  <section id="header">
+    <div className="inner">
+      <p>You're visiting:</p>
+      <h1>
         Create a future<br />
         with <br />
         Tsunemichi Harada<br />
-      </span>
-      A enthusiastic technology hacker
-    </p>
-  </div>
+      </h1>
+      <p>A enthusiastic technology hacker</p>
+
+      <ul className="actions">
+        <li>
+          <a href="#one" className="button scrolly">
+            Discover
+          </a>
+        </li>
+      </ul>
+    </div>
+  </section>
 )
 
 export default TopPage

@@ -3,14 +3,14 @@ import { graphql } from 'gatsby'
 import Layout from '../components/profile/layout'
 import Top from '../components/profile/Top'
 import About from '../components/profile/About'
+import Works from '../components/profile/Works'
 
 const ProfilePage = props => (
   <div>
     <Layout>
       <Top fluid={props.data.background.childImageSharp.fluid} />
-      <div className="content-wrapper content">
-        <About fixed={props.data.me.childImageSharp.fixed} />
-      </div>
+      <About fixed={props.data.me.childImageSharp.fixed} />
+      <Works fluid={props.data.works.childImageSharp.fluid} />
     </Layout>
   </div>
 )
@@ -31,11 +31,17 @@ export const query = graphql`
         }
       }
     }
+    works: file(relativePath: { regex: "/pic03.jpg/" }) {
+      childImageSharp {
+        fluid(maxWidth: 450) {
+          ...GatsbyImageSharpFluid
+        }
+      }
+    }
   }
 `
 
 /*
-import Works from '../components/profile/Works'
 import Skills from '../components/profile/Skills'
 import Projects from '../components/profile/Projects'
 import Contact from '../components/profile/Contact'
@@ -44,7 +50,6 @@ import ProfilePage from './profile';
 const ProfilePage = () => (
   <div>
     <Layout>
-      <Works />
       <Skills />
       <Projects />
       <Contact />

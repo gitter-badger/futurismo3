@@ -1,18 +1,33 @@
 import React from 'react'
+import Link from 'gatsby-link'
 import Img from 'gatsby-image'
 
 const AboutPage = ({ fixed }) => (
-  <div className="about">
-    <h3 className="topic">About Me</h3>
-    <div className="pure-g">
-      <Img
-        classname="about-me pure-u-sm-1 pure-u-md-1-3"
-        fixed={fixed}
-        alt="me"
-      />
-      <p className="pure-u-3-5 pure-u-sm-1 pure-u-md-2-3">test test test</p>
+  <section id="one" className="main style1">
+    <div className="grid-wrapper">
+      <div className="col-12">
+        <span className="image fit">
+          <Img fixed={fixed} alt="me" />
+        </span>
+      </div>
+      <div className="col-12">
+        <header className="major">
+          <h2>こんにちは、原田 経道です。</h2>
+        </header>
+        <p>
+          はじめまして、原田経道(はらだつねみち)と申します。<br />
+          フリーランスのWebエンジニアをしています。
+        </p>
+        <ul className="actions">
+          <li>
+            <Link to="#" className="button">
+              More
+            </Link>
+          </li>
+        </ul>
+      </div>
     </div>
-  </div>
+  </section>
 )
 
 export default AboutPage

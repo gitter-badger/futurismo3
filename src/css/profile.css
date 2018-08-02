@@ -28,3 +28,29 @@
   width: 100%;
   height: auto;
 }
+
+.topic {
+  text-align: center
+}
+
+.about-box {
+  float: left;
+  width: 100%;
+  text-align:left;
+  margin:0px auto;
+}
+
+.about-box img {
+  width: 40%;
+  float: left;
+}
+
+.about-box p {
+  margin: 10px;
+  padding: 10px;
+}
+
+.about-right {
+  width: 60%;
+  float: left;
+} 
