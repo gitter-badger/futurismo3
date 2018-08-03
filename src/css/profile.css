@@ -53,3 +53,6 @@
   background: rgba(0, 0, 0, 0.3);
 }
 
+#contact strong {
+  color: #fff !important;
+}
