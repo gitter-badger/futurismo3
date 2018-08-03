@@ -1,90 +1,54 @@
-/* primary navigation
---------------------------------------------------------------------- */
-#nav-wrap ul,
-#nav-wrap li,
-#nav-wrap a {
-  margin: 0;
-  padding: 0;
-  border: none;
-  outline: none;
-}
-
-/* nav-wrap */
-#nav-wrap {
-  font: 12px "opensans-bold", sans-serif;
-  width: 100%;
-  text-transform: uppercase;
-  letter-spacing: 2.5px;
-  margin: 0 auto;
-  z-index: 100;
+/* Position and sizing of burger button */
+.bm-burger-button {
   position: fixed;
-  left: 0;
-  top: 0;
-}
-.opaque {
-  background-color: #333;
-}
-
-/* hide toggle button */
-#nav-wrap > a.mobile-btn {
-  display: none;
+  width: 36px;
+  height: 30px;
+  left: 36px;
+  top: 36px;
 }
 
-ul#nav {
-  padding: 0;
-}
-li#nav {
-  display: inline;
-  font-size: 13px;
-  list-style-type: none;
-  margin-left: 30px;
-}
-a#nav {
-  text-decoration: none;
-  text-transform: uppercase;
-  font-size: 20px;
-  color: MediumPurple;
-  &:hover {
-    color: white;
-  }
-}
-@media (max-width: 500px) {
-  padding: 10px 0;
-  li#nav {
-    padding: 10px 0;
-    display: block;
-    margin-left: 0;
-  }
+/* Color/shape of burger icon bars */
+.bm-burger-bars {
+  background: #373a47;
 }
 
-
-/* 
-ul#nav {
-  min-height: 48px;
-  width: auto;
-
-  text-align: center;
+/* Position and sizing of clickable cross button */
+.bm-cross-button {
+  height: 24px;
+  width: 24px;
 }
-ul#nav li {
-  position: relative;
-  list-style: none;
-  height: 48px;
+
+/* Color/shape of close button cross */
+.bm-cross {
+  background: #bdc3c7;
+}
+
+/* General sidebar styles */
+.bm-menu {
+  /* background: #373a47; */
+  background: #6ec0bc;
+  padding: 2.5em 1.5em 0;
+  font-size: 1.15em;
+}
+
+/* Morph shape necessary with bubble or elastic */
+.bm-morph-shape {
+  fill: #373a47;
+}
+
+/* Wrapper for item list */
+.bm-item-list {
+  /* color: #b8b7ad; */
+  color: #373a47;
+  padding: 0.8em;
+}
+
+/* Individual item */
+.bm-item {
   display: inline-block;
 }
 
-ul#nav li a {
-
-  display: inline-block;
-  padding: 8px 13px;
-  line-height: 32px;
-  text-decoration: none;
-  text-align: left;
-  color: #333;
-
-  -webkit-transition: color 0.2s ease-in-out;
-  -moz-transition: color 0.2s ease-in-out;
-  -o-transition: color 0.2s ease-in-out;
-  -ms-transition: color 0.2s ease-in-out;
-  transition: color 0.2s ease-in-out;
+/* Styling of overlay */
+.bm-overlay {
+  background: rgba(0, 0, 0, 0.3);
 }
-*/
