@@ -14,7 +14,9 @@ exports.createPages = ({ graphql, actions }) => {
           {
             posts: allMarkdownRemark(
               sort: { fields: [frontmatter___date], order: DESC }
-              filter: { frontmatter: { type: { ne: "page" } } }
+              filter: {
+                frontmatter: { type: { ne: "page" }, type: { ne: "profile" } }
+              }
             ) {
               edges {
                 node {
@@ -49,6 +51,23 @@ exports.createPages = ({ graphql, actions }) => {
                 }
               }
             }
+            profiles: allMarkdownRemark(
+              filter: {
+                frontmatter: { draft: { ne: true }, type: { eq: "profile" } }
+              }
+            ) {
+              edges {
+                node {
+                  fields {
+                    slug
+                  }
+                  frontmatter {
+                    title
+                  }
+                  html
+                }
+              }
+            }
           }
         `
       ).then(result => {
@@ -59,6 +78,7 @@ exports.createPages = ({ graphql, actions }) => {
 
         const posts = result.data.posts.edges
         const pages = result.data.pages.edges
+        const profiles = result.data.profiles.edges
 
         _.each(pages, page => {
           createPage({
@@ -66,6 +86,16 @@ exports.createPages = ({ graphql, actions }) => {
             component: path.resolve('src/templates/page.js'),
             context: {
               slug: page.node.fields.slug,
+            },
+          })
+        })
+
+        _.each(profiles, profile => {
+          createPage({
+            path: profile.node.fields.slug,
+            component: path.resolve('src/templates/profile.js'),
+            context: {
+              profile,
             },
           })
         })
