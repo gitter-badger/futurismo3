@@ -64,7 +64,6 @@ module.exports = {
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-feed`,
     `gatsby-plugin-sitemap`,
-    `gatsby-plugin-remove-trailing-slashes`,
     'gatsby-plugin-robots-txt',
 
     /* Netlify */
