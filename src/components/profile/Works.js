@@ -3,7 +3,7 @@ import Link from 'gatsby-link'
 import Img from 'gatsby-image'
 
 const WorksPage = ({ fluid }) => (
-  <section id="two" className="main style1">
+  <section id="works" className="main style1">
     <div className="grid-wrapper">
       <div className="col-6">
         <header className="major">

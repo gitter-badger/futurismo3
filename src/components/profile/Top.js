@@ -13,7 +13,7 @@ const TopPage = () => (
 
       <ul className="actions">
         <li>
-          <a href="#one" className="button scrolly">
+          <a href="#about" className="button scrolly">
             Discover
           </a>
         </li>

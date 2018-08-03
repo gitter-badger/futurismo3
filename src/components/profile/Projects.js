@@ -3,7 +3,7 @@ import Link from 'gatsby-link'
 import Img from 'gatsby-image'
 
 const ProjectsPage = ({ fluid }) => (
-  <section id="five" className="main style1">
+  <section id="projects" className="main style1">
     <div className="grid-wrapper">
       <div className="col-6">
         <header className="major">
@@ -17,6 +17,11 @@ const ProjectsPage = ({ fluid }) => (
           <li>
             <Link to="#" className="button">
               More
+            </Link>
+          </li>
+          <li>
+            <Link to="/" className="button">
+              Blog
             </Link>
           </li>
         </ul>

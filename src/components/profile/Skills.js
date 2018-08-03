@@ -3,7 +3,7 @@ import SkillList from './SkillList'
 import MoreButton from './MoreButton'
 
 const SkillsPage = ({ fixed }) => (
-  <section id="three" className="main style1 special">
+  <section id="skills" className="main style1 special">
     <div className="grid-wrapper">
       <div className="col-12">
         <header className="major">

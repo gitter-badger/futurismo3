@@ -1,8 +1,8 @@
 import React from 'react'
 import '../../css/main.scss'
+import '../../css/profile.css'
 
-import Header from './Header'
-import Footer from './Footer'
+import Navigation from './Navigation'
 
 class Template extends React.Component {
   constructor(props) {
@@ -29,21 +29,11 @@ class Template extends React.Component {
 
     return (
       <div className={`body ${this.state.loading}`}>
-        {/* <Header /> */}
+        <Navigation />
         {children}
-        {/* <Footer /> */}
       </div>
     )
   }
 }
 
 export default Template
-
-/*
-import React from 'react'
-import '../../css/profile.css'
-
-export default ({ children }) => (
-  <div className="profile-wrapper">{children}</div>
-)
-*/

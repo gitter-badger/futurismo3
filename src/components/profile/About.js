@@ -3,7 +3,7 @@ import Img from 'gatsby-image'
 import MoreButton from './MoreButton'
 
 const AboutPage = ({ fixed }) => (
-  <section id="one" className="main style1">
+  <section id="about" className="main style1">
     <div className="grid-wrapper">
       <div className="col-12">
         <span className="image fit">

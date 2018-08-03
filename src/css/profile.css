@@ -1,56 +1,90 @@
-@import '../../node_modules/purecss/build/pure.css';
-
-.toppage {
-  position: relative;
+/* primary navigation
+--------------------------------------------------------------------- */
+#nav-wrap ul,
+#nav-wrap li,
+#nav-wrap a {
+  margin: 0;
+  padding: 0;
+  border: none;
+  outline: none;
 }
 
-.toppage p {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -ms-transform: translate(-50%,-50%);
-  -webkit-transform: translate(-50%,-50%);
-  transform: translate(-50%,-50%);
-  margin:0;
-  padding:0;
-  text-align:center;
-  color: white;
-}
-
-.toppage span {
-  line-height: 1em;
-  font-weight: bold; 
-  font-size: 3em;
-}
-
-.toppage-bg {
-  position: relative;
+/* nav-wrap */
+#nav-wrap {
+  font: 12px "opensans-bold", sans-serif;
   width: 100%;
-  height: auto;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  margin: 0 auto;
+  z-index: 100;
+  position: fixed;
+  left: 0;
+  top: 0;
+}
+.opaque {
+  background-color: #333;
 }
 
-.topic {
-  text-align: center
+/* hide toggle button */
+#nav-wrap > a.mobile-btn {
+  display: none;
 }
 
-.about-box {
-  float: left;
-  width: 100%;
-  text-align:left;
-  margin:0px auto;
+ul#nav {
+  padding: 0;
+}
+li#nav {
+  display: inline;
+  font-size: 13px;
+  list-style-type: none;
+  margin-left: 30px;
+}
+a#nav {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 20px;
+  color: MediumPurple;
+  &:hover {
+    color: white;
+  }
+}
+@media (max-width: 500px) {
+  padding: 10px 0;
+  li#nav {
+    padding: 10px 0;
+    display: block;
+    margin-left: 0;
+  }
 }
 
-.about-box img {
-  width: 40%;
-  float: left;
+
+/* 
+ul#nav {
+  min-height: 48px;
+  width: auto;
+
+  text-align: center;
+}
+ul#nav li {
+  position: relative;
+  list-style: none;
+  height: 48px;
+  display: inline-block;
 }
 
-.about-box p {
-  margin: 10px;
-  padding: 10px;
-}
+ul#nav li a {
 
-.about-right {
-  width: 60%;
-  float: left;
-} 
+  display: inline-block;
+  padding: 8px 13px;
+  line-height: 32px;
+  text-decoration: none;
+  text-align: left;
+  color: #333;
+
+  -webkit-transition: color 0.2s ease-in-out;
+  -moz-transition: color 0.2s ease-in-out;
+  -o-transition: color 0.2s ease-in-out;
+  -ms-transition: color 0.2s ease-in-out;
+  transition: color 0.2s ease-in-out;
+}
+*/
