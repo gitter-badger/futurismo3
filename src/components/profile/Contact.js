@@ -11,8 +11,8 @@ const ContactPage = () => (
         お仕事の依頼、ポートフォリオサイトやブログの感想、挨拶するだけでも、なんでもお待ちしています。
       </p>
       <p>
-        Send mail to mail (
-        <strong>
+        Send email to address (
+        <strong className="contact-content">
           <a href="mailto:tsunemichi.harada@gmail.com">
             tsunemichi.harada@gmail.com
           </a>)
@@ -20,7 +20,7 @@ const ContactPage = () => (
         <br />
         or <br />
         Send DM to twitter (
-        <strong>
+        <strong className="contact-content">
           <a
             href="https://twitter.com/tsu_nera"
             target="_blank"
