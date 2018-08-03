@@ -1,6 +1,6 @@
 import React from 'react'
-import Link from 'gatsby-link'
 import SkillList from './SkillList'
+import MoreButton from './MoreButton'
 
 const SkillsPage = ({ fixed }) => (
   <section id="three" className="main style1 special">
@@ -32,13 +32,7 @@ const SkillsPage = ({ fixed }) => (
         description="MOOCやデータサイエンスのコンペを利用してデータ解析の技術を磨いてきました。"
       />
       <div className="col-12">
-        <ul className="actions">
-          <li>
-            <Link to="#" className="button">
-              More
-            </Link>
-          </li>
-        </ul>
+        <MoreButton url="#" />
       </div>
     </div>
   </section>
