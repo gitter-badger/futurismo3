@@ -10,13 +10,26 @@ const ContactPage = () => (
         もし私に興味がありましたら、下記から連絡をお願いします。<br />
         お仕事の依頼、ポートフォリオサイトやブログの感想、挨拶するだけでも、なんでもお待ちしています。
       </p>
-      <ul className="actions uniform">
-        <li>
-          <a href="/profile/contact" className="button">
-            Contact
+      <p>
+        Send mail to mail (
+        <strong>
+          <a href="mailto:tsunemichi.harada@gmail.com">
+            tsunemichi.harada@gmail.com
+          </a>)
+        </strong>
+        <br />
+        or <br />
+        Send DM to twitter (
+        <strong>
+          <a
+            href="https://twitter.com/tsu_nera"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            @tsu_nera
           </a>
-        </li>
-      </ul>
+        </strong>)
+      </p>
     </div>
   </section>
 )

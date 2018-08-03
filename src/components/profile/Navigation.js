@@ -22,7 +22,7 @@ const Navigation = () => (
     <Link className="menu-item" to="/">
       Blog
     </Link>
-    <Link className="menu-item" to="/profile/contact">
+    <Link className="menu-item" to="/profile/#contact">
       Contact
     </Link>
   </Menu>
