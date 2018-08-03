@@ -9,7 +9,7 @@ const SkillsPage = ({ fixed }) => (
         <header className="major">
           <h2>Skills</h2>
         </header>
-        <p>低レイヤからフロントエンドまでこなすオールアラウンダー</p>
+        <p>低レイヤから高レイヤまで、なんでもこなします。</p>
       </div>
       <SkillList
         img={fixed}

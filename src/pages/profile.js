@@ -5,6 +5,8 @@ import Top from '../components/profile/Top'
 import About from '../components/profile/About'
 import Works from '../components/profile/Works'
 import Skills from '../components/profile/Skills'
+import Projects from '../components/profile/Projects'
+import Contact from '../components/profile/Contact'
 
 const ProfilePage = props => (
   <div>
@@ -13,6 +15,8 @@ const ProfilePage = props => (
       <About fixed={props.data.me.childImageSharp.fixed} />
       <Works fluid={props.data.works.childImageSharp.fluid} />
       <Skills fixed={props.data.skills.childImageSharp.fixed} />
+      <Projects fluid={props.data.works.childImageSharp.fluid} />
+      <Contact />
     </Layout>
   </div>
 )
@@ -42,7 +46,7 @@ export const query = graphql`
     }
     skills: file(relativePath: { regex: "/pic05.jpg/" }) {
       childImageSharp {
-        fixed(width: 250) {
+        fixed(width: 126) {
           ...GatsbyImageSharpFixed
         }
       }
