@@ -32,7 +32,7 @@ const SkillsPage = ({ fixed }) => (
         description="MOOCやデータサイエンスのコンペを利用してデータ解析の技術を磨いてきました。"
       />
       <div className="col-12">
-        <MoreButton url="#" />
+        <MoreButton url="/profile/skills" />
       </div>
     </div>
   </section>

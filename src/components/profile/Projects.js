@@ -15,7 +15,7 @@ const ProjectsPage = ({ fluid }) => (
         </p>
         <ul className="actions">
           <li>
-            <Link to="#" className="button">
+            <Link to="/profile/projects" className="button">
               More
             </Link>
           </li>

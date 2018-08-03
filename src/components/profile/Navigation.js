@@ -1,29 +1,30 @@
 import React from 'react'
+import Link from 'gatsby-link'
 import { push as Menu } from 'react-burger-menu'
 
 const Navigation = () => (
   <Menu>
-    <a className="menu-item" href="#top">
+    <Link className="menu-item" to="/profile">
       Top
-    </a>
-    <a className="menu-item" href="#about">
+    </Link>
+    <Link className="menu-item" to="/profile/about">
       About
-    </a>
-    <a className="menu-item" href="#works">
+    </Link>
+    <Link className="menu-item" to="/profile/works">
       Works
-    </a>
-    <a className="menu-item" href="#skills">
+    </Link>
+    <Link className="menu-item" to="/profile/skills">
       Skills
-    </a>
-    <a className="menu-item" href="#projects">
+    </Link>
+    <Link className="menu-item" to="/profile/projects">
       Projects
-    </a>
-    <a className="menu-item" href="/">
+    </Link>
+    <Link className="menu-item" to="/">
       Blog
-    </a>
-    <a className="menu-item" href="#contact">
+    </Link>
+    <Link className="menu-item" to="/profile/contact">
       Contact
-    </a>
+    </Link>
   </Menu>
 )
 

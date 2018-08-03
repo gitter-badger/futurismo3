@@ -12,7 +12,7 @@ const ContactPage = () => (
       </p>
       <ul className="actions uniform">
         <li>
-          <a href="#" className="button">
+          <a href="/profile/contact" className="button">
             Contact
           </a>
         </li>

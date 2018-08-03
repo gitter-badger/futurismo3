@@ -18,7 +18,7 @@ const AboutPage = ({ fixed }) => (
           はじめまして、原田経道(はらだつねみち)と申します。<br />
           フリーランスのWebエンジニアをしています。
         </p>
-        <MoreButton url="#" />
+        <MoreButton url="/profile/about" />
       </div>
     </div>
   </section>

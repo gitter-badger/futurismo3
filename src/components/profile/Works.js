@@ -19,7 +19,7 @@ const WorksPage = ({ fluid }) => (
         </p>
         <ul className="actions">
           <li>
-            <Link to="#" className="button">
+            <Link to="/profile/works" className="button">
               More
             </Link>
           </li>
