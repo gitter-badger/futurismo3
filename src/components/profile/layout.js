@@ -31,6 +31,7 @@ class Template extends React.Component {
       <div className={`body ${this.state.loading}`}>
         <Navigation />
         {children}
+        <script src="https://embed.small.chat/T0GSX24ADGC2JS0Y2W.js" async />
       </div>
     )
   }
