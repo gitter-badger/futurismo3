@@ -19,7 +19,7 @@ const ProfilePage = props => (
       <Top fluid={props.data.background.childImageSharp.fluid} />
       <About fixed={props.data.me.childImageSharp.fixed} />
       <Works fluid={props.data.works.childImageSharp.fluid} />
-      <Skills fixed={props.data.skills.childImageSharp.fixed} />
+      <Skills />
       <Projects fluid={props.data.projects.childImageSharp.fluid} />
       <Contact />
     </Layout>
@@ -46,13 +46,6 @@ export const query = graphql`
       childImageSharp {
         fluid(maxWidth: 450) {
           ...GatsbyImageSharpFluid
-        }
-      }
-    }
-    skills: file(relativePath: { regex: "/pic05.jpg/" }) {
-      childImageSharp {
-        fixed(width: 126) {
-          ...GatsbyImageSharpFixed
         }
       }
     }

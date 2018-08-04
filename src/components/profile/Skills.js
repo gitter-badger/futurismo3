@@ -1,8 +1,9 @@
 import React from 'react'
+import { FaJs, FaDatabase, FaRobot, FaChartBar } from 'react-icons/fa'
 import SkillList from './SkillList'
 import MoreButton from './MoreButton'
 
-const SkillsPage = ({ fixed }) => (
+const SkillsPage = () => (
   <section id="skills" className="main style1 special">
     <div className="grid-wrapper">
       <div className="col-12">
@@ -12,22 +13,22 @@ const SkillsPage = ({ fixed }) => (
         <p>低レイヤから高レイヤまで、なんでもこなします。</p>
       </div>
       <SkillList
-        img={fixed}
+        img={<FaDatabase size={100} />}
         title="Webバックエンド"
         description="仕事としてJavaによるバックエンド開発の経験があります。RailsのWebサービスも構築できます。"
       />
       <SkillList
-        img={fixed}
+        img={<FaJs size={100} />}
         title="Webフロントエンド"
         description="このポートフォリオサイトをReactを利用して作成しました。"
       />
       <SkillList
-        img={fixed}
+        img={<FaRobot size={100} />}
         title="IoT・組込み"
         description="新卒で組込み専門会社に入社し、エンジニアとしてのキャリアを積んできました。"
       />
       <SkillList
-        img={fixed}
+        img={<FaChartBar size={100} />}
         title="AI・データサイエンス"
         description="MOOCやデータサイエンスのコンペを利用してデータ解析の技術を磨いてきました。"
       />
