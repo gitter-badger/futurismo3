@@ -1,6 +1,7 @@
 ---
 title: 職務経歴
 type: profile
+name: works
 thumbnail: "../../images/works-thumb.jpg"
 ---
 大学では数学と Computer Science を学びました。

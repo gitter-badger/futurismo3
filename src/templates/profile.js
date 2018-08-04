@@ -1,5 +1,6 @@
 import React from 'react'
 import Img from 'gatsby-image'
+import Link from 'gatsby-link'
 import { Helmet } from 'react-helmet'
 import Layout from '../components/profile/layout'
 
@@ -19,6 +20,16 @@ export default ({ pageContext }) => {
               <h1>{profile.node.frontmatter.title}</h1>
               <div dangerouslySetInnerHTML={{ __html: profile.node.html }} />
             </div>
+            <ul className="actions">
+              <li>
+                <Link
+                  to={`/profile/#${profile.node.frontmatter.name}`}
+                  className="button"
+                >
+                  Back
+                </Link>
+              </li>
+            </ul>
           </div>
         </div>
       </Layout>

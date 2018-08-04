@@ -63,6 +63,7 @@ exports.createPages = ({ graphql, actions }) => {
                   }
                   frontmatter {
                     title
+                    name
                     thumbnail {
                       childImageSharp {
                         fluid(maxWidth: 630) {

@@ -1,6 +1,7 @@
 ---
 title: 自己紹介
 type: profile
+name: about
 thumbnail: "../../images/about-thumb.jpg"
 ---
 
