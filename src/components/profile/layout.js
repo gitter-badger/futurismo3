@@ -1,9 +1,10 @@
 import React from 'react'
-import '../../css/main.scss'
-import '../../css/profile.css'
 
 import Navigation from './Navigation'
 import Footer from './Footer'
+
+import '../../css/profile/main.scss'
+import '../../css/profile/profile.css'
 
 class Template extends React.Component {
   constructor(props) {

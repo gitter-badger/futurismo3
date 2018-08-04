@@ -36,12 +36,12 @@
 }
 @media (min-width: 48em) {
   html {
-    font-size: 16px;
+    font-size: 16px !important;
   }
 }
 @media (min-width: 58em) {
   html {
-    font-size: 20px;
+    font-size: 20px !important;
   }
 }
 
@@ -122,22 +122,22 @@ a.sidebar-nav-item:focus {
  */
 
 .content {
-  padding-top:    4rem;
-  padding-bottom: 4rem;
+  padding-top:    4rem !important;
+  padding-bottom: 4rem !important;
 }
 
 @media (min-width: 48em) {
   .content {
-    max-width: 38rem;
-    margin-left: 20rem;
-    margin-right: 2rem;
+    max-width: 38rem !important;
+    margin-left: 20rem !important;
+    margin-right: 2rem !important;
   }
 }
 
 @media (min-width: 64em) {
   .content {
-    margin-left: 22rem;
-    margin-right: 4rem;
+    margin-left: 22rem !important;
+    margin-right: 4rem !important;
   }
 }
 
