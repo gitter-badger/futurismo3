@@ -9,7 +9,11 @@ export default ({ pageContext }) => {
 
   return (
     <div>
-      <Helmet title={`${profile.node.frontmatter.title}`} />
+      <Helmet
+        title={`${
+          profile.node.frontmatter.title
+        }| 原田経道のポートフォリオサイト`}
+      />
       <Layout>
         <div className="grid-wrapper profile">
           <div className="col-12">
