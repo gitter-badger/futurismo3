@@ -3,6 +3,7 @@ import '../../css/main.scss'
 import '../../css/profile.css'
 
 import Navigation from './Navigation'
+import Footer from './Footer'
 
 class Template extends React.Component {
   constructor(props) {
@@ -32,6 +33,7 @@ class Template extends React.Component {
         <Navigation />
         {children}
         <script src="https://embed.small.chat/T0GSX24ADGC2JS0Y2W.js" async />
+        <Footer />
       </div>
     )
   }
