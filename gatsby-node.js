@@ -63,6 +63,17 @@ exports.createPages = ({ graphql, actions }) => {
                   }
                   frontmatter {
                     title
+                    thumbnail {
+                      childImageSharp {
+                        fluid(maxWidth: 630) {
+                          base64
+                          aspectRatio
+                          src
+                          srcSet
+                          sizes
+                        }
+                      }
+                    }
                   }
                   html
                 }

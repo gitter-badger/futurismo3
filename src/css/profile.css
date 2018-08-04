@@ -53,10 +53,23 @@
   background: rgba(0, 0, 0, 0.3);
 }
 
-.contact-content {
-  color: #fff !important;
-}
+
+.contact-content a:link { color: #fff; }
+.contact-content a:visited { color: #fff; }
+.contact-content a:hover { color: #fff; }
+.contact-content a:active { color: #fff; }
 
 .profile {
   text-align: left;
+  padding-bottom: 2rem;
+}
+
+.profile Img {
+  padding-bottom: 1rem;
+}
+
+@media screen and (max-width: 768px) {
+  .profile-content {
+      padding: 10px;
+  }
 }
