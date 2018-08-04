@@ -40,7 +40,7 @@ export default ({ title, description }) => (
       <nav className="sidebar-nav">
         <ListLink to="/">Home</ListLink>
         <ListLink to="/about">About</ListLink>
-        <ListLink to="/">Profile</ListLink>
+        <ListLink to="/profile">Profile</ListLink>
         <ListLinkNoOpener to="https://twitter.com/tsu_nera">
           Twitter
         </ListLinkNoOpener>

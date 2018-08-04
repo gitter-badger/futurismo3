@@ -51,7 +51,7 @@ export const query = graphql`
         }
       }
     }
-    projects: file(relativePath: { regex: "/pic03.jpg/" }) {
+    projects: file(relativePath: { regex: "/projects-thumb.jpg/" }) {
       childImageSharp {
         fluid(maxWidth: 450) {
           ...GatsbyImageSharpFluid
