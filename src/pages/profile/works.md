@@ -1,5 +1,5 @@
 ---
-title: 職務経歴 - 原田 経道
+title: 職務経歴
 type: profile
 thumbnail: "../../images/works-thumb.jpg"
 ---
@@ -15,7 +15,7 @@ thumbnail: "../../images/works-thumb.jpg"
 - 2018.07 - 現在: フリーランス
 
 ```text
-  次世代ストレージシステム ミドルウェア開発 201708-現在
+  次世代ストレージシステム ミドルウェア開発 201708-201806
   [概要] ソフトウェアアップデート、エラーリカバリ機能開発
   [担当] 詳細設計、プログラミング、評価
   [環境] Java8, 社内Webフレームワーク, git, GitLab, CentOS
@@ -53,7 +53,7 @@ thumbnail: "../../images/works-thumb.jpg"
 - UMTP L1/L2
 - LPIC L1
 - Java SE8 Silver(2018.09)
-- JDLA G 検定(2018.12)
+- 日本ディープラーニング協会(JDLA)ジェネラリスト検定(G検定)(2018.12)
 
 ## 学歴
 
