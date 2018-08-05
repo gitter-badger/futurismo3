@@ -84,7 +84,7 @@ module.exports = {
     /* Netlify */
     `gatsby-plugin-netlify-cache`,
     `gatsby-plugin-netlify`,
-    // `gatsby-plugin-netlify-cms`,
+    `gatsby-plugin-netlify-cms`,
 
     /* PWA */
     {
