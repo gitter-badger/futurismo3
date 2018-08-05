@@ -45,6 +45,7 @@
     "react-icons": "^3.0.0-beta.5",
     "styled-components": "^3.3.3",
     "textlint": "^11.0.0",
+    "textlint-rule-no-mix-dearu-desumasu": "^3.0.3",
     "textlint-rule-preset-ja-spacing": "^2.0.1",
     "textlint-rule-preset-ja-technical-writing": "^3.0.1",
     "textlint-rule-preset-japanese": "^4.0.0",

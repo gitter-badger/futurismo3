@@ -1,12 +1,15 @@
 ---
-title: 日本語の文章校正ツール textlintをつかってみた
+title: 作文界のゲームチェンジャー！ 日本語の文章校正ツールのtextlintを試した
 date: 2018-08-06 03:23:40
 description: 日本語の文章校正ツールであるtextlintをつかってみた
 draft: true
 ---
+感動しました！
+
+文章作成のゲームチェンジャーになる可能性があるツール、textlintについて紹介します。
 
 ## textlint とは
-簡単に、textlintの概要を説明しよう。
+簡単に、textlintの概要を説明をする。
 
 textlintとは、日本語の文章の文法チェックツール、文章校正をプログラムで調べるツール。
 
@@ -31,7 +34,7 @@ yarn add textlint
 yarn add textlint-rule-no-todo
 ```
 
-次のような ToDo が文章中に存在しないかをチェックする。
+次のようなToDoが文章中に存在しないかをチェックする。
 
 ```
 - [ ] test test
@@ -59,11 +62,11 @@ $./node_modules/textlint/bin/textlint.js --rule no-todo user-textlint-for-markdo
 ```
 
 ## プリセットとオススメプラグイン
-プラグインの使い方がわかったところで、ガンガンとプラグインをいれていくことにしよう。
+プラグインの使い方がわかったところで、次々とプラグインをいれていくことにしよう。
 Presetというのが用意されている、いわばプラグインを寄せ集めた欲張りセット。
 
 ### 入門用
-入門向け日本語のプリセット:
+入門向け日本語のプリセット。
 
 -  https://github.com/textlint-ja/textlint-rule-preset-japanese
 
@@ -119,7 +122,7 @@ Visual Studio Codeを利用して文章を書いているので、それとの�
 
 - [vscode\-textlint \- Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=taichi.vscode-textlint)
 
-あとは、vscodeを開くだけだ。 赤線をクリックすると、auto complete（自動修正もしてくれる！これはスゴい）
+あとは、vscodeを開くだけだ。 赤線をクリックすると、auto complete（自動修正もしてくれるこれはスゴい）
 
 ## 終わりに
 私はかつて、技術文書がかけないので、テクニカルライティング検定というものを受けた（そして不合格）
