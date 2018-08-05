@@ -16,7 +16,6 @@
     "gatsby-plugin-manifest": "^2.0.2-beta.3",
     "gatsby-plugin-netlify": "^2.0.0-beta.4",
     "gatsby-plugin-netlify-cache": "^0.1.0",
-    "gatsby-plugin-netlify-cms": "^3.0.0-beta.3",
     "gatsby-plugin-offline": "^2.0.0-beta.5",
     "gatsby-plugin-purify-css": "^2.2.1",
     "gatsby-plugin-react-helmet": "next",
@@ -35,8 +34,8 @@
     "gatsby-transformer-sharp": "^2.1.1-beta.6",
     "lodash": "^4.17.10",
     "moment": "^2.22.2",
-    "netlify-cms": "^2.0.8",
     "node-sass": "^4.8.3",
+    "prh": "^5.4.3",
     "prismjs": "^1.15.0",
     "purecss": "^1.0.0",
     "react": "^16.4.1",
@@ -44,7 +43,14 @@
     "react-dom": "^16.4.1",
     "react-helmet": "^5.2.0",
     "react-icons": "^3.0.0-beta.5",
-    "styled-components": "^3.3.3"
+    "styled-components": "^3.3.3",
+    "textlint": "^11.0.0",
+    "textlint-rule-no-mix-dearu-desumasu": "^3.0.3",
+    "textlint-rule-preset-ja-spacing": "^2.0.1",
+    "textlint-rule-preset-ja-technical-writing": "^3.0.1",
+    "textlint-rule-preset-japanese": "^4.0.0",
+    "textlint-rule-preset-jtf-style": "^2.3.1",
+    "textlint-rule-prh": "^5.2.0"
   },
   "keywords": [
     "gatsby"
