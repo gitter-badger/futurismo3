@@ -2,7 +2,7 @@ import React from 'react'
 
 const ContactPage = () => (
   <section id="contact" className="main style2 special">
-    <div className="container">
+    <div className="col-12">
       <header className="major">
         <h2>楽しんでいただけましたか?</h2>
       </header>
